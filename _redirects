@@ -1,0 +1,11 @@
+# Cloudflare Pages 配置
+# 构建命令为空（纯静态 + Functions）
+
+[build]
+  command = ""
+  publish = "."
+
+[[redirects]]
+  from = "/api/*"
+  to = "/functions/api/:splat"
+  status = 200

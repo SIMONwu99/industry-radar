@@ -1,0 +1,123 @@
+name: 行业资讯雷达 - 自动数据更新
+
+on:
+  # 每天北京时间 10:00 / 14:00 / 20:00 触发
+  # UTC: 02:00 / 06:00 / 12:00
+  schedule:
+    - cron: '0 2 * * *'   # 北京时间 10:00
+    - cron: '0 6 * * *'   # 北京时间 14:00
+    - cron: '0 12 * * *'  # 北京时间 20:00
+
+  # 允许手动触发（网页按钮走 workflow_dispatch via API）
+  workflow_dispatch:
+    inputs:
+      force:
+        description: '强制更新（忽略开关状态）'
+        required: false
+        default: 'false'
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      # 1. 检出代码
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          fetch-depth: 1
+
+      # 2. 检查自动更新开关
+      - name: Check auto-update switch
+        id: check-switch
+        run: |
+          FORCE="${{ github.event.inputs.force }}"
+          if [ "$FORCE" = "true" ]; then
+            echo "enabled=true" >> $GITHUB_OUTPUT
+            echo "✅ 强制更新模式"
+            exit 0
+          fi
+
+          CONFIG_FILE="data-snapshot/auto-update-config.json"
+          if [ -f "$CONFIG_FILE" ]; then
+            ENABLED=$(node -e "const c=require('./$CONFIG_FILE'); console.log(c.enabled ? 'true' : 'false')" 2>/dev/null || echo "true")
+          else
+            ENABLED="true"
+          fi
+
+          echo "enabled=$ENABLED" >> $GITHUB_OUTPUT
+          if [ "$ENABLED" = "true" ]; then
+            echo "✅ 自动更新已开启，继续执行"
+          else
+            echo "⏸ 自动更新已关闭，跳过本次执行"
+          fi
+
+      # 3. 设置 Node.js
+      - name: Setup Node.js
+        if: steps.check-switch.outputs.enabled == 'true'
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      # 4. 安装依赖
+      - name: Install dependencies
+        if: steps.check-switch.outputs.enabled == 'true'
+        run: |
+          cd scripts
+          npm install --no-audit --no-fund 2>/dev/null || true
+          # xml2js 是必须的依赖
+          npm install xml2js
+
+      # 5. 拉取数据
+      - name: Fetch articles from WeWe RSS
+        if: steps.check-switch.outputs.enabled == 'true'
+        env:
+          WEWE_RSS_BASE: ${{ secrets.WEWE_RSS_BASE }}
+          MAX_ARTICLES: '100'
+        run: |
+          echo "📥 开始拉取公众号文章..."
+          node scripts/fetch-data.js
+          echo "✅ 文章拉取完成"
+
+      # 6. 生成 AI 摘要
+      - name: Generate AI summaries
+        if: steps.check-switch.outputs.enabled == 'true'
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          DEEPSEEK_MODEL: 'deepseek-chat'
+        run: |
+          echo "🤖 开始生成 AI 摘要..."
+          node scripts/generate-summary.js
+          echo "✅ AI 摘要生成完成"
+
+      # 7. 检查是否有变更
+      - name: Check for changes
+        if: steps.check-switch.outputs.enabled == 'true'
+        id: check-changes
+        run: |
+          git diff --quiet data-snapshot/ || echo "has_changes=true" >> $GITHUB_OUTPUT
+          git status --short data-snapshot/
+
+      # 8. 提交并推送
+      - name: Commit and push
+        if: steps.check-switch.outputs.enabled == 'true' && steps.check-changes.outputs.has_changes == 'true'
+        env:
+          GIT_TERMINAL_PROMPT: 0
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
+
+          TIMESTAMP=$(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M')
+          git add data-snapshot/
+          git commit -m "chore: 自动更新数据快照 [${TIMESTAMP} CST]"
+          git push
+
+          echo "✅ 数据已推送，Cloudflare Pages 将自动部署"
+
+      # 9. 无变更时记录
+      - name: No changes
+        if: steps.check-switch.outputs.enabled == 'true' && steps.check-changes.outputs.has_changes != 'true'
+        run: echo "ℹ️ 数据无变更，跳过提交"

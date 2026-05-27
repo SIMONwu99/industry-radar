@@ -1,0 +1,14 @@
+{
+  "name": "industry-radar-scripts",
+  "version": "1.0.0",
+  "description": "行业资讯雷达数据采集脚本",
+  "private": true,
+  "scripts": {
+    "fetch": "node fetch-data.js",
+    "summary": "node generate-summary.js",
+    "update": "node fetch-data.js && node generate-summary.js"
+  },
+  "dependencies": {
+    "xml2js": "^0.6.2"
+  }
+}

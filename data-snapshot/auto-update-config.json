@@ -1,0 +1,6 @@
+{
+  "enabled": true,
+  "updatedAt": "2026-05-27T12:00:00.000Z",
+  "updatedBy": "initial-setup",
+  "schedule": ["10:00", "14:00", "20:00"]
+}

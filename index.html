@@ -1,0 +1,1212 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="0">
+  <title>行业资讯雷达 v3</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.3/dist/chart.umd.min.js"></script>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    :root {
+      --primary: #0ea5e9;
+      --primary-light: #e0f2fe;
+      --primary-dark: #0284c7;
+      --bg: #f8fafc;
+      --surface: #ffffff;
+      --border: #e2e8f0;
+      --text: #0f172a;
+      --text-muted: #64748b;
+      --text-light: #94a3b8;
+      --success: #10b981;
+      --warning: #f59e0b;
+      --danger: #ef4444;
+      --radius: 12px;
+      --shadow: 0 1px 3px rgba(0,0,0,.08), 0 1px 2px rgba(0,0,0,.05);
+      --shadow-md: 0 4px 6px rgba(0,0,0,.07), 0 2px 4px rgba(0,0,0,.05);
+
+      /* 公司颜色 */
+      --color-bytedance: #1DB954;
+      --color-tencent: #1677FF;
+      --color-alibaba: #FF6A00;
+      --color-meituan: #FFB800;
+      --color-xiaohongshu: #FF2442;
+      --color-baidu: #2932E1;
+      --color-industry: #8B5CF6;
+    }
+    body { font-family: 'Inter', -apple-system, sans-serif; background: var(--bg); color: var(--text); min-height: 100vh; }
+
+    /* ===== 顶部导航 ===== */
+    .header {
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+      padding: 0 24px;
+      position: sticky; top: 0; z-index: 100;
+      box-shadow: var(--shadow);
+    }
+    .header-inner {
+      max-width: 1400px; margin: 0 auto;
+      display: flex; align-items: center; gap: 24px; height: 56px;
+    }
+    .logo { font-size: 16px; font-weight: 700; color: var(--text); white-space: nowrap; }
+    .logo span { color: var(--primary); }
+    .nav-tabs { display: flex; gap: 4px; flex: 1; }
+    .nav-tab {
+      padding: 8px 16px; border-radius: 8px; font-size: 14px; font-weight: 500;
+      cursor: pointer; color: var(--text-muted); border: none; background: none;
+      transition: all .15s; white-space: nowrap;
+    }
+    .nav-tab:hover { background: var(--bg); color: var(--text); }
+    .nav-tab.active { background: var(--primary-light); color: var(--primary-dark); }
+    .header-actions { display: flex; align-items: center; gap: 8px; margin-left: auto; }
+    .sync-info { font-size: 12px; color: var(--text-muted); white-space: nowrap; }
+    .btn {
+      display: inline-flex; align-items: center; gap: 6px;
+      padding: 7px 14px; border-radius: 8px; font-size: 13px; font-weight: 500;
+      cursor: pointer; border: 1px solid var(--border); background: var(--surface);
+      color: var(--text); transition: all .15s; white-space: nowrap;
+    }
+    .btn:hover { background: var(--bg); border-color: var(--primary); color: var(--primary); }
+    .btn-primary { background: var(--primary); color: #fff; border-color: var(--primary); }
+    .btn-primary:hover { background: var(--primary-dark); border-color: var(--primary-dark); color: #fff; }
+    .btn-auto { border-color: var(--success); color: var(--success); }
+    .btn-auto.active { background: var(--success); color: #fff; }
+    .btn-auto.off { border-color: var(--text-light); color: var(--text-light); }
+
+    /* ===== 全局筛选栏 ===== */
+    .filter-bar {
+      background: var(--surface); border-bottom: 1px solid var(--border);
+      padding: 0 24px; position: sticky; top: 56px; z-index: 99;
+    }
+    .filter-bar-inner {
+      max-width: 1400px; margin: 0 auto;
+      display: flex; align-items: center; gap: 8px; height: 50px; overflow-x: auto;
+    }
+    .filter-bar-inner::-webkit-scrollbar { height: 3px; }
+    .filter-bar-inner::-webkit-scrollbar-track { background: transparent; }
+    .filter-bar-inner::-webkit-scrollbar-thumb { background: var(--border); border-radius: 10px; }
+    .filter-chip {
+      display: inline-flex; align-items: center; gap: 6px;
+      padding: 5px 14px; border-radius: 20px; font-size: 13px; font-weight: 500;
+      cursor: pointer; border: 1.5px solid var(--border); background: none;
+      color: var(--text-muted); transition: all .15s; white-space: nowrap; flex-shrink: 0;
+    }
+    .filter-chip:hover { border-color: var(--primary); color: var(--primary); }
+    .filter-chip.active { background: var(--primary); border-color: var(--primary); color: #fff; }
+    .filter-chip .chip-count {
+      background: rgba(255,255,255,.25); border-radius: 10px; padding: 1px 7px; font-size: 11px;
+    }
+    .filter-chip:not(.active) .chip-count { background: var(--bg); color: var(--text-muted); }
+    .filter-divider { width: 1px; height: 20px; background: var(--border); flex-shrink: 0; margin: 0 4px; }
+    .filter-total { font-size: 13px; color: var(--text-muted); margin-left: auto; white-space: nowrap; flex-shrink: 0; }
+
+    /* ===== 主布局 ===== */
+    .main-layout {
+      max-width: 1400px; margin: 0 auto; padding: 20px 24px;
+      display: grid; grid-template-columns: 1fr 280px; gap: 20px;
+    }
+    .content-area { min-width: 0; }
+
+    /* ===== 侧边栏 ===== */
+    .sidebar { display: flex; flex-direction: column; gap: 16px; }
+    .sidebar-card {
+      background: var(--surface); border-radius: var(--radius); border: 1px solid var(--border);
+      overflow: hidden; box-shadow: var(--shadow);
+    }
+    .sidebar-card-header {
+      padding: 14px 16px; border-bottom: 1px solid var(--border);
+      font-size: 13px; font-weight: 600; color: var(--text);
+      display: flex; align-items: center; gap: 8px;
+    }
+    .sidebar-card-body { padding: 12px 16px; }
+    .stats-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+    .stat-item {
+      text-align: center; padding: 12px 8px; background: var(--bg);
+      border-radius: 8px; cursor: pointer; transition: all .15s;
+    }
+    .stat-item:hover { background: var(--primary-light); }
+    .stat-num { font-size: 22px; font-weight: 700; color: var(--primary); }
+    .stat-label { font-size: 11px; color: var(--text-muted); margin-top: 2px; }
+    .latest-list { display: flex; flex-direction: column; gap: 10px; }
+    .latest-item { padding-bottom: 10px; border-bottom: 1px solid var(--border); }
+    .latest-item:last-child { border-bottom: none; padding-bottom: 0; }
+    .latest-source { font-size: 12px; font-weight: 600; color: var(--primary); }
+    .latest-title { font-size: 12px; color: var(--text); margin-top: 2px; line-height: 1.4;
+      display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+    .latest-time { font-size: 11px; color: var(--text-light); margin-top: 2px; }
+    .account-list { display: flex; flex-direction: column; gap: 6px; max-height: 300px; overflow-y: auto; }
+    .account-item {
+      display: flex; align-items: center; justify-content: space-between;
+      padding: 6px 8px; border-radius: 6px; background: var(--bg); font-size: 12px;
+    }
+    .account-name { color: var(--text); font-weight: 500; }
+    .account-count { color: var(--text-muted); font-size: 11px; }
+
+    /* ===== 搜索区域 ===== */
+    .search-area {
+      display: flex; align-items: center; gap: 8px; margin-bottom: 16px;
+      background: var(--surface); border-radius: var(--radius); border: 1px solid var(--border);
+      padding: 10px 14px; box-shadow: var(--shadow);
+    }
+    .search-icon { color: var(--text-light); font-size: 16px; }
+    .search-input {
+      flex: 1; border: none; outline: none; font-size: 14px; color: var(--text);
+      background: none; font-family: inherit;
+    }
+    .search-input::placeholder { color: var(--text-light); }
+    .search-tags { display: flex; gap: 6px; flex-wrap: wrap; }
+    .search-tag {
+      padding: 4px 12px; border-radius: 14px; font-size: 12px; font-weight: 500;
+      cursor: pointer; border: 1px solid var(--border); background: none; color: var(--text-muted);
+      transition: all .15s;
+    }
+    .search-tag:hover, .search-tag.active { background: var(--primary); color: #fff; border-color: var(--primary); }
+
+    /* ===== 资讯概览 ===== */
+    .overview-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+    .overview-card {
+      background: var(--surface); border-radius: var(--radius); border: 1px solid var(--border);
+      overflow: hidden; box-shadow: var(--shadow);
+    }
+    .overview-card-header {
+      padding: 14px 16px; border-bottom: 1px solid var(--border);
+      display: flex; align-items: center; gap: 10px;
+    }
+    .company-badge {
+      padding: 3px 10px; border-radius: 12px; font-size: 12px; font-weight: 600;
+      color: #fff;
+    }
+    .overview-card-header .meta { font-size: 12px; color: var(--text-muted); }
+    .overview-card-body { padding: 12px 16px; }
+    .overview-section { margin-bottom: 12px; }
+    .overview-section:last-child { margin-bottom: 0; }
+    .overview-section-title { font-size: 11px; font-weight: 600; color: var(--text-muted); text-transform: uppercase; letter-spacing: .5px; margin-bottom: 6px; }
+    .overview-article {
+      display: flex; align-items: flex-start; gap: 8px;
+      padding: 5px 0; border-bottom: 1px solid var(--border); cursor: pointer;
+    }
+    .overview-article:last-child { border-bottom: none; }
+    .overview-article:hover .oa-title { color: var(--primary); }
+    .oa-title { font-size: 13px; color: var(--text); flex: 1; line-height: 1.4;
+      display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+    .oa-meta { font-size: 11px; color: var(--text-light); white-space: nowrap; }
+
+    /* ===== 资讯列表 ===== */
+    .article-list { display: flex; flex-direction: column; gap: 12px; }
+    .article-card {
+      background: var(--surface); border-radius: var(--radius); border: 1px solid var(--border);
+      padding: 16px; display: flex; gap: 14px; cursor: pointer; box-shadow: var(--shadow);
+      transition: box-shadow .15s, border-color .15s;
+    }
+    .article-card:hover { box-shadow: var(--shadow-md); border-color: var(--primary); }
+    .article-main { flex: 1; min-width: 0; }
+    .article-meta { display: flex; align-items: center; gap: 8px; margin-bottom: 6px; flex-wrap: wrap; }
+    .source-tag {
+      padding: 2px 10px; border-radius: 10px; font-size: 12px; font-weight: 600;
+      color: #fff; white-space: nowrap;
+    }
+    .company-tag { font-size: 12px; color: var(--text-muted); }
+    .article-time { font-size: 12px; color: var(--text-light); margin-left: auto; }
+    .article-title { font-size: 15px; font-weight: 600; color: var(--text); line-height: 1.5; margin-bottom: 4px; }
+    .article-card:hover .article-title { color: var(--primary); }
+    .article-tags { display: flex; gap: 6px; flex-wrap: wrap; margin-top: 6px; }
+    .article-tag {
+      padding: 2px 8px; border-radius: 6px; font-size: 11px; font-weight: 500;
+      background: var(--primary-light); color: var(--primary-dark);
+    }
+    .article-thumb {
+      width: 80px; height: 60px; border-radius: 8px; object-fit: cover;
+      flex-shrink: 0; background: var(--bg);
+      display: flex; align-items: center; justify-content: center; color: var(--text-light); font-size: 20px;
+    }
+    .article-thumb img { width: 100%; height: 100%; object-fit: cover; border-radius: 8px; }
+
+    /* ===== 数据图表 ===== */
+    .chart-grid { display: grid; gap: 16px; }
+    .chart-card {
+      background: var(--surface); border-radius: var(--radius); border: 1px solid var(--border);
+      padding: 20px; box-shadow: var(--shadow);
+    }
+    .chart-title { font-size: 15px; font-weight: 600; margin-bottom: 16px; color: var(--text); }
+    .chart-container { position: relative; height: 280px; }
+    .heatmap-table { width: 100%; border-collapse: collapse; font-size: 12px; }
+    .heatmap-table th { padding: 6px 10px; text-align: left; font-weight: 600; color: var(--text-muted); border-bottom: 2px solid var(--border); }
+    .heatmap-table td { padding: 6px 10px; border-bottom: 1px solid var(--border); }
+    .heat-cell {
+      display: inline-block; min-width: 28px; text-align: center;
+      padding: 3px 8px; border-radius: 4px; font-weight: 600; font-size: 12px;
+    }
+    .wordcloud-wrap { display: flex; flex-wrap: wrap; gap: 8px; padding: 8px 0; }
+    .word-tag {
+      padding: 4px 12px; border-radius: 14px; background: var(--primary-light);
+      color: var(--primary-dark); font-size: 13px; font-weight: 500; cursor: pointer;
+      transition: all .15s;
+    }
+    .word-tag:hover { background: var(--primary); color: #fff; }
+    .chart-row { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+
+    /* ===== AI 摘要 ===== */
+    .summary-controls {
+      display: flex; align-items: center; gap: 12px; margin-bottom: 16px; flex-wrap: wrap;
+    }
+    .toggle-group { display: flex; border: 1px solid var(--border); border-radius: 8px; overflow: hidden; }
+    .toggle-btn {
+      padding: 7px 16px; font-size: 13px; font-weight: 500; cursor: pointer;
+      border: none; background: none; color: var(--text-muted); transition: all .15s;
+    }
+    .toggle-btn.active { background: var(--primary); color: #fff; }
+    select.filter-select {
+      padding: 7px 28px 7px 12px; border-radius: 8px; border: 1px solid var(--border);
+      font-size: 13px; color: var(--text); background: var(--surface); cursor: pointer;
+      outline: none; font-family: inherit; appearance: none;
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 24 24' fill='none' stroke='%2364748b' stroke-width='2'%3E%3Cpolyline points='6 9 12 15 18 9'%3E%3C/polyline%3E%3C/svg%3E");
+      background-repeat: no-repeat; background-position: right 10px center;
+    }
+    .summary-list { display: flex; flex-direction: column; gap: 14px; }
+    .summary-card {
+      background: var(--surface); border-radius: var(--radius); border: 1px solid var(--border);
+      overflow: hidden; box-shadow: var(--shadow);
+    }
+    .summary-card-header {
+      padding: 14px 18px; background: var(--bg); border-bottom: 1px solid var(--border);
+      display: flex; align-items: center; gap: 10px;
+    }
+    .summary-company { font-size: 15px; font-weight: 700; color: var(--text); }
+    .summary-time { font-size: 12px; color: var(--text-muted); margin-left: auto; }
+    .summary-close {
+      width: 24px; height: 24px; border-radius: 50%; border: none; background: var(--border);
+      color: var(--text-muted); cursor: pointer; font-size: 14px; display: flex; align-items: center; justify-content: center;
+    }
+    .summary-close:hover { background: var(--danger); color: #fff; }
+    .summary-body { padding: 18px; }
+    .summary-section { margin-bottom: 14px; }
+    .summary-section:last-child { margin-bottom: 0; }
+    .summary-section-title {
+      font-size: 13px; font-weight: 700; color: var(--primary-dark);
+      margin-bottom: 6px; display: flex; align-items: center; gap: 6px;
+    }
+    .summary-section-title::before {
+      content: ''; display: block; width: 3px; height: 14px;
+      background: var(--primary); border-radius: 2px;
+    }
+    .summary-content { font-size: 13px; color: var(--text); line-height: 1.7; }
+    .summary-content ul { padding-left: 16px; }
+    .summary-content li { margin-bottom: 4px; }
+    .summary-content a { color: var(--primary); text-decoration: none; }
+    .summary-content a:hover { text-decoration: underline; }
+    .summary-date-group { margin-bottom: 20px; }
+    .summary-date-label {
+      font-size: 14px; font-weight: 700; color: var(--text); margin-bottom: 12px;
+      padding: 8px 12px; background: var(--primary-light); border-radius: 8px; display: inline-block;
+    }
+
+    /* ===== 加载 & 空状态 ===== */
+    .loading {
+      display: flex; align-items: center; justify-content: center; gap: 10px;
+      padding: 60px; color: var(--text-muted); font-size: 14px;
+    }
+    .spinner {
+      width: 20px; height: 20px; border: 2px solid var(--border);
+      border-top-color: var(--primary); border-radius: 50%; animation: spin .6s linear infinite;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    .empty { text-align: center; padding: 60px; color: var(--text-muted); }
+    .empty-icon { font-size: 40px; margin-bottom: 10px; }
+    .empty-text { font-size: 14px; }
+
+    /* ===== 自动更新状态指示 ===== */
+    .auto-indicator {
+      display: inline-flex; align-items: center; gap: 5px;
+      padding: 3px 10px; border-radius: 12px; font-size: 12px; font-weight: 500;
+    }
+    .auto-indicator.on { background: #dcfce7; color: #16a34a; }
+    .auto-indicator.off { background: #f1f5f9; color: var(--text-muted); }
+    .dot { width: 6px; height: 6px; border-radius: 50%; background: currentColor; }
+    .dot.pulse { animation: pulse 1.5s ease-in-out infinite; }
+    @keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: .3; } }
+
+    /* ===== Toast 通知 ===== */
+    #toast-container {
+      position: fixed; top: 20px; right: 20px; z-index: 9999;
+      display: flex; flex-direction: column; gap: 8px;
+    }
+    .toast {
+      padding: 12px 18px; border-radius: 10px; font-size: 13px; font-weight: 500;
+      box-shadow: var(--shadow-md); animation: slideIn .2s ease;
+      max-width: 300px; display: flex; align-items: center; gap: 8px;
+    }
+    .toast.success { background: #f0fdf4; border: 1px solid #bbf7d0; color: #166534; }
+    .toast.error { background: #fef2f2; border: 1px solid #fecaca; color: #991b1b; }
+    .toast.info { background: #eff6ff; border: 1px solid #bfdbfe; color: #1e40af; }
+    @keyframes slideIn { from { transform: translateX(100%); opacity: 0; } to { transform: translateX(0); opacity: 1; } }
+
+    /* ===== 响应式 ===== */
+    @media (max-width: 1100px) {
+      .main-layout { grid-template-columns: 1fr; }
+      .sidebar { display: grid; grid-template-columns: 1fr 1fr; }
+      .overview-grid { grid-template-columns: 1fr; }
+      .chart-row { grid-template-columns: 1fr; }
+    }
+    @media (max-width: 640px) {
+      .header-inner { gap: 12px; }
+      .main-layout { padding: 12px; }
+      .nav-tab { padding: 6px 10px; font-size: 13px; }
+      .article-title { font-size: 14px; }
+      .sidebar { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- 顶部导航 -->
+<header class="header">
+  <div class="header-inner">
+    <div class="logo">行业资讯 <span>雷达</span> v3</div>
+    <nav class="nav-tabs">
+      <button class="nav-tab active" data-tab="overview">资讯概览</button>
+      <button class="nav-tab" data-tab="list">资讯列表</button>
+      <button class="nav-tab" data-tab="charts">数据图表</button>
+      <button class="nav-tab" data-tab="summary">AI 资讯摘要</button>
+    </nav>
+    <div class="header-actions">
+      <div id="auto-status" class="auto-indicator off">
+        <div class="dot" id="auto-dot"></div>
+        <span id="auto-text">自动更新关闭</span>
+      </div>
+      <button class="btn btn-auto off" id="btn-auto-toggle" onclick="toggleAutoUpdate()">
+        ⏰ 开启自动更新
+      </button>
+      <button class="btn" id="btn-sync" onclick="triggerSync()">
+        🔄 <span id="sync-time">同步中...</span>
+      </button>
+    </div>
+  </div>
+</header>
+
+<!-- 全局筛选栏 -->
+<div class="filter-bar">
+  <div class="filter-bar-inner" id="filter-bar">
+    <button class="filter-chip active" data-company="all">
+      全部 <span class="chip-count" id="cnt-all">0</span>
+    </button>
+    <button class="filter-chip" data-company="industry" style="--c:var(--color-industry)">
+      行业资讯 <span class="chip-count" id="cnt-industry">0</span>
+    </button>
+    <div class="filter-divider"></div>
+    <button class="filter-chip" data-company="bytedance">
+      字节跳动 <span class="chip-count" id="cnt-bytedance">0</span>
+    </button>
+    <button class="filter-chip" data-company="tencent">
+      腾讯 <span class="chip-count" id="cnt-tencent">0</span>
+    </button>
+    <button class="filter-chip" data-company="alibaba">
+      阿里 <span class="chip-count" id="cnt-alibaba">0</span>
+    </button>
+    <button class="filter-chip" data-company="meituan">
+      美团 <span class="chip-count" id="cnt-meituan">0</span>
+    </button>
+    <button class="filter-chip" data-company="xiaohongshu">
+      小红书 <span class="chip-count" id="cnt-xiaohongshu">0</span>
+    </button>
+    <button class="filter-chip" data-company="baidu">
+      百度 <span class="chip-count" id="cnt-baidu">0</span>
+    </button>
+    <div class="filter-total" id="filter-total">共 0 篇</div>
+  </div>
+</div>
+
+<!-- 主体布局 -->
+<div class="main-layout">
+  <!-- 主内容区 -->
+  <main class="content-area">
+
+    <!-- 资讯概览 Tab -->
+    <div id="tab-overview" class="tab-content">
+      <div class="search-area">
+        <span class="search-icon">🔍</span>
+        <input class="search-input" id="search-overview" placeholder="搜索文章标题..." oninput="onSearch()">
+        <div class="search-tags">
+          <button class="search-tag" data-kw="校招" onclick="toggleSearchTag(this)">校招</button>
+          <button class="search-tag" data-kw="实习" onclick="toggleSearchTag(this)">实习</button>
+          <button class="search-tag" data-kw="招聘" onclick="toggleSearchTag(this)">招聘</button>
+          <button class="search-tag" data-kw="AI" onclick="toggleSearchTag(this)">AI</button>
+          <button class="search-tag" data-kw="大模型" onclick="toggleSearchTag(this)">大模型</button>
+        </div>
+      </div>
+      <div class="overview-grid" id="overview-grid">
+        <div class="loading"><div class="spinner"></div>加载中...</div>
+      </div>
+    </div>
+
+    <!-- 资讯列表 Tab -->
+    <div id="tab-list" class="tab-content" style="display:none">
+      <div class="search-area">
+        <span class="search-icon">🔍</span>
+        <input class="search-input" id="search-list" placeholder="搜索文章标题..." oninput="onSearch()">
+        <div class="search-tags">
+          <button class="search-tag" data-kw="校招" onclick="toggleSearchTag(this)">校招</button>
+          <button class="search-tag" data-kw="实习" onclick="toggleSearchTag(this)">实习</button>
+          <button class="search-tag" data-kw="招聘" onclick="toggleSearchTag(this)">招聘</button>
+          <button class="search-tag" data-kw="AI" onclick="toggleSearchTag(this)">AI</button>
+          <button class="search-tag" data-kw="大模型" onclick="toggleSearchTag(this)">大模型</button>
+        </div>
+      </div>
+      <div class="article-list" id="article-list">
+        <div class="loading"><div class="spinner"></div>加载中...</div>
+      </div>
+    </div>
+
+    <!-- 数据图表 Tab -->
+    <div id="tab-charts" class="tab-content" style="display:none">
+      <div class="chart-grid">
+        <div class="chart-card">
+          <div class="chart-title">📈 最近 14 天发文趋势</div>
+          <div class="chart-container">
+            <canvas id="trend-chart"></canvas>
+          </div>
+        </div>
+        <div class="chart-row">
+          <div class="chart-card">
+            <div class="chart-title">🔥 高频词云 Top 40</div>
+            <div class="wordcloud-wrap" id="wordcloud"></div>
+          </div>
+          <div class="chart-card">
+            <div class="chart-title">📊 关键词公司归属热力</div>
+            <div style="overflow-x:auto">
+              <table class="heatmap-table" id="heatmap-table">
+                <thead><tr id="heatmap-header"></tr></thead>
+                <tbody id="heatmap-body"></tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- AI 摘要 Tab -->
+    <div id="tab-summary" class="tab-content" style="display:none">
+      <div class="summary-controls">
+        <div class="toggle-group">
+          <button class="toggle-btn active" data-period="daily" onclick="setPeriod('daily',this)">每日</button>
+          <button class="toggle-btn" data-period="weekly" onclick="setPeriod('weekly',this)">每周</button>
+        </div>
+        <select class="filter-select" id="summary-date-filter" onchange="renderSummary()">
+          <option value="all">全部日期</option>
+        </select>
+        <select class="filter-select" id="summary-company-filter" onchange="renderSummary()">
+          <option value="all">全部公司</option>
+          <option value="行业资讯">行业资讯</option>
+          <option value="字节跳动">字节跳动</option>
+          <option value="腾讯">腾讯</option>
+          <option value="阿里">阿里</option>
+          <option value="美团">美团</option>
+          <option value="小红书">小红书</option>
+          <option value="百度">百度</option>
+        </select>
+      </div>
+      <div class="summary-list" id="summary-list">
+        <div class="loading"><div class="spinner"></div>加载 AI 摘要中...</div>
+      </div>
+    </div>
+
+  </main>
+
+  <!-- 侧边栏 -->
+  <aside class="sidebar">
+    <div class="sidebar-card">
+      <div class="sidebar-card-header">📊 数据概览</div>
+      <div class="sidebar-card-body">
+        <div class="stats-grid">
+          <div class="stat-item" onclick="switchTab('list')">
+            <div class="stat-num" id="stat-today">0</div>
+            <div class="stat-label">今日更新</div>
+          </div>
+          <div class="stat-item" onclick="switchTab('list')">
+            <div class="stat-num" id="stat-week">0</div>
+            <div class="stat-label">本周更新</div>
+          </div>
+          <div class="stat-item">
+            <div class="stat-num" id="stat-accounts">0</div>
+            <div class="stat-label">监测账号</div>
+          </div>
+          <div class="stat-item" onclick="switchTab('list')">
+            <div class="stat-num" id="stat-total">0</div>
+            <div class="stat-label">文章总量</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="sidebar-card">
+      <div class="sidebar-card-header">⚡ 最新动态</div>
+      <div class="sidebar-card-body">
+        <div class="latest-list" id="latest-list">
+          <div class="loading" style="padding:20px"><div class="spinner"></div></div>
+        </div>
+      </div>
+    </div>
+    <div class="sidebar-card">
+      <div class="sidebar-card-header">📡 账号状态</div>
+      <div class="sidebar-card-body">
+        <div class="account-list" id="account-list">
+          <div class="loading" style="padding:20px"><div class="spinner"></div></div>
+        </div>
+      </div>
+    </div>
+  </aside>
+</div>
+
+<div id="toast-container"></div>
+
+<script>
+// ============================================================
+// 配置区
+// ============================================================
+const SNAPSHOT_BASE = './data-snapshot';
+const AUTO_UPDATE_API = '/api/toggle-auto-update';
+
+// 公司配置
+const COMPANIES = {
+  industry:    { label: '行业资讯', color: '#8B5CF6', accounts: ['大厂日爆','天天开柒','互联网坊间八卦','申妈的朋友圈','字节范儿','虎嗅APP','晚点LatePost','机器之心','InfoQ','量子位'] },
+  bytedance:   { label: '字节跳动', color: '#1DB954', accounts: ['字节跳动招聘','字节跳动Seed','字节跳动技术团队','大厂青年'] },
+  tencent:     { label: '腾讯',     color: '#1677FF', accounts: ['腾讯招聘','腾讯文化','腾讯技术工程'] },
+  alibaba:     { label: '阿里',     color: '#FF6A00', accounts: ['阿里巴巴集团招聘','阿里技术'] },
+  meituan:     { label: '美团',     color: '#FFB800', accounts: ['美团招聘','美团技术团队'] },
+  xiaohongshu: { label: '小红书',   color: '#FF2442', accounts: ['小红书招聘','是小红书人啊','小红书技术REDtech'] },
+  baidu:       { label: '百度',     color: '#2932E1', accounts: ['百度招聘','百度','百度文心'] },
+};
+
+// ============================================================
+// 全局状态
+// ============================================================
+let allArticles = [];
+let allFeeds = [];
+let aiSummary = {};
+let currentCompany = 'all';
+let currentKeyword = '';
+let currentTab = 'overview';
+let currentPeriod = 'daily';
+let trendChart = null;
+let autoUpdateEnabled = false;
+
+// ============================================================
+// 初始化
+// ============================================================
+async function init() {
+  loadAutoUpdateState();
+  await loadData();
+  initFilterBar();
+  switchTab('overview');
+  renderSidebar();
+}
+
+async function loadData() {
+  try {
+    const [feedsRes, summaryRes] = await Promise.allSettled([
+      fetch(`${SNAPSHOT_BASE}/feeds.json?t=${Date.now()}`),
+      fetch(`${SNAPSHOT_BASE}/ai-summary.json?t=${Date.now()}`)
+    ]);
+
+    if (feedsRes.status === 'fulfilled' && feedsRes.value.ok) {
+      allFeeds = await feedsRes.value.json();
+    }
+    if (summaryRes.status === 'fulfilled' && summaryRes.value.ok) {
+      aiSummary = await summaryRes.value.json();
+    }
+
+    // 加载所有文章
+    const articlePromises = allFeeds.map(feed =>
+      fetch(`${SNAPSHOT_BASE}/${feed.id}.json?t=${Date.now()}`)
+        .then(r => r.ok ? r.json() : [])
+        .then(articles => articles.map(a => ({ ...a, feedId: feed.id, feedName: feed.name, company: getFeedCompany(feed.name) })))
+        .catch(() => [])
+    );
+    const results = await Promise.allSettled(articlePromises);
+    allArticles = results.flatMap(r => r.status === 'fulfilled' ? r.value : []);
+    allArticles.sort((a, b) => (b.publishTime || 0) - (a.publishTime || 0));
+
+    // 更新同步时间
+    const latestSync = allFeeds.reduce((m, f) => Math.max(m, f.syncTime || 0), 0);
+    if (latestSync) {
+      document.getElementById('sync-time').textContent = `同步于 ${formatDate(latestSync * 1000)}`;
+    } else {
+      document.getElementById('sync-time').textContent = '立即同步';
+    }
+
+    updateStats();
+    populateSummaryDateFilter();
+  } catch(e) {
+    console.error('数据加载失败', e);
+    showToast('数据加载失败，请检查数据快照文件', 'error');
+  }
+}
+
+function getFeedCompany(name) {
+  for (const [key, cfg] of Object.entries(COMPANIES)) {
+    if (cfg.accounts.includes(name)) return key;
+  }
+  return 'industry';
+}
+
+// ============================================================
+// 筛选栏
+// ============================================================
+function initFilterBar() {
+  const counts = { all: allArticles.length };
+  for (const key of Object.keys(COMPANIES)) {
+    counts[key] = allArticles.filter(a => a.company === key).length;
+  }
+  document.getElementById('cnt-all').textContent = counts.all;
+  document.getElementById('cnt-industry').textContent = counts.industry || 0;
+  document.getElementById('cnt-bytedance').textContent = counts.bytedance || 0;
+  document.getElementById('cnt-tencent').textContent = counts.tencent || 0;
+  document.getElementById('cnt-alibaba').textContent = counts.alibaba || 0;
+  document.getElementById('cnt-meituan').textContent = counts.meituan || 0;
+  document.getElementById('cnt-xiaohongshu').textContent = counts.xiaohongshu || 0;
+  document.getElementById('cnt-baidu').textContent = counts.baidu || 0;
+
+  document.querySelectorAll('.filter-chip').forEach(chip => {
+    chip.addEventListener('click', () => {
+      document.querySelectorAll('.filter-chip').forEach(c => c.classList.remove('active'));
+      chip.classList.add('active');
+      currentCompany = chip.dataset.company;
+      refreshCurrentTab();
+    });
+  });
+}
+
+function getFilteredArticles() {
+  let arts = allArticles;
+  if (currentCompany !== 'all') arts = arts.filter(a => a.company === currentCompany);
+  if (currentKeyword) {
+    const kw = currentKeyword.toLowerCase();
+    arts = arts.filter(a => (a.title || '').toLowerCase().includes(kw));
+  }
+  return arts;
+}
+
+function updateFilterTotal(count) {
+  document.getElementById('filter-total').textContent = `共 ${count} 篇`;
+}
+
+// ============================================================
+// Tab 切换
+// ============================================================
+function switchTab(tab) {
+  currentTab = tab;
+  document.querySelectorAll('.nav-tab').forEach(t => {
+    t.classList.toggle('active', t.dataset.tab === tab);
+  });
+  document.querySelectorAll('.tab-content').forEach(c => {
+    c.style.display = c.id === `tab-${tab}` ? '' : 'none';
+  });
+  refreshCurrentTab();
+}
+
+document.querySelectorAll('.nav-tab').forEach(t => {
+  t.addEventListener('click', () => switchTab(t.dataset.tab));
+});
+
+function refreshCurrentTab() {
+  if (currentTab === 'overview') renderOverview();
+  else if (currentTab === 'list') renderList();
+  else if (currentTab === 'charts') renderCharts();
+  else if (currentTab === 'summary') renderSummary();
+}
+
+// ============================================================
+// 搜索
+// ============================================================
+function onSearch() {
+  const inputId = currentTab === 'list' ? 'search-list' : 'search-overview';
+  currentKeyword = document.getElementById(inputId)?.value || '';
+  refreshCurrentTab();
+}
+
+function toggleSearchTag(el) {
+  const kw = el.dataset.kw;
+  if (el.classList.contains('active')) {
+    el.classList.remove('active');
+    currentKeyword = '';
+  } else {
+    document.querySelectorAll('.search-tag').forEach(t => t.classList.remove('active'));
+    el.classList.add('active');
+    currentKeyword = kw;
+  }
+  const inputId = currentTab === 'list' ? 'search-list' : 'search-overview';
+  const inp = document.getElementById(inputId);
+  if (inp) inp.value = currentKeyword;
+  refreshCurrentTab();
+}
+
+// ============================================================
+// 资讯概览
+// ============================================================
+function renderOverview() {
+  const filtered = getFilteredArticles();
+  updateFilterTotal(filtered.length);
+  const grid = document.getElementById('overview-grid');
+
+  const companiesToShow = currentCompany === 'all'
+    ? Object.keys(COMPANIES)
+    : [currentCompany];
+
+  if (filtered.length === 0) {
+    grid.innerHTML = '<div class="empty" style="grid-column:1/-1"><div class="empty-icon">📭</div><div class="empty-text">暂无相关文章</div></div>';
+    return;
+  }
+
+  grid.innerHTML = companiesToShow.map(key => {
+    const cfg = COMPANIES[key];
+    const arts = filtered.filter(a => a.company === key);
+    if (arts.length === 0) return '';
+
+    // 按分类分组
+    const sections = {};
+    arts.forEach(a => {
+      const sec = getArticleSection(a);
+      if (!sections[sec]) sections[sec] = [];
+      sections[sec].push(a);
+    });
+
+    const sectionsHtml = Object.entries(sections).map(([sec, list]) => `
+      <div class="overview-section">
+        <div class="overview-section-title">${sec}</div>
+        ${list.slice(0, 5).map(a => `
+          <div class="overview-article" onclick="openArticle('${(a.link||'').replace(/'/g,"\\'")}')">
+            <div class="oa-title">${escHtml(a.title || '无标题')}</div>
+            <div class="oa-meta">${a.feedName}<br>${relativeTime(a.publishTime)}</div>
+          </div>
+        `).join('')}
+      </div>
+    `).join('');
+
+    return `
+      <div class="overview-card">
+        <div class="overview-card-header">
+          <div class="company-badge" style="background:${cfg.color}">${cfg.label}</div>
+          <div class="meta">${cfg.accounts.length}个账号 · ${arts.length}篇</div>
+        </div>
+        <div class="overview-card-body">${sectionsHtml}</div>
+      </div>
+    `;
+  }).join('');
+}
+
+function getArticleSection(article) {
+  const title = (article.title || '').toLowerCase();
+  if (/招聘|实习|offer|intern|校招|社招/.test(title)) return '招聘动态';
+  if (/技术|算法|模型|ai|agent|开源|架构/.test(title)) return '技术动态';
+  if (/发布|上线|推出|新功能|产品/.test(title)) return '产品动态';
+  return '最新动态';
+}
+
+// ============================================================
+// 资讯列表
+// ============================================================
+function renderList() {
+  const filtered = getFilteredArticles();
+  updateFilterTotal(filtered.length);
+  const list = document.getElementById('article-list');
+
+  if (filtered.length === 0) {
+    list.innerHTML = '<div class="empty"><div class="empty-icon">📭</div><div class="empty-text">暂无相关文章</div></div>';
+    return;
+  }
+
+  list.innerHTML = filtered.slice(0, 200).map(a => {
+    const cfg = COMPANIES[a.company] || COMPANIES.industry;
+    const tags = detectTags(a.title || '');
+    return `
+      <div class="article-card" onclick="openArticle('${(a.link||'').replace(/'/g,"\\'")}')">
+        <div class="article-main">
+          <div class="article-meta">
+            <span class="source-tag" style="background:${cfg.color}">${escHtml(a.feedName || cfg.label)}</span>
+            <span class="company-tag">${cfg.label}</span>
+            <span class="article-time">${relativeTime(a.publishTime)}</span>
+          </div>
+          <div class="article-title">${escHtml(a.title || '无标题')}</div>
+          ${tags.length ? `<div class="article-tags">${tags.map(t => `<span class="article-tag">${t}</span>`).join('')}</div>` : ''}
+        </div>
+        <div class="article-thumb">
+          ${a.cover ? `<img src="${escHtml(a.cover)}" alt="" onerror="this.parentNode.textContent='📄'">` : '📄'}
+        </div>
+      </div>
+    `;
+  }).join('');
+}
+
+function detectTags(title) {
+  const tags = [];
+  if (/校招/.test(title)) tags.push('校招');
+  if (/实习/.test(title)) tags.push('实习');
+  if (/社招/.test(title)) tags.push('社招');
+  if (/大模型|LLM/.test(title)) tags.push('大模型');
+  if (/AI|Agent|智能/.test(title)) tags.push('AI');
+  if (/VP|总监|高管/.test(title)) tags.push('高管');
+  return tags.slice(0, 3);
+}
+
+// ============================================================
+// 数据图表
+// ============================================================
+function renderCharts() {
+  renderTrendChart();
+  renderWordCloud();
+  renderHeatmap();
+}
+
+function renderTrendChart() {
+  const now = Date.now();
+  const days = 14;
+  const labels = [];
+  const datasets = {};
+
+  for (let i = days - 1; i >= 0; i--) {
+    const d = new Date(now - i * 86400000);
+    labels.push(`${d.getMonth()+1}-${String(d.getDate()).padStart(2,'0')}`);
+  }
+
+  const compKeys = currentCompany === 'all'
+    ? Object.keys(COMPANIES).filter(k => k !== 'industry')
+    : [currentCompany];
+
+  compKeys.forEach(key => {
+    datasets[key] = new Array(days).fill(0);
+  });
+
+  allArticles.forEach(a => {
+    const key = a.company;
+    if (!datasets[key]) return;
+    const d = new Date((a.publishTime || 0) * 1000);
+    const daysAgo = Math.floor((now - d.getTime()) / 86400000);
+    if (daysAgo >= 0 && daysAgo < days) {
+      datasets[key][days - 1 - daysAgo]++;
+    }
+  });
+
+  const ctx = document.getElementById('trend-chart').getContext('2d');
+  if (trendChart) trendChart.destroy();
+  trendChart = new Chart(ctx, {
+    type: 'line',
+    data: {
+      labels,
+      datasets: compKeys.map(key => ({
+        label: COMPANIES[key].label,
+        data: datasets[key],
+        borderColor: COMPANIES[key].color,
+        backgroundColor: COMPANIES[key].color + '22',
+        tension: 0.4, fill: true, borderWidth: 2, pointRadius: 3,
+      }))
+    },
+    options: {
+      responsive: true, maintainAspectRatio: false,
+      plugins: { legend: { position: 'bottom', labels: { usePointStyle: true, font: { size: 12 } } } },
+      scales: {
+        x: { grid: { display: false }, ticks: { font: { size: 11 } } },
+        y: { beginAtZero: true, ticks: { stepSize: 1, font: { size: 11 } }, grid: { color: '#f1f5f9' } }
+      }
+    }
+  });
+}
+
+function renderWordCloud() {
+  const wordFreq = {};
+  getFilteredArticles().forEach(a => {
+    const words = (a.title || '').match(/[\u4e00-\u9fa5]{2,4}|[A-Za-z]{3,}/g) || [];
+    words.forEach(w => {
+      if (!stopWords.has(w)) wordFreq[w] = (wordFreq[w] || 0) + 1;
+    });
+  });
+  const sorted = Object.entries(wordFreq).sort((a,b)=>b[1]-a[1]).slice(0,40);
+  const max = sorted[0]?.[1] || 1;
+  document.getElementById('wordcloud').innerHTML = sorted.map(([w,c]) => {
+    const size = 12 + Math.floor((c / max) * 12);
+    return `<span class="word-tag" style="font-size:${size}px" onclick="setKeyword('${w}')">${w}</span>`;
+  }).join('');
+}
+
+const stopWords = new Set(['的','了','是','在','我','有','和','就','不','人','都','一','一个','上','也','很','到','说','要','去','你','会','着','没有','看','好','自己','这','那']);
+
+function setKeyword(w) {
+  currentKeyword = w;
+  switchTab('list');
+}
+
+function renderHeatmap() {
+  const keywords = ['AI','Agent','招聘','实习','校招','大模型','技术','发布','产品','开源'];
+  const companies = Object.entries(COMPANIES).filter(([k]) => k !== 'industry');
+
+  const header = document.getElementById('heatmap-header');
+  header.innerHTML = '<th>公司</th>' + keywords.map(k => `<th>${k}</th>`).join('');
+
+  const body = document.getElementById('heatmap-body');
+  const maxVal = 20;
+  body.innerHTML = companies
+    .map(([key, cfg]) => {
+      const arts = allArticles.filter(a => a.company === key);
+      const cells = keywords.map(kw => {
+        const count = arts.filter(a => (a.title||'').includes(kw)).length;
+        const opacity = Math.min(count / maxVal, 1);
+        const bg = hexToRgba(cfg.color, 0.15 + opacity * 0.7);
+        return `<td><span class="heat-cell" style="background:${bg};color:${count>5?'#fff':cfg.color}">${count||''}</span></td>`;
+      }).join('');
+      return `<tr><td><span style="font-weight:600;color:${cfg.color}">${cfg.label}</span></td>${cells}</tr>`;
+    }).join('');
+}
+
+function hexToRgba(hex, alpha) {
+  const r = parseInt(hex.slice(1,3),16), g = parseInt(hex.slice(3,5),16), b = parseInt(hex.slice(5,7),16);
+  return `rgba(${r},${g},${b},${alpha})`;
+}
+
+// ============================================================
+// AI 摘要
+// ============================================================
+function setPeriod(period, btn) {
+  currentPeriod = period;
+  document.querySelectorAll('.toggle-btn').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+  populateSummaryDateFilter();
+  renderSummary();
+}
+
+function populateSummaryDateFilter() {
+  const sel = document.getElementById('summary-date-filter');
+  const data = aiSummary[currentPeriod] || {};
+  const dates = Object.keys(data).sort().reverse();
+  const current = sel.value;
+  sel.innerHTML = '<option value="all">全部日期</option>';
+  dates.forEach(d => {
+    const opt = document.createElement('option');
+    opt.value = d; opt.textContent = d;
+    if (d === current) opt.selected = true;
+    sel.appendChild(opt);
+  });
+}
+
+function renderSummary() {
+  const dateFilter = document.getElementById('summary-date-filter').value;
+  const companyFilter = document.getElementById('summary-company-filter').value;
+  const data = aiSummary[currentPeriod] || {};
+  const container = document.getElementById('summary-list');
+
+  let dates = Object.keys(data).sort().reverse();
+  if (dateFilter !== 'all') dates = dates.filter(d => d === dateFilter);
+
+  if (dates.length === 0) {
+    container.innerHTML = '<div class="empty"><div class="empty-icon">🤖</div><div class="empty-text">暂无 AI 摘要，请等待自动更新或手动触发同步</div></div>';
+    return;
+  }
+
+  container.innerHTML = dates.map(date => {
+    let summaries = data[date] || [];
+    if (companyFilter !== 'all') summaries = summaries.filter(s => s.company === companyFilter);
+    if (summaries.length === 0) return '';
+
+    const cards = summaries.map(s => {
+      const cfg = Object.values(COMPANIES).find(c => c.label === s.company) || { color: '#64748b' };
+      const sections = (s.sections || []).map(sec => `
+        <div class="summary-section">
+          <div class="summary-section-title">${escHtml(sec.title)}</div>
+          <div class="summary-content">${sec.content}</div>
+        </div>
+      `).join('');
+      return `
+        <div class="summary-card" id="summary-${date}-${s.company}">
+          <div class="summary-card-header">
+            <div class="company-badge" style="background:${cfg.color}">${escHtml(s.company)}</div>
+            <div class="summary-company">${escHtml(s.company)}动态摘要</div>
+            <div class="summary-time">${s.generatedAt || date}</div>
+            <button class="summary-close" onclick="this.closest('.summary-card').style.display='none'">×</button>
+          </div>
+          <div class="summary-body">${sections || '<div class="summary-content" style="color:var(--text-muted)">摘要内容生成中...</div>'}</div>
+        </div>
+      `;
+    }).join('');
+
+    return `
+      <div class="summary-date-group">
+        <div class="summary-date-label">📅 ${date}</div>
+        ${cards}
+      </div>
+    `;
+  }).join('');
+}
+
+// ============================================================
+// 侧边栏
+// ============================================================
+function updateStats() {
+  const todayStart = new Date(); todayStart.setHours(0,0,0,0);
+  const weekStart = new Date(); weekStart.setDate(weekStart.getDate() - 7); weekStart.setHours(0,0,0,0);
+  const today = allArticles.filter(a => a.publishTime * 1000 >= todayStart.getTime()).length;
+  const week = allArticles.filter(a => a.publishTime * 1000 >= weekStart.getTime()).length;
+  document.getElementById('stat-today').textContent = today;
+  document.getElementById('stat-week').textContent = week;
+  document.getElementById('stat-accounts').textContent = allFeeds.length;
+  document.getElementById('stat-total').textContent = allArticles.length;
+}
+
+function renderSidebar() {
+  const latestList = document.getElementById('latest-list');
+  const latest = allArticles.slice(0, 8);
+  if (latest.length === 0) {
+    latestList.innerHTML = '<div style="color:var(--text-muted);font-size:13px;text-align:center;padding:10px">暂无数据</div>';
+  } else {
+    latestList.innerHTML = latest.map(a => `
+      <div class="latest-item" style="cursor:pointer" onclick="openArticle('${(a.link||'').replace(/'/g,"\\'")}')">
+        <div class="latest-source">${escHtml(a.feedName || '')}</div>
+        <div class="latest-title">${escHtml(a.title || '无标题')}</div>
+        <div class="latest-time">${relativeTime(a.publishTime)}</div>
+      </div>
+    `).join('');
+  }
+
+  const accountList = document.getElementById('account-list');
+  if (allFeeds.length === 0) {
+    accountList.innerHTML = '<div style="color:var(--text-muted);font-size:13px;text-align:center;padding:10px">暂无数据</div>';
+  } else {
+    accountList.innerHTML = allFeeds.map(feed => {
+      const count = allArticles.filter(a => a.feedId === feed.id).length;
+      return `
+        <div class="account-item">
+          <span class="account-name">${escHtml(feed.name || feed.id)}</span>
+          <span class="account-count">${count}篇</span>
+        </div>
+      `;
+    }).join('');
+  }
+}
+
+// ============================================================
+// 自动更新控制
+// ============================================================
+function loadAutoUpdateState() {
+  autoUpdateEnabled = localStorage.getItem('autoUpdateEnabled') === 'true';
+  updateAutoUI();
+}
+
+function updateAutoUI() {
+  const btn = document.getElementById('btn-auto-toggle');
+  const status = document.getElementById('auto-status');
+  const text = document.getElementById('auto-text');
+  const dot = document.getElementById('auto-dot');
+  if (autoUpdateEnabled) {
+    btn.textContent = '⏰ 关闭自动更新';
+    btn.className = 'btn btn-auto active';
+    status.className = 'auto-indicator on';
+    text.textContent = '自动更新已开启';
+    dot.classList.add('pulse');
+  } else {
+    btn.textContent = '⏰ 开启自动更新';
+    btn.className = 'btn btn-auto off';
+    status.className = 'auto-indicator off';
+    text.textContent = '自动更新关闭';
+    dot.classList.remove('pulse');
+  }
+}
+
+async function toggleAutoUpdate() {
+  const newState = !autoUpdateEnabled;
+  const btn = document.getElementById('btn-auto-toggle');
+  btn.disabled = true;
+  btn.textContent = '处理中...';
+
+  try {
+    const res = await fetch(AUTO_UPDATE_API, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ enabled: newState })
+    });
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const data = await res.json();
+    if (data.success) {
+      autoUpdateEnabled = newState;
+      localStorage.setItem('autoUpdateEnabled', String(autoUpdateEnabled));
+      updateAutoUI();
+      showToast(autoUpdateEnabled ? '✅ 自动更新已开启（每天 10:00、14:00、20:00）' : '⏸ 自动更新已关闭', 'success');
+    } else {
+      throw new Error(data.error || '未知错误');
+    }
+  } catch(e) {
+    showToast(`操作失败：${e.message}`, 'error');
+    btn.disabled = false;
+    updateAutoUI();
+  } finally {
+    btn.disabled = false;
+  }
+}
+
+// ============================================================
+// 手动同步触发
+// ============================================================
+async function triggerSync() {
+  const btn = document.getElementById('btn-sync');
+  const syncTime = document.getElementById('sync-time');
+  btn.disabled = true;
+  syncTime.textContent = '同步中...';
+  try {
+    const res = await fetch('/api/trigger-sync', { method: 'POST' });
+    if (res.ok) {
+      showToast('🔄 同步任务已触发，数据将在几分钟后更新', 'info');
+      setTimeout(() => { loadData().then(() => renderSidebar()); }, 5000);
+    } else {
+      showToast('同步触发失败，请稍后重试', 'error');
+    }
+  } catch(e) {
+    showToast('同步触发失败：' + e.message, 'error');
+  } finally {
+    btn.disabled = false;
+    const latestSync = allFeeds.reduce((m, f) => Math.max(m, f.syncTime || 0), 0);
+    syncTime.textContent = latestSync ? `同步于 ${formatDate(latestSync * 1000)}` : '立即同步';
+  }
+}
+
+// ============================================================
+// 工具函数
+// ============================================================
+function openArticle(url) {
+  if (url && url !== 'undefined') window.open(url, '_blank');
+}
+
+function escHtml(str) {
+  return String(str).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+
+function relativeTime(ts) {
+  if (!ts) return '未知';
+  const now = Date.now();
+  const t = ts * 1000;
+  const diff = now - t;
+  if (diff < 3600000) return `${Math.floor(diff/60000)}分钟前`;
+  if (diff < 86400000) return `${Math.floor(diff/3600000)}小时前`;
+  const days = Math.floor(diff/86400000);
+  if (days < 30) return `${days}天前`;
+  const d = new Date(t);
+  return `${d.getMonth()+1}月${d.getDate()}日`;
+}
+
+function formatDate(ts) {
+  const d = new Date(ts);
+  return `${d.getMonth()+1}/${d.getDate()} ${String(d.getHours()).padStart(2,'0')}:${String(d.getMinutes()).padStart(2,'0')}`;
+}
+
+function showToast(msg, type = 'info') {
+  const container = document.getElementById('toast-container');
+  const toast = document.createElement('div');
+  toast.className = `toast ${type}`;
+  toast.textContent = msg;
+  container.appendChild(toast);
+  setTimeout(() => { toast.style.opacity = '0'; toast.style.transition = 'opacity .3s'; }, 3000);
+  setTimeout(() => toast.remove(), 3300);
+}
+
+// 启动
+init();
+</script>
+</body>
+</html>
