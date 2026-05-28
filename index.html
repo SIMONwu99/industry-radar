@@ -6,7 +6,7 @@
   <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
   <meta http-equiv="Pragma" content="no-cache">
   <meta http-equiv="Expires" content="0">
-  <title>行业资讯雷达 v3</title>
+  <title>吴曦萌的望远镜</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.3/dist/chart.umd.min.js"></script>
@@ -30,6 +30,7 @@
       --shadow-md: 0 4px 6px rgba(0,0,0,.07), 0 2px 4px rgba(0,0,0,.05);
 
       /* 公司颜色 */
+      --color-kuaishou: #FF5000;
       --color-bytedance: #1DB954;
       --color-tencent: #1677FF;
       --color-alibaba: #FF6A00;
@@ -365,7 +366,7 @@
 <!-- 顶部导航 -->
 <header class="header">
   <div class="header-inner">
-    <div class="logo">行业资讯 <span>雷达</span> v3</div>
+    <div class="logo">吴曦萌的 <span>望远镜</span></div>
     <nav class="nav-tabs">
       <button class="nav-tab active" data-tab="overview">资讯概览</button>
       <button class="nav-tab" data-tab="list">资讯列表</button>
@@ -395,6 +396,10 @@
     </button>
     <button class="filter-chip" data-company="industry" style="--c:var(--color-industry)">
       行业资讯 <span class="chip-count" id="cnt-industry">0</span>
+    </button>
+    <div class="filter-divider"></div>
+    <button class="filter-chip" data-company="kuaishou" style="--c:var(--color-kuaishou)">
+      🔭 快手 <span class="chip-count" id="cnt-kuaishou">0</span>
     </button>
     <div class="filter-divider"></div>
     <button class="filter-chip" data-company="bytedance">
@@ -571,12 +576,13 @@ const AUTO_UPDATE_API = '/api/toggle-auto-update';
 // 公司配置
 const COMPANIES = {
   industry:    { label: '行业资讯', color: '#8B5CF6', accounts: ['大厂日爆','天天开柒','互联网坊间八卦','申妈的朋友圈','字节范儿','虎嗅APP','晚点LatePost','机器之心','InfoQ','量子位'] },
+  kuaishou:    { label: '快手',     color: '#FF5000', accounts: ['快手招聘'], pinned: true },
   bytedance:   { label: '字节跳动', color: '#1DB954', accounts: ['字节跳动招聘','字节跳动Seed','字节跳动技术团队','大厂青年'] },
   tencent:     { label: '腾讯',     color: '#1677FF', accounts: ['腾讯招聘','腾讯文化','腾讯技术工程'] },
   alibaba:     { label: '阿里',     color: '#FF6A00', accounts: ['阿里巴巴集团招聘','阿里技术'] },
   meituan:     { label: '美团',     color: '#FFB800', accounts: ['美团招聘','美团技术团队'] },
   xiaohongshu: { label: '小红书',   color: '#FF2442', accounts: ['小红书招聘','是小红书人啊','小红书技术REDtech'] },
-  baidu:       { label: '百度',     color: '#2932E1', accounts: ['百度招聘','百度','百度文心'] },
+  baidu:       { label: '百度',     color: '#2932E1', accounts: ['百度招聘','百度APP','百度文心'] },
 };
 
 // ============================================================
@@ -661,6 +667,7 @@ function initFilterBar() {
   }
   document.getElementById('cnt-all').textContent = counts.all;
   document.getElementById('cnt-industry').textContent = counts.industry || 0;
+  document.getElementById('cnt-kuaishou').textContent = counts.kuaishou || 0;
   document.getElementById('cnt-bytedance').textContent = counts.bytedance || 0;
   document.getElementById('cnt-tencent').textContent = counts.tencent || 0;
   document.getElementById('cnt-alibaba').textContent = counts.alibaba || 0;
@@ -938,7 +945,13 @@ function setKeyword(w) {
 
 function renderHeatmap() {
   const keywords = ['AI','Agent','招聘','实习','校招','大模型','技术','发布','产品','开源'];
-  const companies = Object.entries(COMPANIES).filter(([k]) => k !== 'industry');
+  // 快手固定在第一位，其余按原顺序排列
+  const companies = Object.entries(COMPANIES).filter(([k]) => k !== 'industry')
+    .sort(([a],[b]) => {
+      if (a === 'kuaishou') return -1;
+      if (b === 'kuaishou') return 1;
+      return 0;
+    });
 
   const header = document.getElementById('heatmap-header');
   header.innerHTML = '<th>公司</th>' + keywords.map(k => `<th>${k}</th>`).join('');

@@ -22,6 +22,8 @@ const SNAPSHOT_DIR = path.join(__dirname, '..', 'data-snapshot');
 // 目标账号列表
 // ============================================================
 const TARGET_ACCOUNTS = [
+  // 快手（恒定对比项，固定第一位）
+  { name: '快手招聘',          company: 'kuaishou' },
   // 行业资讯
   { name: '大厂日爆',          company: 'industry' },
   { name: '天天开柒',          company: 'industry' },
