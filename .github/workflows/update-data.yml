@@ -72,12 +72,12 @@ jobs:
           npm install xml2js
 
       # 5. 拉取数据
-      - name: Fetch articles from RSSHub
+      - name: Fetch articles from WeChat MP API
         if: steps.check-switch.outputs.enabled == 'true'
         env:
-          RSSHUB_BASE: ${{ secrets.RSSHUB_BASE }}
           WECHAT_COOKIE: ${{ secrets.WECHAT_COOKIE }}
-          MAX_ARTICLES: '50'
+          WECHAT_TOKEN: ${{ secrets.WECHAT_TOKEN }}
+          MAX_ARTICLES: '20'
         run: |
           echo "📥 开始拉取公众号文章..."
           node scripts/fetch-data.js
