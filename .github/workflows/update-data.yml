@@ -62,22 +62,16 @@ jobs:
           node-version: '20'
           cache: 'npm'
 
-      # 4. 安装依赖
+      # 4. 安装依赖（搜狗版无额外依赖）
       - name: Install dependencies
         if: steps.check-switch.outputs.enabled == 'true'
-        run: |
-          cd scripts
-          npm install --no-audit --no-fund 2>/dev/null || true
-          # xml2js 是必须的依赖
-          npm install xml2js
+        run: echo "无需安装额外依赖，使用 Node.js 内置模块"
 
-      # 5. 拉取数据
-      - name: Fetch articles from WeChat MP API
+      # 5. 拉取数据（通过搜狗微信搜索，无需 Cookie/Token）
+      - name: Fetch articles from Sogou WeChat Search
         if: steps.check-switch.outputs.enabled == 'true'
         env:
-          WECHAT_COOKIE: ${{ secrets.WECHAT_COOKIE }}
-          WECHAT_TOKEN: ${{ secrets.WECHAT_TOKEN }}
-          MAX_ARTICLES: '20'
+          MAX_ARTICLES: '10'
         run: |
           echo "📥 开始拉取公众号文章..."
           node scripts/fetch-data.js
