@@ -60,7 +60,6 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '20'
-          cache: 'npm'
 
       # 4. 安装依赖（搜狗版无额外依赖）
       - name: Install dependencies
