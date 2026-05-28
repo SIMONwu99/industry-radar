@@ -1,5 +1,16 @@
 [
   {
+    "id": "快手招聘",
+    "fakeid": "MzI5MTk3OTM1Nw==",
+    "name": "快手招聘",
+    "displayName": "快手招聘",
+    "company": "kuaishou",
+    "cover": "http://mmecoa.qpic.cn/mmecoa_jpg/efm4hU59AzBWTicG9UnydXj5yfxBdPBiaTcOJoJnnrlB7jUQy1tiaDExophPgdN9XnHSAQfdjWlqxmCsDRelsdK9aSvbgIzBLGNbNYiadiclMkLU/0?wx_fmt=jpeg",
+    "syncTime": 1779979071,
+    "updateTime": 1779955128,
+    "articleCount": 7
+  },
+  {
     "id": "大厂日爆",
     "fakeid": "MzIyMzM3NDY5Ng==",
     "name": "大厂日爆",
