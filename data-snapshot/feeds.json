@@ -1,9 +1,245 @@
 [
   {
-    "id": "MP_PLACEHOLDER_001",
-    "name": "字节跳动招聘",
+    "id": "dachang_ribao",
+    "name": "大厂日爆",
+    "company": "industry",
     "cover": "",
-    "syncTime": 0,
-    "updateTime": 0
+    "syncTime": 1779975126,
+    "updateTime": 1770270459,
+    "articleCount": 2
+  },
+  {
+    "id": "tiantiankaiq",
+    "name": "天天开柒",
+    "company": "industry",
+    "cover": "",
+    "syncTime": 1779975129,
+    "updateTime": 1779157240,
+    "articleCount": 1
+  },
+  {
+    "id": "fangjian_bagua",
+    "name": "互联网坊间八卦",
+    "company": "industry",
+    "cover": "",
+    "syncTime": 1779975132,
+    "updateTime": 1779975132,
+    "articleCount": 0
+  },
+  {
+    "id": "shen_ma_pq",
+    "name": "申妈的朋友圈",
+    "company": "industry",
+    "cover": "",
+    "syncTime": 1779975135,
+    "updateTime": 1715326353,
+    "articleCount": 2
+  },
+  {
+    "id": "zijie_fan",
+    "name": "字节范儿",
+    "company": "industry",
+    "cover": "",
+    "syncTime": 1779975138,
+    "updateTime": 1598327901,
+    "articleCount": 5
+  },
+  {
+    "id": "huxiucom",
+    "name": "虎嗅APP",
+    "company": "industry",
+    "cover": "",
+    "syncTime": 1779975142,
+    "updateTime": 1560299603,
+    "articleCount": 2
+  },
+  {
+    "id": "latepost",
+    "name": "晚点LatePost",
+    "company": "industry",
+    "cover": "",
+    "syncTime": 1779975145,
+    "updateTime": 1579599344,
+    "articleCount": 2
+  },
+  {
+    "id": "almosthuman2014",
+    "name": "机器之心",
+    "company": "industry",
+    "cover": "",
+    "syncTime": 1779975148,
+    "updateTime": 1494483651,
+    "articleCount": 9
+  },
+  {
+    "id": "infoqchina",
+    "name": "InfoQ",
+    "company": "industry",
+    "cover": "",
+    "syncTime": 1779975151,
+    "updateTime": 1672223262,
+    "articleCount": 7
+  },
+  {
+    "id": "QbitAI",
+    "name": "量子位",
+    "company": "industry",
+    "cover": "",
+    "syncTime": 1779975155,
+    "updateTime": 1779974150,
+    "articleCount": 1
+  },
+  {
+    "id": "ByteDanceRecruit",
+    "name": "字节跳动招聘",
+    "company": "bytedance",
+    "cover": "",
+    "syncTime": 1779975158,
+    "updateTime": 1779975158,
+    "articleCount": 0
+  },
+  {
+    "id": "bytedanceseed",
+    "name": "字节跳动Seed",
+    "company": "bytedance",
+    "cover": "",
+    "syncTime": 1779975161,
+    "updateTime": 1779975161,
+    "articleCount": 0
+  },
+  {
+    "id": "BytedanceTech",
+    "name": "字节跳动技术团队",
+    "company": "bytedance",
+    "cover": "",
+    "syncTime": 1779975164,
+    "updateTime": 1601432564,
+    "articleCount": 5
+  },
+  {
+    "id": "dachang_youth",
+    "name": "大厂青年",
+    "company": "bytedance",
+    "cover": "",
+    "syncTime": 1779975168,
+    "updateTime": 1779975168,
+    "articleCount": 0
+  },
+  {
+    "id": "TencentRecruit",
+    "name": "腾讯招聘",
+    "company": "tencent",
+    "cover": "",
+    "syncTime": 1779975171,
+    "updateTime": 1583465801,
+    "articleCount": 1
+  },
+  {
+    "id": "TencentCulture",
+    "name": "腾讯文化",
+    "company": "tencent",
+    "cover": "",
+    "syncTime": 1779975174,
+    "updateTime": 1477917955,
+    "articleCount": 1
+  },
+  {
+    "id": "Tencent_TEG",
+    "name": "腾讯技术工程",
+    "company": "tencent",
+    "cover": "",
+    "syncTime": 1779975177,
+    "updateTime": 1609409283,
+    "articleCount": 3
+  },
+  {
+    "id": "AlibabaRecruit",
+    "name": "阿里巴巴集团招聘",
+    "company": "alibaba",
+    "cover": "",
+    "syncTime": 1779975181,
+    "updateTime": 1779975181,
+    "articleCount": 0
+  },
+  {
+    "id": "ali_tech",
+    "name": "阿里技术",
+    "company": "alibaba",
+    "cover": "",
+    "syncTime": 1779975184,
+    "updateTime": 1779975184,
+    "articleCount": 0
+  },
+  {
+    "id": "MeituanRecruit",
+    "name": "美团招聘",
+    "company": "meituan",
+    "cover": "",
+    "syncTime": 1779975187,
+    "updateTime": 1779975187,
+    "articleCount": 0
+  },
+  {
+    "id": "meituantech",
+    "name": "美团技术团队",
+    "company": "meituan",
+    "cover": "",
+    "syncTime": 1779975191,
+    "updateTime": 1779975191,
+    "articleCount": 0
+  },
+  {
+    "id": "redRecruit",
+    "name": "小红书招聘",
+    "company": "xiaohongshu",
+    "cover": "",
+    "syncTime": 1779975194,
+    "updateTime": 1779975194,
+    "articleCount": 0
+  },
+  {
+    "id": "xiaohongshu_ren",
+    "name": "是小红书人啊",
+    "company": "xiaohongshu",
+    "cover": "",
+    "syncTime": 1779975197,
+    "updateTime": 1713953145,
+    "articleCount": 1
+  },
+  {
+    "id": "xiaohongshuREDtech",
+    "name": "小红书技术REDtech",
+    "company": "xiaohongshu",
+    "cover": "",
+    "syncTime": 1779975200,
+    "updateTime": 1707045926,
+    "articleCount": 8
+  },
+  {
+    "id": "baidurecruit",
+    "name": "百度招聘",
+    "company": "baidu",
+    "cover": "",
+    "syncTime": 1779975204,
+    "updateTime": 1779975204,
+    "articleCount": 0
+  },
+  {
+    "id": "baidu_gongsi",
+    "name": "百度",
+    "company": "baidu",
+    "cover": "",
+    "syncTime": 1779975207,
+    "updateTime": 1577064830,
+    "articleCount": 2
+  },
+  {
+    "id": "wenxin_baidu",
+    "name": "百度文心",
+    "company": "baidu",
+    "cover": "",
+    "syncTime": 1779975210,
+    "updateTime": 1779975210,
+    "articleCount": 0
   }
 ]
