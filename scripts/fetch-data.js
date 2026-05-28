@@ -1,252 +1,246 @@
 #!/usr/bin/env node
 /**
- * fetch-data.js — v4.2 (搜狗微信搜索版，精确来源过滤)
+ * fetch-data.js — 全量抓取所有公众号文章 v5.0
+ * 使用微信公众号后台 appmsg 接口（可查看任意公众号文章列表）
  *
- * 通过搜狗微信搜索抓取公众号最新文章，无需账号 Cookie。
  * 环境变量:
- *   MAX_ARTICLES  - 每个公众号最多保存文章数（默认 10）
- *
- * 字段说明:
- *   name       公众号显示名称（也作为搜狗搜索关键词）
- *   id         文件名用的短 ID（无特殊字符）
- *   matchName  可选，搜索结果来源字段的精确匹配名（当 name 匹配效果差时用）
+ *   WECHAT_COOKIE  — 微信公众号后台 Cookie
+ *   WECHAT_TOKEN   — 微信公众号后台 Token（URL 中的数字）
+ *   MAX_ARTICLES   — 每个账号最多抓取篇数（默认30）
  */
 
-
-const fs = require('fs');
+const fs   = require('fs');
 const path = require('path');
 const https = require('https');
-const http = require('http');
 
-const MAX_ARTICLES = parseInt(process.env.MAX_ARTICLES || '10', 10);
+const COOKIE       = process.env.WECHAT_COOKIE || '';
+const TOKEN        = process.env.WECHAT_TOKEN  || '';
+const MAX_PER_ACCT = parseInt(process.env.MAX_ARTICLES || '30', 10);
 const SNAPSHOT_DIR = path.join(__dirname, '..', 'data-snapshot');
 
-const ACCOUNT_CONFIG = {
-  industry: [
-    { name: '大厂日爆',         id: 'dachang_ribao' },
-    { name: '天天开柒',         id: 'tiantiankaiq' },
-    { name: '互联网坊间八卦',   id: 'fangjian_bagua' },
-    { name: '申妈的朋友圈',     id: 'shen_ma_pq' },
-    { name: '字节范儿',         id: 'zijie_fan' },
-    { name: '虎嗅APP',          id: 'huxiucom',      matchName: '虎嗅' },
-    { name: '晚点LatePost',     id: 'latepost',      matchName: '晚点LatePost' },
-    { name: '机器之心',         id: 'almosthuman2014' },
-    { name: 'InfoQ',            id: 'infoqchina',    matchName: 'InfoQ' },
-    { name: '量子位',           id: 'QbitAI' },
-  ],
-  bytedance: [
-    { name: '字节跳动招聘',     id: 'ByteDanceRecruit', matchName: '字节跳动招聘' },
-    { name: '字节跳动Seed',     id: 'bytedanceseed',    matchName: '字节跳动Seed' },
-    { name: '字节跳动技术团队', id: 'BytedanceTech',    matchName: '字节跳动技术团队' },
-    { name: '大厂青年',         id: 'dachang_youth' },
-  ],
-  tencent: [
-    { name: '腾讯招聘',         id: 'TencentRecruit' },
-    { name: '腾讯文化',         id: 'TencentCulture' },
-    { name: '腾讯技术工程',     id: 'Tencent_TEG',   matchName: '腾讯技术工程' },
-  ],
-  alibaba: [
-    { name: '阿里巴巴集团招聘', id: 'AlibabaRecruit', matchName: '阿里巴巴集团招聘' },
-    { name: '阿里技术',         id: 'ali_tech',       matchName: '阿里技术' },
-  ],
-  meituan: [
-    { name: '美团招聘',         id: 'MeituanRecruit', matchName: '美团招聘' },
-    { name: '美团技术团队',     id: 'meituantech',    matchName: '美团技术团队' },
-  ],
-  xiaohongshu: [
-    { name: '小红书招聘',        id: 'redRecruit',           matchName: '小红书招聘' },
-    { name: '是小红书人啊',      id: 'xiaohongshu_ren' },
-    { name: '小红书技术REDtech', id: 'xiaohongshuREDtech',   matchName: '小红书技术REDtech' },
-  ],
-  baidu: [
-    { name: '百度招聘',         id: 'baidurecruit',   matchName: '百度招聘' },
-    { name: '百度',             id: 'baidu_gongsi',   matchName: '百度' },
-    { name: '百度文心',         id: 'wenxin_baidu',   matchName: '文心一言' },
-  ],
-};
-
-const ALL_ACCOUNTS = Object.entries(ACCOUNT_CONFIG).flatMap(([company, accounts]) =>
-  accounts.map(acc => ({ ...acc, company }))
-);
+// ============================================================
+// 目标账号列表
+// ============================================================
+const TARGET_ACCOUNTS = [
+  // 行业资讯
+  { name: '大厂日爆',          company: 'industry' },
+  { name: '天天开柒',          company: 'industry' },
+  { name: '互联网坊间八卦',    company: 'industry' },
+  { name: '申妈的朋友圈',      company: 'industry' },
+  { name: '字节范儿',          company: 'industry' },
+  { name: '虎嗅APP',           company: 'industry' },
+  { name: '晚点LatePost',      company: 'industry' },
+  { name: '机器之心',          company: 'industry' },
+  { name: 'InfoQ',             company: 'industry' },
+  { name: '量子位',            company: 'industry' },
+  // 字节跳动
+  { name: '字节跳动招聘',      company: 'bytedance' },
+  { name: '字节跳动Seed',      company: 'bytedance' },
+  { name: '字节跳动技术团队',  company: 'bytedance' },
+  { name: '大厂青年',          company: 'bytedance' },
+  // 腾讯
+  { name: '腾讯招聘',          company: 'tencent' },
+  { name: '腾讯文化',          company: 'tencent' },
+  { name: '腾讯技术工程',      company: 'tencent' },
+  // 阿里
+  { name: '阿里巴巴集团招聘',  company: 'alibaba' },
+  { name: '阿里技术',          company: 'alibaba' },
+  // 美团
+  { name: '美团招聘',          company: 'meituan' },
+  { name: '美团技术团队',      company: 'meituan' },
+  // 小红书
+  { name: '小红书招聘',        company: 'xiaohongshu' },
+  { name: '是小红书人啊',      company: 'xiaohongshu' },
+  { name: '小红书技术REDtech', company: 'xiaohongshu' },
+  // 百度
+  { name: '百度招聘',          company: 'baidu' },
+  { name: '百度APP',           company: 'baidu' },
+  { name: '百度文心',          company: 'baidu' },
+];
 
 // ============================================================
-// HTTP 工具（支持重定向）
+// HTTP 工具
 // ============================================================
-function fetchUrl(url, options = {}, timeout = 20000, maxRedirects = 5) {
+function apiGet(url) {
   return new Promise((resolve, reject) => {
-    if (maxRedirects < 0) return reject(new Error('Too many redirects'));
-    const mod = url.startsWith('https') ? https : http;
-    const defaultHeaders = {
-      'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
-      'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
-      'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8',
-      'Accept-Encoding': 'identity',
-    };
-    const req = mod.get(url, { ...options, timeout, headers: { ...defaultHeaders, ...(options.headers || {}) } }, (res) => {
-      const loc = res.headers.location;
-      if ([301, 302, 307, 308].includes(res.statusCode) && loc) {
-        const next = loc.startsWith('http') ? loc : new URL(loc, url).href;
-        return fetchUrl(next, options, timeout, maxRedirects - 1).then(resolve).catch(reject);
+    const req = https.get(url, {
+      timeout: 20000,
+      headers: {
+        'Cookie': COOKIE,
+        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36',
+        'Referer': `https://mp.weixin.qq.com/cgi-bin/home?t=home/index&lang=zh_CN&token=${TOKEN}`,
+        'X-Requested-With': 'XMLHttpRequest',
+        'Accept': '*/*',
+        'Accept-Language': 'zh-CN,zh;q=0.9',
       }
-      let data = '';
-      res.setEncoding('utf8');
-      res.on('data', chunk => data += chunk);
-      res.on('end', () => resolve({ status: res.statusCode, body: data }));
+    }, (res) => {
+      let data = ''; res.setEncoding('utf8');
+      res.on('data', c => data += c);
+      res.on('end', () => {
+        try { resolve(JSON.parse(data)); }
+        catch(e) { resolve({ _raw: data.substring(0, 300), _parseErr: e.message }); }
+      });
     });
-    req.on('timeout', () => { req.destroy(); reject(new Error(`Timeout: ${url}`)); });
+    req.on('timeout', () => { req.destroy(); reject(new Error('Request timeout')); });
     req.on('error', reject);
   });
 }
 
+function sleep(ms) { return new Promise(r => setTimeout(r, ms)); }
+
 // ============================================================
-// 搜狗微信搜索解析
-// 格式: /link?url=ENCRYPTED_TOKEN&type=2&query=XXX
-// 解析为: https://weixin.sogou.com/link?url=...
+// Step 1: searchbiz → 获取 fakeid
 // ============================================================
-function cleanHtml(str) {
-  return str
-    .replace(/<!--red_beg-->/g, '').replace(/<!--red_end-->/g, '')
-    .replace(/<em>/g, '').replace(/<\/em>/g, '')
-    .replace(/<[^>]+>/g, '')
-    .replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&quot;/g, '"')
-    .replace(/\s+/g, ' ').trim();
+async function searchFakeid(accountName) {
+  const url = `https://mp.weixin.qq.com/cgi-bin/searchbiz?action=search_biz&begin=0&count=5&query=${encodeURIComponent(accountName)}&token=${TOKEN}&lang=zh_CN&f=json&ajax=1`;
+  const data = await apiGet(url);
+
+  const ret = data.base_resp?.ret;
+  if (ret === 200003) throw new Error('SESSION_EXPIRED');
+  if (ret !== 0) throw new Error(`searchbiz ret=${ret}: ${data.base_resp?.err_msg}`);
+
+  const list = data.list || [];
+  if (list.length === 0) return null;
+
+  // 精确匹配优先（忽略空格大小写）
+  const norm = s => s.replace(/\s+/g,'').toLowerCase();
+  const exact = list.find(item => norm(item.nickname) === norm(accountName));
+  return exact || list[0];
 }
 
-async function fetchBySogou(account) {
-  const { name: accountName, id: accountId, matchName } = account;
-  const exactMatch = matchName || accountName;
-  const query = encodeURIComponent(accountName);
-  const url = `https://weixin.sogou.com/weixin?type=2&query=${query}&ie=utf8`;
-
-  const { status, body } = await fetchUrl(url);
-  if (status !== 200) throw new Error(`搜狗 HTTP ${status}`);
-
+// ============================================================
+// Step 2: appmsg → 获取文章列表
+// ============================================================
+async function fetchArticles(fakeid, maxCount) {
   const articles = [];
-  const blockRe = /<div class="txt-box">([\s\S]*?)(?=<div class="txt-box">|<div class="pagination">|$)/g;
+  let begin = 0;
+  const pageSize = 10;
 
-  let block;
-  while ((block = blockRe.exec(body)) !== null && articles.length < MAX_ARTICLES) {
-    const html = block[1];
+  while (articles.length < maxCount) {
+    const url = `https://mp.weixin.qq.com/cgi-bin/appmsg?action=list_ex&begin=${begin}&count=${pageSize}&fakeid=${encodeURIComponent(fakeid)}&type=9&query=&token=${TOKEN}&lang=zh_CN&f=json&ajax=1`;
+    const data = await apiGet(url);
 
-    // 1. 提取来源（公众号名称）— 先检查来源，过滤掉非目标账号的文章
-    const sourceMatch = html.match(/<span class="all-time-y2"[^>]*>([\s\S]*?)<\/span>/);
-    const source = sourceMatch ? cleanHtml(sourceMatch[1]) : '';
+    const ret = data.base_resp?.ret;
+    if (ret === 200003) throw new Error('SESSION_EXPIRED');
+    if (ret !== 0) throw new Error(`appmsg ret=${ret}: ${data.base_resp?.err_msg}`);
 
-    const sourceNorm = source.replace(/\s+/g, '').toLowerCase();
-    const exactNorm = exactMatch.replace(/\s+/g, '').toLowerCase();
-    const nameNorm = accountName.replace(/\s+/g, '').toLowerCase();
+    const list = data.app_msg_list || [];
+    if (list.length === 0) break;
 
-    // matchName 时精确匹配，否则宽松匹配
-    const isMatch = matchName
-      ? (!source || sourceNorm === exactNorm || sourceNorm.includes(exactNorm))
-      : (!source || sourceNorm === nameNorm || sourceNorm.includes(nameNorm) ||
-         nameNorm.includes(sourceNorm) ||
-         (nameNorm.match(/[a-z]+/g) || []).some(w => w.length > 2 && sourceNorm.includes(w)));
+    for (const msg of list) {
+      if (articles.length >= maxCount) break;
+      articles.push({
+        id:          String(msg.aid || msg.appmsgid || ''),
+        title:       (msg.title || '').trim(),
+        link:        msg.link || '',
+        publishTime: msg.update_time || msg.create_time || 0,
+        cover:       msg.cover || msg.pic_url || '',
+        digest:      (msg.digest || '').trim().substring(0, 120),
+        author:      msg.author || '',
+        feedId:      fakeid,
+      });
+    }
 
-    if (!isMatch) continue;
-
-    // 2. 提取标题和链接
-    const linkMatch = html.match(/<a[^>]+href="(\/link\?[^"]+)"[^>]*>([\s\S]*?)<\/a>/);
-    if (!linkMatch) continue;
-
-    const rawLink = 'https://weixin.sogou.com' + linkMatch[1].replace(/&amp;/g, '&');
-    const rawTitle = cleanHtml(linkMatch[2]);
-    if (!rawTitle) continue;
-
-    // 3. 提取时间（timeConvert 参数是 Unix 时间戳）
-    const timeMatch = html.match(/timeConvert\('(\d+)'\)/);
-    const publishTime = timeMatch ? parseInt(timeMatch[1]) : Math.floor(Date.now() / 1000);
-
-    // 4. 提取摘要
-    const digestMatch = html.match(/<p class="txt-info"[^>]*>([\s\S]*?)<\/p>/);
-    const digest = digestMatch ? cleanHtml(digestMatch[1]).substring(0, 120) : '';
-
-    // 5. 生成唯一 ID
-    const idMatch = rawLink.match(/url=([^&]+)/);
-    const articleId = idMatch ? idMatch[1].substring(0, 20) : String(publishTime);
-
-    articles.push({
-      id: articleId,
-      title: rawTitle.substring(0, 100),
-      link: rawLink,       // 搜狗中转链接，会重定向到微信文章
-      publishTime,
-      cover: '',
-      digest,
-      source: source || accountName,
-      feedId: accountId,
-    });
+    if (list.length < pageSize) break; // 没有更多
+    begin += pageSize;
+    await sleep(600);
   }
 
-  return articles;
-}
-
-function sleep(ms) {
-  return new Promise(resolve => setTimeout(resolve, ms));
+  return articles.filter(a => a.title);
 }
 
 // ============================================================
 // 主逻辑
 // ============================================================
 async function main() {
-  console.log('🚀 开始拉取数据（搜狗微信搜索 v4.1）...');
-  console.log(`📊 监测账号: ${ALL_ACCOUNTS.length} 个`);
-
-  if (!fs.existsSync(SNAPSHOT_DIR)) {
-    fs.mkdirSync(SNAPSHOT_DIR, { recursive: true });
+  if (!COOKIE || !TOKEN) {
+    console.error('❌ 缺少 WECHAT_COOKIE 或 WECHAT_TOKEN');
+    process.exit(1);
   }
 
-  const feedsMeta = [];
-  let totalArticles = 0;
-  let successCount = 0;
-  let failCount = 0;
+  console.log(`🚀 开始全量抓取 ${TARGET_ACCOUNTS.length} 个公众号 (最多每号 ${MAX_PER_ACCT} 篇)`);
+  if (!fs.existsSync(SNAPSHOT_DIR)) fs.mkdirSync(SNAPSHOT_DIR, { recursive: true });
 
-  for (const account of ALL_ACCOUNTS) {
-    const { name, id, company } = account;
-    console.log(`  📥 [${company}] ${name}...`);
+  // 加载 fakeid 缓存（避免重复 searchbiz）
+  const cacheFile = path.join(SNAPSHOT_DIR, 'fakeid-cache.json');
+  const fakeidCache = fs.existsSync(cacheFile)
+    ? JSON.parse(fs.readFileSync(cacheFile, 'utf8'))
+    : {};
+
+  const feedsMeta = [];
+  let totalArticles = 0, successes = 0, failures = 0;
+
+  for (const account of TARGET_ACCOUNTS) {
+    const { name, company } = account;
+    process.stdout.write(`  [${company}] ${name}... `);
 
     try {
-      const articles = await fetchBySogou(account);
+      // -- 获取 fakeid --
+      let fakeid = fakeidCache[name];
+      let nickname = name;
 
-      if (articles.length === 0) {
-        console.warn(`  ⚠️  ${name}: 未搜到文章（可能搜狗被限流）`);
-      } else {
-        console.log(`  ✅ ${name}: ${articles.length} 篇`);
+      if (!fakeid) {
+        await sleep(800);
+        const result = await searchFakeid(name);
+        if (!result) {
+          console.log('⚠️  未搜索到账号');
+          failures++;
+          continue;
+        }
+        fakeid   = result.fakeid;
+        nickname = result.nickname || name;
+        fakeidCache[name] = fakeid;
+        fs.writeFileSync(cacheFile, JSON.stringify(fakeidCache, null, 2));
       }
 
+      // -- 抓取文章 --
+      await sleep(600);
+      const articles = await fetchArticles(fakeid, MAX_PER_ACCT);
+
+      // 以 name 的安全版本作为文件名
+      const safeId = name.replace(/[^a-zA-Z0-9\u4e00-\u9fa5]/g, '_');
       const syncTime = Math.floor(Date.now() / 1000);
+
       feedsMeta.push({
-        id, name, company,
-        cover: '',
+        id:           safeId,
+        fakeid,
+        name:         nickname,
+        displayName:  name,
+        company,
+        cover:        articles[0]?.cover || '',
         syncTime,
-        updateTime: articles[0]?.publishTime || syncTime,
+        updateTime:   articles[0]?.publishTime || syncTime,
         articleCount: articles.length,
       });
 
       fs.writeFileSync(
-        path.join(SNAPSHOT_DIR, `${id}.json`),
+        path.join(SNAPSHOT_DIR, `${safeId}.json`),
         JSON.stringify(articles, null, 2)
       );
 
       totalArticles += articles.length;
-      successCount++;
-      await sleep(2500);  // 搜狗限流保护
+      successes++;
+      console.log(`✅ ${articles.length} 篇`);
+      await sleep(1000);
 
     } catch(e) {
-      console.error(`  ❌ ${name}: ${e.message}`);
-      failCount++;
-      const emptyFile = path.join(SNAPSHOT_DIR, `${id}.json`);
-      if (!fs.existsSync(emptyFile)) {
-        fs.writeFileSync(emptyFile, JSON.stringify([], null, 2));
+      console.log(`❌ ${e.message.substring(0, 80)}`);
+      failures++;
+      if (e.message === 'SESSION_EXPIRED') {
+        console.error('\n💀 Cookie/Token 已失效！请重新登录微信公众号后台并更新 WECHAT_COOKIE 和 WECHAT_TOKEN。');
+        break;
       }
     }
   }
 
+  // 写总索引
   fs.writeFileSync(
     path.join(SNAPSHOT_DIR, 'feeds.json'),
     JSON.stringify(feedsMeta, null, 2)
   );
 
-  console.log(`\n📊 完成！✅ ${successCount} 个成功 (${totalArticles} 篇) | ❌ ${failCount} 个失败`);
+  console.log(`\n📊 抓取完成: ✅ ${successes} 成功 (${totalArticles} 篇) | ❌ ${failures} 失败`);
+  if (failures > 0) process.exit(1);
 }
 
-main().catch(e => { console.error('💥', e); process.exit(1); });
+main().catch(e => { console.error('💥', e.message); process.exit(1); });

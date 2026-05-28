@@ -1,0 +1,42 @@
+[
+  {
+    "id": "2247509622_1",
+    "title": "让项目管理也 AI Native —— 两个 Git 仓库干掉了周报、洞察和效能报表",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247509622&idx=1&sn=1fcb4838aac320dd7365ba534e8bc696&chksm=cfa6b695f8d13f8325e62c50d0cd57457669cf69d4058c5be297595e8c6fc4177a0544756d5f#rd",
+    "publishTime": 1779966342,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/kN3t5R6pdz5PoRtV8qiaia999LV5kVNyfHmJXtpJXQXmNeF07WBFiaFBfAA17Lia250Qsh89RBzLG48e6rhaibYjI7CCm6NKeJXMWxk2Nwb7bVj4/0?wx_fmt=jpeg",
+    "digest": "",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247509605_1",
+    "title": "从语言涌现到协作涌现：如何让 AI 产生高质量决策",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247509605&idx=1&sn=45be5e8b0426154f4dc4d4b6b56d52dc&chksm=cfa6b686f8d13f902df7917aac958425eb9409b985e07ffe8e9626cc55a1cd9f007d4bee7d7f#rd",
+    "publishTime": 1779877768,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/kN3t5R6pdz5UcSRkUr2OgWfOJUYGsooibNL895icsonkyCbIn6Xk7gicoucW9mMe2xiaTg5LlfH5GOMxxTsoibgJHlJLGpG8pVcZzsqQTibEBXXHY/0?wx_fmt=jpeg",
+    "digest": "AI NATIVE组织/业务自迭代 由AI 能否产生高质量决策决定。",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247509566_1",
+    "title": "近9倍训练加速：DiT里的残差流，正在成为收敛瓶颈",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247509566&idx=1&sn=ace75be905d15523692f57dcd02142a4&chksm=cfa6b6ddf8d13fcbbb13fd3119b690f608e6cd389ab3783e1aa312dcade3af01421bee160ba3#rd",
+    "publishTime": 1779792605,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/kN3t5R6pdz5KzfdibZicd9TkAywHOoDgiafdtgO4jSy1WA8bLYFlicaYTGZuNPxDolhNO0YfAssOvkQvTD0OIRhN36KpX8SpKpAiaA6uV28de4s4/0?wx_fmt=jpeg",
+    "digest": "本文工作由南京大学机器学习与数据挖掘研究所与阿里巴巴智能引擎团队合作完成。",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247509516_1",
+    "title": "从0到1搭建 Agent ：Agent 原理分析及个人助手实践（长文干货）",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247509516&idx=1&sn=0ffc19c81f807e83e59bae292205bdf9&chksm=cfa6b6eff8d13ff9f58a08653276587cb160eeee5f71b7b160a73cbf5a691a8196c1fbcc2478#rd",
+    "publishTime": 1779362902,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/kN3t5R6pdz7fZn11UtXic0YdX9xe3hzdVt3krvatZmDS1TvIyduFRicyicmt3NxoS9RfaQwaOa1k4nBiaZicqGEgW68HHdxLrB2kjg5sfyrYFDSE/0?wx_fmt=jpeg",
+    "digest": "本文系统阐述了Agent的关键技术原理以及实践案例。",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  }
+]

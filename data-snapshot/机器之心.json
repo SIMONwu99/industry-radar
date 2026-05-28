@@ -1,0 +1,302 @@
+[
+  {
+    "id": "2651035468_1",
+    "title": "刚刚，国产预训练具身大模型开源了，让后训练不再是必选项！",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651035468&idx=1&sn=36799d5092c0657548b5c4c1be82a6fc&chksm=84e65332b391da2480b031e5ed7a0a7fda1ebd5dc716ffcb08b4d3bac1f1673536e685b11917#rd",
+    "publishTime": 1779942600,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqH5ckMdib1JIf1cY0DJMGnCGgT7NhjQ71rJQy2T74JwjGCVHeEpJXGJWsuibQH9HhcugibXlnSwZayQ1VS0tRq8Me9CWrC1yr76aU/0?wx_fmt=jpeg",
+    "digest": "预训练模型到底能不能直接使用？能！",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
+    "id": "2651035468_2",
+    "title": "多变量神经缩放定律迈向大一统：Mila联手DeepMind提出UNSL",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651035468&idx=2&sn=04c057ee3ddfb6194df95cb4f6c03ef2&chksm=84e65332b391da249e8a9a35e1dc603e56c894441545b7c33cb6ad2cc3dba26d906107016309#rd",
+    "publishTime": 1779942600,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqFWBibQa8mTncFBETfsF5ib1nnibcqTRweHjFNoeP5F28BPME8v2kAXYSUicF3k9fMAjA5jyxKOPJhQ9EgTBuQOjgRNxsOIMP9OVLw/0?wx_fmt=jpeg",
+    "digest": "大模型规模化的「万能公式」？",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
+    "id": "2651035468_3",
+    "title": "ICML2026 | AutoMoT : B2D & nuScense双SOTA ，重新思考VLM和端到端驾驶的结合",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651035468&idx=3&sn=c2d8f60bfc41fea7fcdfcd7d25b83291&chksm=84e65332b391da249beb98da7ad1fe1654ac75b5b4d9e7da3fbaa8086dd692e95c6bbd2c6aa1#rd",
+    "publishTime": 1779942600,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqGGMQh3D34iaWm8jeQFrhgZkhLdvbqjqfhjkq4cUrkVy1icicH5wicmlUu49WvuicLu1EKNMzNo9eT2ichItaOM9aELQNrQ86XVib0fN8/0?wx_fmt=jpeg",
+    "digest": "大模型的理解能力，如何真正服务于驾驶决策和轨迹规划？",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
+    "id": "2651035341_1",
+    "title": "让机器人「摸到」世界，复旦系新智具身完成近亿元天使轮融资",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651035341&idx=1&sn=f6bd20a948a53fcc1f07d80de8c02be2&chksm=84e652b3b391dba509994df7f065f927b5916b65d6aa31d3537f7fbd9d1792350888eb634f20#rd",
+    "publishTime": 1779854125,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqE5j2XYCYYIm1hCopI9zrhBAEJqJkhA1AnltwBAtKBjv3zpZGOcTrEK5hEtL7zxStcdTaibbCxpl4eRl7ah9CYo93WK8gVYdCTM/0?wx_fmt=jpeg",
+    "digest": "触觉，正在进入机器人模型训练链路！",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
+    "id": "2651035341_2",
+    "title": "AMD新论文颠覆认知：FP4训练不稳定，原因不是随机性不足",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651035341&idx=2&sn=60922570204a163ed48f2515c8e3ef97&chksm=84e652b3b391dba5561acfaa10b52c3d5d904ae80f93426411a682b51d1f733adb67b7cf08f9#rd",
+    "publishTime": 1779854125,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqGyf5ov1Gpziat3m4Rw3dHficqiaspMjsibUqcb4thOFk4FbZTWibK7zNlaNicmYJR2IbtOqvA3nRcxIn0TabWB9984Oqn0nPqXvXT9U/0?wx_fmt=jpeg",
+    "digest": "在原生 FP4 硬件上实现端到端 9-10% 的训练加速",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
+    "id": "2651035341_3",
+    "title": "从Foundation Model到Physical AI，三星「杀入」大模型核心战场",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651035341&idx=3&sn=c24ab7c8c7275ac2e9e050dec831c77b&chksm=84e652b3b391dba5ad9602b11f3066dab9a624fd37bfe778398b6eb3fd2e859914db53a3ed82#rd",
+    "publishTime": 1779854125,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqFnUIXXjBMqLmXLJhBCBFJEIqalDx9DK5A0EFDSicpqIXVux6A58I1AkP6hVCBObLosFXnXDYTuHV15ibVHn1a7fS7CSeHgldoLM/0?wx_fmt=jpeg",
+    "digest": "路线不同于互联网公司，优势在物理世界！",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
+    "id": "2651035127_1",
+    "title": "不用人类手写训练框架了！AI自己写代码，训出1B端侧「小钢炮」",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651035127&idx=1&sn=1699c9c08063a1f8faf96f5b49fa8c65&chksm=84e65189b391d89fb445a27b245e993b6e110b888b998bccf69270308724b61f8c00d9ac5981#rd",
+    "publishTime": 1779772528,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqHSLic7icDDKptuaMuNiaTkj3gad5tHXXmwTkKSad2n17icaBg8ibnYDGunav9MYfZ3hVjCGibN4blREWSrHLr9xrtBcHZbejZDY7Ikg/0?wx_fmt=jpeg",
+    "digest": "大模型训练框架被 AI 写出来了",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
+    "id": "2651035127_2",
+    "title": "xAI解散，但Grok还在上新，马斯克官宣新模型",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651035127&idx=2&sn=1fe5e71984f4b8b517ec1349f180be3a&chksm=84e65189b391d89f66459e9e93fbb49f36eb79debd66db670b535f8926ace590b79efe5ef875#rd",
+    "publishTime": 1779772528,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqEs9rGkHQPEoR0muibOhPdEibibvSsAhZusAstjXMyb4W5BfArE6PkTNUGaFjv4T53TmnjdVe7HzYX7hpsaFUtOj2sYZ3o6LuIgoU/0?wx_fmt=jpeg",
+    "digest": "参数量达 1.5T 的 Grok 基础模型 V9-Medium 已经完成训练",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
+    "id": "2651035127_3",
+    "title": "ACL 2026 Main | 不只是调用地图API，Spatial-Agent让大模型生成可执行地理分析工作流",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651035127&idx=3&sn=8ab7d2ab168b69b610e70f4574698b90&chksm=84e65189b391d89f527c3867068d586f3b574909b4cfbefcac766a9a8bf7a24de1a26bf78306#rd",
+    "publishTime": 1779772528,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqGIOViaYaC8uGkSrtl0uhAfVjardZLgprYYFNwnLFZT98vglhr43psSrhRuDwUaF5QSX6RLsJzalDLnerW9WUUPicaGNApwHD0qE/0?wx_fmt=jpeg",
+    "digest": "把用户的自然语言问题组织成一段可执行、可验证的地理分析流程。",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
+    "id": "2651034802_1",
+    "title": "性能超越李飞飞，他们把10亿高斯点的3D世界装进浏览器",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651034802&idx=1&sn=aca7d8c47e9a0e86138d845b09d9e70a&chksm=84e650ccb391d9dabb8680368a7910fea6ff5a5ad4af9863996308a7fe545f3e3f98abefc415#rd",
+    "publishTime": 1779690667,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqEGQ9o8K2zbLSIjiaurhuGz2WaoPHwAc0nHbbqaBtPKJha7DGvUvODnZKoXM4qXtYctTu7bibD7mKgjwasjK96icX58w3r4TRVGuE/0?wx_fmt=jpeg",
+    "digest": "信息载体的下一站，从二维走向三维。",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
+    "id": "2651034802_2",
+    "title": "告别多奖励跷跷板：Flow-OPD将多教师OPD带入图像生成",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651034802&idx=2&sn=8073f8f1de5678cc24a4b43a269766f2&chksm=84e650ccb391d9da713eef508f40d2b362bd0eed310d07e2e2c04cad6c03b26ecdbbe122e97a#rd",
+    "publishTime": 1779690667,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqGQstq5o27Aia9bShSmONMKhEK8eYZwGTukSKsVeGndhibDEQIr936pUicusFvZGcCZVI2uUiblMUeV8iceKyEBfjXueLd2S8lBcGwg/0?wx_fmt=jpeg",
+    "digest": "首个将 OPD 引入流匹配模型的统一多任务后训练框架",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
+    "id": "2651034676_1",
+    "title": "Meta大裁员的「幸存者」 们，正在经历进退两难...",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651034676&idx=1&sn=482cab0e6a46ee12b9d94f253bf86e92&chksm=84e6504ab391d95ce311ef28a8339c4a6af3e30091bdfd389176964e038501aa51cb326cde66#rd",
+    "publishTime": 1779606000,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqFsnp11bx9gicAic25RiavBC8QcrBODC063KXib2AEBcVPiaP5k3oQOS4PM3DFsIZ5TUVlTJbmFFjUPB9LMZ6LZCPIEvCUoCxGR3gMs/0?wx_fmt=jpeg",
+    "digest": "妥协留下，还是被迫出走？",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
+    "id": "2651034676_2",
+    "title": "ICML 2026｜首个视觉语言模型并行思考框架，一文解析内在机制",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651034676&idx=2&sn=fdba4b43608ed22b18b1d4e7383e23cb&chksm=84e6504ab391d95c1302eb1e1ca2af27914a8369564d1b988c3cf36ed2bdfc7294e2921e94ac#rd",
+    "publishTime": 1779606000,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqGrI6YiaVdCNPRV38zVIwot7qUyzZHT08icICKSsTR6w77ARkwfar8LvM9nibf8l23pTTKJZ1oSh4FDiaibPk9OovmsUTxGR4yy4AcQ/0?wx_fmt=jpeg",
+    "digest": "以视觉为中心的并行推理",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
+    "id": "2651033888_1",
+    "title": "从卖token到卖结果，这些公司开始让AI背KPI了",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651033888&idx=1&sn=f00bd91a39c2baa5e323a0114afdf173&chksm=84e6555eb391dc48740c1aff6990f013fa47d66b9141c83d49086906eebb6c18cbfcc6952d3e#rd",
+    "publishTime": 1779163154,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqFKYFGDYOLG2fKkyicCygo1TmxtcPGiaFFnZDgcGzE1cvCvBP4VAFrGa9gDeQFtEPMibWoQ1XoVxDAHQsleoMcAqlMVh8buNcWPZk/0?wx_fmt=jpeg",
+    "digest": "RaaS：AI 的价值回归",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
+    "id": "2651033888_2",
+    "title": "LLM近期重大架构进化一览：从Gemma 4到DeepSeek V4",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651033888&idx=2&sn=0260ac498ecbedb37e83dc0d5288b029&chksm=84e6555eb391dc4873fcb2e4f1b1c5913f3ff7994360a8f96c9a4beb1736bfae1bda7009bea5#rd",
+    "publishTime": 1779163154,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqE8Kia1zeyUvlpHn5mgXyAjibp5WBfpYJWnCxrzMamYjrr86wo2UYicyuwRuicjblbv2vFxt008WiaYsYS7Cd89oBjPC4QnvNrynt0A/0?wx_fmt=jpeg",
+    "digest": "长上下文越来越贵，新 LLM 架构怎么「省钱」？",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
+    "id": "2651033888_3",
+    "title": "ICML 2026 | 突破3DGS光度多义性瓶颈：北航/新国立提出AmbiSuR，重塑高保真3D几何重建",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651033888&idx=3&sn=eba91739c595831c281481586a85bc92&chksm=84e6555eb391dc48e36875849449e554253c9e9edbac0f0106b2c7eb0e4e6d2302e2b93f6de4#rd",
+    "publishTime": 1779163154,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqHicwSiatY60X68nCWeYACQBib0RMDTYt2e12kEElibWZ5icoqsIg62mKlIicz2JViaoFAuLd8txObwyy4wKibHbyeMRngJibs4y6f2ZxeE/0?wx_fmt=jpeg",
+    "digest": "深入剖析了 3DGS 内部的基元级多义性，并首次论证了球谐函数在高斯溅射中作为 “多义性自指示器” 的可行性与内在潜能",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
+    "id": "2651033590_1",
+    "title": "消费级具身智能跨越式新品：算力提升1000倍，对标英伟达Jetson Thor芯片，成本仅1/10！",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651033590&idx=1&sn=6092be2c894bbc927b1dcdc18864c23d&chksm=84e64b88b391c29e904bc211aeacd0fde9a4636db8f5b997e5826f12d014f4714e6da61ec5ed#rd",
+    "publishTime": 1779079613,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqEWxJ5IeIdt61PZicjXZYfZMQcELtkMBycVy22EVZN1OSKJgial2mqiavPgMgias8c1kjkvgZyjn6eRk4SH19CqpseCAwhC9GelpCA/0?wx_fmt=jpeg",
+    "digest": "Q3正式上市。",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
+    "id": "2651033590_2",
+    "title": "「虾马」之后，openJiuwen社区发布JiuwenSwarm，引领蜂群智能体新架构，开启「养蜂」时代",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651033590&idx=2&sn=d5a0f0b450abfa021cf98610918ab29f&chksm=84e64b88b391c29e19b2032c9d2dfc6fdc4694b8047a19033db4f4827fca25f95bf27ca1dc8e#rd",
+    "publishTime": 1779079613,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqHJl6hrBfiad4STgODlwdSstSYFkc0PWiaksXksWPAQx2WblBZFiaibZpKcicPJlt9U7XXOib7z25MH8V0RaV3aibNofiak3IxCwdl87wY/0?wx_fmt=jpeg",
+    "digest": "让我们一起，养蜂造蜜！",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
+    "id": "2651033590_3",
+    "title": "ICML 2026 | 华为GTS提出AI训练数据新方法，Amazon/Google作者团队「光速跟进」：难度自适应训练正在成为新范式",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651033590&idx=3&sn=328d4b6d0bc0e9fd4db90cd6022f45a6&chksm=84e64b88b391c29e6d2b3fd1f756fc47fe24c987aba60df7cce89439cff9d1dd2366dd8108b4#rd",
+    "publishTime": 1779079613,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqFxu8FZFvicSylGya0H1pvzLSWjE8P6CVQoXs9A5xK5cpSzMO3ibGIAKbI2gFQ1HGUYeWldrSbCy4BJgUtOmX3nJbXmZdOKcrZu4/0?wx_fmt=jpeg",
+    "digest": "让模型持续面对当前最困惑、最有学习价值的样本。",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
+    "id": "2651033486_1",
+    "title": "一个月狂烧130万美元！龙虾之父自曝token账单，费用OpenAI全包",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651033486&idx=1&sn=d735fea8f939c9ca3c15a8d7d010fff7&chksm=84e64bf0b391c2e6a464a9082f13ee11d15fe72a9b368d68a25ff3cc2c9f55090cc71ac5491e#rd",
+    "publishTime": 1778987154,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqHDHEJ3IPo6vib45WUaaJX2xZO8uoh29wch37ndpds8ibxvXqm3aNEBbJA6Jybr62BwABjKko4DkicgeicCSPuq6aiavEOWfQHNAvNo/0?wx_fmt=jpeg",
+    "digest": "雇一支开发团队可能都没这么贵。",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
+    "id": "2651033486_2",
+    "title": "「世界模型」究竟是什么？一文看懂其前世今生与百亿赌局",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651033486&idx=2&sn=a01ce91f3d80502dc1db926c3e0d41e2&chksm=84e64bf0b391c2e65129c2860af65ea0014e272201fabd4d5667d22adeb575c5e71dfb34e1fa#rd",
+    "publishTime": 1778987154,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqFN3LfnXpWBrVfiahz3T9ibh8xyCBiah0mRXXByytTA1vNVOQ8GBvptPZibtje5sjs5Wib2TVCcoW7jlQXBvmQxny3JYsaltoXtoLFs/0?wx_fmt=jpeg",
+    "digest": "百亿美元涌入，但「世界模型」是什么都还没说清楚",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
+    "id": "2651033486_3",
+    "title": "花了1000倍的token，效果可能却没有更好：AI Agent的“隐性账单”长什么样",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651033486&idx=3&sn=b78e5f51da1734107dbfbe393a7f6e0a&chksm=84e64bf0b391c2e6dd4f8f78aa46fcb218e1a2dff757a91d0efbffd2c544ec9652268c6d373f#rd",
+    "publishTime": 1778987154,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqFzzHXkpIzYT3QhgIHUs7Lj3NlziaemgtpOpKeAZBaHcGqQBjjAibw4dl1KUe8quPcqPHQ5zelo49N2LfoJwTSjddvFQHXlDHIw0/0?wx_fmt=jpeg",
+    "digest": "分析了 8 个 frontier 模型在 swe-bench-verified 上的轨迹。",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
+    "id": "2651033444_1",
+    "title": "这一次，不比炫技，比谁更能「干活」",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651033444&idx=1&sn=bf08919d1554fd825b9a7607e8db5495&chksm=84e64b1ab391c20c272ba8c1d53a8674e26addde2868bbfa7c21071f0651536ed9c01e2165ac#rd",
+    "publishTime": 1778926919,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqG3NAQCrm8zgHdNWGGYqOB14E5s7elXbMic51iacib9ZlfJAV7HaXLKv5xoLoLuITcAYqbtjxVsbwKJgP5eeEVPMCVeOuiaISKEX1c/0?wx_fmt=jpeg",
+    "digest": "机器人的一次面向真实世界的集中上岗「面试」！",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
+    "id": "2651033444_2",
+    "title": "Anthropic又整活，卡片大小的电脑也跑上Claude Code了",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651033444&idx=2&sn=22572ba158b074479842c1447338733d&chksm=84e64b1ab391c20c2fddcc27596b2a036d261898f4f8b43800605e17f4f93ba69e4d22da2229#rd",
+    "publishTime": 1778926919,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqFCmCGe4JtPyJPNmvl9CEoJcBTqhc9y7Rb0wzQkyGzajuje0FSd6ff9cLve7ia5j5qbLyOGrIcE4RYI51pkT4dTWDTH57c6LuFg/0?wx_fmt=jpeg",
+    "digest": "小小的也很可爱。",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
+    "id": "2651033444_3",
+    "title": "机器人为什么需要世界模型？世界顶尖机构联合综述震撼发布",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651033444&idx=3&sn=97ddd8c5d09a346e815566d86b22fab6&chksm=84e64b1ab391c20c3f979a865a1e81b1c6d8d7eb8148582f6ab6164bae97ac91b74a6d24844d#rd",
+    "publishTime": 1778926919,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqGJibz56zhm9kC48jPZvwdHDdRFyfgSrG0ANNnZ5ch4lpQkTsmC1Wopo2WJu0xqoiaXxGkdMlHRHjTWMh82k4XtjyE9W0wCte61w/0?wx_fmt=jpeg",
+    "digest": "一文讲清世界模型如何帮助机器人学习",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
+    "id": "2651033181_1",
+    "title": "越懂你，越危险？MemPrivacy揭示AI记忆下一站",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651033181&idx=1&sn=58be8f87e7b906bc0460ee612e007055&chksm=84e64a23b391c335b3481746a0b52ef4360b9ab5120d341ebb9f042fc3396295d41c419d4d7f#rd",
+    "publishTime": 1778810537,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqF45SaReAJSn6v8eUvD45MVMVJrxOV5ep4y9TCF6cicFg5ib0UwsKGgmLYQfLdfPYFQyeqmeb9oRmkUCK64Z4t240cKESlicrV494/0?wx_fmt=jpeg",
+    "digest": "让 Agent 可用，但不可见。",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
+    "id": "2651033181_2",
+    "title": "为了应付老板的Token消耗KPI，亚马逊员工竟这样做...",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651033181&idx=2&sn=cd197abf37fdcb866fc841c78a27d8d5&chksm=84e64a23b391c3350ebd315d6b838e4526444867e0d4c59bf8181d26673943a64183379d7132#rd",
+    "publishTime": 1778810537,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqHOBdv8RKM1R5J1FjLJFlAZ7og8yTEn93iaJzUnsia0iaesTBsh4xgsASADxSGIicJ5o00g59F0azGHsj3eT6RGWrmIibrB6Albmics4/0?wx_fmt=jpeg",
+    "digest": "用AI假装自己在用AI",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
+    "id": "2651033181_3",
+    "title": "RSS-2026 | 港科大（广州）开源首个无需训练的开放词汇3D占据地图构建系统",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651033181&idx=3&sn=881ec7f53799e8b7d1fd19a071e08d2f&chksm=84e64a23b391c3353e0f29c0ebc87471682ff43f32a7678c45ad8b3ee578f174ea736a240d9f#rd",
+    "publishTime": 1778810537,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqFDSv06LbBJgt3GWGqg3kV6kPD6Nbic2GJyI7DCticJ5buciaAHsjwZs8icgzvGbklGEN8TueArvyt5HDXaN0z8XYjAkhQB2L9jZV4/0?wx_fmt=jpeg",
+    "digest": "构建具备强泛化能力、能够在开放真实环境中实现语义占据预测的感知系统。",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
+    "id": "2651032137_1",
+    "title": "OpenAI翁家翌：梯度之外，下一个AI训练范式有着落了？",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651032137&idx=1&sn=ceb9f4f7a5c07999b758ee6181866f38&chksm=84e64e37b391c7210a313d67a71e3bb258b535384d43129f4dcc9231a5a685047242840b9b3c#rd",
+    "publishTime": 1778295503,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqEDWXBuOIeyWctE7HUMuSIURgnRs3l9tOIzFepEOHvuOoafDrkzkaZZBOnLXE0B2zib2sUzWWENq22K8eE8fYlCLtNBjbdCrsFU/0?wx_fmt=jpeg",
+    "digest": "凡是可以被持续迭代的，都开始能被解决。",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
+    "id": "2651032137_2",
+    "title": "曝DeepSeek融资500亿元：梁文锋自掏四成，估值飙至3500亿",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651032137&idx=2&sn=ab6bbc0ffb08c67ae77db58b722f9c3a&chksm=84e64e37b391c7217735ffa6aa1c74cf431e3ad10f41afb6ddc3cdba360feba42e0b7690f0eb#rd",
+    "publishTime": 1778295503,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqHg233geziahamdfzqz2nFVX6ib6uWibsACXRTwDJm48T26VrQFYWNg41M0rCboCkWScSJEv7n2awYXQO84e5FHlMNYrMReqyppicU/0?wx_fmt=jpeg",
+    "digest": "DeepSeek启动73亿美元融资，刷新中国AI融资纪录。",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  }
+]

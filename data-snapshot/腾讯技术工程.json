@@ -1,0 +1,52 @@
+[
+  {
+    "id": "2649801799_1",
+    "title": "Harness 的尽头不是缰绳，是镜子：AI 时代最沉默的那场革命",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649801799&idx=1&sn=bfc162fcfd7607063940ca400285d9ef&chksm=becc573c89bbde2a8a443e20014a599161117fd555dd795b051fffe09c209861d1d55493be2d#rd",
+    "publishTime": 1779960974,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/KVER9adz905yDYUR4exdg0sPSnBe0dXHHZpqu9cQ6aULbgwTIPwlVbibrYMLmPVxpunVTTNgLXquSiaRyKR4v5IaIOGrdRTuSsPYbgEBCgnaE/0?wx_fmt=jpeg",
+    "digest": "我们以为自己在给 AI 套缰绳",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649801679_1",
+    "title": "Marvis 实测：6 个 AI“牛马”扎根桌面之后",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649801679&idx=1&sn=2970beaa578390610e3f2271ab4efba6&chksm=becc50b489bbd9a20a8dc643827c8b3e70db2073ab67daaa530c47fddc152f0357f44852f02c#rd",
+    "publishTime": 1779876057,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/KVER9adz905flA1sKFfwhF1tlyF1aH9sxezJHNRwIHnicmbIAAsbHFJ4IETEBRIanibDibp5te6z9nGKDwibpaaFNQmf61H14GiamwicL79HsJkm8/0?wx_fmt=jpeg",
+    "digest": "夯",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649801631_1",
+    "title": "从3632个漏洞看AI时代的评测基准重构！VulnGym基准发布",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649801631&idx=1&sn=4d1c5bb6cd33aa8f38f6b902f5231065&chksm=becc50e489bbd9f227605a99254efded04c66b9736a12bc84d265e71b88a6e0f2f4d44a170ed#rd",
+    "publishTime": 1779787899,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/KVER9adz907dbuiakqQ2ApNbcWxdNKCkABr3lViaYy2ficEInI9ca45UmJUjjs6UJWXuI5shjibfiaAJFdzIgMicxsVlJ7c5qV9uxEqZsdXAYfna0/0?wx_fmt=jpeg",
+    "digest": "漏洞检测评测基准是这个行业的\"标尺\"",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649801625_1",
+    "title": "AI Infra入门干货总结：大模型是如何高效推理的",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649801625&idx=1&sn=7c7a7d2148c6907f65c9f747717b3197&chksm=becc50e289bbd9f433b2bbdb72ce086c2f79741f0f998d540c418fa7f37fdc3966c07184e169#rd",
+    "publishTime": 1779701760,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/KVER9adz9052MxYfxQsCibfj0jc833YryZxibJevoGic2tsUP4fRA2JKhskQ6Zr5acVb7vqxy3UKSspKvMkclZSV7CWhjiaqIBlnrqibZXce9f5E/0?wx_fmt=jpeg",
+    "digest": "2个月深入阅读vLLM源码的心得",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649801607_1",
+    "title": "斩获冠军！清华 x 腾讯混元登顶 MLSys 2026 MoE 模型推理优化竞赛",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649801607&idx=1&sn=568d1ea0afab3bf69ac123852cadea3f&chksm=becc50fc89bbd9ea38b3772144e77f5b3f2afce0f2184caaa7f0068ee33df407fe4ff304d518#rd",
+    "publishTime": 1779595200,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/KVER9adz905HGHibZlnCf8hMbgp0zI4zxgDdhYxbB8ex8xserxDg1gJJibqibdx7gvOub5d3OcmicNnk2lRASdicoGXhqibNsqHolPo4lGW57ian88/0?wx_fmt=jpeg",
+    "digest": "随着大模型走向万亿参数时代，MoE（混合专家）架构成为主流，但其在异构芯片（NPU）上的推理性能还面临着诸多挑战",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  }
+]
