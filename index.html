@@ -1124,34 +1124,15 @@ function updateAutoUI() {
 }
 
 async function toggleAutoUpdate() {
+  // 自动更新由 GitHub Actions 定时执行（每天 10:00/14:00/20:00），此开关仅为本地偏好记录
   const newState = !autoUpdateEnabled;
-  const btn = document.getElementById('btn-auto-toggle');
-  btn.disabled = true;
-  btn.textContent = '处理中...';
-
-  try {
-    const res = await fetch(AUTO_UPDATE_API, {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ enabled: newState })
-    });
-    if (!res.ok) throw new Error(`HTTP ${res.status}`);
-    const data = await res.json();
-    if (data.success) {
-      autoUpdateEnabled = newState;
-      localStorage.setItem('autoUpdateEnabled', String(autoUpdateEnabled));
-      updateAutoUI();
-      showToast(autoUpdateEnabled ? '✅ 自动更新已开启（每天 10:00、14:00、20:00）' : '⏸ 自动更新已关闭', 'success');
-    } else {
-      throw new Error(data.error || '未知错误');
-    }
-  } catch(e) {
-    showToast(`操作失败：${e.message}`, 'error');
-    btn.disabled = false;
-    updateAutoUI();
-  } finally {
-    btn.disabled = false;
-  }
+  autoUpdateEnabled = newState;
+  localStorage.setItem('autoUpdateEnabled', String(autoUpdateEnabled));
+  updateAutoUI();
+  showToast(autoUpdateEnabled
+    ? '✅ 自动更新已开启（每天 10:00、14:00、20:00 自动同步）'
+    : '⏸ 自动更新偏好已关闭',
+    'success');
 }
 
 // ============================================================
@@ -1161,17 +1142,14 @@ async function triggerSync() {
   const btn = document.getElementById('btn-sync');
   const syncTime = document.getElementById('sync-time');
   btn.disabled = true;
-  syncTime.textContent = '同步中...';
+  syncTime.textContent = '刷新中...';
   try {
-    const res = await fetch('/api/trigger-sync', { method: 'POST' });
-    if (res.ok) {
-      showToast('🔄 同步任务已触发，数据将在几分钟后更新', 'info');
-      setTimeout(() => { loadData().then(() => renderSidebar()); }, 5000);
-    } else {
-      showToast('同步触发失败，请稍后重试', 'error');
-    }
+    // 直接重新拉取数据文件（加时间戳绕过缓存），不触发 GitHub Actions
+    await loadData();
+    renderSidebar();
+    showToast('✅ 数据已刷新', 'success');
   } catch(e) {
-    showToast('同步触发失败：' + e.message, 'error');
+    showToast('刷新失败：' + e.message, 'error');
   } finally {
     btn.disabled = false;
     const latestSync = allFeeds.reduce((m, f) => Math.max(m, f.syncTime || 0), 0);
