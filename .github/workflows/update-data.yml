@@ -72,11 +72,12 @@ jobs:
           npm install xml2js
 
       # 5. 拉取数据
-      - name: Fetch articles from WeWe RSS
+      - name: Fetch articles from RSSHub
         if: steps.check-switch.outputs.enabled == 'true'
         env:
-          WEWE_RSS_BASE: ${{ secrets.WEWE_RSS_BASE }}
-          MAX_ARTICLES: '100'
+          RSSHUB_BASE: ${{ secrets.RSSHUB_BASE }}
+          WECHAT_COOKIE: ${{ secrets.WECHAT_COOKIE }}
+          MAX_ARTICLES: '50'
         run: |
           echo "📥 开始拉取公众号文章..."
           node scripts/fetch-data.js
