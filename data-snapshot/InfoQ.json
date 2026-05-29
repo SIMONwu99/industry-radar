@@ -1,5 +1,55 @@
 [
   {
+    "id": "2651285886_1",
+    "title": "深度对话：后龙虾时代，企业Agent从“能用”到“生产级”差距在哪里？",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285886&idx=1&sn=d0a813cbf2ef68c477eddf58ead8fbbc&chksm=bdba912d8acd183b3c10dc3581d70eeb0c72b77f44a1f71a2894ac94b6078945d3f4955a2161#rd",
+    "publishTime": 1780034400,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjWia6hHf6rWqza6kiaHia0s3dvNDMw6xrjaBKcBZq5wHua3DFnpARCyfpCgC7ibwNJibvtONSZanFrmIn7NLmKYLwqicEia54rHwL3aI/0?wx_fmt=jpeg",
+    "digest": "Agent落地从“能用”到“生产级”，最致命的差距在于场景选择与知识数据的治理。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651285886_2",
+    "title": "超越 TurboQuant! OSCAR：面向真实 Serving 的 2bit KV Cache量化",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285886&idx=2&sn=4edea3aefc77fd98dce2d9a9fc2d44f9&chksm=bdba912d8acd183bc9c6b66f6ee7c61f838febf3b1b88f69e30b5d0337c6e4470bd6778f7366#rd",
+    "publishTime": 1780034400,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNgyRkHuzziaeKgGEgmRNnUiaat6uEDxflskhIuho6zo62XTbEmIN2JCRqQUibx64KGu9mzLANyaA9aDmwmqgK72hz9ascMsJPO0Mk/0?wx_fmt=jpeg",
+    "digest": "长上下文模型的能力还在往前走，但在线推理服务遇到的压力，很多时候已经不只是计算量本身。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651285886_3",
+    "title": "Cloudflare 通过对 Browser Run 的重构和六层平台完善了其代理基础设施技术栈",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285886&idx=3&sn=5549f9ce3dac3a21a240b95eacaa1b63&chksm=bdba912d8acd183b308023015c17d2306e5e36e7d777a8b4e62ab63a244805b14b94e085e1b8#rd",
+    "publishTime": 1780034400,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNgyvMhiaBHVGMXO2Eb8Aic5cA6R0nqYbugiazpPfwBfrjiccoY7NQvAnmDtXwkiceX5U8vicgf9Kz8aeiaI1u0PXw8oCpqBQLZK6kibVL0/0?wx_fmt=jpeg",
+    "digest": "Cloudflare 以其自有容器平台为基础重构了 Browser Run，并发数提升了 4 倍，快速操作的响应时间缩短了 50%，并支持 WebGL 和 WebMCP。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651285886_4",
+    "title": "借助 Android CLI，谷歌正让 Android 工具链更便于代理使用",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285886&idx=4&sn=225c9cce9315781e279fed96a9a6a359&chksm=bdba912d8acd183b35a5ff2bf3027945ecf06743697ac4dcdc060e4a23124e356ba7d48cb491#rd",
+    "publishTime": 1780034400,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNiaf0lCDmMovianficwcerQb271Jia7fJJefvdsofpH2vnCAkM0GGkWKjtp3Z7CVib3NFuCpHxuYPYFIpnUl33h1R5UIph88ehJCNp8/0?wx_fmt=jpeg",
+    "digest": "谷歌推出全新的 Android 开发工具，借助 AI 代理，可以将应用构建速度提升至原来的 3 倍。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651285886_5",
+    "title": "OPPO 小布记忆：全模态碎片化内容的理解与智能整理实践｜AICon 上海",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285886&idx=5&sn=e9eac5d0fc9459fd53f37220bba2cc68&chksm=bdba912d8acd183b439b436300899f1521e792a93959657f3ff98d78f6b1f878228c153637d9#rd",
+    "publishTime": 1780034400,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNgrkBMCc5yPhvic4AWE1iaw7VdywickuuIHI5pYqz1IM1GVDODyQUeGlY3aM3309Fo6Xs6cJRnvSzaerOasqzNa9Wdt16LUM1tGg0/0?wx_fmt=jpeg",
+    "digest": "用户每天产生大量碎片化内容——截图、语音、视频、文档、多图……如何让 AI 理解这些异构多模态数据，并自动整理成有价值的\"记忆\"？",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
     "id": "2651285828_1",
     "title": "前 CEO 被学生嘘“别吹AI”，现 CEO 被追问“会不会被AI取代”：谷歌两代掌门人的AI信仰，同时被质疑",
     "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285828&idx=1&sn=7c93b4bd38e015e55ecb8cbc86aa82ca&chksm=bdba91178acd18013eb67b6a710f70e9f0e7cdc5c67ba81ef6840d240e38243ebc5d952e1a60#rd",
@@ -160,42 +210,42 @@
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651285214_1",
-    "title": "硅谷深陷算力荒：H200一夜涨价30%，H100抢到缺货，Karpathy也未能幸免",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285214&idx=1&sn=2a56c4c18ce8de4a44d10a4b9b0ca2bb&chksm=bdba9e8d8acd179b24ad94e07c54a2f3adfdf4026562822f49a6e3e7f465910e0dff621c250f#rd",
-    "publishTime": 1779588900,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNiaqmq84dapQwVyWq8wibJqicXhb0RIp2ibZCda1NEKL0Y8nTsaoZeefpUoKndBOBmThJ4jEm8bMnmtsPhWjjOEiblMcl4y84mlDWLg/0?wx_fmt=jpeg",
-    "digest": "2026 年 5 月的硅谷，对于 AI 算力的“饥荒”和焦虑，正达到一个前所未有的高度。",
+    "id": "2651284714_1",
+    "title": "外行瞎写的Vibe Coding，都能并入Agent 工程了：最吓人的是，我们“摆烂”有正当理由了",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651284714&idx=1&sn=bbe9310f132a3c438755332e83b75d62&chksm=bdba9cb98acd15af5c25e5a48e82d07007af45263bb02cea34e975138a5ea3d8f1c6a19e5a6d#rd",
+    "publishTime": 1779182677,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNhWE29rRaHnSQFuxv5JkuSh1BqJPqSCT1THePhjPIydjrhEoibEg18s5CicUanfwTqGfIo9YYpROMROG3M219tGnEziapaOhDJ2ms/0?wx_fmt=jpeg",
+    "digest": "“Vibe Coding和Agentic Engineering的结合比我预想的要快得多。”",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651285214_2",
-    "title": "GitHub面临生存之战！多位员工曝内部乱象：独立文化要没了，封杀Claude Code才能“活”",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285214&idx=2&sn=6d10cfe59192e76a301883ac5166ad7b&chksm=bdba9e8d8acd179b576d9a9688e3a0279d98d83e93a0eef6e8321e70e466b0b34dbc8d0d4fa2#rd",
-    "publishTime": 1779588900,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNgNsZRia3lWRcVIiaLXZcskrDsjMGjQ9QaYKAV6SbmugRREhRUGBiaFwdhmKDcrRDLWfZjass5oVSOXPTfHAT4n3MeicCqUrSYNSys/0?wx_fmt=jpeg",
-    "digest": "在微软内部，如今的 GitHub 正在遭遇一场生存级别的危机。",
+    "id": "2651284714_2",
+    "title": "推荐系统进入“大模型时刻”：昇腾NPU如何支撑千亿级生成式推荐落地",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651284714&idx=2&sn=ae8e821100271a5664da4c2fd2d05e57&chksm=bdba9cb98acd15af4c3385182ba7fda5b2b2d7b8d3aa622047121fd0c3b7d13e79d2b54da229#rd",
+    "publishTime": 1779182677,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNia8jDITDMIiczxffxaeibhUepoU2dWeMet41TiafUmNotJKjFrXe2SWbzW4j9PrxosMpW6460mkpsTjTWq8tRsvBhibb6pWRK7biauc/0?wx_fmt=jpeg",
+    "digest": "在推荐系统跨入大模型时代的当下，如何利用国产算力底座支撑起千亿级参数模型的高效训推，已成为工业界关注的核心课题。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651285214_3",
-    "title": "消息积压方面的数学知识：用于队列恢复的容量规划",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285214&idx=3&sn=f5a257b10f607c92f5b8c07d7b1c488c&chksm=bdba9e8d8acd179b175fbe6d53e4267ed9f20433451c0e35ee45380e9440a2d837d10bb2a891#rd",
-    "publishTime": 1779588900,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNiaicOlJNXdI61bUzTNOEbNkXvIlC5XicYwn5XeiaLvwoHEliaAsicIdOZXqeVicuH3qBGQSMfS1EMl4iablKvicIYKWCGVMcDPAa4QN2Ps/0?wx_fmt=jpeg",
-    "digest": "分布式系统中的消息积压是算术问题，不是玄学问题。本文给出了可落地的公式，用于计算积压清空时间、估算消费者冗余容量以及设置自动扩缩容触发的条件。",
+    "id": "2651284714_3",
+    "title": "驾驭AI的人，才是穿越周期的竞争力｜2026极客时间DTDS大会圆满落幕",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651284714&idx=3&sn=eb83e3e8bd8abf71be05c1574e3e6ff7&chksm=bdba9cb98acd15af3a8c5780e2694091faa1f9895543ca5a907ebe057101d1c021dec2b6eeae#rd",
+    "publishTime": 1779182677,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNhLEMsLfrJ1DvS4KzqK9a3mUWYsW5o1kP4G0UF9rQZoBe1bO3jiczAB4uRMtUkwoMibpMTicF9u9mgnBtL6ZaXSPoHbWFJmnCchMM/0?wx_fmt=jpeg",
+    "digest": "AI 系统已就位，人才能力为何仍“卡壳”？ 这是当前企业 AI 转型最普遍的困境。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651285214_4",
-    "title": "OpenAI 开源 Symphony：面向自主编码智能体编排的 SPEC 规范文档",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285214&idx=4&sn=9ea4923fc5f63239cd948d52f06043ef&chksm=bdba9e8d8acd179b6ffd7ec1cc53d5dc0fde861cf302e6ae1ee095f699e6fcd96aa86e79430f#rd",
-    "publishTime": 1779588900,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNiaLGsXiakVHaaWMCaRCJwBAlu3jKJ75a5ndsVYlJcsKc1JHjEtcTtxVeWC2cANc9MLuPByJHgZzbJey61F16ylpUf5qucmxjQKY/0?wx_fmt=jpeg",
-    "digest": "Brandon Foley的基准测试研究证实，AI编码代理可修复单一漏洞，却难以把控全局系统影响，进而推翻了靠优化代码检索提升自动修漏洞能力的主流观点。",
+    "id": "2651284714_4",
+    "title": "JEP 533 加强 JDK 27 中 Java 结构化并发的异常处理",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651284714&idx=4&sn=4b1980137bbb4814d29c8b44e37d43c1&chksm=bdba9cb98acd15afd7119cf6117fda997712be2cba0b388be3e326bada9bd4fe7a7a9e434611#rd",
+    "publishTime": 1779182677,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNj2HA7ZzpicRLuUaW06iaGvVuiawhyngOUtpLv1H0cEOibibcPRpKeylZViaDpaYoYAhicYRlqk1GoE3ygTLE3Uiao8fMnj3RCuLHqtuWU/0?wx_fmt=jpeg",
+    "digest": "JEP 533（结构化并发第七个预览版）已经升级为 JDK 27 的正式功能。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
@@ -246,56 +296,6 @@
     "publishTime": 1778984100,
     "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/lYDricib2fsm6vSGh1H2G7icWbSiaibeSiahpia55qaeVXQxovNgQdKCOzZO5diaCPich6fDN0uZCkeoYQHKpDs5Gs3Nicq61IIpb40gb2wJUMkPHnXNo/0?wx_fmt=jpeg",
     "digest": "模型能力 还需往上走，但训练成本却不能再无止境堆砌了——这可能是当前 AI 行业最强烈的共识。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651284462_2",
-    "title": "38万应用暴露、2000+应用泄密！AI编程把“内网”变公网",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651284462&idx=2&sn=56ee508033ab77599ef3cdded4ba354f&chksm=bdba9bbd8acd12ab2ab1bafffc255691175417bc07be07bb6d1577fb8549f5fa541b4282cd8e#rd",
-    "publishTime": 1778984100,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjCHJ4NERAVibSqpHSzPv9P38KXgK8edB8sCCkvCpVRg7ALt5pbUSPMTibIzRKwQzMphxarQC1djrGSbibdOqRsoV2zyj54bAz3tM/0?wx_fmt=jpeg",
-    "digest": "整理 | 华卫“vibe coding 工具正在泄露大量个人和企业数据。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651284462_3",
-    "title": "鼠标每动一下都在训练AI，Meta员工“造反”：不想在“员工数据提取工厂”工作",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651284462&idx=3&sn=59d10f7bbddb981f37d1ac6aff201cda&chksm=bdba9bbd8acd12ab3f86929c4c638e4c9af47aed05263d8588bcb74a25606588426fdc62cc77#rd",
-    "publishTime": 1778984100,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNhRcqv8up3aP4mJDFdMne2oiaqDJgHEG2JOpOdDKGs4XKdEpjYCGc4oticAfA5SCZHjjePkAE6yQgU7Q4gJYnOFYXKiagtUJgCdz4/0?wx_fmt=jpeg",
-    "digest": "传单上写道：“不想在‘员工数据提取工厂’工作吗？”",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651284462_4",
-    "title": "谷歌 DORA 团队发布新报告：扎实的工程基础决定了 AI 投资回报",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651284462&idx=4&sn=0f4945bb9084b47477e1f937a831403f&chksm=bdba9bbd8acd12abe325c956fff8a13effb4d21daa00f8c09eb859a71be0ab2440f9d58b6b86#rd",
-    "publishTime": 1778984100,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNhnFTX5zYIeu94MY12GY7m67eTUW9q7wwp2jyoMQZEEQpibEqxib4bo0bH54exHGYAEaQibiaqCWDmaJF221Wh2SkoVKwPicPBg0LPA/0?wx_fmt=jpeg",
-    "digest": "谷歌云DORA团队发布报告，提出软件开发AI投资回报率评估框架，强调AI落地成效重在组织体系而非单纯工具，引入价值实现J曲线模型，并指出留存人才、重构流程是获取长期收益的关键。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651284432_1",
-    "title": "OpenAI把手伸进你的钱包了！ChatGPT 打通银行 API，全网炸锅：这是给黑客发年终奖？",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651284432&idx=1&sn=a86f3d6f9a9f3d8ac0ff6dda35060862&chksm=bdba9b838acd12950c5c5ad9556ad8876494baf51b932b64d36f696dae9948be57a3244e3f56#rd",
-    "publishTime": 1778907608,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjskTQz7Jg91tv82WH9DqcUt8kAV41656y8ciaAwibw3QMM5nuNBIyRsVMniahuo5zmBwzSukHdQK7BbP9zV4AEOFNoAcibLvCxzM4/0?wx_fmt=jpeg",
-    "digest": "ChatGPT 可以帮你理财了，但它也知道你的全部余额！",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651284432_2",
-    "title": "ChatGPT那一套要过时了？翁荔实测创业首个模型，回合制AI被“原生实时交互”秒了",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651284432&idx=2&sn=ee5ecdff65e8f2c23302ea3b07ba1a73&chksm=bdba9b838acd1295820933f1f11e3983ad6f50f9a95ec7fd07c5afe9f297075d5f21f62f5147#rd",
-    "publishTime": 1778907608,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjlRapQHlPXhJKCSwN4ab9jVqic9pRXxRnWo5dfEFoG3hw2TFTtF78y48avBCmIJbfpTBJ9eSANF4TibE5YibZoj89hS2zpP9y6G0/0?wx_fmt=jpeg",
-    "digest": "AI 是否正在结束“回合制”聊天的时代？",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   }

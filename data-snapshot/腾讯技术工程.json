@@ -1,5 +1,15 @@
 [
   {
+    "id": "2649801805_1",
+    "title": "OpenClaw与Hermes：源码里的 AI Agent 架构知识大复盘",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649801805&idx=1&sn=9c7e3936218bba9c8d0ee6c04afb1615&chksm=becc573689bbde209f1bacf579f9c422d142ee9c529b4d4a31786b9dcb6f35a7edc4e86b0fcf#rd",
+    "publishTime": 1780047360,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/KVER9adz906XyZv2eeteOsahxaLuPwg2DZ7eO1uvfK2roibh5icwI3dbVBxza56tkSjrkpGO5SPTIWNfMmewW9DY7MwL3NQ0CTzUw9yNnOrGk/0?wx_fmt=jpeg",
+    "digest": "非常详尽的笔记",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
     "id": "2649801799_1",
     "title": "Harness 的尽头不是缰绳，是镜子：AI 时代最沉默的那场革命",
     "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649801799&idx=1&sn=bfc162fcfd7607063940ca400285d9ef&chksm=becc573c89bbde2a8a443e20014a599161117fd555dd795b051fffe09c209861d1d55493be2d#rd",
@@ -36,16 +46,6 @@
     "publishTime": 1779701760,
     "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/KVER9adz9052MxYfxQsCibfj0jc833YryZxibJevoGic2tsUP4fRA2JKhskQ6Zr5acVb7vqxy3UKSspKvMkclZSV7CWhjiaqIBlnrqibZXce9f5E/0?wx_fmt=jpeg",
     "digest": "2个月深入阅读vLLM源码的心得",
-    "author": "",
-    "feedId": "MjM5ODYwMjI2MA=="
-  },
-  {
-    "id": "2649801607_1",
-    "title": "斩获冠军！清华 x 腾讯混元登顶 MLSys 2026 MoE 模型推理优化竞赛",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649801607&idx=1&sn=568d1ea0afab3bf69ac123852cadea3f&chksm=becc50fc89bbd9ea38b3772144e77f5b3f2afce0f2184caaa7f0068ee33df407fe4ff304d518#rd",
-    "publishTime": 1779595200,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/KVER9adz905HGHibZlnCf8hMbgp0zI4zxgDdhYxbB8ex8xserxDg1gJJibqibdx7gvOub5d3OcmicNnk2lRASdicoGXhqibNsqHolPo4lGW57ian88/0?wx_fmt=jpeg",
-    "digest": "随着大模型走向万亿参数时代，MoE（混合专家）架构成为主流，但其在异构芯片（NPU）上的推理性能还面临着诸多挑战",
     "author": "",
     "feedId": "MjM5ODYwMjI2MA=="
   }
