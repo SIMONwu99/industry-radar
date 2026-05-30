@@ -1,5 +1,35 @@
 [
   {
+    "id": "2247893825_1",
+    "title": "帮Gemini拿下IMO金牌的关键先生，差点成了职业钢琴家",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247893825&idx=1&sn=8400f94e7918332be98a3ae5489a70b2&chksm=e8da7433dfadfd25d19382d13221d61c2ea94a3ffef8bf88ae7de8c6ad8ceffcd5261fb5b90a#rd",
+    "publishTime": 1780113600,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGHgnIYwHfiaXWkLcL6LTWB8gyFGNvxoJuLJibK5mLtxLhhbMtTOxJ1WTA1VFAicLmicuGibyqtdnEqUZR8ickEWtPWEU3ZPbXIbxMX7I/0?wx_fmt=jpeg",
+    "digest": "（可能是）大模型圈最会弹钢琴的人",
+    "author": "",
+    "feedId": "MzIzNjc1NzUzMw=="
+  },
+  {
+    "id": "2247893825_2",
+    "title": "打破Agent训练瓶颈！人大&至知研究院开源Claw Agent数据+训练+评测全链条",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247893825&idx=2&sn=2f1e5fdae519fe910eda7f64a58247ca&chksm=e8da7433dfadfd252c7bb3a02e99abfad94ec4de84c3db23b6ccd92ee9f0e0a2b0909ce40a0a#rd",
+    "publishTime": 1780113600,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGGI6KWYpJUcXmwfKDMZrnoSqZalru6YErAAMl4AWOFYkFbDeZSTEISRF3EtT4ADIWiblsZdiarDhg8A6A6ULA6cevRKh9V2mIaZk/0?wx_fmt=jpeg",
+    "digest": "13.5K合成数据让30B超越235B",
+    "author": "",
+    "feedId": "MzIzNjc1NzUzMw=="
+  },
+  {
+    "id": "2247893825_3",
+    "title": "量子位编辑作者招聘",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247893825&idx=3&sn=044a67ad905997894b308fc5e2095355&chksm=e8da7433dfadfd25df00fbec8f600980c9c64fb1cfa763cc737a6b94fd7ac9cfdf4484e32d7b#rd",
+    "publishTime": 1780113600,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/YicUhk5aAGtBwsQQg50rdDIFHPibz5pbVfnv0oOoRSQ2KmEYBSJRibeXrJnIU1euj0icCf6pXdduQdCbnRJy3b7u7Q/0?wx_fmt=jpeg",
+    "digest": "3个岗位（含实习），不设边界",
+    "author": "",
+    "feedId": "MzIzNjc1NzUzMw=="
+  },
+  {
     "id": "2247893795_1",
     "title": "5亿Tokens白送！全球首个商用AI主机发布，终于能放开烧Token了",
     "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247893795&idx=1&sn=e1570e7f2b099258881e57818b7d0d2b&chksm=e8da7451dfadfd4729d8c93bb5a78da4990b8c05e1cbbef362bb6e608494f4e86394f29bac9b#rd",
@@ -140,30 +170,30 @@
     "feedId": "MzIzNjc1NzUzMw=="
   },
   {
-    "id": "2247892730_1",
-    "title": "DeepSeek V4还能更省！新工具缓存命中率高达99.82%，2折稳定到手",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247892730&idx=1&sn=3da5702f8033c5ed6690bd71d90a581d&chksm=e8da4988dfadc09ebde3a9be867be404b246b988955f0724e61768784157935b8c6c328eb5f7#rd",
-    "publishTime": 1779683241,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGHdrWfUTtqgVt6OTTmzicnQBfjuQvePvjvibe76GYcJQpxibuwvyEk8l8k1JiaXL05PJbzzgNODnNWYRPPS2FIsHt92t03vD95rP14/0?wx_fmt=jpeg",
-    "digest": "专为DeepSeek打造的终端coding harness",
+    "id": "2247891876_1",
+    "title": "2026中国AIGC最值得关注的企业&产品图鉴来了！谁在造浪，谁在落地？",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247891876&idx=1&sn=693d113c72f4396a3791374591f5c24b&chksm=e8da4cd6dfadc5c0d89bdf3fadb1496f5bb93d7302285049332e5087328e5b666574d45624e6#rd",
+    "publishTime": 1779249500,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGFKKBc2OnfKbSIGDv5G7n44TFSMn0LiciaVicVQ2uZgBWLoro0nZhal7YacsCWmGRsickZERRVX1uwA4icNAfs7F04RgibTZbicJZYOIU/0?wx_fmt=jpeg",
+    "digest": "看谁真正会游泳",
     "author": "",
     "feedId": "MzIzNjc1NzUzMw=="
   },
   {
-    "id": "2247892730_2",
-    "title": "图灵奖得主领衔，中国大模型第一梯队集结！2026智源大会，看懂AI下一程",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247892730&idx=2&sn=7f4566b76dab8c4ec3e75fa2dd686b7c&chksm=e8da4988dfadc09eb20402cf4e459acfff30a21e8b4dd6d3d68cab491e1bb408bf4a3ae4c2ab#rd",
-    "publishTime": 1779683241,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGHPjL66vgfCZVkvclrjicId2YpohSLtiaWxt9vSJxPx5ESMpP84qKSsIs5JOXPduxTsIp0ComhlkpQgyXCeibgOSXxUOZwpsQNrYM/0?wx_fmt=jpeg",
-    "digest": "报名通道已开，手慢无",
+    "id": "2247891876_2",
+    "title": "VC、品牌顾问、编剧，正在批量把自己做成AI",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247891876&idx=2&sn=0c3c79eee23bce8a821f545bde57132f&chksm=e8da4cd6dfadc5c06b7214b444c271b43db6899ab138086bc9cbdf3b52308869d71334bbaaa1#rd",
+    "publishTime": 1779249500,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGFzEa9XUg6ujwfZTSrQwVfw5ajDPmgLWtBMs3Qm9pBBpLdEa7XYz74OLv87BkdnsFpkdPVtOYMflOqV8ZnSCCpzhVicQlibAicnBw/0?wx_fmt=jpeg",
+    "digest": "让你的经验24小时自动接单",
     "author": "",
     "feedId": "MzIzNjc1NzUzMw=="
   },
   {
-    "id": "2247892730_3",
+    "id": "2247891876_3",
     "title": "量子位编辑作者招聘",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247892730&idx=3&sn=086041a23cb72e84094f6f160b394c79&chksm=e8da4988dfadc09ef5f44290c7dd5e311d1bb4ffeab19b84bccb4e40bd6971bbbd86656690b9#rd",
-    "publishTime": 1779683241,
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247891876&idx=3&sn=c49d99df191f2e280e3f29eb6e087eb9&chksm=e8da4cd6dfadc5c0ec1047d92f06ac65947b54e9a771423f83082146d90bb18fb3bcb2d52835#rd",
+    "publishTime": 1779249500,
     "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/YicUhk5aAGtBwsQQg50rdDIFHPibz5pbVfnv0oOoRSQ2KmEYBSJRibeXrJnIU1euj0icCf6pXdduQdCbnRJy3b7u7Q/0?wx_fmt=jpeg",
     "digest": "3个岗位（含实习），不设边界",
     "author": "",
@@ -266,36 +296,6 @@
     "publishTime": 1779013320,
     "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGGn7hHfiaJcWzFXcEkJsZ3ib5wcia3wQGUAn88jSawAU2vpJExSDohs6FWY3BAcEeFuU96r9J65Nng4rXTTIibibBpAfPKEfVC8yx6w/0?wx_fmt=jpeg",
     "digest": "算力超越英伟达，成本却低了几倍",
-    "author": "",
-    "feedId": "MzIzNjc1NzUzMw=="
-  },
-  {
-    "id": "2247891358_2",
-    "title": "无需构造偏好对：TGO用标量反馈对齐视觉生成模型｜ICML'26",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247891358&idx=2&sn=d63e568f68be834df8cd92ecc2e35ddc&chksm=e8da4eecdfadc7fa0b2fd92ec4d9e17a3f21f54cb05e68eb46c458c38ad77253351ebd1f07ae#rd",
-    "publishTime": 1779013320,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGFU7ibcrFjFQKLL8micwj3DLHIftv80SWRLLOibwZ5qJZPhGJsYxvETV2moBJRMIgp3mfLxbbzTpCOoUCqfaic2WDp9iclcH7kTciaHA/0?wx_fmt=jpeg",
-    "digest": "来自NUS最新研究",
-    "author": "",
-    "feedId": "MzIzNjc1NzUzMw=="
-  },
-  {
-    "id": "2247891358_3",
-    "title": "量子位编辑作者招聘",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247891358&idx=3&sn=89ab1e076a71d44ac6ab96333c27c26b&chksm=e8da4eecdfadc7fac19056b663db9d0e46102b4bd22afee467daf2fbba930d48effe6e68bf38#rd",
-    "publishTime": 1779013320,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/YicUhk5aAGtBwsQQg50rdDIFHPibz5pbVfnv0oOoRSQ2KmEYBSJRibeXrJnIU1euj0icCf6pXdduQdCbnRJy3b7u7Q/0?wx_fmt=jpeg",
-    "digest": "3个岗位（含实习），不设边界",
-    "author": "",
-    "feedId": "MzIzNjc1NzUzMw=="
-  },
-  {
-    "id": "2247891178_1",
-    "title": "中国500万医生的新AI：顶刊独家联手，卷的就是证据源",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247891178&idx=1&sn=dde06ec33d0bb3d63b7823b5654a18d3&chksm=e8da4f98dfadc68e21d20188949ba9d9e2150de7bbaa80d0f91e10d2265572a573e5372ea1f8#rd",
-    "publishTime": 1778904000,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGE5fSAwibYNTTYQ5woiaX65q0gJ5p9Qu49qNMEWAuKZM61Seaiau1OMzNEBzL5O8icuy9UffgsEIRGwNnvjpyJBIVSbPGmciar46k7c/0?wx_fmt=jpeg",
-    "digest": "阿里健康发布「氢离子」",
     "author": "",
     "feedId": "MzIzNjc1NzUzMw=="
   }
