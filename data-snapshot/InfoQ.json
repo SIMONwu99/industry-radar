@@ -1,5 +1,45 @@
 [
   {
+    "id": "2651285996_1",
+    "title": "蚂蚁三代CTO闭门对话：周期穿越、技术决策与AI-Native组织",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285996&idx=1&sn=257fb4ce44ddfc94b3d482ea98b2a9ee&chksm=bdba91bf8acd18a90ca0d490c1a0a6a3966f43dd0afbe46c0a1040efb21810dae5176bdf0e8e#rd",
+    "publishTime": 1780193700,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNgGRnxgrFQmUSSEibeBZxlpdEVTrdbuIGJzEzstu9ibNa5BoLPJoyMnxkSINULq6Xk2x1YasaV0WT2PpG3ItLe1pSYVjQlyOXQmg/0?wx_fmt=jpeg",
+    "digest": "蚂蚁每一次最关键的决策，都来自于追问时代里的真问题。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651285996_2",
+    "title": "利润腰斩也要卷AI！小米模型永久降价99%，雷军还要再砸600亿",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285996&idx=2&sn=116a0e58a4dee2f97cee9c9923af6318&chksm=bdba91bf8acd18a94e65b831532f2870059e57bfbeb1b47a00a98205473ef8971756def338f7#rd",
+    "publishTime": 1780193700,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNiagzJOic3HxsqsnyhViaoeomIcZ9FQslia7uD9lINUbVcR8WocOiarxB1U8kaySd54LhfBjticDv5XpmLmhKu1BHaibXCT05DW1u54tM/0?wx_fmt=jpeg",
+    "digest": "今日，小米宣布永久性翻新整个模型定价体系。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651285996_3",
+    "title": "Zod 作者推出 Pullfrog：一个跑在 GitHub Actions 里的开源 AI 编程 Agent",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285996&idx=3&sn=ca6294b4067d06d050f87beb44cdd0ad&chksm=bdba91bf8acd18a98923849df606cc32925f9cfb5c363b123162662a59ad87d76a9460fc143a#rd",
+    "publishTime": 1780193700,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNgQXJgh60icXHEicvXWJ5nmg2cEPywEe2aMAdt1CHIO98sTpO2nofO6LmN1ficnNzK2opJ33JRO3sZnHfmibPSZuOibeszG8OZv2JP4/0?wx_fmt=jpeg",
+    "digest": "Pullfrog AI：由 GitHub Actions 驱动的开源 CodeRabbit 替代方案。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651285996_4",
+    "title": "Google Cloud 在 BigQuery 中引入跨引擎 Apache Iceberg 支持",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285996&idx=4&sn=5ab10f9f88576316e58d0ac88a580492&chksm=bdba91bf8acd18a96371800e27aa1a5706c8b51143fc1dc9822e202cde0eac9243fb6f0c23b5#rd",
+    "publishTime": 1780193700,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNia6XGlZIiaq3vmMfObRyuJslOSzibeEqrk8micVIsIwUOz84pbaVyic3qof5jd9hhQcRBjOqGRvkBXhpHyptABYlib4r17HZvFKicGeQ/0?wx_fmt=jpeg",
+    "digest": "在上个月举行的 Apache Iceberg Summit 上，谷歌宣布了 BigQuery 针对 Apache Iceberg 的一系列新互操作能力。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
     "id": "2651285965_1",
     "title": "半数华人、3位亿万富翁：这张十年前的量化实习生合照，藏着 AI 时代的新贵版图",
     "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285965&idx=1&sn=ad6a6573fd31635e961e4053015737b1&chksm=bdba919e8acd18886c274fa288b737277dd55cf5ffdd33fcd02851d9dc129d40ee64f8ecafde#rd",
@@ -256,46 +296,6 @@
     "publishTime": 1779266307,
     "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNhgSZFribMlIHtDaG3SHQ6W6sakeUHbq1FJjUfyIb2UKg5JeMLrL33XgicvKVURqMeEIUmgEmRpB9mxe1dj92OJKVPlQhF2kNTh0/0?wx_fmt=jpeg",
     "digest": "Kubernetes v1.36 发布，带来70项功能增强，主打安全、AI工作负载与API可扩展性；多项核心能力正式GA，同时优化了工作负载管理，新增AI资源调度相关特性。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651284714_1",
-    "title": "外行瞎写的Vibe Coding，都能并入Agent 工程了：最吓人的是，我们“摆烂”有正当理由了",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651284714&idx=1&sn=bbe9310f132a3c438755332e83b75d62&chksm=bdba9cb98acd15af5c25e5a48e82d07007af45263bb02cea34e975138a5ea3d8f1c6a19e5a6d#rd",
-    "publishTime": 1779182677,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNhWE29rRaHnSQFuxv5JkuSh1BqJPqSCT1THePhjPIydjrhEoibEg18s5CicUanfwTqGfIo9YYpROMROG3M219tGnEziapaOhDJ2ms/0?wx_fmt=jpeg",
-    "digest": "“Vibe Coding和Agentic Engineering的结合比我预想的要快得多。”",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651284714_2",
-    "title": "推荐系统进入“大模型时刻”：昇腾NPU如何支撑千亿级生成式推荐落地",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651284714&idx=2&sn=ae8e821100271a5664da4c2fd2d05e57&chksm=bdba9cb98acd15af4c3385182ba7fda5b2b2d7b8d3aa622047121fd0c3b7d13e79d2b54da229#rd",
-    "publishTime": 1779182677,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNia8jDITDMIiczxffxaeibhUepoU2dWeMet41TiafUmNotJKjFrXe2SWbzW4j9PrxosMpW6460mkpsTjTWq8tRsvBhibb6pWRK7biauc/0?wx_fmt=jpeg",
-    "digest": "在推荐系统跨入大模型时代的当下，如何利用国产算力底座支撑起千亿级参数模型的高效训推，已成为工业界关注的核心课题。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651284714_3",
-    "title": "驾驭AI的人，才是穿越周期的竞争力｜2026极客时间DTDS大会圆满落幕",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651284714&idx=3&sn=eb83e3e8bd8abf71be05c1574e3e6ff7&chksm=bdba9cb98acd15af3a8c5780e2694091faa1f9895543ca5a907ebe057101d1c021dec2b6eeae#rd",
-    "publishTime": 1779182677,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNhLEMsLfrJ1DvS4KzqK9a3mUWYsW5o1kP4G0UF9rQZoBe1bO3jiczAB4uRMtUkwoMibpMTicF9u9mgnBtL6ZaXSPoHbWFJmnCchMM/0?wx_fmt=jpeg",
-    "digest": "AI 系统已就位，人才能力为何仍“卡壳”？ 这是当前企业 AI 转型最普遍的困境。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651284714_4",
-    "title": "JEP 533 加强 JDK 27 中 Java 结构化并发的异常处理",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651284714&idx=4&sn=4b1980137bbb4814d29c8b44e37d43c1&chksm=bdba9cb98acd15afd7119cf6117fda997712be2cba0b388be3e326bada9bd4fe7a7a9e434611#rd",
-    "publishTime": 1779182677,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNj2HA7ZzpicRLuUaW06iaGvVuiawhyngOUtpLv1H0cEOibibcPRpKeylZViaDpaYoYAhicYRlqk1GoE3ygTLE3Uiao8fMnj3RCuLHqtuWU/0?wx_fmt=jpeg",
-    "digest": "JEP 533（结构化并发第七个预览版）已经升级为 JDK 27 的正式功能。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   }

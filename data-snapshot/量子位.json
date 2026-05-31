@@ -1,5 +1,45 @@
 [
   {
+    "id": "2247893880_1",
+    "title": "机器人原生世界动作模型问世！首创时空一体架构，复旦系团队出品",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247893880&idx=1&sn=62985b132c123bdecf8f5635fd585ecd&chksm=e8da740adfadfd1c94ef59cf9f4280a1237659549d1365d62ba075e9270480790548013156b3#rd",
+    "publishTime": 1780203600,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGF4D99iaZllkqic1mfvrnibWEeZjpW2Lvpk9RZ0sWJylRj1ZUBe9DYzhUkovcVd3o9ULhocbKdukIVDDngrnjZGvPyEJP8d0zM8Bo/0?wx_fmt=jpeg",
+    "digest": "半年斩获5轮融资",
+    "author": "",
+    "feedId": "MzIzNjc1NzUzMw=="
+  },
+  {
+    "id": "2247893880_2",
+    "title": "英伟达版「MacBook Pro」曝光：老黄自研了CPU！",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247893880&idx=2&sn=c644d0e9f0d84f172a16345899ba028b&chksm=e8da740adfadfd1c116af1f414fb0c21cda7c5bcec868bdc7151e719d2c8c484012ebc5d994d#rd",
+    "publishTime": 1780203600,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGEsJqoUIFKrTUFuxtKv0ibjD0zq5bdBHnf8xMOTWZkzhp9s203sluGnuhd92rM0xjYiaiaqOYxDsJ1G4BrfVkoDA5aIIEI3g3XVyU/0?wx_fmt=jpeg",
+    "digest": "联手微软ARM",
+    "author": "",
+    "feedId": "MzIzNjc1NzUzMw=="
+  },
+  {
+    "id": "2247893880_3",
+    "title": "别光给Agent加Tool了，它根本选不明白！复旦×通义提出全新CUA训练范式",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247893880&idx=3&sn=3801eccb44a75d9e72fc8da3c199f2a3&chksm=e8da740adfadfd1c78b28142a407cfb63b460636d7e8185aef2d7f19a64c5829182d80636e07#rd",
+    "publishTime": 1780203600,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGHEicZUibNIPFfWE8eDCY7dmAuTiaHYnicX20wLyWqqAvShWEDGr7HjQSzYPdoiakibXTRgicBJM2umliaM9cuYD9EuWLJ5ic2uEAMWPmSI/0?wx_fmt=jpeg",
+    "digest": "准确率逼近Claude 4.5",
+    "author": "",
+    "feedId": "MzIzNjc1NzUzMw=="
+  },
+  {
+    "id": "2247893880_4",
+    "title": "量子位编辑作者招聘",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247893880&idx=4&sn=433db2c6bd7c0d6bfeda26a02c3bbbbd&chksm=e8da740adfadfd1c9b0f898f8cff27c415808cd52629af455082a1140f62867a3021aa2ea2c3#rd",
+    "publishTime": 1780203600,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/YicUhk5aAGtBwsQQg50rdDIFHPibz5pbVfnv0oOoRSQ2KmEYBSJRibeXrJnIU1euj0icCf6pXdduQdCbnRJy3b7u7Q/0?wx_fmt=jpeg",
+    "digest": "3个岗位（含实习），不设边界",
+    "author": "",
+    "feedId": "MzIzNjc1NzUzMw=="
+  },
+  {
     "id": "2247893825_1",
     "title": "帮Gemini拿下IMO金牌的关键先生，差点成了职业钢琴家",
     "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247893825&idx=1&sn=8400f94e7918332be98a3ae5489a70b2&chksm=e8da7433dfadfd25d19382d13221d61c2ea94a3ffef8bf88ae7de8c6ad8ceffcd5261fb5b90a#rd",
@@ -130,40 +170,30 @@
     "feedId": "MzIzNjc1NzUzMw=="
   },
   {
-    "id": "2247893123_1",
-    "title": "刚刚，国产AI自己造了AI，全球首例！",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247893123&idx=1&sn=5d7d73a6ba59384a99ee4e5abc254e05&chksm=e8da77f1dfadfee79bced5763bcfa06fb19b0af7c4cb9d5e8d4404fc7d29fb02144994f3d752#rd",
-    "publishTime": 1779773400,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGHLLCs9ESYxlsmYnM4Kl1YtfoZR4WvY6ylANK6B56mbsiaPmXJ9laMkIeY9nfcIqwrUjzvZtRxiaBbHD9Tkacndwpsv0jTS30FEM/0?wx_fmt=jpeg",
-    "digest": "训练速度比英伟达Megatron快10%",
+    "id": "2247892204_1",
+    "title": "520当天400万AI人，都在量子位听这近20场演讲&对谈｜第四届中国AIGC产业峰会",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247892204&idx=1&sn=7a54a1baa7436a7d082f86d0e0dabaec&chksm=e8da4b9edfadc288d0fee6d201c7b415eb09c76ada6413cf5346a4cfff3e38c4d59406e4c120#rd",
+    "publishTime": 1779340847,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGEDXibUjFicgIuySIj73ictcR2q76hOQ1oftfHNkBjE4e4LUGO0EaUd3MCMLdem1PRK4ibYOMKjMFuEbrZoFUhsosZCYeLmLIkiavAw/0?wx_fmt=jpeg",
+    "digest": "核心观点都在这了～",
     "author": "",
     "feedId": "MzIzNjc1NzUzMw=="
   },
   {
-    "id": "2247893123_2",
-    "title": "龙虾之父教你省钱：开源Skill给你的Skill减肥",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247893123&idx=2&sn=132e34be318a96a7fbbb31b11172fb4b&chksm=e8da77f1dfadfee762c14aee4e3b479b95f58073fe6884a392b3ded81acd2309c1508b7d4810#rd",
-    "publishTime": 1779773400,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGGOEL3kD6RsHveJo628Ef6oaV6Oq3HVXybDibCpQ6nSdFxowSqjpHFiaicMKCRpc2VpD2wibXLEs8hTZc92l4HPRLxaJ0d7AyA0vfw/0?wx_fmt=jpeg",
-    "digest": "“Skill要像路标，不能像说明书”",
+    "id": "2247892204_2",
+    "title": "得场景者得AI天下，出行赛道跑出了一家值得关注的数据玩家",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247892204&idx=2&sn=f198c8f92c6d428ac1c6df7be41f21de&chksm=e8da4b9edfadc28851ba87631e7a5ffce4fb871782cb7fc4178bc63b681d8c78d25dcb26e1ce#rd",
+    "publishTime": 1779340847,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGFBXtOkySnKiaHT5bXJJ8uiapicmEo4QydoY7EgwWo0cSok4lBdIxT0Y72aYvF4qlT4gUt32zfSSmZM3AwHXjJhmlx8I4Nnibic7t5g/0?wx_fmt=jpeg",
+    "digest": "全场景数据、全链条服务助力AI大模型高效迭代",
     "author": "",
     "feedId": "MzIzNjc1NzUzMw=="
   },
   {
-    "id": "2247893123_3",
-    "title": "画数独、烧蜡烛都不翻车了？浙大&阿里让AI先三思再下笔｜ACL 2026",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247893123&idx=3&sn=324e2f6977d0b2ea15ec462d8e403890&chksm=e8da77f1dfadfee7d6fb59d2026782c80fa91e83b0e358ec1c4e0901dcf1c7d2fa1526e5a6f8#rd",
-    "publishTime": 1779773400,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGFoEdySevoL9brkng0Ms9hiccjEylJAzd2iakARKn2wobLBlazauXArlAXMEVTkKU3kxE35vibXAML4kGv2ib4do4b55OONTE7z3uc/0?wx_fmt=jpeg",
-    "digest": "从数据到算法，构建可执行的思维链",
-    "author": "",
-    "feedId": "MzIzNjc1NzUzMw=="
-  },
-  {
-    "id": "2247893123_4",
+    "id": "2247892204_3",
     "title": "量子位编辑作者招聘",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247893123&idx=4&sn=0cc0af9c1b7803266cc8b34c063f9456&chksm=e8da77f1dfadfee7825c89f4c4c4fc216ea50fd7fe89d5621ceed37b688e07f5be068e97235d#rd",
-    "publishTime": 1779773400,
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247892204&idx=3&sn=517e635727bdae6cbe8316106d4504a6&chksm=e8da4b9edfadc288797d439e880df985bcd2ec6ea10a8eb5fd7f77e9fd1cf3f078e17edad201#rd",
+    "publishTime": 1779340847,
     "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/YicUhk5aAGtBwsQQg50rdDIFHPibz5pbVfnv0oOoRSQ2KmEYBSJRibeXrJnIU1euj0icCf6pXdduQdCbnRJy3b7u7Q/0?wx_fmt=jpeg",
     "digest": "3个岗位（含实习），不设边界",
     "author": "",
@@ -266,36 +296,6 @@
     "publishTime": 1779096181,
     "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGEDjOAPfpubw4JiaNNwiciaULWhbtwSibfX81ichdLWCw9l9z1NibxE0A0mQ5joQwRcvLseIME4Ljt5YMgL6ZsD3grU7P9ic1UibGpBQuU/0?wx_fmt=jpeg",
     "digest": "让大模型从执行轨迹中自我进化",
-    "author": "",
-    "feedId": "MzIzNjc1NzUzMw=="
-  },
-  {
-    "id": "2247891568_4",
-    "title": "5月20日议程发布！AI实战派到底要聊什么｜中国AIGC产业峰会",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247891568&idx=4&sn=137cc2946a8d2e8eecab20a8bde97bd7&chksm=e8da4d02dfadc414bf16a87e73244c0cef1c8fc9f50b16cd750842dfed8f921fcc0986c5cb25#rd",
-    "publishTime": 1779096181,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGHkTfnEd0WhYwrThX1CqxFplxjjSswZcoxz5HJUibt5cxbppOEc6JzvaLFYFZBsOtzM4qjeibYjPjMK65HhGXtF0tDwE9JQ7Zbz4/0?wx_fmt=jpeg",
-    "digest": "520来一起聊AI！北京·金茂万丽酒店",
-    "author": "",
-    "feedId": "MzIzNjc1NzUzMw=="
-  },
-  {
-    "id": "2247891568_5",
-    "title": "量子位编辑作者招聘",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247891568&idx=5&sn=7afbe6f9aec4663821c3b2127bfa5c17&chksm=e8da4d02dfadc41484d5a5cf35ecaf4808b8730e1df24735344b4cbc949d56bd438733dd932c#rd",
-    "publishTime": 1779096181,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/YicUhk5aAGtBwsQQg50rdDIFHPibz5pbVfnv0oOoRSQ2KmEYBSJRibeXrJnIU1euj0icCf6pXdduQdCbnRJy3b7u7Q/0?wx_fmt=jpeg",
-    "digest": "3个岗位（含实习），不设边界",
-    "author": "",
-    "feedId": "MzIzNjc1NzUzMw=="
-  },
-  {
-    "id": "2247891358_1",
-    "title": "一只机器狗，把英伟达的算力王座拱翻了",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247891358&idx=1&sn=db9c28d37f97b773a6e05036cca72452&chksm=e8da4eecdfadc7face80dd52acf4d6ba02aace318f394d6c9f7783815a3340f09903e979d30d#rd",
-    "publishTime": 1779013320,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGGn7hHfiaJcWzFXcEkJsZ3ib5wcia3wQGUAn88jSawAU2vpJExSDohs6FWY3BAcEeFuU96r9J65Nng4rXTTIibibBpAfPKEfVC8yx6w/0?wx_fmt=jpeg",
-    "digest": "算力超越英伟达，成本却低了几倍",
     "author": "",
     "feedId": "MzIzNjc1NzUzMw=="
   }

@@ -1,5 +1,35 @@
 [
   {
+    "id": "2651036001_1",
+    "title": "小学生画了撇胡子骗过AI年龄验证，硅谷工程师沉默了",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651036001&idx=1&sn=c05a34c7041cbe5469190298fb8e3bda&chksm=84e65d1fb391d4098fbb1a30044b2bbee19c6b93826cd54dbdfec0e06754b2cd05415061f1e5#rd",
+    "publishTime": 1780204046,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqGibp4icuwubDlPccMkkQslVSuyiaNdoxnjavow1c2pIyibW5tHmkrAupcamCSg1Cel0KFd9Xhic9kgU022iakZP7O9W9vbjlFZ3Tiad4/0?wx_fmt=jpeg",
+    "digest": "在「钻空子」这块，互联网上从不缺想象力。",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
+    "id": "2651036001_2",
+    "title": "一周3.3k star，微软开启Skills自我进化！像训练神经网络一样训练技能",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651036001&idx=2&sn=36e1a61439358ea641b8e307722af337&chksm=84e65d1fb391d409d8b10524f1ddaf50ad23440b7230d6b1d5c9fb253d97afeb0493257db8aa#rd",
+    "publishTime": 1780204046,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqGxV7td9YxOuxOwVAN7IUdy8Gd8xQDoYRyEGRtiaAZtcoYORegnEqs12wZdia2Zw2IlyGom0lu2Vxp3afoU1adARnSsmASGOkcs0/0?wx_fmt=jpeg",
+    "digest": "摆脱双手，自我进化",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
+    "id": "2651036001_3",
+    "title": "Rubrics综述：Agent时代，如何定义一个「好答案」？",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651036001&idx=3&sn=137934964f0930f34602672e2e8498a3&chksm=84e65d1fb391d4099ea007248c61bf3e61455b7ce564597da0fb1c7131a1b75c116be6d4b449#rd",
+    "publishTime": 1780204046,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqFOibC5Hr12hBg7IPwWwF4Mgaib0I02xqlLVvctFicDoI0GTNGjm3CSK4QYaHLXTSYM5eWR1KAeBQSnGZ2rPgmztCNHZsOAM6UUro/0?wx_fmt=jpeg",
+    "digest": "中国人民大学高瓴人工智能学院发布首篇 Rubrics 综述",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
     "id": "2651035907_1",
     "title": "登顶HuggingFace日榜！英伟达清华团队γ-World：把世界模型从单机打到联机",
     "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651035907&idx=1&sn=cd65e6a8e2619188409acb7a14b19812&chksm=84e65d7db391d46b9cc26f6bb6c6207e1e75fbafc207c5474a734103396212dde99928f6125b#rd",
@@ -120,32 +150,32 @@
     "feedId": "MzA3MzI4MjgzMw=="
   },
   {
-    "id": "2651035127_1",
-    "title": "不用人类手写训练框架了！AI自己写代码，训出1B端侧「小钢炮」",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651035127&idx=1&sn=1699c9c08063a1f8faf96f5b49fa8c65&chksm=84e65189b391d89fb445a27b245e993b6e110b888b998bccf69270308724b61f8c00d9ac5981#rd",
-    "publishTime": 1779772528,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqHSLic7icDDKptuaMuNiaTkj3gad5tHXXmwTkKSad2n17icaBg8ibnYDGunav9MYfZ3hVjCGibN4blREWSrHLr9xrtBcHZbejZDY7Ikg/0?wx_fmt=jpeg",
-    "digest": "大模型训练框架被 AI 写出来了",
+    "id": "2651034410_1",
+    "title": "Meta华人发布ATLAS，一个词搞定可泛化的视觉推理！",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651034410&idx=1&sn=8d1fce92f27fb31c31a4d3831eec4004&chksm=84e65754b391de42fe69974d646971858de9b98f1500ee79c38d665a1136637fd077807ed659#rd",
+    "publishTime": 1779415200,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqHmWdckwqPzQer5gI3qDcHLRVib1GKOAFO2BpRZicQVicsnic9LYe0grkOPPNUGQzqnFg1gBFyvoJG4qucGIickkVicSicCzJfbic2ZZ38/0?wx_fmt=jpeg",
+    "digest": "一个离散 word，高效统一 Agentic 与 Latent Visual Reasoning。",
     "author": "",
     "feedId": "MzA3MzI4MjgzMw=="
   },
   {
-    "id": "2651035127_2",
-    "title": "xAI解散，但Grok还在上新，马斯克官宣新模型",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651035127&idx=2&sn=1fe5e71984f4b8b517ec1349f180be3a&chksm=84e65189b391d89f66459e9e93fbb49f36eb79debd66db670b535f8926ace590b79efe5ef875#rd",
-    "publishTime": 1779772528,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqEs9rGkHQPEoR0muibOhPdEibibvSsAhZusAstjXMyb4W5BfArE6PkTNUGaFjv4T53TmnjdVe7HzYX7hpsaFUtOj2sYZ3o6LuIgoU/0?wx_fmt=jpeg",
-    "digest": "参数量达 1.5T 的 Grok 基础模型 V9-Medium 已经完成训练",
+    "id": "2651034410_2",
+    "title": "人形机器人的「指尖心脏」：这个团队用898天完成空心杯电机国产突围",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651034410&idx=2&sn=bd8e6fc293da020712d1ceeca898e8e2&chksm=84e65754b391de42325645c8d04275e3e710d857535b1619a71bbac6e35cd28680af13b64d7a#rd",
+    "publishTime": 1779415200,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqG48Gl0l01ejcnF2NvNgafHcess5KrpO6bu6HSc8uaACtOoevy5R2Oic5UManqtUic9BxwrSt0l05oorLSBmibG0T3b2ZQZK2vl4Q/0?wx_fmt=jpeg",
+    "digest": "上海马赫智造的首条高精度空心杯电机产线正式投产。",
     "author": "",
     "feedId": "MzA3MzI4MjgzMw=="
   },
   {
-    "id": "2651035127_3",
-    "title": "ACL 2026 Main | 不只是调用地图API，Spatial-Agent让大模型生成可执行地理分析工作流",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651035127&idx=3&sn=8ab7d2ab168b69b610e70f4574698b90&chksm=84e65189b391d89f527c3867068d586f3b574909b4cfbefcac766a9a8bf7a24de1a26bf78306#rd",
-    "publishTime": 1779772528,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqGIOViaYaC8uGkSrtl0uhAfVjardZLgprYYFNwnLFZT98vglhr43psSrhRuDwUaF5QSX6RLsJzalDLnerW9WUUPicaGNApwHD0qE/0?wx_fmt=jpeg",
-    "digest": "把用户的自然语言问题组织成一段可执行、可验证的地理分析流程。",
+    "id": "2651034410_3",
+    "title": "CVPR 2026 | 突破短视，理解变化！HiF-VLA：以motion为中心打造「边想边做」的世界动作模型",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651034410&idx=3&sn=17ad01c6c46f8d832dca46ab16b6981f&chksm=84e65754b391de421d658e8dc5be7bb4c8682006ac06938cb68ce265c66635a6d5f1cd1c3078#rd",
+    "publishTime": 1779415200,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqHyCrAaQysNePvSTcyqBgqMgj5ggiclWlj7mmrtYAXUJgbPhJBJGE2xOatPV9Du8g7KKvKL4wDV8fWIy3mOsuQUqrhftoyeceqg/0?wx_fmt=jpeg",
+    "digest": "在一个创新的「联合专家」模块中，同步完成未来视觉运动的预测与高精度动作序列的生成。",
     "author": "",
     "feedId": "MzA3MzI4MjgzMw=="
   },
@@ -266,36 +296,6 @@
     "publishTime": 1779079613,
     "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqFxu8FZFvicSylGya0H1pvzLSWjE8P6CVQoXs9A5xK5cpSzMO3ibGIAKbI2gFQ1HGUYeWldrSbCy4BJgUtOmX3nJbXmZdOKcrZu4/0?wx_fmt=jpeg",
     "digest": "让模型持续面对当前最困惑、最有学习价值的样本。",
-    "author": "",
-    "feedId": "MzA3MzI4MjgzMw=="
-  },
-  {
-    "id": "2651033486_1",
-    "title": "一个月狂烧130万美元！龙虾之父自曝token账单，费用OpenAI全包",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651033486&idx=1&sn=d735fea8f939c9ca3c15a8d7d010fff7&chksm=84e64bf0b391c2e6a464a9082f13ee11d15fe72a9b368d68a25ff3cc2c9f55090cc71ac5491e#rd",
-    "publishTime": 1778987154,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqHDHEJ3IPo6vib45WUaaJX2xZO8uoh29wch37ndpds8ibxvXqm3aNEBbJA6Jybr62BwABjKko4DkicgeicCSPuq6aiavEOWfQHNAvNo/0?wx_fmt=jpeg",
-    "digest": "雇一支开发团队可能都没这么贵。",
-    "author": "",
-    "feedId": "MzA3MzI4MjgzMw=="
-  },
-  {
-    "id": "2651033486_2",
-    "title": "「世界模型」究竟是什么？一文看懂其前世今生与百亿赌局",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651033486&idx=2&sn=a01ce91f3d80502dc1db926c3e0d41e2&chksm=84e64bf0b391c2e65129c2860af65ea0014e272201fabd4d5667d22adeb575c5e71dfb34e1fa#rd",
-    "publishTime": 1778987154,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqFN3LfnXpWBrVfiahz3T9ibh8xyCBiah0mRXXByytTA1vNVOQ8GBvptPZibtje5sjs5Wib2TVCcoW7jlQXBvmQxny3JYsaltoXtoLFs/0?wx_fmt=jpeg",
-    "digest": "百亿美元涌入，但「世界模型」是什么都还没说清楚",
-    "author": "",
-    "feedId": "MzA3MzI4MjgzMw=="
-  },
-  {
-    "id": "2651033486_3",
-    "title": "花了1000倍的token，效果可能却没有更好：AI Agent的“隐性账单”长什么样",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651033486&idx=3&sn=b78e5f51da1734107dbfbe393a7f6e0a&chksm=84e64bf0b391c2e6dd4f8f78aa46fcb218e1a2dff757a91d0efbffd2c544ec9652268c6d373f#rd",
-    "publishTime": 1778987154,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqFzzHXkpIzYT3QhgIHUs7Lj3NlziaemgtpOpKeAZBaHcGqQBjjAibw4dl1KUe8quPcqPHQ5zelo49N2LfoJwTSjddvFQHXlDHIw0/0?wx_fmt=jpeg",
-    "digest": "分析了 8 个 frontier 模型在 swe-bench-verified 上的轨迹。",
     "author": "",
     "feedId": "MzA3MzI4MjgzMw=="
   }
