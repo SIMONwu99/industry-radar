@@ -420,6 +420,9 @@
     <button class="filter-chip" data-company="baidu">
       百度 <span class="chip-count" id="cnt-baidu">0</span>
     </button>
+    <button class="filter-chip" data-company="jd">
+      京东 <span class="chip-count" id="cnt-jd">0</span>
+    </button>
     <div class="filter-total" id="filter-total">共 0 篇</div>
   </div>
 </div>
@@ -583,6 +586,7 @@ const COMPANIES = {
   meituan:     { label: '美团',     color: '#FFB800', accounts: ['美团招聘','美团技术团队'] },
   xiaohongshu: { label: '小红书',   color: '#FF2442', accounts: ['小红书招聘','是小红书人啊','小红书技术REDtech'] },
   baidu:       { label: '百度',     color: '#2932E1', accounts: ['百度招聘','百度APP','百度文心'] },
+  jd:          { label: '京东',     color: '#E1251B', accounts: ['京东招聘'] },
 };
 
 // ============================================================
@@ -674,6 +678,7 @@ function initFilterBar() {
   document.getElementById('cnt-meituan').textContent = counts.meituan || 0;
   document.getElementById('cnt-xiaohongshu').textContent = counts.xiaohongshu || 0;
   document.getElementById('cnt-baidu').textContent = counts.baidu || 0;
+  document.getElementById('cnt-jd').textContent = counts.jd || 0;
 
   document.querySelectorAll('.filter-chip').forEach(chip => {
     chip.addEventListener('click', () => {

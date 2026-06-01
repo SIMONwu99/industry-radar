@@ -58,6 +58,8 @@ const TARGET_ACCOUNTS = [
   { name: '百度招聘',          company: 'baidu' },
   { name: '百度APP',           company: 'baidu' },
   { name: '百度文心',          company: 'baidu' },
+  // 京东
+  { name: '京东招聘',          company: 'jd' },
 ];
 
 // ============================================================

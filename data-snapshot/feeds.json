@@ -306,5 +306,16 @@
     "syncTime": 1780243122,
     "updateTime": 1779964037,
     "articleCount": 6
+  },
+  {
+    "id": "京东招聘",
+    "fakeid": "MzA4MjUxOTkxNg==",
+    "name": "京东招聘",
+    "displayName": "京东招聘",
+    "company": "jd",
+    "cover": "http://mmecoa.qpic.cn/mmecoa_jpg/l6VfpVrV9QJic7ibUmQ8xdwlJRcnJVdiaELp19NwmbXtVHU5GpRSicMMDgIy0M40R07LInib3Om2pXYlxLIjHEDQficN9Hcpbrv3zpmWd7pd903FA/0?wx_fmt=jpeg",
+    "syncTime": 1780291108,
+    "updateTime": 1779965880,
+    "articleCount": 8
   }
 ]
