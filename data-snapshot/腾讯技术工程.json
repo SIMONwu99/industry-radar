@@ -1,5 +1,15 @@
 [
   {
+    "id": "2649801806_1",
+    "title": "深入解析Chromium的 AI Coding 开发体系",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649801806&idx=1&sn=174aba5e6556049d7729e9e11f39ab8d&chksm=becc573589bbde23c2d523b455babe4302c3d99f753498155e849b228d0592b5679ee68c2f1e#rd",
+    "publishTime": 1780306560,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/KVER9adz904o0zd84PQ1pK7iceYTeM3pW3J4GSiau7ibX7ClSI9OdSkGxFwlMtvMmYvU7tMLAIB5wa16x6z7o8qhYjmEKdxFJ3Sh8W6jEG510w/0?wx_fmt=jpeg",
+    "digest": "详尽文档",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
     "id": "2649801805_1",
     "title": "OpenClaw与Hermes：源码里的 AI Agent 架构知识大复盘",
     "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649801805&idx=1&sn=9c7e3936218bba9c8d0ee6c04afb1615&chksm=becc573689bbde209f1bacf579f9c422d142ee9c529b4d4a31786b9dcb6f35a7edc4e86b0fcf#rd",
@@ -36,16 +46,6 @@
     "publishTime": 1779787899,
     "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/KVER9adz907dbuiakqQ2ApNbcWxdNKCkABr3lViaYy2ficEInI9ca45UmJUjjs6UJWXuI5shjibfiaAJFdzIgMicxsVlJ7c5qV9uxEqZsdXAYfna0/0?wx_fmt=jpeg",
     "digest": "漏洞检测评测基准是这个行业的\"标尺\"",
-    "author": "",
-    "feedId": "MjM5ODYwMjI2MA=="
-  },
-  {
-    "id": "2649801625_1",
-    "title": "AI Infra入门干货总结：大模型是如何高效推理的",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649801625&idx=1&sn=7c7a7d2148c6907f65c9f747717b3197&chksm=becc50e289bbd9f433b2bbdb72ce086c2f79741f0f998d540c418fa7f37fdc3966c07184e169#rd",
-    "publishTime": 1779701760,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/KVER9adz9052MxYfxQsCibfj0jc833YryZxibJevoGic2tsUP4fRA2JKhskQ6Zr5acVb7vqxy3UKSspKvMkclZSV7CWhjiaqIBlnrqibZXce9f5E/0?wx_fmt=jpeg",
-    "digest": "2个月深入阅读vLLM源码的心得",
     "author": "",
     "feedId": "MjM5ODYwMjI2MA=="
   }

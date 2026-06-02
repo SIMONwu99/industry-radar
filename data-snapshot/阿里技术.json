@@ -1,5 +1,15 @@
 [
   {
+    "id": "2247509628_1",
+    "title": "Agent核心技术概念与范式发生了哪些演变以及背后的思考",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247509628&idx=1&sn=6a31cc7a478c2bba91b1eaf405176dfe&chksm=cfa6b69ff8d13f89d53cec186c2302942b919995374174500f99cdd10a9807049ca10c88c3d4#rd",
+    "publishTime": 1780309080,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/kN3t5R6pdz5XPa1tS3iaR2aBWSmR8niaBmKCuzrtcXmNPtLNkIAGc7KN1qDLtkWPchUuAo8NFO06AGiaIb8xIiaFYdwajStoLRDVQiaaG0SztcVg/0?wx_fmt=jpeg",
+    "digest": "理解技术演进背后的逻辑。",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
     "id": "2247509622_1",
     "title": "让项目管理也 AI Native —— 两个 Git 仓库干掉了周报、洞察和效能报表",
     "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247509622&idx=1&sn=1fcb4838aac320dd7365ba534e8bc696&chksm=cfa6b695f8d13f8325e62c50d0cd57457669cf69d4058c5be297595e8c6fc4177a0544756d5f#rd",
@@ -26,16 +36,6 @@
     "publishTime": 1779792605,
     "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/kN3t5R6pdz5KzfdibZicd9TkAywHOoDgiafdtgO4jSy1WA8bLYFlicaYTGZuNPxDolhNO0YfAssOvkQvTD0OIRhN36KpX8SpKpAiaA6uV28de4s4/0?wx_fmt=jpeg",
     "digest": "本文工作由南京大学机器学习与数据挖掘研究所与阿里巴巴智能引擎团队合作完成。",
-    "author": "",
-    "feedId": "Mzg4NTczNzg2OA=="
-  },
-  {
-    "id": "2247509516_1",
-    "title": "从0到1搭建 Agent ：Agent 原理分析及个人助手实践（长文干货）",
-    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247509516&idx=1&sn=0ffc19c81f807e83e59bae292205bdf9&chksm=cfa6b6eff8d13ff9f58a08653276587cb160eeee5f71b7b160a73cbf5a691a8196c1fbcc2478#rd",
-    "publishTime": 1779362902,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/kN3t5R6pdz7fZn11UtXic0YdX9xe3hzdVt3krvatZmDS1TvIyduFRicyicmt3NxoS9RfaQwaOa1k4nBiaZicqGEgW68HHdxLrB2kjg5sfyrYFDSE/0?wx_fmt=jpeg",
-    "digest": "本文系统阐述了Agent的关键技术原理以及实践案例。",
     "author": "",
     "feedId": "Mzg4NTczNzg2OA=="
   }

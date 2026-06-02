@@ -1,5 +1,45 @@
 [
   {
+    "id": "2651286067_1",
+    "title": "Codex 500万用户福利被怼“作秀”！Claude Code 吃掉近九成 Token，OpenAI 抢用户败在“小气”上？",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286067&idx=1&sn=415624c61dd4f2714a6b1d43d8190553&chksm=bdba92608acd1b7675e740093bd1d23368fde752812cefc7dc1c829054813c603648011c19da#rd",
+    "publishTime": 1780300951,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNia4icz4nMBDHzPlElibnIrpHrr81Gk8kZwyRn9tFwibYecY6nY38tia6hRia1tPjZ01qYQMic47nJMy9byf8zTC6VyIc5LQA52IVhFuw/0?wx_fmt=jpeg",
+    "digest": "“玩归玩、闹归闹，别拿我的token开玩笑～”",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651286067_2",
+    "title": "打破“人月神话”，Agent 重塑风控场景产运研职能",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286067&idx=2&sn=2546edb27850b2ba70a13c0f9b45ef97&chksm=bdba92608acd1b76df427b797fc2cc3663b6a91bd570fd4e7c852cbaf11b8686ad96a38bd421#rd",
+    "publishTime": 1780300951,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNhc6wjQjHlBGOrxoQ4UkibIwn13XR6aluQU0Lh9k91xPjM9yQyPUE7DjLpTJfc7NiczWqhKf9E69gT6UgIpVcAf99hqCOjSickloA/0?wx_fmt=jpeg",
+    "digest": "传统的产品、运营、研发协作模式正在经历前所未有的效能考验。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651286067_3",
+    "title": "Azure Logic Apps 为智能体工作流新增沙箱化代码解释器",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286067&idx=3&sn=d4a72c34ea09ab592439c1e7b63ac565&chksm=bdba92608acd1b76de1197d3c9e805258009e93a79feb1952c3e2ae5b3c82d2bd763b39374a3#rd",
+    "publishTime": 1780300951,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNhMrUMInEc3qV1uetfhJjahXe0RNwZPxnxp0pbCfb7HUZvt0ibS6dSPuWTqZ5ibxj7wlMUtiaNgGDkS08oWctDjZloEstPBYjqpk8/0?wx_fmt=jpeg",
+    "digest": "微软为 Azure Logic Apps 推出代码解释器，AI 智能体可在 Hyper-V 隔离沙箱中生成并运行多种编程语言代码。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651286067_4",
+    "title": "把 GPT-4o 拉下神坛！星源智联合北大推出 RoboAgent，让 3B VLM 在未知场景跑出 94% 成功率",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286067&idx=4&sn=c8d3e181305fc11d14a1d154a8e106f2&chksm=bdba92608acd1b76115c569c4eaf83f645faede430d8b05fd8ea5cff4ad590e9c53f9f70041d#rd",
+    "publishTime": 1780300951,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNjsG6Vyldb9m3BluQ5IyFibPeLRx2W9ibB1ibTY11tZDNmhibEfdFlQ0aq3UptIDafAJCgzx9K9zj1oUZU9yuaicD5zHxrlbxtpfS1I/0?wx_fmt=jpeg",
+    "digest": "值得一提的是，该核心方案相关论文《RoboAgent: Chaining Basic Capabilities for Embodied Task Planning 》成功入选全球计算机视觉顶会CVPR 2026。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
     "id": "2651285996_1",
     "title": "蚂蚁三代CTO闭门对话：周期穿越、技术决策与AI-Native组织",
     "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285996&idx=1&sn=257fb4ce44ddfc94b3d482ea98b2a9ee&chksm=bdba91bf8acd18a90ca0d490c1a0a6a3966f43dd0afbe46c0a1040efb21810dae5176bdf0e8e#rd",
@@ -170,42 +210,42 @@
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651285743_1",
-    "title": "三星按下一场史上最长罢工，但揭下了AI时代贫富差距的遮羞布",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285743&idx=1&sn=4974e47d0c23b22acc4c9be67fb55ad4&chksm=bdba90bc8acd19aa66c6ab16cf724422b0e07b08575e87b658336967c988ee1f9892e19e6a39#rd",
-    "publishTime": 1779855676,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNghickB9phs15iadlM0gc6QX1Ygkpgic15h3AJXBxmTRllBY9glJsJFXI1ibhNLX8zxnGHHLEU9zejLq9Qib0bmtYQiaHm1uduYicbyYg/0?wx_fmt=jpeg",
-    "digest": "三星这场还没开始就已经被按住的史上最长罢工，本质上是AI时代芯片产业链“价值分配机制”的第一次正面冲突。",
+    "id": "2651285054_1",
+    "title": "别再骂 Claude 限速了，Boris 亲口承认：最挑剔的用户，反而最离不开我们",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285054&idx=1&sn=654a8dbfb7a95af6aa865cd2f78d7929&chksm=bdba9e6d8acd177bf76a2300bb1f50ece6ddd3d0c6427718fba197038b37dc4759c8e1a96ad5#rd",
+    "publishTime": 1779439272,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNiaeVGpUYgxZ5T8G9YAjATf0ZOyA0sjRKnJcwuB5AlQmNAJGZqZTRg4ial6zXpa61S4XkeU9y9HHf59RENIkmQPAuDm6Lj6gruZY/0?wx_fmt=jpeg",
+    "digest": "AI 终局只剩一个赢家？Anthropic Boris 回应：有可能",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651285743_2",
-    "title": "从 Serverless 到 Agent：Cube 系统的一些设计思考",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285743&idx=2&sn=b9712d4ecc5d29ed73b1eee9a5068f68&chksm=bdba90bc8acd19aa5bcf3206b1f1a8b16f8eebe0fcda8db9c49859ebc8a6a6fdbb16f3a3bdde#rd",
-    "publishTime": 1779855676,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNiaQymNlS5ibtRe3IrMEaYIibt9Ma5rR3icM4g9T2SLzDQibJrT2ibRTJZpMuGHurzUSicj0xgqNJH4Nac5nX2RnFRiaUdFsw8ntIwdvia8/0?wx_fmt=jpeg",
-    "digest": "2019 年，Berkerley 发表了一篇关于 Serverless 的文章",
+    "id": "2651285054_2",
+    "title": "Agent“记忆断片”如何破局？Memory正成为AI的新战场",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285054&idx=2&sn=26f078b1748651209808458963178fa0&chksm=bdba9e6d8acd177bb3ff93673b9c60918c2674db37d98e4f6d90471b5f172fff18026f9286b3#rd",
+    "publishTime": 1779439272,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNhbjtrRdqFCpbprLOHAQ5LByicbk8p4ib8Cia1YnWwQ9iaoIajH8K7RvtSfqgDU10TVRlIK1ItfAQE3P94LzGzibw90nVaiafPy9aStk/0?wx_fmt=jpeg",
+    "digest": "我们离私人订制的AI，只差记忆系统。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651285743_3",
-    "title": "Node.js 拟内置虚拟文件系统，AI 生成代码引争议",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285743&idx=3&sn=2857c8493fb94832ba132d8f7accc2d2&chksm=bdba90bc8acd19aa0087028b65404c9cd7a191333e6a61ca68d562c600c04cccb4bec0ce72c4#rd",
-    "publishTime": 1779855676,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNgv0oAszZcvpDiaQrczJcjcg0vpjibek2URicHGqibiaVcR67cOIHO5CtKw14MetibgnQwxXN1bI0Q37pTkZUJ8JLqKroUBB6KwM5Gn0/0?wx_fmt=jpeg",
-    "digest": "Matteo Collina 提议为 Node.js 核心添加 node:vfs 虚拟文件系统模块，该方案虽获社区支持，但因大量借助AI开发，引发了关于代码审核与功能必要性的争议。",
+    "id": "2651285054_3",
+    "title": "小米 Data + AI 存储架构演进：EB 级统一文件基座实践",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285054&idx=3&sn=b163411e20be723a72750f96151a8109&chksm=bdba9e6d8acd177bc83b6f60854637e95eb9cf2d298196ea6b8110553293a9fcfa0a76b41349#rd",
+    "publishTime": 1779439272,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNhdxQcD3l786nvwRRzVKx5ib9V6KMdQgygbD46tdZiaJteQEl0em7nib5yTzs5W98NjcUXdChOkl8fy2MiccGHFnfeyRhk2U7fZ6G4/0?wx_fmt=jpeg",
+    "digest": "小米存储团队自 2021 年起推进基于 JuiceFS 的文件存储平台建设，最初主要面向云原生及部分业务场景提",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651285743_4",
-    "title": "企业级Agent 落地，你绕不开的 4 个工程问题 | AICon",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285743&idx=4&sn=a1f5e1f5e1a07fd231318f3f71e09e41&chksm=bdba90bc8acd19aa47a2c499574165ee0471ed2ea0ca43e93ca35ac4c83eff550f87eb7ce711#rd",
-    "publishTime": 1779855676,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjj4N6jmEs32d42BQ2JFFcqtSH2r6l0iahLrbkqNWjsaicnXgibrCeYGfXYwibOXJoq1UnVRMLRHxzUap00FgibAO8AAz5a1neFNnb4/0?wx_fmt=jpeg",
-    "digest": "国内头部公司的 Agent 实践，一次说透。",
+    "id": "2651285054_4",
+    "title": "时序存储：影响成本与性能的设计选择",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285054&idx=4&sn=c12a9fd2c8ab187c38da080b7704f953&chksm=bdba9e6d8acd177b4bcaed7fef5b44e56cf5d76cc35b56c72c76efcbaf448418cd12cc2e81fc#rd",
+    "publishTime": 1779439272,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNgwX6vbvawHJ2ib9eQf18c5bbdF1Vmh0eoDWuvllHLqW6ia5IgKBtLgyST4Fw9dHQoPAzZMoXbScOpHgmaRNAqxT7DBwCdiclpyRw/0?wx_fmt=jpeg",
+    "digest": "使用任何时序数据库都需要做出一系列的存储设计决策：如何布局行、何时进行压缩、基于什么进行分区。这些决策对成本和查询性能的影响，甚至比数据库本身的选择更为关键。本文将从第一性原理出发，系统探讨这些基本问题。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
@@ -256,46 +296,6 @@
     "publishTime": 1779338859,
     "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNia6G8iaYicFNAR4eXUcYh7VK8pHsPXw9d33KSABx2fUytVPhwKnBh9yQQmHHPv72jkWZ5CictFyoGmFVJ8icAbvJGG6UQ3qhKTyLks/0?wx_fmt=jpeg",
     "digest": "AI Coding 已进入大规模落地阶段，但企业交付效率并未同步提升。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651284819_1",
-    "title": "Altman拿Token换股权只够烧45天，20亿Token捐母校只值100块：Token真成“钱”了，谁更赚？",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651284819&idx=1&sn=8791959bedcc4d1e2276db3dfbef9cb2&chksm=bdba9d008acd14162cb128a87bb5fe1c9f7f1d799b108664f500f4d747ece16c7951ba7c761b#rd",
-    "publishTime": 1779266307,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNhFwa9BSAzyfaiaehq08YlgWtpnjAHHnjzxTlicKbibicqv5FYfVXBkoTicw7TZlmnYicklFWO9evqicmg6KvF4EsCNX5Szn4O3ywAoGs/0?wx_fmt=jpeg",
-    "digest": "“AI 对参与其中的绝大多数人来说，在经济上都不可行。”",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651284819_2",
-    "title": "对话灵感实验室：全帧率 VLM、低成本与分层部署，业务现场不止需要炫技模型",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651284819&idx=2&sn=06447a8983130a459bd2c3c96deb5a8c&chksm=bdba9d008acd1416908f3dcdfb1e0525d960bcbdc95f9f9209ecdeed45bc4b7e0150c21a65c7#rd",
-    "publishTime": 1779266307,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNiaQffORNRtj5L6JVanfrxvGFiacIaLGQFmvR2kF6GmTjYa0MHef6VmkxlgNSkbhMxfYO2LISNFpJ0nwUgsiaMwhEQ4PQMjUvztDQ/0?wx_fmt=jpeg",
-    "digest": "把“全帧率视频理解”的成本打下来",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651284819_3",
-    "title": "人工智能无法加速软件交付",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651284819&idx=3&sn=be390ecddb6bc21ae2cdf84a091ac569&chksm=bdba9d008acd1416b1132072bea609ce87bfb73d2a63738c975de5d56364fd2f4b7f14546a19#rd",
-    "publishTime": 1779266307,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNjhucwCH7VPwZHo0uibsaDapKElQAzUG1OmxtLYnAPpFzfeyoibaLRkp6tNPfeRcUYdDUKNymQbQwS33sia3u93Nk9Y8FS3JQ0Cds/0?wx_fmt=jpeg",
-    "digest": "软件行业的领导者有着他们的一贯作风，当他们宣称只为一味追求增速而采用人工智能时，这一点理应被审慎看待。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651284819_4",
-    "title": "Kubernetes v1.36 发布：安全默认配置强化，AI 工作负载支持日趋成熟",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651284819&idx=4&sn=ab1c59b4b79a55b7089fc3f713eaae57&chksm=bdba9d008acd14169ddfc48a2acafc0aff9b73e61b6799dfc021ceecb3c3c59d209f0060f862#rd",
-    "publishTime": 1779266307,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNhgSZFribMlIHtDaG3SHQ6W6sakeUHbq1FJjUfyIb2UKg5JeMLrL33XgicvKVURqMeEIUmgEmRpB9mxe1dj92OJKVPlQhF2kNTh0/0?wx_fmt=jpeg",
-    "digest": "Kubernetes v1.36 发布，带来70项功能增强，主打安全、AI工作负载与API可扩展性；多项核心能力正式GA，同时优化了工作负载管理，新增AI资源调度相关特性。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   }
