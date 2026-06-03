@@ -50,6 +50,7 @@ const TARGET_ACCOUNTS = [
   // 美团
   { name: '美团招聘',          company: 'meituan' },
   { name: '美团技术团队',      company: 'meituan' },
+  { name: '龙猫LongCat',       company: 'meituan' },
   // 小红书
   { name: '小红书招聘',        company: 'xiaohongshu' },
   { name: '是小红书人啊',      company: 'xiaohongshu' },
