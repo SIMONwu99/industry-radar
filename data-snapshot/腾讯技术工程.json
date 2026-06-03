@@ -1,5 +1,15 @@
 [
   {
+    "id": "2649801828_1",
+    "title": "还在好奇鹅厂人Vibe Coding了什么东西？",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649801828&idx=1&sn=8a039db77b364696448024073e7d25be&chksm=becc571f89bbde09e20c276c865cfa0b078ec86f7ecf7afb86a9d880f0551c19fbb2ecb0fcb4#rd",
+    "publishTime": 1780484507,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/KVER9adz906F9GgPBRweeaibLRB4TMVOicuPUBzibGXskM13gibuiahPzrxtMVXEJkXX0sbWyFAEJ8OoicgicuFclJ3RD0TRcPhNDMibibP0X05UD1bs/0?wx_fmt=jpeg",
+    "digest": "第二期来袭！",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
     "id": "2649801806_1",
     "title": "深入解析Chromium的 AI Coding 开发体系",
     "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649801806&idx=1&sn=174aba5e6556049d7729e9e11f39ab8d&chksm=becc573589bbde23c2d523b455babe4302c3d99f753498155e849b228d0592b5679ee68c2f1e#rd",
@@ -36,16 +46,6 @@
     "publishTime": 1779876057,
     "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/KVER9adz905flA1sKFfwhF1tlyF1aH9sxezJHNRwIHnicmbIAAsbHFJ4IETEBRIanibDibp5te6z9nGKDwibpaaFNQmf61H14GiamwicL79HsJkm8/0?wx_fmt=jpeg",
     "digest": "夯",
-    "author": "",
-    "feedId": "MjM5ODYwMjI2MA=="
-  },
-  {
-    "id": "2649801631_1",
-    "title": "从3632个漏洞看AI时代的评测基准重构！VulnGym基准发布",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649801631&idx=1&sn=4d1c5bb6cd33aa8f38f6b902f5231065&chksm=becc50e489bbd9f227605a99254efded04c66b9736a12bc84d265e71b88a6e0f2f4d44a170ed#rd",
-    "publishTime": 1779787899,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/KVER9adz907dbuiakqQ2ApNbcWxdNKCkABr3lViaYy2ficEInI9ca45UmJUjjs6UJWXuI5shjibfiaAJFdzIgMicxsVlJ7c5qV9uxEqZsdXAYfna0/0?wx_fmt=jpeg",
-    "digest": "漏洞检测评测基准是这个行业的\"标尺\"",
     "author": "",
     "feedId": "MjM5ODYwMjI2MA=="
   }

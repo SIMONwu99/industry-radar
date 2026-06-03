@@ -1,5 +1,55 @@
 [
   {
+    "id": "2651286214_1",
+    "title": "Spring 创始人重回一线做 AI 框架，却说：这是人类亲自选择的最后一代框架",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286214&idx=1&sn=15fb8451ef0745adebaa3bce3a25b7f3&chksm=bdba92958acd1b83c7cc4450ba7ad66da85c5172d3f5350f24ebb58cb66d35ffdfff80209177#rd",
+    "publishTime": 1780461000,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNiafgvCn05aQ6BLObIEEozicjeMPTRaHqkIXu6bNV2HJ9SbWeic5icyVn5llvAibsqXOOmdckV4ALGeWibEianUMA4hfQ1JicvHeThtudU/0?wx_fmt=jpeg",
+    "digest": "模型跑得这么快，Embabel 会不会过时？",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651286214_2",
+    "title": "谷歌给 Android 开发者选模型：GPT-5.5 暂时领先",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286214&idx=2&sn=c2a830ebbc9e6401d34dcaffa5cedf24&chksm=bdba92958acd1b83f6a750af3b4bbc150a307d1cd6a96dcd09fc8a9f7c8d38ca2b7896254f03#rd",
+    "publishTime": 1780461000,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNh6PdSnQhMUIicFcZ3cjq1RicZrgjk0vwViaLrsBkQDnJKxNjBWuNwxWGIk1xn0zicPrIOQW0iamOOyAAWp2hwdicDeib82WMdkVhIPCA/0?wx_fmt=jpeg",
+    "digest": "谷歌希望软件开发者在构建Android应用时使用尽可能好的AI模型。因此，该公司在3月份推出了基准测试门户Android Bench。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651286214_3",
+    "title": "准确率突破 96.33%！百度文心发布 PaddleOCR-VL-1.6，刷新文档解析 SOTA",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286214&idx=3&sn=ab55f49ba4e5718dac291496ae40bb1c&chksm=bdba92958acd1b83c5a8dd83417e98dd5cf6b5bb2d75113647bdf11289ee568ffc72bb9ae9eb#rd",
+    "publishTime": 1780461000,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNjsGXzKPgATjQJVjq79nUz8jw3P9UPAXUGLTFOha8Xwziah0PfAibuLxUIKm1xKnRySBDPCIWgD8ft2IucZ6gIwFIMlibY5VLACRI/0?wx_fmt=jpeg",
+    "digest": "超越Gemini-3-Pro、GPT-5.2",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651286214_4",
+    "title": "LinkedIn 如何发现导致系统反复死机的内核锁竞争问题",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286214&idx=4&sn=fecb34c3e68fa59ae0b0842c1a402b8c&chksm=bdba92958acd1b839662aaf7c6b936ee38e43da5a3f521e53c8ccb58ff26feb05005c7d22216#rd",
+    "publishTime": 1780461000,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNjlET1VLQVCk2M2mSFH5vOAXYK7cyzQKft0QibPd82yc28bgtsKcy7VumCPicwjic4HePhxkqHic3KQlM1vtUZicm5KOCZzF2Kqtozw/0?wx_fmt=jpeg",
+    "digest": "LinkedIn 的工程师们遇到了一种短暂且反复出现的故障，即支撑用户信息流的数据库会突然不可用，随后又恢复正常，而且没有留下任何有用的痕迹。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651286214_5",
+    "title": "记忆感知的大模型 KVCache 优化｜AICon 上海",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286214&idx=5&sn=b0b32b37aa82ba2bf8384ec7a0ada087&chksm=bdba92958acd1b83638f8c2dd96245e4e3b32303f21074750ed30bf7039148b4cda74f06d120#rd",
+    "publishTime": 1780461000,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNhfPSicC0ibnMicfyuxZZnNFldralSmLSKFMpneSX4OfB46nUKM4hogb0CBiaDZ7yuVLqq6zvcfDAGDJN9Og3kLWJYO6RGhmvJXFlI/0?wx_fmt=jpeg",
+    "digest": "本次分享重点介绍以 KVCache 为中心的开源大模型服务框架——Mooncake",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
     "id": "2651286142_1",
     "title": "Agentic 时代的技术地图：AICon 2026 上海站全日程正式发布",
     "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286142&idx=1&sn=355df12c793a227c4391d2ced93aada3&chksm=bdba922d8acd1b3bc40d0021c13b4572ffd1c43735cb6427f1c203670b779a4f92b2cd670512#rd",
@@ -160,52 +210,42 @@
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651285886_1",
-    "title": "深度对话：后龙虾时代，企业Agent从“能用”到“生产级”差距在哪里？",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285886&idx=1&sn=d0a813cbf2ef68c477eddf58ead8fbbc&chksm=bdba912d8acd183b3c10dc3581d70eeb0c72b77f44a1f71a2894ac94b6078945d3f4955a2161#rd",
-    "publishTime": 1780034400,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjWia6hHf6rWqza6kiaHia0s3dvNDMw6xrjaBKcBZq5wHua3DFnpARCyfpCgC7ibwNJibvtONSZanFrmIn7NLmKYLwqicEia54rHwL3aI/0?wx_fmt=jpeg",
-    "digest": "Agent落地从“能用”到“生产级”，最致命的差距在于场景选择与知识数据的治理。",
+    "id": "2651285214_1",
+    "title": "硅谷深陷算力荒：H200一夜涨价30%，H100抢到缺货，Karpathy也未能幸免",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285214&idx=1&sn=2a56c4c18ce8de4a44d10a4b9b0ca2bb&chksm=bdba9e8d8acd179b24ad94e07c54a2f3adfdf4026562822f49a6e3e7f465910e0dff621c250f#rd",
+    "publishTime": 1779588900,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNiaqmq84dapQwVyWq8wibJqicXhb0RIp2ibZCda1NEKL0Y8nTsaoZeefpUoKndBOBmThJ4jEm8bMnmtsPhWjjOEiblMcl4y84mlDWLg/0?wx_fmt=jpeg",
+    "digest": "2026 年 5 月的硅谷，对于 AI 算力的“饥荒”和焦虑，正达到一个前所未有的高度。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651285886_2",
-    "title": "超越 TurboQuant! OSCAR：面向真实 Serving 的 2bit KV Cache量化",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285886&idx=2&sn=4edea3aefc77fd98dce2d9a9fc2d44f9&chksm=bdba912d8acd183bc9c6b66f6ee7c61f838febf3b1b88f69e30b5d0337c6e4470bd6778f7366#rd",
-    "publishTime": 1780034400,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNgyRkHuzziaeKgGEgmRNnUiaat6uEDxflskhIuho6zo62XTbEmIN2JCRqQUibx64KGu9mzLANyaA9aDmwmqgK72hz9ascMsJPO0Mk/0?wx_fmt=jpeg",
-    "digest": "长上下文模型的能力还在往前走，但在线推理服务遇到的压力，很多时候已经不只是计算量本身。",
+    "id": "2651285214_2",
+    "title": "GitHub面临生存之战！多位员工曝内部乱象：独立文化要没了，封杀Claude Code才能“活”",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285214&idx=2&sn=6d10cfe59192e76a301883ac5166ad7b&chksm=bdba9e8d8acd179b576d9a9688e3a0279d98d83e93a0eef6e8321e70e466b0b34dbc8d0d4fa2#rd",
+    "publishTime": 1779588900,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNgNsZRia3lWRcVIiaLXZcskrDsjMGjQ9QaYKAV6SbmugRREhRUGBiaFwdhmKDcrRDLWfZjass5oVSOXPTfHAT4n3MeicCqUrSYNSys/0?wx_fmt=jpeg",
+    "digest": "在微软内部，如今的 GitHub 正在遭遇一场生存级别的危机。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651285886_3",
-    "title": "Cloudflare 通过对 Browser Run 的重构和六层平台完善了其代理基础设施技术栈",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285886&idx=3&sn=5549f9ce3dac3a21a240b95eacaa1b63&chksm=bdba912d8acd183b308023015c17d2306e5e36e7d777a8b4e62ab63a244805b14b94e085e1b8#rd",
-    "publishTime": 1780034400,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNgyvMhiaBHVGMXO2Eb8Aic5cA6R0nqYbugiazpPfwBfrjiccoY7NQvAnmDtXwkiceX5U8vicgf9Kz8aeiaI1u0PXw8oCpqBQLZK6kibVL0/0?wx_fmt=jpeg",
-    "digest": "Cloudflare 以其自有容器平台为基础重构了 Browser Run，并发数提升了 4 倍，快速操作的响应时间缩短了 50%，并支持 WebGL 和 WebMCP。",
+    "id": "2651285214_3",
+    "title": "消息积压方面的数学知识：用于队列恢复的容量规划",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285214&idx=3&sn=f5a257b10f607c92f5b8c07d7b1c488c&chksm=bdba9e8d8acd179b175fbe6d53e4267ed9f20433451c0e35ee45380e9440a2d837d10bb2a891#rd",
+    "publishTime": 1779588900,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNiaicOlJNXdI61bUzTNOEbNkXvIlC5XicYwn5XeiaLvwoHEliaAsicIdOZXqeVicuH3qBGQSMfS1EMl4iablKvicIYKWCGVMcDPAa4QN2Ps/0?wx_fmt=jpeg",
+    "digest": "分布式系统中的消息积压是算术问题，不是玄学问题。本文给出了可落地的公式，用于计算积压清空时间、估算消费者冗余容量以及设置自动扩缩容触发的条件。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651285886_4",
-    "title": "借助 Android CLI，谷歌正让 Android 工具链更便于代理使用",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285886&idx=4&sn=225c9cce9315781e279fed96a9a6a359&chksm=bdba912d8acd183b35a5ff2bf3027945ecf06743697ac4dcdc060e4a23124e356ba7d48cb491#rd",
-    "publishTime": 1780034400,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNiaf0lCDmMovianficwcerQb271Jia7fJJefvdsofpH2vnCAkM0GGkWKjtp3Z7CVib3NFuCpHxuYPYFIpnUl33h1R5UIph88ehJCNp8/0?wx_fmt=jpeg",
-    "digest": "谷歌推出全新的 Android 开发工具，借助 AI 代理，可以将应用构建速度提升至原来的 3 倍。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651285886_5",
-    "title": "OPPO 小布记忆：全模态碎片化内容的理解与智能整理实践｜AICon 上海",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285886&idx=5&sn=e9eac5d0fc9459fd53f37220bba2cc68&chksm=bdba912d8acd183b439b436300899f1521e792a93959657f3ff98d78f6b1f878228c153637d9#rd",
-    "publishTime": 1780034400,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNgrkBMCc5yPhvic4AWE1iaw7VdywickuuIHI5pYqz1IM1GVDODyQUeGlY3aM3309Fo6Xs6cJRnvSzaerOasqzNa9Wdt16LUM1tGg0/0?wx_fmt=jpeg",
-    "digest": "用户每天产生大量碎片化内容——截图、语音、视频、文档、多图……如何让 AI 理解这些异构多模态数据，并自动整理成有价值的\"记忆\"？",
+    "id": "2651285214_4",
+    "title": "OpenAI 开源 Symphony：面向自主编码智能体编排的 SPEC 规范文档",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285214&idx=4&sn=9ea4923fc5f63239cd948d52f06043ef&chksm=bdba9e8d8acd179b6ffd7ec1cc53d5dc0fde861cf302e6ae1ee095f699e6fcd96aa86e79430f#rd",
+    "publishTime": 1779588900,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNiaLGsXiakVHaaWMCaRCJwBAlu3jKJ75a5ndsVYlJcsKc1JHjEtcTtxVeWC2cANc9MLuPByJHgZzbJey61F16ylpUf5qucmxjQKY/0?wx_fmt=jpeg",
+    "digest": "Brandon Foley的基准测试研究证实，AI编码代理可修复单一漏洞，却难以把控全局系统影响，进而推翻了靠优化代码检索提升自动修漏洞能力的主流观点。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
@@ -256,46 +296,6 @@
     "publishTime": 1779439272,
     "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNiaeVGpUYgxZ5T8G9YAjATf0ZOyA0sjRKnJcwuB5AlQmNAJGZqZTRg4ial6zXpa61S4XkeU9y9HHf59RENIkmQPAuDm6Lj6gruZY/0?wx_fmt=jpeg",
     "digest": "AI 终局只剩一个赢家？Anthropic Boris 回应：有可能",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651285054_2",
-    "title": "Agent“记忆断片”如何破局？Memory正成为AI的新战场",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285054&idx=2&sn=26f078b1748651209808458963178fa0&chksm=bdba9e6d8acd177bb3ff93673b9c60918c2674db37d98e4f6d90471b5f172fff18026f9286b3#rd",
-    "publishTime": 1779439272,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNhbjtrRdqFCpbprLOHAQ5LByicbk8p4ib8Cia1YnWwQ9iaoIajH8K7RvtSfqgDU10TVRlIK1ItfAQE3P94LzGzibw90nVaiafPy9aStk/0?wx_fmt=jpeg",
-    "digest": "我们离私人订制的AI，只差记忆系统。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651285054_3",
-    "title": "小米 Data + AI 存储架构演进：EB 级统一文件基座实践",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285054&idx=3&sn=b163411e20be723a72750f96151a8109&chksm=bdba9e6d8acd177bc83b6f60854637e95eb9cf2d298196ea6b8110553293a9fcfa0a76b41349#rd",
-    "publishTime": 1779439272,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNhdxQcD3l786nvwRRzVKx5ib9V6KMdQgygbD46tdZiaJteQEl0em7nib5yTzs5W98NjcUXdChOkl8fy2MiccGHFnfeyRhk2U7fZ6G4/0?wx_fmt=jpeg",
-    "digest": "小米存储团队自 2021 年起推进基于 JuiceFS 的文件存储平台建设，最初主要面向云原生及部分业务场景提",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651285054_4",
-    "title": "时序存储：影响成本与性能的设计选择",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285054&idx=4&sn=c12a9fd2c8ab187c38da080b7704f953&chksm=bdba9e6d8acd177b4bcaed7fef5b44e56cf5d76cc35b56c72c76efcbaf448418cd12cc2e81fc#rd",
-    "publishTime": 1779439272,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNgwX6vbvawHJ2ib9eQf18c5bbdF1Vmh0eoDWuvllHLqW6ia5IgKBtLgyST4Fw9dHQoPAzZMoXbScOpHgmaRNAqxT7DBwCdiclpyRw/0?wx_fmt=jpeg",
-    "digest": "使用任何时序数据库都需要做出一系列的存储设计决策：如何布局行、何时进行压缩、基于什么进行分区。这些决策对成本和查询性能的影响，甚至比数据库本身的选择更为关键。本文将从第一性原理出发，系统探讨这些基本问题。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651284918_1",
-    "title": "马斯克要当“太空版黄仁勋”：Anthropic一年上交150亿美元，Cursor百亿分手费锁死，SpaceX成新算力庄家",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651284918&idx=1&sn=58b5e107fa84ba6dcc3a487f8297a3c9&chksm=bdba9de58acd14f3d4eba5631e843254eec673ed61b9a3a9ea820a6d07321ad5400f6a33a952#rd",
-    "publishTime": 1779338859,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNiae5B5xVL0CicULuLaAeSibq4gFSGiaicL85yy9MBccEicibicWJnCWrwqxwz8GR4ZlGZQbSbc50vNDKA0EjP1jwNDnH6dYg5j9TibUIwU/0?wx_fmt=jpeg",
-    "digest": "今天，马斯克终于亮出了 SpaceX 招股书。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   }

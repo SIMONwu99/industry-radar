@@ -1,5 +1,45 @@
 [
   {
+    "id": "2247894624_1",
+    "title": "扣子3.0实测：手机就能远程遥控你电脑里的Agent",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247894624&idx=1&sn=bb01deffc8d61bd9743370897b64e85a&chksm=e8da7112dfadf804a833d7f49b061831eb900934124d2b5da85627bcbeb0dafa348cbc1e0434#rd",
+    "publishTime": 1780463407,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGEMreAsicrNOV1eYa7b1VNPZ9HMIQ3Fuq8BIq5PbcR4ianXo04JKQmPLqewOaKWLg7peAheXXibgcJmSlW1NDMMVMvnImyu5hql7w/0?wx_fmt=jpeg",
+    "digest": "电脑、手机、桌面，三端打通",
+    "author": "",
+    "feedId": "MzIzNjc1NzUzMw=="
+  },
+  {
+    "id": "2247894624_2",
+    "title": "CVPR论文一网打尽！科研神器Papers with Code满血复活",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247894624&idx=2&sn=722d75de2aa3d5319582852e9c934a6b&chksm=e8da7112dfadf804ece39e84c5d3fadbea5feeb42a4921e1fcb34ba6c5e4dc02eb46df0ae172#rd",
+    "publishTime": 1780463407,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGFShfSVgh8LEHoJZz2B4Cgffktob2C2f3LfIJmSFmbCkiaM7cfRudvOMKFQaun9an65VQo0Wo7GFqBZjJhHjjlfiboarrKibaCDOk/0?wx_fmt=jpeg",
+    "digest": "SOTA排行榜全面回归",
+    "author": "",
+    "feedId": "MzIzNjc1NzUzMw=="
+  },
+  {
+    "id": "2247894624_3",
+    "title": "大晓机器人x南洋理工PhysX-Omni统一物理3D生成！一个框架搞定刚体/软体/关节体",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247894624&idx=3&sn=a1a7fee7cbc45e93d5422f40b67ccacb&chksm=e8da7112dfadf8048ba2e9afd2d22c34ee519c92bf56e47a1adf05c380a40833522693f88143#rd",
+    "publishTime": 1780463407,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGE9Bm0OISpFbLGqgk8NgOOlN3n8QmZh7I7zfD0BheOL5mzC44RxnvicNEV2dWhMt4vHEIg2tm0fCgOK33lRGsicDlmvdVPib7TpHs/0?wx_fmt=jpeg",
+    "digest": "还构建了数据集和评测基准",
+    "author": "",
+    "feedId": "MzIzNjc1NzUzMw=="
+  },
+  {
+    "id": "2247894624_4",
+    "title": "量子位编辑作者招聘",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247894624&idx=4&sn=678f89e4cf673e0e049ebe429af05607&chksm=e8da7112dfadf804353f2dc92cec4eeef5a3963d4a4f596a120385d9b3fab08b95eeec62432b#rd",
+    "publishTime": 1780463407,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/YicUhk5aAGtBwsQQg50rdDIFHPibz5pbVfnv0oOoRSQ2KmEYBSJRibeXrJnIU1euj0icCf6pXdduQdCbnRJy3b7u7Q/0?wx_fmt=jpeg",
+    "digest": "3个岗位（含实习），不设边界",
+    "author": "",
+    "feedId": "MzIzNjc1NzUzMw=="
+  },
+  {
     "id": "2247894165_1",
     "title": "头部厂商集体买单，全球AI原生达人营销头号平台正在诞生！",
     "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247894165&idx=1&sn=8b6bd8dfeb2dd86592bb39326f8040e8&chksm=e8da73e7dfadfaf11f9e73565412845e4bc4520a4302fc112ef0f8fb73c08efc2cab1d6c84e8#rd",
@@ -130,30 +170,20 @@
     "feedId": "MzIzNjc1NzUzMw=="
   },
   {
-    "id": "2247893795_1",
-    "title": "5亿Tokens白送！全球首个商用AI主机发布，终于能放开烧Token了",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247893795&idx=1&sn=e1570e7f2b099258881e57818b7d0d2b&chksm=e8da7451dfadfd4729d8c93bb5a78da4990b8c05e1cbbef362bb6e608494f4e86394f29bac9b#rd",
-    "publishTime": 1780042273,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGF988MqczsOsj4h9T8611BfJnfHA4OTvvFUj6G19ZBFl7qibt3Lt9AGfcrQTnovlIdk7ArhpQOEU9ajibHryrjzzWhH5ibmFdSkHI/0?wx_fmt=jpeg",
-    "digest": "让OPC和成长型企业AI落地一步到位",
+    "id": "2247892541_1",
+    "title": "什么！你说胡彦斌也在苦修Vibe Coding",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247892541&idx=1&sn=82b34f9a37463ad838a25d283587fb59&chksm=e8da494fdfadc05979c42d9ff90353e3b8ea219bd029ee9c04971157a933d1899e693e408f72#rd",
+    "publishTime": 1779594688,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGEWM0WOhbxXFXWS7KXQP98yibneCcYLemjp5hm0111Eo3dCicao5uHy52kZhVNQmaXqmAOVgBRoyWID3WgOvjlZuFZ99IfjvmSMw/0?wx_fmt=jpeg",
+    "digest": "《生化危机》女主也在Vibe Coding",
     "author": "",
     "feedId": "MzIzNjc1NzUzMw=="
   },
   {
-    "id": "2247893795_2",
-    "title": "下限零基础，上限肝大作！腾讯这个AI游戏创作平台，太野了",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247893795&idx=2&sn=468e326c3f9baa63b46f9aa75d2bf2b4&chksm=e8da7451dfadfd47772da8a2b3b66b4fc1cc303f2ddd6551d1680458e01b1b85b259d50c9168#rd",
-    "publishTime": 1780042273,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGF5dbqSr7HWa8Aywbpia9DIaA3jXZ46rRmC68D80HWPGzJQ7KNKbwhIOlULxR3AhSEGLqu8fMXX9ibgPPlGHBAfh9VicNKDRljPzE/0?wx_fmt=jpeg",
-    "digest": "下一波AI创作浪潮正在游戏领域发生",
-    "author": "",
-    "feedId": "MzIzNjc1NzUzMw=="
-  },
-  {
-    "id": "2247893795_3",
+    "id": "2247892541_2",
     "title": "量子位编辑作者招聘",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247893795&idx=3&sn=518b0e030f1afd75dea67f87d9336e50&chksm=e8da7451dfadfd474116d039743365878664f124e68ed68c08b008bdbcb49f0984251d6cb3ed#rd",
-    "publishTime": 1780042273,
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247892541&idx=2&sn=3aaef601114384b123e3f4dfb38bb3d7&chksm=e8da494fdfadc05980419d4f9fefe7d048906d2b8b26b025d6dd72999c6e1937b4b0c05dcf5d#rd",
+    "publishTime": 1779594688,
     "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/YicUhk5aAGtBwsQQg50rdDIFHPibz5pbVfnv0oOoRSQ2KmEYBSJRibeXrJnIU1euj0icCf6pXdduQdCbnRJy3b7u7Q/0?wx_fmt=jpeg",
     "digest": "3个岗位（含实习），不设边界",
     "author": "",
@@ -266,36 +296,6 @@
     "publishTime": 1779249500,
     "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGFzEa9XUg6ujwfZTSrQwVfw5ajDPmgLWtBMs3Qm9pBBpLdEa7XYz74OLv87BkdnsFpkdPVtOYMflOqV8ZnSCCpzhVicQlibAicnBw/0?wx_fmt=jpeg",
     "digest": "让你的经验24小时自动接单",
-    "author": "",
-    "feedId": "MzIzNjc1NzUzMw=="
-  },
-  {
-    "id": "2247891876_3",
-    "title": "量子位编辑作者招聘",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247891876&idx=3&sn=c49d99df191f2e280e3f29eb6e087eb9&chksm=e8da4cd6dfadc5c0ec1047d92f06ac65947b54e9a771423f83082146d90bb18fb3bcb2d52835#rd",
-    "publishTime": 1779249500,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/YicUhk5aAGtBwsQQg50rdDIFHPibz5pbVfnv0oOoRSQ2KmEYBSJRibeXrJnIU1euj0icCf6pXdduQdCbnRJy3b7u7Q/0?wx_fmt=jpeg",
-    "digest": "3个岗位（含实习），不设边界",
-    "author": "",
-    "feedId": "MzIzNjc1NzUzMw=="
-  },
-  {
-    "id": "2247891759_1",
-    "title": "抢先李飞飞！世界模型能多人联机玩FPS游戏了",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247891759&idx=1&sn=f740f98282614031e02f5309d0f6b3b6&chksm=e8da4c5ddfadc54b03a90c97eeb6fc3d027bd62ebec29d1afe03a08ebcc531ea92a013c2a580#rd",
-    "publishTime": 1779170885,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGEjkTRN3m8ibmwn0xpANdLYrXXiaic7Km2DdQiciczia4U6eIb3viczE3YTwUBC7YhH1yO9d4NZicNmiaNKhibBfFIou8cAibGA0H1yDQ3nzM/0?wx_fmt=jpeg",
-    "digest": "开局就被秒，对面你是「人」吗？",
-    "author": "",
-    "feedId": "MzIzNjc1NzUzMw=="
-  },
-  {
-    "id": "2247891759_2",
-    "title": "国产GPU开始造世界！国内首个全栈具身智能仿真平台来了",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247891759&idx=2&sn=dae11b5c3de28b554fc3823dd823198a&chksm=e8da4c5ddfadc54bcbb01d4883749f87f84a5309f71134001500d565ef33d7a8ec0365ebf7b6#rd",
-    "publishTime": 1779170885,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGGnowhroYQn63uUxoKfkZtOYHy3ccia94DrMjbvQT9TiasP3fq51nJ5Pexiah4ZBX8ayBzZvp9DOfThMR2ybmXlicv8SVfD2ib1GUgw/0?wx_fmt=jpeg",
-    "digest": "发布MT Lambda",
     "author": "",
     "feedId": "MzIzNjc1NzUzMw=="
   }

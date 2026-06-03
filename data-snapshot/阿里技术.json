@@ -1,5 +1,15 @@
 [
   {
+    "id": "2247509639_1",
+    "title": "重新思考研发基础设施：当 Agent 成为第一公民",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247509639&idx=1&sn=bac09af0c76f4383f03c0d96cb48bd0a&chksm=cfa6b664f8d13f7221a5323d4aea4ab0a2186df3b2a265104424e38ceeb205c489efcb0bca5b#rd",
+    "publishTime": 1780481361,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/kN3t5R6pdz5qDxrV6UMRAOAib4Bu62qOQOp5SjxfNcw8ibW9zpRicrwXpLST3cFz81L3SVJ74WMeJrm6gbeAibib3LjzwmvUkOQqCUvichBpRRE4Y/0?wx_fmt=jpeg",
+    "digest": "2026 的下半年，关于 Agent 我们可能最需要关注 Infra 的演进。",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
     "id": "2247509628_1",
     "title": "Agent核心技术概念与范式发生了哪些演变以及背后的思考",
     "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247509628&idx=1&sn=6a31cc7a478c2bba91b1eaf405176dfe&chksm=cfa6b69ff8d13f89d53cec186c2302942b919995374174500f99cdd10a9807049ca10c88c3d4#rd",
