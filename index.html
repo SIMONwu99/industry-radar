@@ -110,7 +110,8 @@
       max-width: 1400px; margin: 0 auto; padding: 20px 24px;
       display: grid; grid-template-columns: 1fr 280px; gap: 20px;
     }
-    .content-area { min-width: 0; }
+    .content-area { min-width: 0; order: 0; }
+    .sidebar { order: 1; }
 
     /* ===== 侧边栏 ===== */
     .sidebar { display: flex; flex-direction: column; gap: 16px; }
@@ -345,19 +346,148 @@
     .toast.info { background: #eff6ff; border: 1px solid #bfdbfe; color: #1e40af; }
     @keyframes slideIn { from { transform: translateX(100%); opacity: 0; } to { transform: translateX(0); opacity: 1; } }
 
-    /* ===== 响应式 ===== */
+    /* ===== 响应式 — 平板 ===== */
     @media (max-width: 1100px) {
       .main-layout { grid-template-columns: 1fr; }
       .sidebar { display: grid; grid-template-columns: 1fr 1fr; }
       .overview-grid { grid-template-columns: 1fr; }
       .chart-row { grid-template-columns: 1fr; }
     }
+
+    /* ===== 响应式 — 移动端 (≤640px) ===== */
     @media (max-width: 640px) {
-      .header-inner { gap: 12px; }
-      .main-layout { padding: 12px; }
-      .nav-tab { padding: 6px 10px; font-size: 13px; }
+
+      /* --- Header --- */
+      .header { padding: 0 12px; }
+      .header-inner {
+        flex-wrap: wrap;
+        height: auto;
+        padding: 10px 0 0;
+        gap: 0;
+      }
+      .logo { font-size: 15px; padding-bottom: 8px; }
+
+      /* Nav tabs 横向滚动，不换行 */
+      .nav-tabs {
+        order: 3;
+        width: 100%;
+        overflow-x: auto;
+        gap: 2px;
+        padding-bottom: 6px;
+        -webkit-overflow-scrolling: touch;
+        scrollbar-width: none;
+      }
+      .nav-tabs::-webkit-scrollbar { display: none; }
+      .nav-tab { padding: 7px 12px; font-size: 13px; flex-shrink: 0; }
+
+      /* 操作区：紧凑排布，推到 logo 右边 */
+      .header-actions {
+        margin-left: auto;
+        gap: 6px;
+        padding-bottom: 8px;
+      }
+      /* 隐藏 "自动更新" 文字状态指示，只保留按钮 */
+      #auto-status { display: none; }
+      /* 两个按钮缩小 */
+      .btn { padding: 6px 10px; font-size: 12px; gap: 4px; }
+      /* 同步按钮：只显示图标+时间，截短 */
+      #sync-time { max-width: 60px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+
+      /* --- 全局筛选栏 --- */
+      .filter-bar { padding: 0 8px; }
+      .filter-bar-inner { height: 44px; gap: 6px; }
+      .filter-chip { padding: 4px 10px; font-size: 12px; }
+      .filter-total { display: none; } /* 手机空间不够，隐藏 */
+
+      /* --- 主布局 --- */
+      .main-layout {
+        grid-template-columns: 1fr;
+        padding: 10px 10px;
+        gap: 12px;
+      }
+
+      /* 侧边栏移到内容区上方（通过 order 实现，不改 HTML） */
+      .sidebar {
+        order: -1;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 10px;
+      }
+      /* 账号状态卡片在手机上隐藏（信息量太大，挤在小屏很难看） */
+      .sidebar .sidebar-card:nth-child(3) { display: none; }
+
+      .sidebar-card-header { padding: 10px 12px; font-size: 12px; }
+      .sidebar-card-body { padding: 10px 12px; }
+      .stat-num { font-size: 18px; }
+      .stat-item { padding: 10px 6px; }
+
+      /* --- 搜索区 --- */
+      .search-area { padding: 8px 12px; gap: 6px; flex-wrap: wrap; }
+      .search-tags { width: 100%; flex-wrap: nowrap; overflow-x: auto; -webkit-overflow-scrolling: touch; }
+      .search-tags::-webkit-scrollbar { display: none; }
+      .search-tag { flex-shrink: 0; }
+
+      /* --- 资讯概览 --- */
+      .overview-grid { grid-template-columns: 1fr; gap: 12px; }
+
+      /* --- 资讯列表 --- */
+      .article-card { padding: 12px; gap: 10px; }
       .article-title { font-size: 14px; }
+      /* 封面图在手机上隐藏，节省宽度 */
+      .article-thumb { display: none; }
+
+      /* --- 数据图表 --- */
+      .chart-card { padding: 14px 12px; }
+      .chart-title { font-size: 14px; }
+      .chart-container { height: 220px; }
+      .chart-row { grid-template-columns: 1fr; gap: 12px; }
+
+      /* Heatmap：横向滚动容器 + 左侧阴影提示用户可以滑动 */
+      .heatmap-scroll-wrap {
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+        position: relative;
+        border-radius: 6px;
+      }
+      .heatmap-scroll-wrap::after {
+        content: '';
+        position: absolute;
+        top: 0; right: 0;
+        width: 32px; height: 100%;
+        background: linear-gradient(to left, rgba(255,255,255,.9), transparent);
+        pointer-events: none;
+        border-radius: 0 6px 6px 0;
+      }
+      .heatmap-table { font-size: 11px; min-width: 480px; }
+      .heatmap-table th { padding: 5px 8px; font-size: 11px; }
+      .heatmap-table td { padding: 5px 8px; }
+      .heat-cell { min-width: 22px; padding: 2px 5px; font-size: 11px; }
+
+      /* --- AI 摘要 --- */
+      .summary-controls { gap: 8px; }
+      .toggle-btn { padding: 6px 12px; font-size: 12px; }
+      select.filter-select { padding: 6px 24px 6px 10px; font-size: 12px; }
+      .summary-body { padding: 14px; }
+      .summary-content { font-size: 12px; }
+
+      /* --- Toast 移到底部居中 --- */
+      #toast-container {
+        top: auto; right: auto;
+        bottom: 20px; left: 50%;
+        transform: translateX(-50%);
+        width: calc(100% - 32px);
+        align-items: center;
+      }
+      .toast { max-width: 100%; width: 100%; justify-content: center; }
+      @keyframes slideIn { from { transform: translateY(20px); opacity: 0; } to { transform: translateY(0); opacity: 1; } }
+    }
+
+    /* ===== 响应式 — 超小屏 (≤375px) ===== */
+    @media (max-width: 375px) {
       .sidebar { grid-template-columns: 1fr; }
+      .stats-grid { grid-template-columns: repeat(4, 1fr); gap: 6px; }
+      .stat-num { font-size: 16px; }
+      .stat-label { font-size: 10px; }
     }
   </style>
 </head>
@@ -484,7 +614,7 @@
           </div>
           <div class="chart-card">
             <div class="chart-title">📊 关键词公司归属热力</div>
-            <div style="overflow-x:auto">
+            <div class="heatmap-scroll-wrap">
               <table class="heatmap-table" id="heatmap-table">
                 <thead><tr id="heatmap-header"></tr></thead>
                 <tbody id="heatmap-body"></tbody>
