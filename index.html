@@ -380,18 +380,19 @@
       .nav-tabs::-webkit-scrollbar { display: none; }
       .nav-tab { padding: 7px 12px; font-size: 13px; flex-shrink: 0; }
 
-      /* 操作区：紧凑排布，推到 logo 右边 */
+      /* 操作区：只剩同步按钮，紧贴 logo 右边 */
       .header-actions {
         margin-left: auto;
-        gap: 6px;
+        gap: 0;
         padding-bottom: 8px;
       }
-      /* 隐藏 "自动更新" 文字状态指示，只保留按钮 */
+      /* 移动端：隐藏自动更新状态指示 + 按钮（功能保留，仅不展示） */
       #auto-status { display: none; }
-      /* 两个按钮缩小 */
+      #btn-auto-toggle { display: none; }
+      /* 同步按钮保留，缩小字号 */
       .btn { padding: 6px 10px; font-size: 12px; gap: 4px; }
-      /* 同步按钮：只显示图标+时间，截短 */
-      #sync-time { max-width: 60px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+      /* 同步时间截短，避免撑宽 header */
+      #sync-time { max-width: 72px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 
       /* --- 全局筛选栏 --- */
       .filter-bar { padding: 0 8px; }
