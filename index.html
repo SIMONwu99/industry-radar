@@ -769,6 +769,15 @@ async function loadData() {
     allArticles = results.flatMap(r => r.status === 'fulfilled' ? r.value : []);
     allArticles.sort((a, b) => (b.publishTime || 0) - (a.publishTime || 0));
 
+    // 前端去重保险：同一账号下标题相同只保留最新一条
+    const seenTitles = new Set();
+    allArticles = allArticles.filter(a => {
+      const key = (a.feedId || '') + '::' + (a.title || '').replace(/\s+/g,'').toLowerCase();
+      if (seenTitles.has(key)) return false;
+      seenTitles.add(key);
+      return true;
+    });
+
     // 更新同步时间
     const latestSync = allFeeds.reduce((m, f) => Math.max(m, f.syncTime || 0), 0);
     if (latestSync) {

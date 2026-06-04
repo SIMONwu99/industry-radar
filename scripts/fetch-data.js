@@ -151,7 +151,16 @@ async function fetchArticles(fakeid, maxCount) {
     await sleep(600);
   }
 
-  return articles.filter(a => a.title);
+  // 按标题去重：同一篇文章被多次发布时只保留最新一条
+  const seen = new Set();
+  return articles.filter(a => {
+    if (!a.title) return false;
+    // 标准化标题（去除空格、全半角差异）后作为 key
+    const key = a.title.replace(/\s+/g, '').toLowerCase();
+    if (seen.has(key)) return false;
+    seen.add(key);
+    return true;
+  });
 }
 
 // ============================================================
@@ -215,7 +224,7 @@ async function main() {
         cover:        articles[0]?.cover || '',
         syncTime,
         updateTime:   articles[0]?.publishTime || syncTime,
-        articleCount: articles.length,
+        articleCount: articles.length,  // 已去重后的数量
       });
 
       fs.writeFileSync(
