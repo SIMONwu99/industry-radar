@@ -1,5 +1,35 @@
 [
   {
+    "id": "2651037142_1",
+    "title": "当办公室都在咕咕嘎嘎……打字，正在变成一种古老的技艺",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651037142&idx=1&sn=b38c9fbfcf9b3430112938e540e3d153&chksm=84e659a8b391d0be45bfccdd529e40235caeb911f42411263a3142bf2ac5907e9a62788fa893#rd",
+    "publishTime": 1780566687,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqFGsHBkzY0iaXGKSpAQ2fhF90OlzsOq6jX5waKcHas6B7ic0V9fnLbSEBBdKibNib1zJVfNosGMwUckKd0onruDYWk564NMC235YBU/0?wx_fmt=jpeg",
+    "digest": "硅谷开始喃喃低语……",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
+    "id": "2651037142_2",
+    "title": "告别盲盒筛选！分子之心发布MMDesign，抗体发现迈入可编程生物工程时代",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651037142&idx=2&sn=af4d327cc3b148b0928fc83e67d14753&chksm=84e659a8b391d0be16e7b5af9b276dedc1f349aac14391d194225e8964ccc03edd17970272a8#rd",
+    "publishTime": 1780566687,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqHRIyfhwNjnWvCrSZ7rrm4GctwKyHIYXxHzficYZoGPbsZwibz0I2yfksGXLSnAZILAttSebTCMvXsrTtEnFLEfTeSl4VicvSPmicc/0?wx_fmt=jpeg",
+    "digest": "AI蛋白质设计从概念验证走向产业化应用。",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
+    "id": "2651037142_3",
+    "title": "120亿参数跑在16G笔记本上，谷歌Gemma 4新成员杀来了",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651037142&idx=3&sn=4f4b6b166c1ab682a944438f594da763&chksm=84e659a8b391d0be7a5ea3d8d4ae16afeed90fd0ca6224ec111f87642c6bf5cb2d720607546c#rd",
+    "publishTime": 1780566687,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqHj6WbENibk511L6QyWpSaR3JEAvjSG4nialHr3eVMNWUvobjCJbQWre6Nr7MnRIM4A7nvSia1AmUJnLmH0PicSRRYfibmM8c24tepM/0?wx_fmt=jpeg",
+    "digest": "12B性能逼近更大规模的26B。",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
     "id": "2651036834_1",
     "title": "当Token飙到天文数字，高通用「计算连续体」重搭智能体新基建",
     "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651036834&idx=1&sn=8b0f4f0b3ee04d86335f17b70dfde29c&chksm=84e658dcb391d1ca6aaca7e468c38594afd762f087b08ce481284f3214d3a7d4ac4833eeb991#rd",
@@ -120,32 +150,22 @@
     "feedId": "MzA3MzI4MjgzMw=="
   },
   {
-    "id": "2651035907_1",
-    "title": "登顶HuggingFace日榜！英伟达清华团队γ-World：把世界模型从单机打到联机",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651035907&idx=1&sn=cd65e6a8e2619188409acb7a14b19812&chksm=84e65d7db391d46b9cc26f6bb6c6207e1e75fbafc207c5474a734103396212dde99928f6125b#rd",
-    "publishTime": 1780108200,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqH58zYZsYLic9nPbHdtpRrIFlBr4U2tzPbCUaKbvUapibM7hCAHtjthTOpSWRQMicJflZDmMGuyKs4g3p7b5fAzfuE80wzIiamrCSQ/0?wx_fmt=jpeg",
-    "digest": "从单机到联机，世界模型的下一场战争，才刚刚开始。",
+    "id": "2651034802_1",
+    "title": "性能超越李飞飞，他们把10亿高斯点的3D世界装进浏览器",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651034802&idx=1&sn=aca7d8c47e9a0e86138d845b09d9e70a&chksm=84e650ccb391d9dabb8680368a7910fea6ff5a5ad4af9863996308a7fe545f3e3f98abefc415#rd",
+    "publishTime": 1779690667,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqEGQ9o8K2zbLSIjiaurhuGz2WaoPHwAc0nHbbqaBtPKJha7DGvUvODnZKoXM4qXtYctTu7bibD7mKgjwasjK96icX58w3r4TRVGuE/0?wx_fmt=jpeg",
+    "digest": "信息载体的下一站，从二维走向三维。",
     "author": "",
     "feedId": "MzA3MzI4MjgzMw=="
   },
   {
-    "id": "2651035907_2",
-    "title": "苹果用AI重新发明了图像压缩：同样画质，文件只要三分之一",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651035907&idx=2&sn=fc86ee07e64f46f06038f22986ad9484&chksm=84e65d7db391d46b677652da3644092e3aba87f71ad04d47b8de262a98357b010afbcb013c01#rd",
-    "publishTime": 1780108200,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqGMwheReChGVicicz7ia5zuibkiaialFH5z2m3367TyQPpF7ezENQ17m3WX5NQfiaQSgCezm0dHY6aeb7GEWuHu6gtBZU0S2nGbqQke7w/0?wx_fmt=jpeg",
-    "digest": "让人眼满意",
-    "author": "",
-    "feedId": "MzA3MzI4MjgzMw=="
-  },
-  {
-    "id": "2651035907_3",
-    "title": "AdamW和Muon的失稳根源有解了，港中文新优化器Pion：在等谱流形上更新大模型",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651035907&idx=3&sn=65acfbec433231599b75c459972619e2&chksm=84e65d7db391d46b817f7531589a187fbc1bb5c1e8d7f2d37a2ca00614b9933e4c2c3268278e#rd",
-    "publishTime": 1780108200,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqEHx4dyGUUhicMl0GOGuYSGHg6rtS7BMCgR98K1930RY9ZRmV8T91ibCtGss7FctLmKmMXjC6wDjG7Pquvdf8OpGqo7xBqIwhWZc/0?wx_fmt=jpeg",
-    "digest": "Pion 优化器：基于等谱流形的大模型稳定高效训练新范式",
+    "id": "2651034802_2",
+    "title": "告别多奖励跷跷板：Flow-OPD将多教师OPD带入图像生成",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651034802&idx=2&sn=8073f8f1de5678cc24a4b43a269766f2&chksm=84e650ccb391d9da713eef508f40d2b362bd0eed310d07e2e2c04cad6c03b26ecdbbe122e97a#rd",
+    "publishTime": 1779690667,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqGQstq5o27Aia9bShSmONMKhEK8eYZwGTukSKsVeGndhibDEQIr936pUicusFvZGcCZVI2uUiblMUeV8iceKyEBfjXueLd2S8lBcGwg/0?wx_fmt=jpeg",
+    "digest": "首个将 OPD 引入流匹配模型的统一多任务后训练框架",
     "author": "",
     "feedId": "MzA3MzI4MjgzMw=="
   },
@@ -230,42 +250,22 @@
     "feedId": "MzA3MzI4MjgzMw=="
   },
   {
-    "id": "2651034260_1",
-    "title": "推翻二十年组网逻辑，智谱落地ZCube，让同样的GPU多干15%的活",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651034260&idx=1&sn=79d1469b24b4a814ece601bcc00a5f95&chksm=84e656eab391dffc83a6e1ca49a5c824fe8930cb13c7d9bfa7937752f1dfebdf2e788c3a4754#rd",
-    "publishTime": 1779332553,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqFib9wnrfoiaefYA4HOrURzdsj171VAdPJGzdSicKp9FdHpnjLXJG0EWJS3XH2Y89uGx2bHU7iatv2kxYYLK4T7ibibSCSbU8ibOfBvPo/0?wx_fmt=jpeg",
-    "digest": "扩大规模，控制成本的福音。",
+    "id": "2651033444_1",
+    "title": "这一次，不比炫技，比谁更能「干活」",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651033444&idx=1&sn=bf08919d1554fd825b9a7607e8db5495&chksm=84e64b1ab391c20c272ba8c1d53a8674e26addde2868bbfa7c21071f0651536ed9c01e2165ac#rd",
+    "publishTime": 1778926919,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqG3NAQCrm8zgHdNWGGYqOB14E5s7elXbMic51iacib9ZlfJAV7HaXLKv5xoLoLuITcAYqbtjxVsbwKJgP5eeEVPMCVeOuiaISKEX1c/0?wx_fmt=jpeg",
+    "digest": "机器人的一次面向真实世界的集中上岗「面试」！",
     "author": "",
     "feedId": "MzA3MzI4MjgzMw=="
   },
   {
-    "id": "2651034260_2",
-    "title": "刚刚，谢赛宁团队放出第二代表征自编码器",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651034260&idx=2&sn=3b6bb8eeaf3ee411d721c1981557b1f2&chksm=84e656eab391dffc9c483f830189b790be62aea7077ae7444d166d9877bdaf493848475a3653#rd",
-    "publishTime": 1779332553,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqGsicB1pweAq3tMaKib9XnmoCODOLwBsJysYMUZibIf84MB3wKUWPiaiarfcsLpI966piaiaykLZIUve8YFd0GYYEA8CElPICQZx7VDc4/0?wx_fmt=jpeg",
-    "digest": "RAEv2来了！使用一个「多余」操作，让生图训练快了十倍",
-    "author": "",
-    "feedId": "MzA3MzI4MjgzMw=="
-  },
-  {
-    "id": "2651034260_3",
-    "title": "VAST+清华提出3D生成新范式，空间智能密度控制「把算力花在刀刃上」| SIGGRAPH 2026",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651034260&idx=3&sn=7c52a788e82d3c15294aa60e940b5756&chksm=84e656eab391dffc746df9bd51d54e9d685a389085a84e9b0add33942a5337bd8063c9c456f4#rd",
-    "publishTime": 1779332553,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqGuGIcE7JfV8XFqriaNY9pMeEOxWic9nxC51xYslmhd1Uiah5WPkKjo5DeWu4ruIVfnVCbTSO3HtKT9nuGxY9bcIHr8rkEX8VclOQ/0?wx_fmt=jpeg",
-    "digest": "让模型自己学会一种“高斯球采样策略”。",
-    "author": "",
-    "feedId": "MzA3MzI4MjgzMw=="
-  },
-  {
-    "id": "2651033181_1",
-    "title": "越懂你，越危险？MemPrivacy揭示AI记忆下一站",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651033181&idx=1&sn=58be8f87e7b906bc0460ee612e007055&chksm=84e64a23b391c335b3481746a0b52ef4360b9ab5120d341ebb9f042fc3396295d41c419d4d7f#rd",
-    "publishTime": 1778810537,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqF45SaReAJSn6v8eUvD45MVMVJrxOV5ep4y9TCF6cicFg5ib0UwsKGgmLYQfLdfPYFQyeqmeb9oRmkUCK64Z4t240cKESlicrV494/0?wx_fmt=jpeg",
-    "digest": "让 Agent 可用，但不可见。",
+    "id": "2651033444_2",
+    "title": "Anthropic又整活，卡片大小的电脑也跑上Claude Code了",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651033444&idx=2&sn=22572ba158b074479842c1447338733d&chksm=84e64b1ab391c20c2fddcc27596b2a036d261898f4f8b43800605e17f4f93ba69e4d22da2229#rd",
+    "publishTime": 1778926919,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqFCmCGe4JtPyJPNmvl9CEoJcBTqhc9y7Rb0wzQkyGzajuje0FSd6ff9cLve7ia5j5qbLyOGrIcE4RYI51pkT4dTWDTH57c6LuFg/0?wx_fmt=jpeg",
+    "digest": "小小的也很可爱。",
     "author": "",
     "feedId": "MzA3MzI4MjgzMw=="
   }

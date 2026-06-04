@@ -1,5 +1,55 @@
 [
   {
+    "id": "2651286315_1",
+    "title": "OpenAI CFO 首次详解公司战略：B端C端收入五五开、抢 IPO 第一名没意义、神秘硬件今年公布",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286315&idx=1&sn=d93377aa78bee152659192677541f079&chksm=bdba93788acd1a6eaf8abefa64babf08fcc1ce55135b57bfc22cb7165dcc7f4a7f70d5e51864#rd",
+    "publishTime": 1780556862,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNhMCDHyMWEUx9iaLoHvNBb57Kh0XiaXLqtZKRmZTxXDdVPBkKMVZVXWLylAG49OetlEKug3IdjsGg1ZZOepJK21HVXX6Qfeer90w/0?wx_fmt=jpeg",
+    "digest": "Anthropic 抢交 S-1？OpenAI CFO 冷脸回应：没人记得谁先上市，市场最终看价值",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651286315_2",
+    "title": "写代码可以 Vibe Coding 了，为什么办公还不能 Vibe Officing？",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286315&idx=2&sn=09885b688b8367a2eb84677d05da75a0&chksm=bdba93788acd1a6e5b61a5685f45c684773a48b675771a8797a0f194c1ba026e606d087a27c0#rd",
+    "publishTime": 1780556862,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNgDoIuXl8EBFnR096n9N267EicF33bVVnfZIYyFRAwZOc1bhxkqc8IXMUTibia59yVdIaqZ3icIKAbc1nnY1htTs2q6rn9HfWaseJI/0?wx_fmt=jpeg",
+    "digest": "本文将站在资深研发的视角，从技术层面探讨现在市面上 AI+ 文档的工具与 Vibe Officing 之间的距离，分析为何 HTML 和 Markdown 都无法承载这种工作方式，并给出基于 OOXML 的解决方案。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651286315_3",
+    "title": "把数据库运维这件苦差事，交给 AI Agent",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286315&idx=3&sn=154c81386b9415c738b2892e84a1de1b&chksm=bdba93788acd1a6e52a4b99344f8fbcbd73ce1cdba787cacae766b16fb76b98f10160847f09e#rd",
+    "publishTime": 1780556862,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNiaqeLnRfP39Eg8LsrT8dHOeOtHEq8tPNrc38GWRhvcGqzeKAv2QZLw8b5b72W9qTS7UQvib8wrcITC8MQxDFL2XYeCE8XHrgjwA/0?wx_fmt=jpeg",
+    "digest": "诊断引擎怎么进化、安全底座怎么搭、Agent 怎么跑通生产闭环。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651286315_4",
+    "title": "谷歌扩大 SynthID 在 AI 水印技术中的应用，并提供内容检测 API 预览",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286315&idx=4&sn=ada09312247a581c0fb2400f5e7765a1&chksm=bdba93788acd1a6e240052af81325861d39370b7a1bd9b1173a8e000cffe3a05f1981cba6d8e#rd",
+    "publishTime": 1780556862,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjVRRhB0vMXDf0fLBGuMyFdeQvCdWnQH7OvEVAl8GawYyicobTe6leNxiaJEwuhla3wakh82utmYeMV80bCPlKRyF6FI3fISgIqc/0?wx_fmt=jpeg",
+    "digest": "谷歌扩大 SynthID 在 AI 水印技术中的应用，并提供内容检测 API 预览。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651286315_5",
+    "title": "科大讯飞面向超大规模教育场景的 Agent 系统架构演进与工程实践｜AICon 上海",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286315&idx=5&sn=8b30bba75f1cb98df892bef1e6bd4e07&chksm=bdba93788acd1a6eaaf905ca9c59ed00bbdefbc33e200c33790d8a3125fea1f91b78e68aa9d5#rd",
+    "publishTime": 1780556862,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNiaFYySro7IPYQr2GWEXicDte0W12sORm0VgYvNfOdbticNWlHfCYmRjdBqNKgU60dQPty5s201ict7wfX1wo4bo8npqJ0WuZTOTJg/0?wx_fmt=jpeg",
+    "digest": "在 Agent 系统里，决定上限的不只是模型能力，调度、工具、权限、记忆与监控这些 harness 设计同样关键",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
     "id": "2651286214_1",
     "title": "Spring 创始人重回一线做 AI 框架，却说：这是人类亲自选择的最后一代框架",
     "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286214&idx=1&sn=15fb8451ef0745adebaa3bce3a25b7f3&chksm=bdba92958acd1b83c7cc4450ba7ad66da85c5172d3f5350f24ebb58cb66d35ffdfff80209177#rd",
@@ -170,42 +220,42 @@
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651285965_1",
-    "title": "半数华人、3位亿万富翁：这张十年前的量化实习生合照，藏着 AI 时代的新贵版图",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285965&idx=1&sn=ad6a6573fd31635e961e4053015737b1&chksm=bdba919e8acd18886c274fa288b737277dd55cf5ffdd33fcd02851d9dc129d40ee64f8ecafde#rd",
-    "publishTime": 1780106400,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/lYDricib2fsm6kl8VjUd3YF7dibucVZjiaFZgY6TzTtGqdp9GNXbwwbQbq0atWoOaRrTOt0dbSKcqvsvxAB2mbUox4MyNEkUa239yZUwme6EBl0/0?wx_fmt=jpeg",
-    "digest": "AI圈里最炙手可热的新贵们，可能一大半都出自量化交易。",
+    "id": "2651285633_1",
+    "title": "微软将弃用Claude：太贵了还是薅明白了？",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285633&idx=1&sn=e72656c650d71e707fc9801043555033&chksm=bdba90d28acd19c420f262ec4ff8397a3367f1f5c655f88ca43f36345cfc93816bf90a6d0b50#rd",
+    "publishTime": 1779698164,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjwIqB5d1G12UARZGictFYXBUFn57WLUYmXTyEiaTM44QGwYMCFNaUXkkbo8BgrDibcPy3tNRItXwMM1pN23p4OmrOXebicbSE9sxw/0?wx_fmt=jpeg",
+    "digest": "薅透Claude的能力后，微软如今说用不起了。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651285965_2",
-    "title": "对话罗剑岚：把机器人“部署”本身变成训练的一部分",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285965&idx=2&sn=b29da24f7803ae93ce8cdf9a3f90d40e&chksm=bdba919e8acd18881c5bfb657bb58209c0c8eeb0d292a5cd22c2d414be73a12d4aa4d57983f7#rd",
-    "publishTime": 1780106400,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/lYDricib2fsm42EpQcW2gjNg6kN3zkMh69BVV6uY6XTw2cmeuiaicueagYY2PHUVliagAAnk4ibDhYjQkN5MURZicX4PyjEeEiafLc7mYVeVsBpQNfw/0?wx_fmt=jpeg",
-    "digest": "具身智能过去两年始终无法回避的核心矛盾：模型越来越强，但机器人仍然很“笨拙”。",
+    "id": "2651285633_2",
+    "title": "Copilot 创始工程师：大多数 AI 编码“就像开着法拉利去买牛奶一样",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285633&idx=2&sn=a79ef03e7c871dfdff0e8093d9fe9504&chksm=bdba90d28acd19c499fb0b190b1bfb35db40cb2ca90ca2399fd868be6fc961f64bd144d7b466#rd",
+    "publishTime": 1779698164,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNia5YIENiaGnrKrJJlZLbkKMiazmZIKR5qPE9L7CsNAHo9ib2m0B8AcnFPcvEInlmX7Yfrw8sH8Bdp3AJvicb7OECW3gTC3KBbWdfs8/0?wx_fmt=jpeg",
+    "digest": "",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651285965_3",
-    "title": "Google 想为 AI Agent 打造下一个 Kubernetes",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285965&idx=3&sn=4983abf3b26a06107a296e637db04fbb&chksm=bdba919e8acd18881bdf5c40a5d02ce9cd92d7f5a0d4af0d31165fc959d960944830a43afa77#rd",
-    "publishTime": 1780106400,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNiahhicSTcRBdjuo1y8W31jjuyShLx2c9a37wTOaFNU8GrBC1xMNb718E9b6oRRriagW5VSJibX59kolMIQia9MEtVeCJXwYxZ5a7J8/0?wx_fmt=jpeg",
-    "digest": "Google 开源两大项目，瞄准 AI Agent 的规模化运行难题。",
+    "id": "2651285633_3",
+    "title": "大规模工程支撑场景下的多智能体系统设计：Grab 实践案例",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285633&idx=3&sn=97076f465c8b7eb3be988b414327cadd&chksm=bdba90d28acd19c408845327c4b63f6f28fc461482d2202b5e71099e77236e62b82b4591c728#rd",
+    "publishTime": 1779698164,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjYhKoJbW8G8fFnhCibXNrpF1MdgwNQVJqMpl9oUTAxcslmrx8nmKuJibnywDmLCf64Ps13ZteOjTNeZWl1Ikwe2SKnX1xppZHFk/0?wx_fmt=jpeg",
+    "digest": "Grab中央数据团队搭建多智能体AI系统，自动化数据仓库平台重复工程运维工作，通过编排层调度智能体划分两类工作流程，减负提效，推动团队从应急处理转向平台建设。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651285965_4",
-    "title": "Java 近期资讯：OpenJDK JEP、Azul Payara、WildFly、LangChain4j、OpenXava 和 Google ADK",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285965&idx=4&sn=6b0135d696d12db04ff0938a1e74f226&chksm=bdba919e8acd188801280ecd45a385f63eeb8ba4caaf2cd08dccf3ecabc972a5da03dc51566b#rd",
-    "publishTime": 1780106400,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNia2LpDkBRsSro2Q5slVZ9UkicfQ8Af9KxngXYJmzyM7I3oRMXvd3MAqstU7OyWd7HVFwTXIYTMRclMIvYNMqtQ0Eia0tAjDD3Xib8/0?wx_fmt=jpeg",
-    "digest": "Java近期资讯综述。",
+    "id": "2651285633_4",
+    "title": "Anthropic 推出 MCP 隧道，供私有代理访问内部系统",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285633&idx=4&sn=8d615360a54bf818f7a3b4ff4f426110&chksm=bdba90d28acd19c4f5ac9f922c2e1d4af33d0a78b17f1678c3fac91253c5462cf9f0933e7774#rd",
+    "publishTime": 1779698164,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNgBQbWH1XOt15sD63UibxoFCa5Bd3HxT425t6HegPHGrliaWheZ7nHsJXmQuCyJiaNtur47NsGPt6tDCsXnlx50CVtAKpmQRTianpY/0?wx_fmt=jpeg",
+    "digest": "Anthropic 推出 MCP 隧道，供私有代理访问内部系统。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
@@ -246,56 +296,6 @@
     "publishTime": 1779588900,
     "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNiaLGsXiakVHaaWMCaRCJwBAlu3jKJ75a5ndsVYlJcsKc1JHjEtcTtxVeWC2cANc9MLuPByJHgZzbJey61F16ylpUf5qucmxjQKY/0?wx_fmt=jpeg",
     "digest": "Brandon Foley的基准测试研究证实，AI编码代理可修复单一漏洞，却难以把控全局系统影响，进而推翻了靠优化代码检索提升自动修漏洞能力的主流观点。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651285134_1",
-    "title": "C++之父开撕AI Coding：资深开发者宁愿退休也不愿伺候AI生成的代码",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285134&idx=1&sn=8def52cd5134d0d7d63c11d8082d50bb&chksm=bdba9edd8acd17cb85a46306891d6abde921d9b3735620164b1985b47467e66c6e743b7d29e0#rd",
-    "publishTime": 1779502500,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNhKYHib25OWTTF9MicibIzSCbRaOWaUtK2zFYBiaIBnvOUuq2doy69KK0lB2RGDu08LAAPc3AIHca9bfH57hnPTJ76qAwayvgMibj2c/0?wx_fmt=jpeg",
-    "digest": "“认为下一个版本会解决问题，永远是一个危险的假设。”",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651285134_2",
-    "title": "未来十年的数据工程：从 Modern Data Stack 到 Data Engineering Harness",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285134&idx=2&sn=5c23074f3af5947257ff7433f0aefc08&chksm=bdba9edd8acd17cb4bbd988a18162188ac6b9bdb6b0c870aa09f30de59f401215d5e64f3eb1b#rd",
-    "publishTime": 1779502500,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNj9P8UdUwiaIK04tTzWh71ZufAekWRqoTdDzibE2ukqLicTA40icw8fHhMaXSiaa2wVG5QpmFBk0mNafjCZib8SttPAwl7RwIrCPcIKY/0?wx_fmt=jpeg",
-    "digest": "过去十年，数据工程的主线，是 Modern Data Stack 对传统数仓体系的一次拆解与重组。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651285134_3",
-    "title": "从批处理迁移到微批次流式处理的实战经验",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285134&idx=3&sn=65e243d1f8b07f17841e2f279a06d9d2&chksm=bdba9edd8acd17cbee6f33ed5344a2d4964aba1672e562f9a578dc62e1c7e384842f663ce1d1#rd",
-    "publishTime": 1779502500,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNhSA9hw5BSflZp0ibNKWGxtZCiaITwXBhQeh7txILiaF6TE4BjgBhWmDpZ9OsXsVAj3GibYiaibBUhkiaU2RQAsfyDv6jF49hMl1k40EA/0?wx_fmt=jpeg",
-    "digest": "本文重点探讨了将数据管道从批处理迁移到微批次流式处理的实践经验。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651285134_4",
-    "title": "基准测试表明：AI 智能体可修复独立漏洞，却难以理解系统范围影响",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285134&idx=4&sn=f508904645cafe31ab98c092375036a0&chksm=bdba9edd8acd17cbdc8faa4468858cb38de3a512562e6769d2b878732189a8cdf5fe07e24f85#rd",
-    "publishTime": 1779502500,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNh2AcNpHicxANsPlz3luVOgyHRI6gY9TfRAIDCeU702Su1n3axckYeMmyre9HZsHCibgsoiaZuawiaQ163L6yIxbfxib2gRyDabB8WE/0?wx_fmt=jpeg",
-    "digest": "Brandon Foley的基准测试研究证实，AI编码代理可修复单一漏洞，却难以把控全局系统影响，进而推翻了靠优化代码检索提升自动修漏洞能力的主流观点。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651285054_1",
-    "title": "别再骂 Claude 限速了，Boris 亲口承认：最挑剔的用户，反而最离不开我们",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285054&idx=1&sn=654a8dbfb7a95af6aa865cd2f78d7929&chksm=bdba9e6d8acd177bf76a2300bb1f50ece6ddd3d0c6427718fba197038b37dc4759c8e1a96ad5#rd",
-    "publishTime": 1779439272,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNiaeVGpUYgxZ5T8G9YAjATf0ZOyA0sjRKnJcwuB5AlQmNAJGZqZTRg4ial6zXpa61S4XkeU9y9HHf59RENIkmQPAuDm6Lj6gruZY/0?wx_fmt=jpeg",
-    "digest": "AI 终局只剩一个赢家？Anthropic Boris 回应：有可能",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   }

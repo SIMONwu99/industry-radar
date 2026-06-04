@@ -1,5 +1,15 @@
 [
   {
+    "id": "2247489048_1",
+    "title": "OpenAI报告：知识工作者增速是程序员3倍，Vibe Coding转向Vibe working",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIyMzM3NDY5Ng==&mid=2247489048&idx=1&sn=ba2e91d023a4dc939f30ef08d1b20b80&chksm=e81e6a1fdf69e30925b9329207b9d307cbee329ad23fce8f5af485d28257a5cf4498699988e1#rd",
+    "publishTime": 1780564683,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/MABFN5xh55xcKOPHlLjxpUTXJMpU1ic9KxWm65xiadJ2hhVlicrialoCnZibWsZnAo5UXOQTj0TH6erX3o0kE0IqjP9Vllk5ArdiaHibs3zB3pgG4Q/0?wx_fmt=jpeg",
+    "digest": "刚看了OpenAI发布的最新报告，信息量很大。Codex周活已经破500万，桌面版上线后翻了6倍多。",
+    "author": "",
+    "feedId": "MzIyMzM3NDY5Ng=="
+  },
+  {
     "id": "2247489037_1",
     "title": "送员工去看世界杯？没错，请大厂们向这家公司看齐",
     "link": "http://mp.weixin.qq.com/s?__biz=MzIyMzM3NDY5Ng==&mid=2247489037&idx=1&sn=47a880b1fd0b2199fbf1045345fd9024&chksm=e81e6a0adf69e31c23b72f34c68552624274f9020b74f8b737957edcbde0026b86e43df16c0b#rd",
@@ -36,16 +46,6 @@
     "publishTime": 1779848090,
     "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/MABFN5xh55xAF9a5icEUakPTUv3hnMMGWHX2rnljickY7eaexepHmXPcyTlURcoRSrt9rGdH2uwGkZ6Id8sqYF0Z0CgA9U6oCh500O4jBxJ1A/0?wx_fmt=jpeg",
     "digest": "今天，阿里发布重要全员信：自27财年起，员工十三薪并入年终奖，改名为“并肩前行奖”，发放时间变更为和年终奖一起",
-    "author": "",
-    "feedId": "MzIyMzM3NDY5Ng=="
-  },
-  {
-    "id": "2247489011_1",
-    "title": "今日大厂员工事：字节Seed林海滨回流；滴滴会员迎来调整；蚂蚁国际测试并入研发；小红书L2莱昂转岗；某厂将禁止员工10点后下班",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIyMzM3NDY5Ng==&mid=2247489011&idx=1&sn=86000a37c0df3961385172b8b8580aa5&chksm=e81e69f4df69e0e2adfaa909ff596490804bb4f4882adfda4849396aed64fdf0c5218ee77783#rd",
-    "publishTime": 1779770034,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/MABFN5xh55wex2tyRb5VWx9ej7kuTX5jJ9JpibicKJqKCKbHYbtnRwbASKO8dcNkNiaGtlpKZrVjYCcT0VPdtFBzJbSsyr2EWAD2E1anfrlcDk/0?wx_fmt=jpeg",
-    "digest": "一、字节Seed人事调整，原大模型训练lead林海滨回流，负责大模型训练相关工作。",
     "author": "",
     "feedId": "MzIyMzM3NDY5Ng=="
   }
