@@ -6,7 +6,7 @@
     "displayName": "快手招聘",
     "company": "kuaishou",
     "cover": "http://mmecoa.qpic.cn/mmecoa_jpg/efm4hU59AzBWTicG9UnydXj5yfxBdPBiaTcOJoJnnrlB7jUQy1tiaDExophPgdN9XnHSAQfdjWlqxmCsDRelsdK9aSvbgIzBLGNbNYiadiclMkLU/0?wx_fmt=jpeg",
-    "syncTime": 1780524822,
+    "syncTime": 1780545500,
     "updateTime": 1779955128,
     "articleCount": 7
   },
@@ -17,7 +17,7 @@
     "displayName": "大厂日爆",
     "company": "industry",
     "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/MABFN5xh55xBbTjJuUweWia12IygLLh6X03NumHibDZ8HRUTdDYR0ib4VRhYEc09JtgZaVcvoy1lp9SjetNrzR0VUvXMFlHRJFqItEibTx7x6nY/0?wx_fmt=jpeg",
-    "syncTime": 1780524824,
+    "syncTime": 1780545502,
     "updateTime": 1780480902,
     "articleCount": 5
   },
@@ -28,7 +28,7 @@
     "displayName": "天天开柒",
     "company": "industry",
     "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/84KicV7PqdKHJWliaHB1Gjza1L6cB1SwgokZ2gzeedXvxCxgBod88xaVJOZOLXuxKFLZWaWaVOs3Dy7E2OT5OBGMqIst7ex0iaz2R854kXwmzw/0?wx_fmt=jpeg",
-    "syncTime": 1780524827,
+    "syncTime": 1780545505,
     "updateTime": 1780319730,
     "articleCount": 5
   },
@@ -39,9 +39,9 @@
     "displayName": "互联网坊间八卦",
     "company": "industry",
     "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/oQjET7dYAzzheyywHmhceQ47xdcKs50gogMMFhHqia8tjRuN7K0kYCDoZHRrBibkgsyibFhCvYgkHlrdDZVYFicGYoR2eNRO4qcsEDTgvXhPTDk/0?wx_fmt=jpeg",
-    "syncTime": 1780524830,
+    "syncTime": 1780545509,
     "updateTime": 1780393712,
-    "articleCount": 5
+    "articleCount": 2
   },
   {
     "id": "申妈的朋友圈",
@@ -49,9 +49,9 @@
     "name": "申妈的朋友圈",
     "displayName": "申妈的朋友圈",
     "company": "industry",
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/nEWyk3hdcml8BsZUvzzGh6APbAMYCs2NsgmkRkHC2H861CDsXMWgJGXxZItDfC3TibrJL9UTSH1mbYduKkay1ibUdgnK5tzhviaCIYfR3EvMFI/0?wx_fmt=jpeg",
-    "syncTime": 1780524832,
-    "updateTime": 1780482915,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/NhjL9HALuWoibw9kNPLgCOzHIb0vuKDwNuZIxJMogSLSpkeK6nNCTGmkQbRoSWXafoAhI6V5VvJDic84Z9KG3e9TvPyUd3AVuUzicXIppPgOh0/0?wx_fmt=jpeg",
+    "syncTime": 1780545511,
+    "updateTime": 1780533765,
     "articleCount": 5
   },
   {
@@ -61,7 +61,7 @@
     "displayName": "字节范儿",
     "company": "industry",
     "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/Wl0pfQiav455saKPaqDt4fS5xlNAsXJOts4iaAVlhIrNxketLAnLaNFpzQPlwTu403hHCibpZCuucwLNJ7GKxhMJUX5trhAbprCiaWRRrlKU5icY/0?wx_fmt=jpeg",
-    "syncTime": 1780524835,
+    "syncTime": 1780545514,
     "updateTime": 1780311773,
     "articleCount": 5
   },
@@ -71,9 +71,9 @@
     "name": "虎嗅APP",
     "displayName": "虎嗅APP",
     "company": "industry",
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/87nD5Qvn8kL2WOib8lIhEHAfxgeibEicHeicO2icuS4UqLxz6IfJEBJVbccgG9C5FefYmezSEdyicHKMfrotX96SpqXHM5icGNpebVHrQe8cJjAuaA/0?wx_fmt=jpeg",
-    "syncTime": 1780524840,
-    "updateTime": 1780496411,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/87nD5Qvn8kJX4KHOhwfvNUs4eTjgG9PbwCCSz3rUe6YacuBN0WkWOLGTLDmkSROtyc8eadldXm4gZibAp6730YDPQl1icBt6nPZa1pqAHb9M0/0?wx_fmt=jpeg",
+    "syncTime": 1780545520,
+    "updateTime": 1780531440,
     "articleCount": 30
   },
   {
@@ -83,7 +83,7 @@
     "displayName": "晚点LatePost",
     "company": "industry",
     "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/J3iaQ6X4GdYUiamrpbzHquzibl7G5yOcRMmpia3MNwTmdLHMZyNmFqBVEOeA7hpKZ30Z2ucGnyc52oXPhvicneeO2tglyBKRJ80xtl6Ahv44VMhA/0?wx_fmt=jpeg",
-    "syncTime": 1780524843,
+    "syncTime": 1780545522,
     "updateTime": 1780406259,
     "articleCount": 7
   },
@@ -94,9 +94,9 @@
     "displayName": "机器之心",
     "company": "industry",
     "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqE1oe3MnDFnZsC9C4WJib0vsLQmmyuJa4sibkAAY22RUV9dVGHm5aUMJxVdRWpbXCmtfLf3Z05ROxicRzRHfMJs1hAxPORamKG0H0/0?wx_fmt=jpeg",
-    "syncTime": 1780524850,
+    "syncTime": 1780545529,
     "updateTime": 1780471799,
-    "articleCount": 30
+    "articleCount": 27
   },
   {
     "id": "InfoQ",
@@ -105,7 +105,7 @@
     "displayName": "InfoQ",
     "company": "industry",
     "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNiafgvCn05aQ6BLObIEEozicjeMPTRaHqkIXu6bNV2HJ9SbWeic5icyVn5llvAibsqXOOmdckV4ALGeWibEianUMA4hfQ1JicvHeThtudU/0?wx_fmt=jpeg",
-    "syncTime": 1780524856,
+    "syncTime": 1780545535,
     "updateTime": 1780461000,
     "articleCount": 30
   },
@@ -116,9 +116,9 @@
     "displayName": "量子位",
     "company": "industry",
     "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGEMreAsicrNOV1eYa7b1VNPZ9HMIQ3Fuq8BIq5PbcR4ianXo04JKQmPLqewOaKWLg7peAheXXibgcJmSlW1NDMMVMvnImyu5hql7w/0?wx_fmt=jpeg",
-    "syncTime": 1780524861,
+    "syncTime": 1780545540,
     "updateTime": 1780463407,
-    "articleCount": 30
+    "articleCount": 22
   },
   {
     "id": "字节跳动招聘",
@@ -127,7 +127,7 @@
     "displayName": "字节跳动招聘",
     "company": "bytedance",
     "cover": "http://mmecoa.qpic.cn/sz_mmecoa_jpg/mY6WyqWCyq28Znttr1NU5CcMtAaku96C3YZP4SBP03icrbj09JX4Egibx4gP0lglK2dcn0EEjZuWJSdnBIY6LJicTHfP4OIHC2ISfqW0XEu1xM/0?wx_fmt=jpeg",
-    "syncTime": 1780524868,
+    "syncTime": 1780545547,
     "updateTime": 1779705214,
     "articleCount": 30
   },
@@ -138,7 +138,7 @@
     "displayName": "字节跳动Seed",
     "company": "bytedance",
     "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/pPBYFCwmHElVyIUYZgtEj8weEoCDdq65tVhicLosZUtgjoeJXMQ490x9Cbib6wm1p3sSRrhnOKI7N9XmpDNKpQwyYF4hzhxNQQicD31OsP2bXw/0?wx_fmt=jpeg",
-    "syncTime": 1780524871,
+    "syncTime": 1780545550,
     "updateTime": 1779246360,
     "articleCount": 5
   },
@@ -148,10 +148,10 @@
     "name": "字节跳动技术团队",
     "displayName": "字节跳动技术团队",
     "company": "bytedance",
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/FGB4hYw9FefMQB6qLfxkukaHuSUeSLnQwRvq2q3SjcCcqicZDK1pfEl5qujC0iauamFCCAWic5RibOz0GoXFria6Fm2H5icUM2L2QRTD3aQtZOcZg/0?wx_fmt=jpeg",
-    "syncTime": 1780524874,
-    "updateTime": 1780394400,
-    "articleCount": 4
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/FGB4hYw9Fefwia0QaBjsPhkbG1Ric7RQULP598ZMBV9b6CXQX4fFyGNIyOe5BiazWyO9y0gqZANiaiccz7Xt65kWTpXR8ceBQkMc6tYzB6K9TsOM/0?wx_fmt=jpeg",
+    "syncTime": 1780545552,
+    "updateTime": 1780542000,
+    "articleCount": 5
   },
   {
     "id": "大厂青年",
@@ -160,7 +160,7 @@
     "displayName": "大厂青年",
     "company": "bytedance",
     "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/MC1nFvXS8MgZJT4VibRhYX325MIibfhcTiaaznibLG2cgcoMMonvodYqG3TkibWgtTm7m6ZnjzN8sibv2SzdmAlrR0TmvCKYgKf1S8zftq1lVknqI/0?wx_fmt=jpeg",
-    "syncTime": 1780524876,
+    "syncTime": 1780545555,
     "updateTime": 1780316490,
     "articleCount": 5
   },
@@ -171,7 +171,7 @@
     "displayName": "腾讯招聘",
     "company": "tencent",
     "cover": "http://mmecoa.qpic.cn/mmecoa_jpg/50opAau08FZLVdlkYPoosIkmdiaJiaG9MibhsOTKONvTzHUCC9v6TkMF2Vw0MvCHN7FoyP9gib7c7CcVUEsicPhricRWwlPrXkicf20wLwV6USjVq8/0?wx_fmt=jpeg",
-    "syncTime": 1780524879,
+    "syncTime": 1780545558,
     "updateTime": 1780394637,
     "articleCount": 8
   },
@@ -182,7 +182,7 @@
     "displayName": "腾讯文化",
     "company": "tencent",
     "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/ECgHkRrZJdWHiazQ0dMTNKrGH32rU5akK5vm2J6mb7sQK0Jf79URat7QqosKuuE4GpXLPtRxwmntgJOO7GBP8EW09Rb6GZROYtDGWFEGTNuo/0?wx_fmt=jpeg",
-    "syncTime": 1780524881,
+    "syncTime": 1780545560,
     "updateTime": 1775179800,
     "articleCount": 5
   },
@@ -193,7 +193,7 @@
     "displayName": "腾讯技术工程",
     "company": "tencent",
     "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/KVER9adz906F9GgPBRweeaibLRB4TMVOicuPUBzibGXskM13gibuiahPzrxtMVXEJkXX0sbWyFAEJ8OoicgicuFclJ3RD0TRcPhNDMibibP0X05UD1bs/0?wx_fmt=jpeg",
-    "syncTime": 1780524884,
+    "syncTime": 1780545563,
     "updateTime": 1780484507,
     "articleCount": 5
   },
@@ -204,7 +204,7 @@
     "displayName": "阿里巴巴集团招聘",
     "company": "alibaba",
     "cover": "http://mmecoa.qpic.cn/sz_mmecoa_jpg/v4xxURF32UTnglLYtMu8H7bZIgGk5qDcnjkJNmMiabhWgouKLSlcg8ARNhXuVPibLzCYYbhUn6LeIXaGYTj0pPMZBBCkWp0XnCMSa0Sxxomok/0?wx_fmt=jpeg",
-    "syncTime": 1780524889,
+    "syncTime": 1780545568,
     "updateTime": 1780381800,
     "articleCount": 30
   },
@@ -215,7 +215,7 @@
     "displayName": "阿里技术",
     "company": "alibaba",
     "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/kN3t5R6pdz5qDxrV6UMRAOAib4Bu62qOQOp5SjxfNcw8ibW9zpRicrwXpLST3cFz81L3SVJ74WMeJrm6gbeAibib3LjzwmvUkOQqCUvichBpRRE4Y/0?wx_fmt=jpeg",
-    "syncTime": 1780524891,
+    "syncTime": 1780545571,
     "updateTime": 1780481361,
     "articleCount": 5
   },
@@ -226,7 +226,7 @@
     "displayName": "美团招聘",
     "company": "meituan",
     "cover": "http://mmecoa.qpic.cn/mmecoa_jpg/dguibS1kreNay5hL5Wnz7CXrRgI8IXia8ibkBE3U5XgrGp2G8u3MMKicVHRIibcFrHFyabkmZvjjv2pM8ib0Ql5jjaicQAOw4ssEib6W3Z7jBrbwPfs/0?wx_fmt=jpeg",
-    "syncTime": 1780524898,
+    "syncTime": 1780545578,
     "updateTime": 1780477200,
     "articleCount": 30
   },
@@ -237,9 +237,9 @@
     "displayName": "美团技术团队",
     "company": "meituan",
     "cover": "http://mmecoa.qpic.cn/mmecoa_jpg/V95GN2mm0Dw2Ahw77xAbUGBltBAv6eotwJPgLOOOczBwVVMCwqu59vjichof7pfmkIbQtDwlJ67fmC9l2hJRpkWo7bKT0iaRXdBkX0gAZQicSE/0?wx_fmt=jpeg",
-    "syncTime": 1780524903,
+    "syncTime": 1780545582,
     "updateTime": 1779969480,
-    "articleCount": 21
+    "articleCount": 20
   },
   {
     "id": "龙猫LongCat",
@@ -248,7 +248,7 @@
     "displayName": "龙猫LongCat",
     "company": "meituan",
     "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/JhVy5CXYiaogZOWwyIIwYHQicgfLo3PTdiciaDHhGKYovyI2o8ib4wgtCXly5qwS9LVWfVe9RS4DwVknczd4M0Q6lIM496jRWc1ama47FibZtAI3E/0?wx_fmt=jpeg",
-    "syncTime": 1780524905,
+    "syncTime": 1780545585,
     "updateTime": 1779933600,
     "articleCount": 5
   },
@@ -259,9 +259,9 @@
     "displayName": "小红书招聘",
     "company": "xiaohongshu",
     "cover": "http://mmecoa.qpic.cn/sz_mmecoa_jpg/pawZofA4fxOoK9XdQuIGPxGQfTGmOsYCkfZibDNlmykfCflQqM3JSbfK8rmyQ2eXfrLQ9gPr8RTcLHYrfCiaSOVAVxWXSBXx9uDhI2GrhBb0g/0?wx_fmt=jpeg",
-    "syncTime": 1780524908,
+    "syncTime": 1780545587,
     "updateTime": 1779796800,
-    "articleCount": 5
+    "articleCount": 4
   },
   {
     "id": "是小红书人啊",
@@ -270,7 +270,7 @@
     "displayName": "是小红书人啊",
     "company": "xiaohongshu",
     "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/xTS6CaSSNh8eWsrNuegI4U9cuG207Z9RJ0KL8ia0cZWr6sWSk1ZoY5h7qFEVgVqdOSF7xybmPKZRkSaB3QpJJxZAG93JeYVhaEn02HJoZ9B0/0?wx_fmt=jpeg",
-    "syncTime": 1780524910,
+    "syncTime": 1780545590,
     "updateTime": 1779699600,
     "articleCount": 5
   },
@@ -281,7 +281,7 @@
     "displayName": "小红书技术REDtech",
     "company": "xiaohongshu",
     "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/P9Hs04VFGRkl2ic8vRS9fAhokbVzicd87dtd9Zs7SMbiaw65BLH46bzgPHbtsaQ9DibfNsJd39T3iazlmaG2stic61T0IQibwvJYxX0nZyZ3h3nloA/0?wx_fmt=jpeg",
-    "syncTime": 1780524913,
+    "syncTime": 1780545592,
     "updateTime": 1779876000,
     "articleCount": 5
   },
@@ -292,7 +292,7 @@
     "displayName": "百度招聘",
     "company": "baidu",
     "cover": "http://mmecoa.qpic.cn/sz_mmecoa_jpg/bCFibMaj1pgU8MtSLOvvHu5XysFBP4lwdo8BK5vhia9TWXXUbefqxyvmichrBFoVziavlfEuSjbNNUwLplfYc0FzswojAxQVveaxzVAiaiayTZUpk/0?wx_fmt=jpeg",
-    "syncTime": 1780524915,
+    "syncTime": 1780545595,
     "updateTime": 1779788559,
     "articleCount": 5
   },
@@ -303,7 +303,7 @@
     "displayName": "百度APP",
     "company": "baidu",
     "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/kFrtHyZvHB1AULxTzTKOx6GV6zbicjx7gZ41icUCiaQDluK3hBuibwicFlAc8J2xN13iaiaOUaXlfzgs4bCIfmicOD5KULv5pvkllosj4EyjvdlgfyQ/0?wx_fmt=jpeg",
-    "syncTime": 1780524918,
+    "syncTime": 1780545597,
     "updateTime": 1780484400,
     "articleCount": 5
   },
@@ -314,7 +314,7 @@
     "displayName": "百度文心",
     "company": "baidu",
     "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/cIBqLYh6ScZ1CXh4ATibRUtb2SgWJXjkPWDdSL7iaPN3TAYyV7IMNk9wgdIlryX7BCcP7PWDrPLVYWLvq5fNo73fA0ADhJoAOaabhSI7PCSlY/0?wx_fmt=jpeg",
-    "syncTime": 1780524920,
+    "syncTime": 1780545600,
     "updateTime": 1780483017,
     "articleCount": 6
   },
@@ -325,7 +325,7 @@
     "displayName": "京东招聘",
     "company": "jd",
     "cover": "http://mmecoa.qpic.cn/mmecoa_jpg/l6VfpVrV9QJic7ibUmQ8xdwlJRcnJVdiaELp19NwmbXtVHU5GpRSicMMDgIy0M40R07LInib3Om2pXYlxLIjHEDQficN9Hcpbrv3zpmWd7pd903FA/0?wx_fmt=jpeg",
-    "syncTime": 1780524923,
+    "syncTime": 1780545602,
     "updateTime": 1779965880,
     "articleCount": 8
   }

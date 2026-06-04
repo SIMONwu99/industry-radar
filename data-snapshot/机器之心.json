@@ -200,36 +200,6 @@
     "feedId": "MzA3MzI4MjgzMw=="
   },
   {
-    "id": "2651034625_1",
-    "title": "没有大模型、没有自有流量、股价一度跌成废墟，他靠什么把广告投放炼成千亿金矿？",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651034625&idx=1&sn=77445d19440cc4b856a80a157a4f018f&chksm=84e6507fb391d9692d97af5e03e41b8398ab8fdf03f7c46183dec6edd6f632b56063786687a7#rd",
-    "publishTime": 1779543752,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqGX74aAFQvkR0ee6RWhZ3HR1HonXJTkTL8yRETaVRNZ7EzfJPianFNjbrE4ulTTOdsOwCsp0TE70dfia6Zzma7HIOGmErvqicZURI/0?wx_fmt=jpeg",
-    "digest": "当别人看不懂你的时候就觉得你在作弊。",
-    "author": "",
-    "feedId": "MzA3MzI4MjgzMw=="
-  },
-  {
-    "id": "2651034625_2",
-    "title": "Bengio新论文刷新递归推理上限，并行轨迹碾压串行推理",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651034625&idx=2&sn=3ff484cd41881ae98db7befe5abbb630&chksm=84e6507fb391d9693562de42b960c2db6db05d4c97907c034373be91613368fcf6509f8b7076#rd",
-    "publishTime": 1779543752,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqFwlJVfSu37I2aeZ7rFOsHorBoWSd4qhlv4MoAaA2CzT3spWVvIq3TpQhCicMpr7aOdpNXcrMC9GxfE4UOBWrPLy45uUnvWOhKA/0?wx_fmt=jpeg",
-    "digest": "当递归推理遇上概率采样，小模型也能探索多条解题路径。",
-    "author": "",
-    "feedId": "MzA3MzI4MjgzMw=="
-  },
-  {
-    "id": "2651034625_3",
-    "title": "22.9倍加速！FlashAR：仅用0.05%数据，让预训练好的自回归图像模型飞起来",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651034625&idx=3&sn=457c9c41265080921f9ba9d5ceb3c1e6&chksm=84e6507fb391d969d581006ec10f577473db9a1325a0b3e5f3df2417cdcea48bd720a73e96ed#rd",
-    "publishTime": 1779543752,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqGeAxfNMLWJ2wWwYvXPmibicfibzJWE8kvKVDuRLDmWK92qL4NNhquuPAU2icKJVyUEGKNxoUyAAGjpic2xCxEiaibQgyFPxK4YeCr8fc/0?wx_fmt=jpeg",
-    "digest": "在不从头训练、不改变原始预测目标的前提下，将已有的预训练 AR 模型改造成高度并行的生成器，同时继承其强大的生成能力？",
-    "author": "",
-    "feedId": "MzA3MzI4MjgzMw=="
-  },
-  {
     "id": "2651034410_1",
     "title": "Meta华人发布ATLAS，一个词搞定可泛化的视觉推理！",
     "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651034410&idx=1&sn=8d1fce92f27fb31c31a4d3831eec4004&chksm=84e65754b391de42fe69974d646971858de9b98f1500ee79c38d665a1136637fd077807ed659#rd",
