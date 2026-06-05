@@ -1,5 +1,55 @@
 [
   {
+    "id": "2651286445_1",
+    "title": "Anthropic 被曝雇1000名人类工程师“培训”Claude Code，时薪280美元：AI 编程越进化越离不开真人兜底",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286445&idx=1&sn=fb37f3bd259b5ce502e336904c999640&chksm=bdba93fe8acd1ae881fa9ac6dab785bb9f2494a3705d72c684d2d943c4cd3528ef74e5885b21#rd",
+    "publishTime": 1780641000,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjxxwoaveW1fCSia6VxS3DxSibvNQxaKrMDoB5Zfsf7nUtJEkl6iaXj8hrXFib7aKjGyhOyZT38zRDfgmIuFbmm4tQVK6IJOWq8J70/0?wx_fmt=jpeg",
+    "digest": "据 Business Insider 报道，Anthropic 正在通过一个由约 1000 名人类软件工程师参与的项目，提升旗下 AI 编程工具 Claude Code 的表现。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651286445_2",
+    "title": "openJiuwen 社区又上新： JiuwenSwarm给Harness 装上「后训练」",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286445&idx=2&sn=96ee0c464a6f16d01c6145f0f208e874&chksm=bdba93fe8acd1ae8baebea73de6d2f00930aa7cb2840ce904403594451f3d5c459a052deba25#rd",
+    "publishTime": 1780641000,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNjS3XugW61ddmDHEgibLeEMbTty9nGS02r0C4K25ib5lfxmcBJeh4L6t4grN1Dpvv6OATqmIPlKe6nPtQk39MibOG3R5xrVxoj6So/0?wx_fmt=jpeg",
+    "digest": "开启 Harness 后训练新范式",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651286445_3",
+    "title": "英伟达甩出物理 AI 王炸！Cosmos 3 全模态模型开源，Agent Tookit 补齐工具短板",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286445&idx=3&sn=f6adfe460e167cd807dee6e56dd7478a&chksm=bdba93fe8acd1ae82abd50d404683005301ad92b4920a2a7d26f2fd13ad297e54c64e29c5ff7#rd",
+    "publishTime": 1780641000,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNiaiarKJ4JvdLZVwMXb3SiafxtzeBicA4ANG7kRZE1Lia4m4uITeDtLtGIb3icplBMZTHPNqLW6k84VoziapJGiaQJSYIs1ynQ9mtOh49c/0?wx_fmt=jpeg",
+    "digest": "英伟达正试图锁定物理AI时代话语权。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651286445_4",
+    "title": "微软推出 MDASH，用于大规模 AI 漏洞研究",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286445&idx=4&sn=de8ebef020c463361aa349a0606ff917&chksm=bdba93fe8acd1ae8cf2c5a672ff31313a115bd9c31b40491eed54907107434afc7d66233f28a#rd",
+    "publishTime": 1780641000,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjbxXnZQsyiayUX7PwYQxrSR44GFqIxAsUcO6Vs5LAchy1lpbVG40TtWDXMicMeDD0hH2bI8lhicg7r1MQ2n7sR5fA7pGtCxXlnwQ/0?wx_fmt=jpeg",
+    "digest": "微软推出了一款 AI 驱动的新型漏洞发现系统 MDASH。这是一个多模型代理安全平台，用于对 Windows 及其他微软软件环境进行大规模的代码自动化审计。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651286445_5",
+    "title": "AI Agent 沙箱的网络安全：从流量隔离到智能治理｜AICon 上海",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286445&idx=5&sn=0dd575849e4aedb921e97c8211db95fe&chksm=bdba93fe8acd1ae87f2d75b600f1919d5b5f64ef7a9f56059361e04dd32c7df21d2b3e739641#rd",
+    "publishTime": 1780641000,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNiaE8SVgZSpzVGM6XX4G69N5VmfrfemiavvukdzErZcTsSlZRzGb2ibcibwaicbohXSS72ia1fYmIV694UyqCTyutBczSyX5aFiaxL9dk/0?wx_fmt=jpeg",
+    "digest": "本演讲以阿里云 ACK 在生产环境的实践为主线分三个层次展开",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
     "id": "2651286315_1",
     "title": "OpenAI CFO 首次详解公司战略：B端C端收入五五开、抢 IPO 第一名没意义、神秘硬件今年公布",
     "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286315&idx=1&sn=d93377aa78bee152659192677541f079&chksm=bdba93788acd1a6eaf8abefa64babf08fcc1ce55135b57bfc22cb7165dcc7f4a7f70d5e51864#rd",
@@ -180,42 +230,42 @@
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651285996_1",
-    "title": "蚂蚁三代CTO闭门对话：周期穿越、技术决策与AI-Native组织",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285996&idx=1&sn=257fb4ce44ddfc94b3d482ea98b2a9ee&chksm=bdba91bf8acd18a90ca0d490c1a0a6a3966f43dd0afbe46c0a1040efb21810dae5176bdf0e8e#rd",
-    "publishTime": 1780193700,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNgGRnxgrFQmUSSEibeBZxlpdEVTrdbuIGJzEzstu9ibNa5BoLPJoyMnxkSINULq6Xk2x1YasaV0WT2PpG3ItLe1pSYVjQlyOXQmg/0?wx_fmt=jpeg",
-    "digest": "蚂蚁每一次最关键的决策，都来自于追问时代里的真问题。",
+    "id": "2651285679_1",
+    "title": "编程 Agent 可能是软件开发史上最昂贵的错误之一",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285679&idx=1&sn=f05065413bcdb7a5f64e37a0989bcc5b&chksm=bdba90fc8acd19eac34ff08634c0ef7c5cb5c7aeee32d6141e47fd44e8ec5a9aed2841ef1e0a#rd",
+    "publishTime": 1779775457,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNhYNa5LPDcJm4hVMVJJFzgmbDXpia0bocibcRUZSNlibQrxIb4Bicia0CcC0kzZqC81UosVibh1k18IHPcqPCIT46l418vtwdshLhZpY/0?wx_fmt=jpeg",
+    "digest": "一场清算正在到来。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651285996_2",
-    "title": "利润腰斩也要卷AI！小米模型永久降价99%，雷军还要再砸600亿",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285996&idx=2&sn=116a0e58a4dee2f97cee9c9923af6318&chksm=bdba91bf8acd18a94e65b831532f2870059e57bfbeb1b47a00a98205473ef8971756def338f7#rd",
-    "publishTime": 1780193700,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNiagzJOic3HxsqsnyhViaoeomIcZ9FQslia7uD9lINUbVcR8WocOiarxB1U8kaySd54LhfBjticDv5XpmLmhKu1BHaibXCT05DW1u54tM/0?wx_fmt=jpeg",
-    "digest": "今日，小米宣布永久性翻新整个模型定价体系。",
+    "id": "2651285679_2",
+    "title": "Coding Agent 在百度的落地实践：从反馈闭环到工程范式重构",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285679&idx=2&sn=0448723f500d7d46ba6c03dd92e178fb&chksm=bdba90fc8acd19ead38a70eccf03c2f3a3b11756895dbfd400a1c5569c3104491763ecea7269#rd",
+    "publishTime": 1779775457,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNjYScMibS9v8LyGLlwfNYvTMqaLicbKBYeOrOh91aaHuMvJTlBcRRzOicYMzyvDfzerVFDjClzApf1ibicHmqJWBvyoicicP3NGF4OyAE/0?wx_fmt=jpeg",
+    "digest": "对于构建上层 Agent 应用的团队而言，模型能力的剧烈变化恰恰构成了最大的架构挑战。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651285996_3",
-    "title": "Zod 作者推出 Pullfrog：一个跑在 GitHub Actions 里的开源 AI 编程 Agent",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285996&idx=3&sn=ca6294b4067d06d050f87beb44cdd0ad&chksm=bdba91bf8acd18a98923849df606cc32925f9cfb5c363b123162662a59ad87d76a9460fc143a#rd",
-    "publishTime": 1780193700,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNgQXJgh60icXHEicvXWJ5nmg2cEPywEe2aMAdt1CHIO98sTpO2nofO6LmN1ficnNzK2opJ33JRO3sZnHfmibPSZuOibeszG8OZv2JP4/0?wx_fmt=jpeg",
-    "digest": "Pullfrog AI：由 GitHub Actions 驱动的开源 CodeRabbit 替代方案。",
+    "id": "2651285679_3",
+    "title": "上下文窗口限制被打破：Subquadratic推出了一个1200万Token的窗口",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285679&idx=3&sn=f8b1bc49ba3c60e0b1eaf13137f7f5d3&chksm=bdba90fc8acd19ea7e52a809b5bbe99947ca1c33aedeb58a51741fe450e5311937d302663813#rd",
+    "publishTime": 1779775457,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNiauQcyrWtWPr5X5TziczCCiax7anviaQrxEDPW2et37yJMZ0vrjELOxwUWn8K4iacehkXWfq010ThFxvl3LQia4ePsUwtwysy4G3E8g/0?wx_fmt=jpeg",
+    "digest": "2026年，每个前沿模型都在宣传，至少提供100万Token的上下文窗口。但实际上，几乎没有一个模型能够很好地利用所有这些信息。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651285996_4",
-    "title": "Google Cloud 在 BigQuery 中引入跨引擎 Apache Iceberg 支持",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285996&idx=4&sn=5ab10f9f88576316e58d0ac88a580492&chksm=bdba91bf8acd18a96371800e27aa1a5706c8b51143fc1dc9822e202cde0eac9243fb6f0c23b5#rd",
-    "publishTime": 1780193700,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNia6XGlZIiaq3vmMfObRyuJslOSzibeEqrk8micVIsIwUOz84pbaVyic3qof5jd9hhQcRBjOqGRvkBXhpHyptABYlib4r17HZvFKicGeQ/0?wx_fmt=jpeg",
-    "digest": "在上个月举行的 Apache Iceberg Summit 上，谷歌宣布了 BigQuery 针对 Apache Iceberg 的一系列新互操作能力。",
+    "id": "2651285679_4",
+    "title": "OpenAI 详解规模化低延迟语音 AI 的 WebRTC 架构",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285679&idx=4&sn=a1d3ae046495a8e18a4e9ab60f2674dd&chksm=bdba90fc8acd19ea31de44eb274acf0e3bcaa6e6c44cb9b7f6795968fd9e3abe10f7fb8032ce#rd",
+    "publishTime": 1779775457,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNh8GABPicWx9CA2VCUfNR5EBQYKrlvUfbwZQJTXJNTYdX2MRedjiaXJRIlFibH2EmY6icice7OOoXYwjias5EicUAHd9dJ2bpESUtwibUo/0?wx_fmt=jpeg",
+    "digest": "OpenAI推出适配全球低延迟语音AI的WebRTC新架构，采用中继收发器设计适配云原生环境，集中存放会话状态，缩减公网端口暴露，拉近媒体传输链路与用户距离。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
@@ -246,56 +296,6 @@
     "publishTime": 1779698164,
     "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjYhKoJbW8G8fFnhCibXNrpF1MdgwNQVJqMpl9oUTAxcslmrx8nmKuJibnywDmLCf64Ps13ZteOjTNeZWl1Ikwe2SKnX1xppZHFk/0?wx_fmt=jpeg",
     "digest": "Grab中央数据团队搭建多智能体AI系统，自动化数据仓库平台重复工程运维工作，通过编排层调度智能体划分两类工作流程，减负提效，推动团队从应急处理转向平台建设。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651285633_4",
-    "title": "Anthropic 推出 MCP 隧道，供私有代理访问内部系统",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285633&idx=4&sn=8d615360a54bf818f7a3b4ff4f426110&chksm=bdba90d28acd19c4f5ac9f922c2e1d4af33d0a78b17f1678c3fac91253c5462cf9f0933e7774#rd",
-    "publishTime": 1779698164,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNgBQbWH1XOt15sD63UibxoFCa5Bd3HxT425t6HegPHGrliaWheZ7nHsJXmQuCyJiaNtur47NsGPt6tDCsXnlx50CVtAKpmQRTianpY/0?wx_fmt=jpeg",
-    "digest": "Anthropic 推出 MCP 隧道，供私有代理访问内部系统。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651285214_1",
-    "title": "硅谷深陷算力荒：H200一夜涨价30%，H100抢到缺货，Karpathy也未能幸免",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285214&idx=1&sn=2a56c4c18ce8de4a44d10a4b9b0ca2bb&chksm=bdba9e8d8acd179b24ad94e07c54a2f3adfdf4026562822f49a6e3e7f465910e0dff621c250f#rd",
-    "publishTime": 1779588900,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNiaqmq84dapQwVyWq8wibJqicXhb0RIp2ibZCda1NEKL0Y8nTsaoZeefpUoKndBOBmThJ4jEm8bMnmtsPhWjjOEiblMcl4y84mlDWLg/0?wx_fmt=jpeg",
-    "digest": "2026 年 5 月的硅谷，对于 AI 算力的“饥荒”和焦虑，正达到一个前所未有的高度。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651285214_2",
-    "title": "GitHub面临生存之战！多位员工曝内部乱象：独立文化要没了，封杀Claude Code才能“活”",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285214&idx=2&sn=6d10cfe59192e76a301883ac5166ad7b&chksm=bdba9e8d8acd179b576d9a9688e3a0279d98d83e93a0eef6e8321e70e466b0b34dbc8d0d4fa2#rd",
-    "publishTime": 1779588900,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNgNsZRia3lWRcVIiaLXZcskrDsjMGjQ9QaYKAV6SbmugRREhRUGBiaFwdhmKDcrRDLWfZjass5oVSOXPTfHAT4n3MeicCqUrSYNSys/0?wx_fmt=jpeg",
-    "digest": "在微软内部，如今的 GitHub 正在遭遇一场生存级别的危机。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651285214_3",
-    "title": "消息积压方面的数学知识：用于队列恢复的容量规划",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285214&idx=3&sn=f5a257b10f607c92f5b8c07d7b1c488c&chksm=bdba9e8d8acd179b175fbe6d53e4267ed9f20433451c0e35ee45380e9440a2d837d10bb2a891#rd",
-    "publishTime": 1779588900,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNiaicOlJNXdI61bUzTNOEbNkXvIlC5XicYwn5XeiaLvwoHEliaAsicIdOZXqeVicuH3qBGQSMfS1EMl4iablKvicIYKWCGVMcDPAa4QN2Ps/0?wx_fmt=jpeg",
-    "digest": "分布式系统中的消息积压是算术问题，不是玄学问题。本文给出了可落地的公式，用于计算积压清空时间、估算消费者冗余容量以及设置自动扩缩容触发的条件。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651285214_4",
-    "title": "OpenAI 开源 Symphony：面向自主编码智能体编排的 SPEC 规范文档",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285214&idx=4&sn=9ea4923fc5f63239cd948d52f06043ef&chksm=bdba9e8d8acd179b6ffd7ec1cc53d5dc0fde861cf302e6ae1ee095f699e6fcd96aa86e79430f#rd",
-    "publishTime": 1779588900,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNiaLGsXiakVHaaWMCaRCJwBAlu3jKJ75a5ndsVYlJcsKc1JHjEtcTtxVeWC2cANc9MLuPByJHgZzbJey61F16ylpUf5qucmxjQKY/0?wx_fmt=jpeg",
-    "digest": "Brandon Foley的基准测试研究证实，AI编码代理可修复单一漏洞，却难以把控全局系统影响，进而推翻了靠优化代码检索提升自动修漏洞能力的主流观点。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   }
