@@ -1,5 +1,45 @@
 [
   {
+    "id": "2651286503_1",
+    "title": "“英伟达也缺算力！”顶尖 AI 研究员转投 xAI 内幕：谁 GPU 管够，就去哪里",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286503&idx=1&sn=05966c3549545a6b330e6c0463482767&chksm=bdba93b48acd1aa24695047b4a079da14b5fea45be0ff71df134f979ca5e3a53b62cae29e0f2#rd",
+    "publishTime": 1780712100,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNgAxgoDDTuqKSoY631AMUuH9Sp3dTp9ZmgwPzrJ5COEhGztmxCzNa8FlBdMictsibYJ6ibhZEmkj071zYP4O75iacaoHbXR06rMUak/0?wx_fmt=jpeg",
+    "digest": "在 AI 行业，最硬的招聘福利，得加上“算力”了，而且连英伟达都无法置身事外。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651286503_2",
+    "title": "互联网变天：机器人流量首次反超人类，Agent 时代拉开大幕",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286503&idx=2&sn=10233266ac356f3f687f0c63f36c04a2&chksm=bdba93b48acd1aa27390e179f08161912deced79cf12bf51e95ea7b1a0ba9c03d7406484acae#rd",
+    "publishTime": 1780712100,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjecQgdaygadk23hDAERry1LvFTsaibseA0vVG0ia4hIFDhdua7aqetxCBqedBLoH6um3ZxicQqZAInN34ibZYyHq6TnQcAppiaIoYY/0?wx_fmt=jpeg",
+    "digest": "过去半个多世纪，互联网的技术和商业体系，都是建立在“服务对象是人”这个前提之上的。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651286503_3",
+    "title": "构建云原生 Kafka：从分层存储迈向无盘未来",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286503&idx=3&sn=707849ff5c4ade43f5238dc351c28211&chksm=bdba93b48acd1aa200eded9a1f69afcc73fb8e6ac1db786657e7b60168f5781ff2c6d8710839#rd",
+    "publishTime": 1780712100,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNjPiaTGdtXCrjf8OVD8av51GBK2AmSJM1CmGPOSJPfhGVthQLq7WBVAr6R8ErJOS9gr3BhjhwbkvdpNxKicsGGiciaNhnmjUUCCYD0/0?wx_fmt=jpeg",
+    "digest": "在本文中，我们将结合从分层存储到无盘未来的各个架构演进阶段，探讨现实中的运营挑战，并详细说明架构师和平台团队必须如何调整其部署策略。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651286503_4",
+    "title": "TamboUI 承诺为使用 Java 构建 TUI 提供更强大的功能",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286503&idx=4&sn=f771751e97dd50c1fa696ad484af6dfa&chksm=bdba93b48acd1aa231a3ebe7e0ca9dc9835952fb40d07ba3f60400232093453f2d0f8b29fa49#rd",
+    "publishTime": 1780712100,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNg6zPEkLHr3oWaFyKkgTdjPpl0jaSsddSbGnOqOicfrgAxaK3UCxjgBStBDC25Hhfe6R257yJES9Boue53dHNkr6gYMzYQ78B1o/0?wx_fmt=jpeg",
+    "digest": "针对“让 2026 成为终端侧的 Java 之年”这一号召，首个现代化 TUI Java 库 TamboUI 应运而生。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
     "id": "2651286445_1",
     "title": "Anthropic 被曝雇1000名人类工程师“培训”Claude Code，时薪280美元：AI 编程越进化越离不开真人兜底",
     "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286445&idx=1&sn=fb37f3bd259b5ce502e336904c999640&chksm=bdba93fe8acd1ae881fa9ac6dab785bb9f2494a3705d72c684d2d943c4cd3528ef74e5885b21#rd",
@@ -190,42 +230,42 @@
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651286067_1",
-    "title": "Codex 500万用户福利被怼“作秀”！Claude Code 吃掉近九成 Token，OpenAI 抢用户败在“小气”上？",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286067&idx=1&sn=415624c61dd4f2714a6b1d43d8190553&chksm=bdba92608acd1b7675e740093bd1d23368fde752812cefc7dc1c829054813c603648011c19da#rd",
-    "publishTime": 1780300951,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNia4icz4nMBDHzPlElibnIrpHrr81Gk8kZwyRn9tFwibYecY6nY38tia6hRia1tPjZ01qYQMic47nJMy9byf8zTC6VyIc5LQA52IVhFuw/0?wx_fmt=jpeg",
-    "digest": "“玩归玩、闹归闹，别拿我的token开玩笑～”",
+    "id": "2651285743_1",
+    "title": "三星按下一场史上最长罢工，但揭下了AI时代贫富差距的遮羞布",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285743&idx=1&sn=4974e47d0c23b22acc4c9be67fb55ad4&chksm=bdba90bc8acd19aa66c6ab16cf724422b0e07b08575e87b658336967c988ee1f9892e19e6a39#rd",
+    "publishTime": 1779855676,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNghickB9phs15iadlM0gc6QX1Ygkpgic15h3AJXBxmTRllBY9glJsJFXI1ibhNLX8zxnGHHLEU9zejLq9Qib0bmtYQiaHm1uduYicbyYg/0?wx_fmt=jpeg",
+    "digest": "三星这场还没开始就已经被按住的史上最长罢工，本质上是AI时代芯片产业链“价值分配机制”的第一次正面冲突。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651286067_2",
-    "title": "打破“人月神话”，Agent 重塑风控场景产运研职能",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286067&idx=2&sn=2546edb27850b2ba70a13c0f9b45ef97&chksm=bdba92608acd1b76df427b797fc2cc3663b6a91bd570fd4e7c852cbaf11b8686ad96a38bd421#rd",
-    "publishTime": 1780300951,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNhc6wjQjHlBGOrxoQ4UkibIwn13XR6aluQU0Lh9k91xPjM9yQyPUE7DjLpTJfc7NiczWqhKf9E69gT6UgIpVcAf99hqCOjSickloA/0?wx_fmt=jpeg",
-    "digest": "传统的产品、运营、研发协作模式正在经历前所未有的效能考验。",
+    "id": "2651285743_2",
+    "title": "从 Serverless 到 Agent：Cube 系统的一些设计思考",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285743&idx=2&sn=b9712d4ecc5d29ed73b1eee9a5068f68&chksm=bdba90bc8acd19aa5bcf3206b1f1a8b16f8eebe0fcda8db9c49859ebc8a6a6fdbb16f3a3bdde#rd",
+    "publishTime": 1779855676,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNiaQymNlS5ibtRe3IrMEaYIibt9Ma5rR3icM4g9T2SLzDQibJrT2ibRTJZpMuGHurzUSicj0xgqNJH4Nac5nX2RnFRiaUdFsw8ntIwdvia8/0?wx_fmt=jpeg",
+    "digest": "2019 年，Berkerley 发表了一篇关于 Serverless 的文章",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651286067_3",
-    "title": "Azure Logic Apps 为智能体工作流新增沙箱化代码解释器",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286067&idx=3&sn=d4a72c34ea09ab592439c1e7b63ac565&chksm=bdba92608acd1b76de1197d3c9e805258009e93a79feb1952c3e2ae5b3c82d2bd763b39374a3#rd",
-    "publishTime": 1780300951,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNhMrUMInEc3qV1uetfhJjahXe0RNwZPxnxp0pbCfb7HUZvt0ibS6dSPuWTqZ5ibxj7wlMUtiaNgGDkS08oWctDjZloEstPBYjqpk8/0?wx_fmt=jpeg",
-    "digest": "微软为 Azure Logic Apps 推出代码解释器，AI 智能体可在 Hyper-V 隔离沙箱中生成并运行多种编程语言代码。",
+    "id": "2651285743_3",
+    "title": "Node.js 拟内置虚拟文件系统，AI 生成代码引争议",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285743&idx=3&sn=2857c8493fb94832ba132d8f7accc2d2&chksm=bdba90bc8acd19aa0087028b65404c9cd7a191333e6a61ca68d562c600c04cccb4bec0ce72c4#rd",
+    "publishTime": 1779855676,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNgv0oAszZcvpDiaQrczJcjcg0vpjibek2URicHGqibiaVcR67cOIHO5CtKw14MetibgnQwxXN1bI0Q37pTkZUJ8JLqKroUBB6KwM5Gn0/0?wx_fmt=jpeg",
+    "digest": "Matteo Collina 提议为 Node.js 核心添加 node:vfs 虚拟文件系统模块，该方案虽获社区支持，但因大量借助AI开发，引发了关于代码审核与功能必要性的争议。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651286067_4",
-    "title": "把 GPT-4o 拉下神坛！星源智联合北大推出 RoboAgent，让 3B VLM 在未知场景跑出 94% 成功率",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286067&idx=4&sn=c8d3e181305fc11d14a1d154a8e106f2&chksm=bdba92608acd1b76115c569c4eaf83f645faede430d8b05fd8ea5cff4ad590e9c53f9f70041d#rd",
-    "publishTime": 1780300951,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNjsG6Vyldb9m3BluQ5IyFibPeLRx2W9ibB1ibTY11tZDNmhibEfdFlQ0aq3UptIDafAJCgzx9K9zj1oUZU9yuaicD5zHxrlbxtpfS1I/0?wx_fmt=jpeg",
-    "digest": "值得一提的是，该核心方案相关论文《RoboAgent: Chaining Basic Capabilities for Embodied Task Planning 》成功入选全球计算机视觉顶会CVPR 2026。",
+    "id": "2651285743_4",
+    "title": "企业级Agent 落地，你绕不开的 4 个工程问题 | AICon",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285743&idx=4&sn=a1f5e1f5e1a07fd231318f3f71e09e41&chksm=bdba90bc8acd19aa47a2c499574165ee0471ed2ea0ca43e93ca35ac4c83eff550f87eb7ce711#rd",
+    "publishTime": 1779855676,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjj4N6jmEs32d42BQ2JFFcqtSH2r6l0iahLrbkqNWjsaicnXgibrCeYGfXYwibOXJoq1UnVRMLRHxzUap00FgibAO8AAz5a1neFNnb4/0?wx_fmt=jpeg",
+    "digest": "国内头部公司的 Agent 实践，一次说透。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
@@ -256,46 +296,6 @@
     "publishTime": 1779775457,
     "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNiauQcyrWtWPr5X5TziczCCiax7anviaQrxEDPW2et37yJMZ0vrjELOxwUWn8K4iacehkXWfq010ThFxvl3LQia4ePsUwtwysy4G3E8g/0?wx_fmt=jpeg",
     "digest": "2026年，每个前沿模型都在宣传，至少提供100万Token的上下文窗口。但实际上，几乎没有一个模型能够很好地利用所有这些信息。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651285679_4",
-    "title": "OpenAI 详解规模化低延迟语音 AI 的 WebRTC 架构",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285679&idx=4&sn=a1d3ae046495a8e18a4e9ab60f2674dd&chksm=bdba90fc8acd19ea31de44eb274acf0e3bcaa6e6c44cb9b7f6795968fd9e3abe10f7fb8032ce#rd",
-    "publishTime": 1779775457,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNh8GABPicWx9CA2VCUfNR5EBQYKrlvUfbwZQJTXJNTYdX2MRedjiaXJRIlFibH2EmY6icice7OOoXYwjias5EicUAHd9dJ2bpESUtwibUo/0?wx_fmt=jpeg",
-    "digest": "OpenAI推出适配全球低延迟语音AI的WebRTC新架构，采用中继收发器设计适配云原生环境，集中存放会话状态，缩减公网端口暴露，拉近媒体传输链路与用户距离。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651285633_1",
-    "title": "微软将弃用Claude：太贵了还是薅明白了？",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285633&idx=1&sn=e72656c650d71e707fc9801043555033&chksm=bdba90d28acd19c420f262ec4ff8397a3367f1f5c655f88ca43f36345cfc93816bf90a6d0b50#rd",
-    "publishTime": 1779698164,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjwIqB5d1G12UARZGictFYXBUFn57WLUYmXTyEiaTM44QGwYMCFNaUXkkbo8BgrDibcPy3tNRItXwMM1pN23p4OmrOXebicbSE9sxw/0?wx_fmt=jpeg",
-    "digest": "薅透Claude的能力后，微软如今说用不起了。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651285633_2",
-    "title": "Copilot 创始工程师：大多数 AI 编码“就像开着法拉利去买牛奶一样",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285633&idx=2&sn=a79ef03e7c871dfdff0e8093d9fe9504&chksm=bdba90d28acd19c499fb0b190b1bfb35db40cb2ca90ca2399fd868be6fc961f64bd144d7b466#rd",
-    "publishTime": 1779698164,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNia5YIENiaGnrKrJJlZLbkKMiazmZIKR5qPE9L7CsNAHo9ib2m0B8AcnFPcvEInlmX7Yfrw8sH8Bdp3AJvicb7OECW3gTC3KBbWdfs8/0?wx_fmt=jpeg",
-    "digest": "",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651285633_3",
-    "title": "大规模工程支撑场景下的多智能体系统设计：Grab 实践案例",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285633&idx=3&sn=97076f465c8b7eb3be988b414327cadd&chksm=bdba90d28acd19c408845327c4b63f6f28fc461482d2202b5e71099e77236e62b82b4591c728#rd",
-    "publishTime": 1779698164,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjYhKoJbW8G8fFnhCibXNrpF1MdgwNQVJqMpl9oUTAxcslmrx8nmKuJibnywDmLCf64Ps13ZteOjTNeZWl1Ikwe2SKnX1xppZHFk/0?wx_fmt=jpeg",
-    "digest": "Grab中央数据团队搭建多智能体AI系统，自动化数据仓库平台重复工程运维工作，通过编排层调度智能体划分两类工作流程，减负提效，推动团队从应急处理转向平台建设。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   }
