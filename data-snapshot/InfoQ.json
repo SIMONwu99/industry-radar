@@ -1,5 +1,45 @@
 [
   {
+    "id": "2651286556_1",
+    "title": "Coding Agent 技术全景图：Context Engineering、Subagents 与 Harness，一年范式转移全解析",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286556&idx=1&sn=e20fc46413fcb8fae553d416e38598d6&chksm=bdba944f8acd1d59b5efd6431c1a72b2e793ccf2188342d898d36aced3a1c6a20f9165c02656#rd",
+    "publishTime": 1780798500,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNiaq0LIm414ENsK1vcKcNibIwv9WHRTurSNBXP21h1EF0EDUAlnmrFnOhcq3nv4nqVE3FNsqT4U9MeR51vWDQ6jG4ZBDfichhvv5o/0?wx_fmt=jpeg",
+    "digest": "也许未来我们不再靠传统服务模板起步，而是靠“Harness模板”，实例化后直接支撑整个代码库的演进。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651286556_2",
+    "title": "砍掉90%冗余词元，省下70万美元：Netflix开源工具狙击AI账单黑洞",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286556&idx=2&sn=5f2c0c609af8ed994a20ecc86aae53bd&chksm=bdba944f8acd1d59260ac3500252990d62250a568bddf64b2fd77acb8fe9c89439cf6ecb82d8#rd",
+    "publishTime": 1780798500,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNj6q5eULOhCfP9buR95gD0LicPOVHMkUwicmBmMCia57rdTTlqQkiawrFk4tJ5SEQNZNep36Oh1tZCSeZrHcuX4ZkRdWH5HBkDhMKc/0?wx_fmt=jpeg",
+    "digest": "正如 Uber 和微软 COO 最近所领教的那样，鼓励公司工程师积极使用 AI 可能会带来巨额账单，甚至可能抵消裁员带来的所有收益。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651286556_3",
+    "title": "Meta 重构 PB 级高可靠数据摄取架构",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286556&idx=3&sn=7efa5949660d3ca90ea72ab23df8e804&chksm=bdba944f8acd1d59d6f873f89593b50eae5960486fc540264b70d8008248194b601a636a79aa#rd",
+    "publishTime": 1780798500,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjDU7uAgHFlHKib4t8w5UNC4xsBVTXMh7Tel20n4FXGAuajxf8CAYW8uxAcBURToGAqH1at8SlqGHDibpRJtibjCrbJfSzlicQc7n8/0?wx_fmt=jpeg",
+    "digest": "Meta工程团队完成日均数PB MySQL社交图谱数据的摄取平台迁移，借助反向影子部署、校验和持续监控等手段，实现零停机迁移，并提升了系统可靠性与运行效率。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651286556_4",
+    "title": "AI 辅助迁移工具：数分钟完成 ingress-nginx 向 Higress 迁移",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286556&idx=4&sn=7cc7d11ab03dc4e1cf8587bb7e4d759d&chksm=bdba944f8acd1d591109b24e3152446c13556cf0ea6da1fb581611f33d69eff888cbafd75697#rd",
+    "publishTime": 1780798500,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNggw9Jz4FCoC2iahPbfgl0CHSENHpFp3ibyCBKRvCuh0XY9pa7ZgQ1gj5JAVQHM2p8pzcYu4dPGaM5NIk2Vt9VNtQGY7CR9wSFWI/0?wx_fmt=jpeg",
+    "digest": "CNCF推出AI辅助迁移方案，可快速完成ingress-nginx到Higress的资源迁移，体现出AI在云原生网关基础设施现代化中应用愈发广泛。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
     "id": "2651286503_1",
     "title": "“英伟达也缺算力！”顶尖 AI 研究员转投 xAI 内幕：谁 GPU 管够，就去哪里",
     "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286503&idx=1&sn=05966c3549545a6b330e6c0463482767&chksm=bdba93b48acd1aa24695047b4a079da14b5fea45be0ff71df134f979ca5e3a53b62cae29e0f2#rd",
@@ -190,42 +230,42 @@
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651286142_1",
-    "title": "Agentic 时代的技术地图：AICon 2026 上海站全日程正式发布",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286142&idx=1&sn=355df12c793a227c4391d2ced93aada3&chksm=bdba922d8acd1b3bc40d0021c13b4572ffd1c43735cb6427f1c203670b779a4f92b2cd670512#rd",
-    "publishTime": 1780379050,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNhOMo0drGhiamUcRq9acCbRAXB8JuOfaZGmP5NN3b2Kqj8jDYiarb54mFZ5Uia5eQX2322YYze7FCk1WNicX5O7byTlaAecTPfQyzg/0?wx_fmt=jpeg",
-    "digest": "当 AI 不再只是工具，组织本身开始被重塑。",
+    "id": "2651285828_1",
+    "title": "前 CEO 被学生嘘“别吹AI”，现 CEO 被追问“会不会被AI取代”：谷歌两代掌门人的AI信仰，同时被质疑",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285828&idx=1&sn=7c93b4bd38e015e55ecb8cbc86aa82ca&chksm=bdba91178acd18013eb67b6a710f70e9f0e7cdc5c67ba81ef6840d240e38243ebc5d952e1a60#rd",
+    "publishTime": 1779957255,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNgmH2hofKXXqOHDG7QV7MvIp1V5T00Ow1bsImJYY9iatscU6wzcakyibbek9fmX6Ats9EOLtqQic9ebKibEWvBI2LjC4WTHOnVcKGc/0?wx_fmt=jpeg",
+    "digest": "“CEO 这份工作并没有那么复杂，真的”",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651286142_2",
-    "title": "黄仁勋宣布 Rubin 全面投产，4万名工程师参与构建！史上最强CPU同步亮相",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286142&idx=2&sn=8d8473097b958df32ae3acdf79db649a&chksm=bdba922d8acd1b3b1f641eae2575ffc047e1c5874a4d126cabec54c0b11d70fc96e4ba895e6e#rd",
-    "publishTime": 1780379050,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNhibeft6LTgj7f4Iu9gl48LOqaDfHDiaV1O0ibccH2HMBX8CIz7xOnVJwyyuuJXH54hxOpUicbnnaM3H02olLNjZg1T8q5tMIjtcp8/0?wx_fmt=jpeg",
-    "digest": "老黄的口头禅已经从“买得越多，省得越多了”变为了“买得越多，赚的越多”。",
+    "id": "2651285828_2",
+    "title": "空间智能初探：重建与生成的双路径实践",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285828&idx=2&sn=3068aefd33a4873f4b26a8bbef3d0137&chksm=bdba91178acd1801a2d0121b5fdd832b601b15284fbf052d4db061ecb11c9b43ff3c71d0feb1#rd",
+    "publishTime": 1779957255,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNg3NShgxtfgpTDJGkx5XNrbCLc41aKFtFj7KWHRTj6C9MXyUCYNp0sxOQU8a0qQW1yiboduSibWtF0NT7qf8Wd69GAdJfVOHnuks/0?wx_fmt=jpeg",
+    "digest": "“端到端的四维生成模型，是我们理想中的终极形态。”",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651286142_3",
-    "title": "Anthropic 在 Code With Claude 上发布托管式智能体、主动式工作流与能力曲线",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286142&idx=3&sn=cfdda501d9ce9bd63573aafb47b3e967&chksm=bdba922d8acd1b3bc980fba654ab59a13287c58f7d5050c2b5f319e3eb4cc13553e86a1c5a37#rd",
-    "publishTime": 1780379050,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNiaqEd8ibzMv6icSqBOGDEQmf2RYasqP7gKrLwJa4YPahfWN4gAjpvyasaNkuznvvcWXJzVHQCT8gF0lVEocYQdYxhbuNPW6Mv29g/0?wx_fmt=jpeg",
-    "digest": "Anthropic于旧金山举办了“Code with Claude 2026”，通过直播分享了围绕Claude Code、Claude API平台及相关项目的最新进展。核心议题包括开发者体验、自主性能力、模型能力跃迁，以及AI对产品架构带来",
+    "id": "2651285828_3",
+    "title": "Bintrail：利用索引二进制日志实现 MySQL 时间旅行查询",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285828&idx=3&sn=1847ce3814cd53bf0b5dde996c6b9be2&chksm=bdba91178acd18013bbb628682821bbc809dbbd8d36abb76eedc9e24c9aef08a46756e804eb3#rd",
+    "publishTime": 1779957255,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNh9Nic5JeWVfxG092sIF3wlHwbXVV8pN7axicyYDKpmK2lU5ZCqnIT4TYib7IYD3ibPtWiawg4OBH1ibyFd4mpwXCbfIicuuTDbPibazKQ/0?wx_fmt=jpeg",
+    "digest": "Bintrail 是一个新推出的数据层，为 MySQL 带来了针对特定时间点的查询和行级历史查询功能。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651286142_4",
-    "title": "谷歌推出适用于 Genkit 应用程序的中间件架构",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286142&idx=4&sn=5825dc19861e5035bee122aaa41130ed&chksm=bdba922d8acd1b3b06acaef96082a680587b0f4a98b47136aba2cd67cc7a243d4f4b9469b2de#rd",
-    "publishTime": 1780379050,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNhqFJx2QexfDH4htsdPUZkBdkrBYN67OyiaW6qvicgDHLwJ1LKbngWj8QSoibTjsOCqdlwRnYIFhaEU8rZCicib4Yo1xqM6cZ3CdADU/0?wx_fmt=jpeg",
-    "digest": "谷歌推出 Middleware for Genkit，这是一个用于构建基于 AI 的代理型应用程序的开源框架。",
+    "id": "2651285828_4",
+    "title": "Gemma 4 多词元预测：生成速度最高提升约 3 倍",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285828&idx=4&sn=c51729a1c16d013925ec40ddca8b25fc&chksm=bdba91178acd1801cd0ab8bf48ba2c7e2294f831ef341896a3715028947a207e49639c212c01#rd",
+    "publishTime": 1779957255,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNiaicBpaqxtcXUmeXFe2LK4hIscVFDFib9aIZZczjtJb7o3byacAanZqcOvmhZoKL57nIMg3cZva8NRWqHbFj83rqZibHBeN2zhPqY/0?wx_fmt=jpeg",
+    "digest": "Gemma 4 结合MTP草稿模型，借助投机解码并行生成词元，单次运算即可完成校验，推理提速约3倍且不影响输出质量。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
@@ -256,46 +296,6 @@
     "publishTime": 1779855676,
     "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNgv0oAszZcvpDiaQrczJcjcg0vpjibek2URicHGqibiaVcR67cOIHO5CtKw14MetibgnQwxXN1bI0Q37pTkZUJ8JLqKroUBB6KwM5Gn0/0?wx_fmt=jpeg",
     "digest": "Matteo Collina 提议为 Node.js 核心添加 node:vfs 虚拟文件系统模块，该方案虽获社区支持，但因大量借助AI开发，引发了关于代码审核与功能必要性的争议。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651285743_4",
-    "title": "企业级Agent 落地，你绕不开的 4 个工程问题 | AICon",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285743&idx=4&sn=a1f5e1f5e1a07fd231318f3f71e09e41&chksm=bdba90bc8acd19aa47a2c499574165ee0471ed2ea0ca43e93ca35ac4c83eff550f87eb7ce711#rd",
-    "publishTime": 1779855676,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjj4N6jmEs32d42BQ2JFFcqtSH2r6l0iahLrbkqNWjsaicnXgibrCeYGfXYwibOXJoq1UnVRMLRHxzUap00FgibAO8AAz5a1neFNnb4/0?wx_fmt=jpeg",
-    "digest": "国内头部公司的 Agent 实践，一次说透。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651285679_1",
-    "title": "编程 Agent 可能是软件开发史上最昂贵的错误之一",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285679&idx=1&sn=f05065413bcdb7a5f64e37a0989bcc5b&chksm=bdba90fc8acd19eac34ff08634c0ef7c5cb5c7aeee32d6141e47fd44e8ec5a9aed2841ef1e0a#rd",
-    "publishTime": 1779775457,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNhYNa5LPDcJm4hVMVJJFzgmbDXpia0bocibcRUZSNlibQrxIb4Bicia0CcC0kzZqC81UosVibh1k18IHPcqPCIT46l418vtwdshLhZpY/0?wx_fmt=jpeg",
-    "digest": "一场清算正在到来。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651285679_2",
-    "title": "Coding Agent 在百度的落地实践：从反馈闭环到工程范式重构",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285679&idx=2&sn=0448723f500d7d46ba6c03dd92e178fb&chksm=bdba90fc8acd19ead38a70eccf03c2f3a3b11756895dbfd400a1c5569c3104491763ecea7269#rd",
-    "publishTime": 1779775457,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNjYScMibS9v8LyGLlwfNYvTMqaLicbKBYeOrOh91aaHuMvJTlBcRRzOicYMzyvDfzerVFDjClzApf1ibicHmqJWBvyoicicP3NGF4OyAE/0?wx_fmt=jpeg",
-    "digest": "对于构建上层 Agent 应用的团队而言，模型能力的剧烈变化恰恰构成了最大的架构挑战。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651285679_3",
-    "title": "上下文窗口限制被打破：Subquadratic推出了一个1200万Token的窗口",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285679&idx=3&sn=f8b1bc49ba3c60e0b1eaf13137f7f5d3&chksm=bdba90fc8acd19ea7e52a809b5bbe99947ca1c33aedeb58a51741fe450e5311937d302663813#rd",
-    "publishTime": 1779775457,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNiauQcyrWtWPr5X5TziczCCiax7anviaQrxEDPW2et37yJMZ0vrjELOxwUWn8K4iacehkXWfq010ThFxvl3LQia4ePsUwtwysy4G3E8g/0?wx_fmt=jpeg",
-    "digest": "2026年，每个前沿模型都在宣传，至少提供100万Token的上下文窗口。但实际上，几乎没有一个模型能够很好地利用所有这些信息。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   }
