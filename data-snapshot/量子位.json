@@ -1,5 +1,45 @@
 [
   {
+    "id": "2247896042_1",
+    "title": "你天天刷的小红书，正在长出一个GitHub",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247896042&idx=1&sn=2d44f5d7b95c60603e0c46c4c6416b6a&chksm=e8da7c98dfadf58ed86b0c66fbd011b84c40f1711e5c266ad130e4000c35895b7b57a8404e71#rd",
+    "publishTime": 1780916340,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGFl4DSI8KHt2ewWFvUWhP7OaKluq83Htgkl3reN8qaX2Zu21WGM4aib1K3uFoKjvKnuq4XJyuxVBQ5VWyoVzQLq9lcVANdTUqyk/0?wx_fmt=jpeg",
+    "digest": "RED Skill预计7月全量上线",
+    "author": "",
+    "feedId": "MzIzNjc1NzUzMw=="
+  },
+  {
+    "id": "2247896042_2",
+    "title": "腾讯想让企业打开AI的方式只剩一个",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247896042&idx=2&sn=38035b110ae836c33bea101545a485b9&chksm=e8da7c98dfadf58e86d8dead6d3f16b5629c4b3561ad4ec97699c912eb95af83f27616c02c38#rd",
+    "publishTime": 1780916340,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGHW0AZOz3hBTKQPDshtTOwCym5hjtqrgPJ9vLIlym2cvrkvqfSTWK0ibXQjMZ1vg9OjIsctrKzUdgz9jFlAjkiaPribIawlknRSMA/0?wx_fmt=jpeg",
+    "digest": "一个入口串起全栈智能体",
+    "author": "",
+    "feedId": "MzIzNjc1NzUzMw=="
+  },
+  {
+    "id": "2247896042_3",
+    "title": "UCL长视频理解新思路：视频转记忆，再让模型去检索",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247896042&idx=3&sn=01efd711fcbad47f2bb356ca4306bb60&chksm=e8da7c98dfadf58e2279f49ef8cd555d6ac2ccd7949e6df0cba81381bf853ed1c60a14a27c18#rd",
+    "publishTime": 1780916340,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGFBLAvcIISjBxAYu0r2CpJeRWy4SlpYfEgVlDVdfxGQjcreCIb7kKnMiazZsDTyVTQdYaDNoCtAONGQ8FkAlIqTY4bsunu3Dibec/0?wx_fmt=jpeg",
+    "digest": "免训练，即插即用",
+    "author": "",
+    "feedId": "MzIzNjc1NzUzMw=="
+  },
+  {
+    "id": "2247896042_4",
+    "title": "量子位编辑作者招聘",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247896042&idx=4&sn=7d5c3f85a1fbab3b7fa662e6eb76e256&chksm=e8da7c98dfadf58ed9574c6e8767486fe8011a7ba5a77aec09e53b5391e349357c65c2352dcf#rd",
+    "publishTime": 1780916340,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/YicUhk5aAGtBwsQQg50rdDIFHPibz5pbVfnv0oOoRSQ2KmEYBSJRibeXrJnIU1euj0icCf6pXdduQdCbnRJy3b7u7Q/0?wx_fmt=jpeg",
+    "digest": "3个岗位（含实习），不设边界",
+    "author": "",
+    "feedId": "MzIzNjc1NzUzMw=="
+  },
+  {
     "id": "2247895580_1",
     "title": "5分钟AI长视频不翻车！国产开源框架杀到全球第一梯队",
     "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247895580&idx=1&sn=5b2a135ab096cac4c5092ce4e0e334fd&chksm=e8da7d6edfadf4784d914283c27665ac8650e69271a7fa1332b52ff5db957212f4c98f9c9f13#rd",
@@ -26,16 +66,6 @@
     "publishTime": 1780794000,
     "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGEwz8Xt98TiclSlRg0jPCsxhSqte0vibluqD2E7p3UicRwdfQNo4Aa2D8WtpW2KvVVzpd9jnojGAKE0MBOVZvtm7pLb5ia05vbD838/0?wx_fmt=jpeg",
     "digest": "推理能力平均提升16.7",
-    "author": "",
-    "feedId": "MzIzNjc1NzUzMw=="
-  },
-  {
-    "id": "2247895580_4",
-    "title": "量子位编辑作者招聘",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247895580&idx=4&sn=30cff86feeac5c1b3ce9aaacf1898306&chksm=e8da7d6edfadf47861259c407d898e294fa48f2b08ab8206bee6a0305b41f55a3c2abe964d97#rd",
-    "publishTime": 1780794000,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/YicUhk5aAGtBwsQQg50rdDIFHPibz5pbVfnv0oOoRSQ2KmEYBSJRibeXrJnIU1euj0icCf6pXdduQdCbnRJy3b7u7Q/0?wx_fmt=jpeg",
-    "digest": "3个岗位（含实习），不设边界",
     "author": "",
     "feedId": "MzIzNjc1NzUzMw=="
   },
@@ -120,32 +150,22 @@
     "feedId": "MzIzNjc1NzUzMw=="
   },
   {
-    "id": "2247894624_1",
-    "title": "扣子3.0实测：手机就能远程遥控你电脑里的Agent",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247894624&idx=1&sn=bb01deffc8d61bd9743370897b64e85a&chksm=e8da7112dfadf804a833d7f49b061831eb900934124d2b5da85627bcbeb0dafa348cbc1e0434#rd",
-    "publishTime": 1780463407,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGEMreAsicrNOV1eYa7b1VNPZ9HMIQ3Fuq8BIq5PbcR4ianXo04JKQmPLqewOaKWLg7peAheXXibgcJmSlW1NDMMVMvnImyu5hql7w/0?wx_fmt=jpeg",
-    "digest": "电脑、手机、桌面，三端打通",
+    "id": "2247893795_1",
+    "title": "5亿Tokens白送！全球首个商用AI主机发布，终于能放开烧Token了",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247893795&idx=1&sn=e1570e7f2b099258881e57818b7d0d2b&chksm=e8da7451dfadfd4729d8c93bb5a78da4990b8c05e1cbbef362bb6e608494f4e86394f29bac9b#rd",
+    "publishTime": 1780042273,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGF988MqczsOsj4h9T8611BfJnfHA4OTvvFUj6G19ZBFl7qibt3Lt9AGfcrQTnovlIdk7ArhpQOEU9ajibHryrjzzWhH5ibmFdSkHI/0?wx_fmt=jpeg",
+    "digest": "让OPC和成长型企业AI落地一步到位",
     "author": "",
     "feedId": "MzIzNjc1NzUzMw=="
   },
   {
-    "id": "2247894624_2",
-    "title": "CVPR论文一网打尽！科研神器Papers with Code满血复活",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247894624&idx=2&sn=722d75de2aa3d5319582852e9c934a6b&chksm=e8da7112dfadf804ece39e84c5d3fadbea5feeb42a4921e1fcb34ba6c5e4dc02eb46df0ae172#rd",
-    "publishTime": 1780463407,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGFShfSVgh8LEHoJZz2B4Cgffktob2C2f3LfIJmSFmbCkiaM7cfRudvOMKFQaun9an65VQo0Wo7GFqBZjJhHjjlfiboarrKibaCDOk/0?wx_fmt=jpeg",
-    "digest": "SOTA排行榜全面回归",
-    "author": "",
-    "feedId": "MzIzNjc1NzUzMw=="
-  },
-  {
-    "id": "2247894624_3",
-    "title": "大晓机器人x南洋理工PhysX-Omni统一物理3D生成！一个框架搞定刚体/软体/关节体",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247894624&idx=3&sn=a1a7fee7cbc45e93d5422f40b67ccacb&chksm=e8da7112dfadf8048ba2e9afd2d22c34ee519c92bf56e47a1adf05c380a40833522693f88143#rd",
-    "publishTime": 1780463407,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGE9Bm0OISpFbLGqgk8NgOOlN3n8QmZh7I7zfD0BheOL5mzC44RxnvicNEV2dWhMt4vHEIg2tm0fCgOK33lRGsicDlmvdVPib7TpHs/0?wx_fmt=jpeg",
-    "digest": "还构建了数据集和评测基准",
+    "id": "2247893795_2",
+    "title": "下限零基础，上限肝大作！腾讯这个AI游戏创作平台，太野了",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247893795&idx=2&sn=468e326c3f9baa63b46f9aa75d2bf2b4&chksm=e8da7451dfadfd47772da8a2b3b66b4fc1cc303f2ddd6551d1680458e01b1b85b259d50c9168#rd",
+    "publishTime": 1780042273,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGF5dbqSr7HWa8Aywbpia9DIaA3jXZ46rRmC68D80HWPGzJQ7KNKbwhIOlULxR3AhSEGLqu8fMXX9ibgPPlGHBAfh9VicNKDRljPzE/0?wx_fmt=jpeg",
+    "digest": "下一波AI创作浪潮正在游戏领域发生",
     "author": "",
     "feedId": "MzIzNjc1NzUzMw=="
   },
@@ -206,26 +226,6 @@
     "publishTime": 1779773400,
     "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGHLLCs9ESYxlsmYnM4Kl1YtfoZR4WvY6ylANK6B56mbsiaPmXJ9laMkIeY9nfcIqwrUjzvZtRxiaBbHD9Tkacndwpsv0jTS30FEM/0?wx_fmt=jpeg",
     "digest": "训练速度比英伟达Megatron快10%",
-    "author": "",
-    "feedId": "MzIzNjc1NzUzMw=="
-  },
-  {
-    "id": "2247893123_2",
-    "title": "龙虾之父教你省钱：开源Skill给你的Skill减肥",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247893123&idx=2&sn=132e34be318a96a7fbbb31b11172fb4b&chksm=e8da77f1dfadfee762c14aee4e3b479b95f58073fe6884a392b3ded81acd2309c1508b7d4810#rd",
-    "publishTime": 1779773400,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGGOEL3kD6RsHveJo628Ef6oaV6Oq3HVXybDibCpQ6nSdFxowSqjpHFiaicMKCRpc2VpD2wibXLEs8hTZc92l4HPRLxaJ0d7AyA0vfw/0?wx_fmt=jpeg",
-    "digest": "“Skill要像路标，不能像说明书”",
-    "author": "",
-    "feedId": "MzIzNjc1NzUzMw=="
-  },
-  {
-    "id": "2247893123_3",
-    "title": "画数独、烧蜡烛都不翻车了？浙大&阿里让AI先三思再下笔｜ACL 2026",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247893123&idx=3&sn=324e2f6977d0b2ea15ec462d8e403890&chksm=e8da77f1dfadfee7d6fb59d2026782c80fa91e83b0e358ec1c4e0901dcf1c7d2fa1526e5a6f8#rd",
-    "publishTime": 1779773400,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGFoEdySevoL9brkng0Ms9hiccjEylJAzd2iakARKn2wobLBlazauXArlAXMEVTkKU3kxE35vibXAML4kGv2ib4do4b55OONTE7z3uc/0?wx_fmt=jpeg",
-    "digest": "从数据到算法，构建可执行的思维链",
     "author": "",
     "feedId": "MzIzNjc1NzUzMw=="
   }
