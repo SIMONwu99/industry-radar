@@ -1,5 +1,35 @@
 [
   {
+    "id": "2651037653_1",
+    "title": "阿里RTPurboV2：原生Transformer再次崛起，百步训练实现10倍稀疏注意",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651037653&idx=1&sn=9a9352fb7a5ce8b8e51baea10016f3fa&chksm=84e65babb391d2bda7b1b2bf668ea0f94e88e8080af41a448b9bdaeaedef9800d07e0e279814#rd",
+    "publishTime": 1780884363,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqEgwtZXtB6qU7ASiclpZZCtezQwkwQooT3GSXSqVIUwjHev9z4gOtpjgC75rq2iccdhicSChbCicNCNOgcDyWeVL2OB89KJ6AugAbw/0?wx_fmt=jpeg",
+    "digest": "“Full Attention 正在被遗忘”",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
+    "id": "2651037653_2",
+    "title": "作为一个招蚊体质，这是我第一个真心支持的AI项目",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651037653&idx=2&sn=5d72e1cd06c0d4eb87969b6cf8f34302&chksm=84e65babb391d2bde760d2b36547d462209d7d481b1a45c4f346f8605468e950fa8a8db90314#rd",
+    "publishTime": 1780884363,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqENaec0Hf7X2xybvaiauNSYjF7btIibQRLBgrXibLZNzgxA1OZEBib39iaLcAj0Bxs1InQnbrXee35wjruAndqYfmS2uooMJakyibwjg/0?wx_fmt=jpeg",
+    "digest": "高射炮打蚊子，这下子成真了。",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
+    "id": "2651037653_3",
+    "title": "解锁Agent Swarm新潜力，openJiuwen又一力作：多智能体流网络",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651037653&idx=3&sn=1959e79cb613dd89bd2c98834312823b&chksm=84e65babb391d2bd86d96ded674f91c10d5308c82acf52270042a92250cd4e3150da8ff1a9e0#rd",
+    "publishTime": 1780884363,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqEP2w5MOXUojLTIPsc6JgPumspZ3QPKBMysFvVzPvhcuOiaUobYJFomlsyErbmh9vowrtQ4sfOpbrFeLb0sXlfIs6qAYY650icIo/0?wx_fmt=jpeg",
+    "digest": "通过将多智能体系统的结构、任务分解与路径选择紧密集成，不仅关注单个智能体的性能，还强调整体工作流的协调优化。",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
     "id": "2651037576_1",
     "title": "连续入选ICRA最佳论文，RoboScience机器科学如何突破具身智能泛化瓶颈？",
     "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651037576&idx=1&sn=40ad053f2557643fc9abd2b5fa1ef594&chksm=84e65bf6b391d2e013f4dd0c9f30a0e241004819331461e41336828f9d2d8cb1b6eb36c77893#rd",
@@ -120,32 +150,32 @@
     "feedId": "MzA3MzI4MjgzMw=="
   },
   {
-    "id": "2651036834_1",
-    "title": "当Token飙到天文数字，高通用「计算连续体」重搭智能体新基建",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651036834&idx=1&sn=8b0f4f0b3ee04d86335f17b70dfde29c&chksm=84e658dcb391d1ca6aaca7e468c38594afd762f087b08ce481284f3214d3a7d4ac4833eeb991#rd",
-    "publishTime": 1780471799,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqE1oe3MnDFnZsC9C4WJib0vsLQmmyuJa4sibkAAY22RUV9dVGHm5aUMJxVdRWpbXCmtfLf3Z05ROxicRzRHfMJs1hAxPORamKG0H0/0?wx_fmt=jpeg",
-    "digest": "高通「重塑」自己。",
+    "id": "2651035616_1",
+    "title": "「马嘉祺」让大模型翻车，而他一年前洗澡时就发现了问题",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651035616&idx=1&sn=105941ac15fafb51840376bca6975cd6&chksm=84e6539eb391da8869da0219b50ba1b766269485d1966122252b337368f2d3aca1e474d1abc6#rd",
+    "publishTime": 1780027409,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqGNAbmXytxbLQ80oEyWcOb1DzvVlRt45GoLSJ7pHib5e2dnb4DIzWc0GMOJCiaZgRsz94l0UUhPBqZhkmCKfHGQueRBXCNAK3gY8/0?wx_fmt=jpeg",
+    "digest": "脸谱心智正以资金、商业落地和技术纵深三个维度同步拉满。",
     "author": "",
     "feedId": "MzA3MzI4MjgzMw=="
   },
   {
-    "id": "2651036834_2",
-    "title": "RSS 2026｜蚂蚁灵波提出首个自回归因果世界模型，50条数据解锁通用机器人操控",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651036834&idx=2&sn=2ee913b69d3841ccae7b2fa64b0704d4&chksm=84e658dcb391d1cab0af445b9e489944c5a17df47ae20d734970658764c89b26dd2c9a244339#rd",
-    "publishTime": 1780471799,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqGUjhhKwOAibTWtTibpP6vINKGOBvrlNYhx39brEXsrSVKJc4q8H1eyJCnlzzxuKhQBJhF12F8wha32N1tutTNwkrNU27OiaA4kMA/0?wx_fmt=jpeg",
-    "digest": "通过自回归扩散框架学会“一边思考一边行动”。",
+    "id": "2651035616_2",
+    "title": "消耗1830亿token，Meta用AI把数学教材翻译成了一个超大Lean库",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651035616&idx=2&sn=bbe00851e5fd7202b859a7217f6c3a08&chksm=84e6539eb391da88c88a69c7f85e12162be884a5c674fe20c0105391dd4fb4b47873e8135026#rd",
+    "publishTime": 1780027409,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqESUiaSC9Tb6HY7Oc1otzzIHeAzceeshq5pDiacgyZ9swK3A3pGAIIku8hJjib4JkAYD5Iric2nZGeXRZ7DtvC6CRVVNcVhYABPXIo/0?wx_fmt=jpeg",
+    "digest": "Meta 开源了当今规模最大的自动数学形式化工程",
     "author": "",
     "feedId": "MzA3MzI4MjgzMw=="
   },
   {
-    "id": "2651036834_3",
-    "title": "吃透大模型SFT底层机理：终结实践争议，规避无效算力",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651036834&idx=3&sn=dde488cdb695142bcb85f5b3f48b6235&chksm=84e658dcb391d1ca33650fae73c7962890a7b49aa2cb33cfddbdb200d69bed34692206e31e67#rd",
-    "publishTime": 1780471799,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqHAickRP8iagW5WG1bTydmU2FYJYIvAGaHwvvT19lGCD5cf9nrNBe2ibq0dPYJ9DFGVQiapha4ibSrSlTagSBJZPhSVe8iardbw6HfNY/0?wx_fmt=jpeg",
-    "digest": "在高度同源、同质化数据上的 SFT 的确有效，但它有效的时间窗口通常非常短，最适宜的训练窗口时长可以在交互机理层面严格确定。",
+    "id": "2651035616_3",
+    "title": "超越TurboQuant，面向长上下文推理的真2-bit KV Quantization算法问世",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651035616&idx=3&sn=77117cdc692cf9180e0a36a494e98f6c&chksm=84e6539eb391da881e0abded3bebba8e7a5e35fcb9f5af6896526cfe56130d795bef23639e5d#rd",
+    "publishTime": 1780027409,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqHbnPYdLic63hEniaUKhHmWHexQqh3xw2R8vysraGEloUnibk93eHoicyUTz9fsiar9GLBRvJAVpudE4cUBaEL7L781JbqBuY1Kb6Uo/0?wx_fmt=jpeg",
+    "digest": "内存有救了",
     "author": "",
     "feedId": "MzA3MzI4MjgzMw=="
   },
@@ -260,42 +290,12 @@
     "feedId": "MzA3MzI4MjgzMw=="
   },
   {
-    "id": "2651034676_1",
-    "title": "Meta大裁员的「幸存者」 们，正在经历进退两难...",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651034676&idx=1&sn=482cab0e6a46ee12b9d94f253bf86e92&chksm=84e6504ab391d95ce311ef28a8339c4a6af3e30091bdfd389176964e038501aa51cb326cde66#rd",
-    "publishTime": 1779606000,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqFsnp11bx9gicAic25RiavBC8QcrBODC063KXib2AEBcVPiaP5k3oQOS4PM3DFsIZ5TUVlTJbmFFjUPB9LMZ6LZCPIEvCUoCxGR3gMs/0?wx_fmt=jpeg",
-    "digest": "妥协留下，还是被迫出走？",
-    "author": "",
-    "feedId": "MzA3MzI4MjgzMw=="
-  },
-  {
-    "id": "2651034676_2",
-    "title": "ICML 2026｜首个视觉语言模型并行思考框架，一文解析内在机制",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651034676&idx=2&sn=fdba4b43608ed22b18b1d4e7383e23cb&chksm=84e6504ab391d95c1302eb1e1ca2af27914a8369564d1b988c3cf36ed2bdfc7294e2921e94ac#rd",
-    "publishTime": 1779606000,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqGrI6YiaVdCNPRV38zVIwot7qUyzZHT08icICKSsTR6w77ARkwfar8LvM9nibf8l23pTTKJZ1oSh4FDiaibPk9OovmsUTxGR4yy4AcQ/0?wx_fmt=jpeg",
-    "digest": "以视觉为中心的并行推理",
-    "author": "",
-    "feedId": "MzA3MzI4MjgzMw=="
-  },
-  {
-    "id": "2651033888_1",
-    "title": "从卖token到卖结果，这些公司开始让AI背KPI了",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651033888&idx=1&sn=f00bd91a39c2baa5e323a0114afdf173&chksm=84e6555eb391dc48740c1aff6990f013fa47d66b9141c83d49086906eebb6c18cbfcc6952d3e#rd",
-    "publishTime": 1779163154,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqFKYFGDYOLG2fKkyicCygo1TmxtcPGiaFFnZDgcGzE1cvCvBP4VAFrGa9gDeQFtEPMibWoQ1XoVxDAHQsleoMcAqlMVh8buNcWPZk/0?wx_fmt=jpeg",
-    "digest": "RaaS：AI 的价值回归",
-    "author": "",
-    "feedId": "MzA3MzI4MjgzMw=="
-  },
-  {
-    "id": "2651033888_2",
-    "title": "LLM近期重大架构进化一览：从Gemma 4到DeepSeek V4",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651033888&idx=2&sn=0260ac498ecbedb37e83dc0d5288b029&chksm=84e6555eb391dc4873fcb2e4f1b1c5913f3ff7994360a8f96c9a4beb1736bfae1bda7009bea5#rd",
-    "publishTime": 1779163154,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqE8Kia1zeyUvlpHn5mgXyAjibp5WBfpYJWnCxrzMamYjrr86wo2UYicyuwRuicjblbv2vFxt008WiaYsYS7Cd89oBjPC4QnvNrynt0A/0?wx_fmt=jpeg",
-    "digest": "长上下文越来越贵，新 LLM 架构怎么「省钱」？",
+    "id": "2651034077_1",
+    "title": "字节奖学金首次全球开放，五年67位得主去向追踪",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651034077&idx=1&sn=1813135ad919529d03c987db9aadd77a&chksm=84e655a3b391dcb5335dba916ec0da0fd840265767143a2ae29e48ee80be83c981b43f2a7ea1#rd",
+    "publishTime": 1779248937,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqGamtkzypBX2ZzWPMmBXPr82F42PavNpKRsiaYMttCkOdml7N5yfWMTIrwTiaNGag7jeS2thru2j6TgBmPl1cqLJjrP4Wan30j6w/0?wx_fmt=jpeg",
+    "digest": "新一轮顶尖人才神仙打架！",
     "author": "",
     "feedId": "MzA3MzI4MjgzMw=="
   }
