@@ -1,5 +1,15 @@
 [
   {
+    "id": "2247509738_1",
+    "title": "Harness Engineering：长程自动化 AI Coding / Skills 开发实践",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247509738&idx=1&sn=15fcaaa7949c28593c2f6231ebe68748&chksm=cfa6b609f8d13f1fc71a1ed770b25217434a31aca2e6404072acb17a70d13701c2c953da21d3#rd",
+    "publishTime": 1781008933,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/kN3t5R6pdz6joE5oChcJSbMV23Bc1G28hMFP1ot0iaN8JbS4gQBUvkMibJTgBGz8xMSvAZKSelBib62MFzAf0gtaGeLJiaKDUeAwDkXXwoncvjc/0?wx_fmt=jpeg",
+    "digest": "本文阐述了Harness Engineering作为AI Agent自主演进的核心工程体系，通过约束机制、反馈闭环、工作流编排与结构化Rubric评估，实现长时运行下的自我迭代与持续优化。",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
     "id": "2247509639_1",
     "title": "重新思考研发基础设施：当 Agent 成为第一公民",
     "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247509639&idx=1&sn=bac09af0c76f4383f03c0d96cb48bd0a&chksm=cfa6b664f8d13f7221a5323d4aea4ab0a2186df3b2a265104424e38ceeb205c489efcb0bca5b#rd",
@@ -36,16 +46,6 @@
     "publishTime": 1779877768,
     "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/kN3t5R6pdz5UcSRkUr2OgWfOJUYGsooibNL895icsonkyCbIn6Xk7gicoucW9mMe2xiaTg5LlfH5GOMxxTsoibgJHlJLGpG8pVcZzsqQTibEBXXHY/0?wx_fmt=jpeg",
     "digest": "AI NATIVE组织/业务自迭代 由AI 能否产生高质量决策决定。",
-    "author": "",
-    "feedId": "Mzg4NTczNzg2OA=="
-  },
-  {
-    "id": "2247509566_1",
-    "title": "近9倍训练加速：DiT里的残差流，正在成为收敛瓶颈",
-    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247509566&idx=1&sn=ace75be905d15523692f57dcd02142a4&chksm=cfa6b6ddf8d13fcbbb13fd3119b690f608e6cd389ab3783e1aa312dcade3af01421bee160ba3#rd",
-    "publishTime": 1779792605,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/kN3t5R6pdz5KzfdibZicd9TkAywHOoDgiafdtgO4jSy1WA8bLYFlicaYTGZuNPxDolhNO0YfAssOvkQvTD0OIRhN36KpX8SpKpAiaA6uV28de4s4/0?wx_fmt=jpeg",
-    "digest": "本文工作由南京大学机器学习与数据挖掘研究所与阿里巴巴智能引擎团队合作完成。",
     "author": "",
     "feedId": "Mzg4NTczNzg2OA=="
   }
