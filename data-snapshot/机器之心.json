@@ -1,5 +1,35 @@
 [
   {
+    "id": "2651037936_1",
+    "title": "新架构模型HRM-Text创新纪录！1B参数、1000美元，图灵奖得主都亲自下场了",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651037936&idx=1&sn=1e236d078ef1a92ecc856bfd09181c43&chksm=84e6648eb391ed9897a0e9e69e24504cdfd38b9abaa8bb80996a41d0dddfee6c43dca4ac8ce5#rd",
+    "publishTime": 1780977967,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqEcrYcAAlXdO2tianmia6t5HsibR195ibaYUJQeXsmzvic1hf4AQtKOQtr31rI8QY00We4hANlhCuyiaciaxtIDa4w1NUiaHhDh1NNXpIs/0?wx_fmt=jpeg",
+    "digest": "用 1B 递归模型挑战 Scaling",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
+    "id": "2651037936_2",
+    "title": "Anthropic最新博客：生物学Agent的瓶颈不在模型，而在数据基础设施",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651037936&idx=2&sn=04009945810ed4de9c5f7f7b30783c55&chksm=84e6648eb391ed980134a1fbf97ecf1f6ae47076f21c6b08d445e4c506218f77c8614c50bb59#rd",
+    "publishTime": 1780977967,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqGelPI2NI8fr8SibicgLFzTFtmVWEUDdPhiccl8iaWYmQklSdUWPACNb6dciabKV2OicFQL0SIHekn7MKA48R36CY9THp5QQLklqHIVQ/0?wx_fmt=jpeg",
+    "digest": "想让AI Agent做科研，先把数据库重修一遍",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
+    "id": "2651037936_3",
+    "title": "ICML 2026 | PhysForge框架来了，让3D资产从静态模型变成可交互对象",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651037936&idx=3&sn=f7eaa6a39eca008c250a28022b5c0ade&chksm=84e6648eb391ed985ba51f86eb004fe6f4736dbad9cf51c3aafa74abac03b0f7d53a44c7ef38#rd",
+    "publishTime": 1780977967,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqGGQznuh6AE2qzCj2ugv7VoXgaC4crDqc0lwLeXYq4gFribmbBXEQ8s0QK9SQXia5mFMbrhRk60xc2Oe4lItEl5oK3gewhW5GqQ8/0?wx_fmt=jpeg",
+    "digest": "仅需单张输入图像，就能生成具备部件结构、物理属性、功能语义和精确运动学参数的 3D 资产。",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
     "id": "2651037653_1",
     "title": "阿里RTPurboV2：原生Transformer再次崛起，百步训练实现10倍稀疏注意",
     "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651037653&idx=1&sn=9a9352fb7a5ce8b8e51baea10016f3fa&chksm=84e65babb391d2bda7b1b2bf668ea0f94e88e8080af41a448b9bdaeaedef9800d07e0e279814#rd",
@@ -120,32 +150,32 @@
     "feedId": "MzA3MzI4MjgzMw=="
   },
   {
-    "id": "2651037142_1",
-    "title": "当办公室都在咕咕嘎嘎……打字，正在变成一种古老的技艺",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651037142&idx=1&sn=b38c9fbfcf9b3430112938e540e3d153&chksm=84e659a8b391d0be45bfccdd529e40235caeb911f42411263a3142bf2ac5907e9a62788fa893#rd",
-    "publishTime": 1780566687,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqFGsHBkzY0iaXGKSpAQ2fhF90OlzsOq6jX5waKcHas6B7ic0V9fnLbSEBBdKibNib1zJVfNosGMwUckKd0onruDYWk564NMC235YBU/0?wx_fmt=jpeg",
-    "digest": "硅谷开始喃喃低语……",
+    "id": "2651035907_1",
+    "title": "登顶HuggingFace日榜！英伟达清华团队γ-World：把世界模型从单机打到联机",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651035907&idx=1&sn=cd65e6a8e2619188409acb7a14b19812&chksm=84e65d7db391d46b9cc26f6bb6c6207e1e75fbafc207c5474a734103396212dde99928f6125b#rd",
+    "publishTime": 1780108200,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqH58zYZsYLic9nPbHdtpRrIFlBr4U2tzPbCUaKbvUapibM7hCAHtjthTOpSWRQMicJflZDmMGuyKs4g3p7b5fAzfuE80wzIiamrCSQ/0?wx_fmt=jpeg",
+    "digest": "从单机到联机，世界模型的下一场战争，才刚刚开始。",
     "author": "",
     "feedId": "MzA3MzI4MjgzMw=="
   },
   {
-    "id": "2651037142_2",
-    "title": "告别盲盒筛选！分子之心发布MMDesign，抗体发现迈入可编程生物工程时代",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651037142&idx=2&sn=af4d327cc3b148b0928fc83e67d14753&chksm=84e659a8b391d0be16e7b5af9b276dedc1f349aac14391d194225e8964ccc03edd17970272a8#rd",
-    "publishTime": 1780566687,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqHRIyfhwNjnWvCrSZ7rrm4GctwKyHIYXxHzficYZoGPbsZwibz0I2yfksGXLSnAZILAttSebTCMvXsrTtEnFLEfTeSl4VicvSPmicc/0?wx_fmt=jpeg",
-    "digest": "AI蛋白质设计从概念验证走向产业化应用。",
+    "id": "2651035907_2",
+    "title": "苹果用AI重新发明了图像压缩：同样画质，文件只要三分之一",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651035907&idx=2&sn=fc86ee07e64f46f06038f22986ad9484&chksm=84e65d7db391d46b677652da3644092e3aba87f71ad04d47b8de262a98357b010afbcb013c01#rd",
+    "publishTime": 1780108200,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqGMwheReChGVicicz7ia5zuibkiaialFH5z2m3367TyQPpF7ezENQ17m3WX5NQfiaQSgCezm0dHY6aeb7GEWuHu6gtBZU0S2nGbqQke7w/0?wx_fmt=jpeg",
+    "digest": "让人眼满意",
     "author": "",
     "feedId": "MzA3MzI4MjgzMw=="
   },
   {
-    "id": "2651037142_3",
-    "title": "120亿参数跑在16G笔记本上，谷歌Gemma 4新成员杀来了",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651037142&idx=3&sn=4f4b6b166c1ab682a944438f594da763&chksm=84e659a8b391d0be7a5ea3d8d4ae16afeed90fd0ca6224ec111f87642c6bf5cb2d720607546c#rd",
-    "publishTime": 1780566687,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqHj6WbENibk511L6QyWpSaR3JEAvjSG4nialHr3eVMNWUvobjCJbQWre6Nr7MnRIM4A7nvSia1AmUJnLmH0PicSRRYfibmM8c24tepM/0?wx_fmt=jpeg",
-    "digest": "12B性能逼近更大规模的26B。",
+    "id": "2651035907_3",
+    "title": "AdamW和Muon的失稳根源有解了，港中文新优化器Pion：在等谱流形上更新大模型",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651035907&idx=3&sn=65acfbec433231599b75c459972619e2&chksm=84e65d7db391d46b817f7531589a187fbc1bb5c1e8d7f2d37a2ca00614b9933e4c2c3268278e#rd",
+    "publishTime": 1780108200,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqEHx4dyGUUhicMl0GOGuYSGHg6rtS7BMCgR98K1930RY9ZRmV8T91ibCtGss7FctLmKmMXjC6wDjG7Pquvdf8OpGqo7xBqIwhWZc/0?wx_fmt=jpeg",
+    "digest": "Pion 优化器：基于等谱流形的大模型稳定高效训练新范式",
     "author": "",
     "feedId": "MzA3MzI4MjgzMw=="
   },
@@ -266,36 +296,6 @@
     "publishTime": 1779772528,
     "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqGIOViaYaC8uGkSrtl0uhAfVjardZLgprYYFNwnLFZT98vglhr43psSrhRuDwUaF5QSX6RLsJzalDLnerW9WUUPicaGNApwHD0qE/0?wx_fmt=jpeg",
     "digest": "把用户的自然语言问题组织成一段可执行、可验证的地理分析流程。",
-    "author": "",
-    "feedId": "MzA3MzI4MjgzMw=="
-  },
-  {
-    "id": "2651034802_1",
-    "title": "性能超越李飞飞，他们把10亿高斯点的3D世界装进浏览器",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651034802&idx=1&sn=aca7d8c47e9a0e86138d845b09d9e70a&chksm=84e650ccb391d9dabb8680368a7910fea6ff5a5ad4af9863996308a7fe545f3e3f98abefc415#rd",
-    "publishTime": 1779690667,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqEGQ9o8K2zbLSIjiaurhuGz2WaoPHwAc0nHbbqaBtPKJha7DGvUvODnZKoXM4qXtYctTu7bibD7mKgjwasjK96icX58w3r4TRVGuE/0?wx_fmt=jpeg",
-    "digest": "信息载体的下一站，从二维走向三维。",
-    "author": "",
-    "feedId": "MzA3MzI4MjgzMw=="
-  },
-  {
-    "id": "2651034802_2",
-    "title": "告别多奖励跷跷板：Flow-OPD将多教师OPD带入图像生成",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651034802&idx=2&sn=8073f8f1de5678cc24a4b43a269766f2&chksm=84e650ccb391d9da713eef508f40d2b362bd0eed310d07e2e2c04cad6c03b26ecdbbe122e97a#rd",
-    "publishTime": 1779690667,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqGQstq5o27Aia9bShSmONMKhEK8eYZwGTukSKsVeGndhibDEQIr936pUicusFvZGcCZVI2uUiblMUeV8iceKyEBfjXueLd2S8lBcGwg/0?wx_fmt=jpeg",
-    "digest": "首个将 OPD 引入流匹配模型的统一多任务后训练框架",
-    "author": "",
-    "feedId": "MzA3MzI4MjgzMw=="
-  },
-  {
-    "id": "2651034077_1",
-    "title": "字节奖学金首次全球开放，五年67位得主去向追踪",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651034077&idx=1&sn=1813135ad919529d03c987db9aadd77a&chksm=84e655a3b391dcb5335dba916ec0da0fd840265767143a2ae29e48ee80be83c981b43f2a7ea1#rd",
-    "publishTime": 1779248937,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqGamtkzypBX2ZzWPMmBXPr82F42PavNpKRsiaYMttCkOdml7N5yfWMTIrwTiaNGag7jeS2thru2j6TgBmPl1cqLJjrP4Wan30j6w/0?wx_fmt=jpeg",
-    "digest": "新一轮顶尖人才神仙打架！",
     "author": "",
     "feedId": "MzA3MzI4MjgzMw=="
   }

@@ -1,5 +1,45 @@
 [
   {
+    "id": "2247896365_1",
+    "title": "你最该认识的「硅谷CEO」：面试紧张，害怕演讲，管出最赚钱的AI广告公司",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247896365&idx=1&sn=9cdc4a9960e498da6f0009682c967030&chksm=e8da7a5fdfadf34956b050d13df7e7e75703a458656d850326cdf401bffcb538cd7bdb4bf857#rd",
+    "publishTime": 1780995600,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGFOmdYPUVDWLYvrAmOICDnkrMSXZrzHiasqIFMXzibzyqkVjAS7eHpudYfXvpa5hRFibia9W2RvymuhZV2ibOlIyPDclVicrYTnic9nHs/0?wx_fmt=jpeg",
+    "digest": "AppLovin创始人兼CEO",
+    "author": "",
+    "feedId": "MzIzNjc1NzUzMw=="
+  },
+  {
+    "id": "2247896365_2",
+    "title": "内蒙跑通AI逆袭新解法",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247896365&idx=2&sn=d36645941acc198c754199c14a475aa3&chksm=e8da7a5fdfadf34910e27f4b8a1829ea5edf61d90fe889a1eebefd96770f0b2b2af069636840#rd",
+    "publishTime": 1780995600,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGH8LZt43IMBnefFiaknpulqicd3Iq7goqenGKJQN5OkzGxqCvicibQHZumKNqVnpJawsA8PnWsMoQ9SsicXDN7iahT7C8vm7vBCRicO70/0?wx_fmt=jpeg",
+    "digest": "全行业的Token焦虑何解？",
+    "author": "",
+    "feedId": "MzIzNjc1NzUzMw=="
+  },
+  {
+    "id": "2247896365_3",
+    "title": "3B小模型，把图像视频“看画改”全打通了，字节Lance开源即冲上抱抱脸第一",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247896365&idx=3&sn=e12711bc2012bf7690c5815c1e2348d5&chksm=e8da7a5fdfadf3498ba8c5530b00f07a034ea717292194bf9f05161633045b1bbf3010e2000b#rd",
+    "publishTime": 1780995600,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGG4dwXG8u09pKH1EARPF80iaX6wcH1k8QibhhhicANoIGKmoDAhK0zG1MlX8lRY2AgROZb2dlCYLZxX5uLwnQ9h7aJicMauTXgNaQ4/0?wx_fmt=jpeg",
+    "digest": "多模态模型，终于不只是“会看”或者“会画”了",
+    "author": "",
+    "feedId": "MzIzNjc1NzUzMw=="
+  },
+  {
+    "id": "2247896365_4",
+    "title": "量子位编辑作者招聘",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247896365&idx=4&sn=564b251524a2df782a04a5485746c905&chksm=e8da7a5fdfadf34951d7ee241a7fcb5de3a6d68cc53bb2f51f3664ec5fe3beb63636592cd984#rd",
+    "publishTime": 1780995600,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/YicUhk5aAGtBwsQQg50rdDIFHPibz5pbVfnv0oOoRSQ2KmEYBSJRibeXrJnIU1euj0icCf6pXdduQdCbnRJy3b7u7Q/0?wx_fmt=jpeg",
+    "digest": "3个岗位（含实习），不设边界",
+    "author": "",
+    "feedId": "MzIzNjc1NzUzMw=="
+  },
+  {
     "id": "2247896042_1",
     "title": "你天天刷的小红书，正在长出一个GitHub",
     "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247896042&idx=1&sn=2d44f5d7b95c60603e0c46c4c6416b6a&chksm=e8da7c98dfadf58ed86b0c66fbd011b84c40f1711e5c266ad130e4000c35895b7b57a8404e71#rd",
@@ -26,16 +66,6 @@
     "publishTime": 1780916340,
     "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGFBLAvcIISjBxAYu0r2CpJeRWy4SlpYfEgVlDVdfxGQjcreCIb7kKnMiazZsDTyVTQdYaDNoCtAONGQ8FkAlIqTY4bsunu3Dibec/0?wx_fmt=jpeg",
     "digest": "免训练，即插即用",
-    "author": "",
-    "feedId": "MzIzNjc1NzUzMw=="
-  },
-  {
-    "id": "2247896042_4",
-    "title": "量子位编辑作者招聘",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247896042&idx=4&sn=7d5c3f85a1fbab3b7fa662e6eb76e256&chksm=e8da7c98dfadf58ed9574c6e8767486fe8011a7ba5a77aec09e53b5391e349357c65c2352dcf#rd",
-    "publishTime": 1780916340,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/YicUhk5aAGtBwsQQg50rdDIFHPibz5pbVfnv0oOoRSQ2KmEYBSJRibeXrJnIU1euj0icCf6pXdduQdCbnRJy3b7u7Q/0?wx_fmt=jpeg",
-    "digest": "3个岗位（含实习），不设边界",
     "author": "",
     "feedId": "MzIzNjc1NzUzMw=="
   },
@@ -120,32 +150,22 @@
     "feedId": "MzIzNjc1NzUzMw=="
   },
   {
-    "id": "2247895048_1",
-    "title": "CVPR 2026，英伟达特斯拉Waymo一块听中国公司讲物理AI",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247895048&idx=1&sn=ec4a4ad3ed33dbb770e48ffd7b1c1a5c&chksm=e8da7f7adfadf66cbb4141f22c3fc49e74c0eddc15b49e59404971339b872b68da313738b048#rd",
-    "publishTime": 1780561565,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGFddElHKE6oJHp4EsDJdCGMZWXFpPlIdYuJkOibtuYXG7t6PQibk7uvmVMrFWglib0HG2tlkb5PHn5SHQ2DcNHuMLauINyqKEwIto/0?wx_fmt=jpeg",
-    "digest": "小鹏进阶物理AI公司",
+    "id": "2247893825_1",
+    "title": "帮Gemini拿下IMO金牌的关键先生，差点成了职业钢琴家",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247893825&idx=1&sn=8400f94e7918332be98a3ae5489a70b2&chksm=e8da7433dfadfd25d19382d13221d61c2ea94a3ffef8bf88ae7de8c6ad8ceffcd5261fb5b90a#rd",
+    "publishTime": 1780113600,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGHgnIYwHfiaXWkLcL6LTWB8gyFGNvxoJuLJibK5mLtxLhhbMtTOxJ1WTA1VFAicLmicuGibyqtdnEqUZR8ickEWtPWEU3ZPbXIbxMX7I/0?wx_fmt=jpeg",
+    "digest": "（可能是）大模型圈最会弹钢琴的人",
     "author": "",
     "feedId": "MzIzNjc1NzUzMw=="
   },
   {
-    "id": "2247895048_2",
-    "title": "连GitLab都开始裁程序员了",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247895048&idx=2&sn=26784e6bc12d95e419bd7c6a77a44fd1&chksm=e8da7f7adfadf66cd8042a92ca007e247b0324e9d19e47dde63443af844414c4461940a733a0#rd",
-    "publishTime": 1780561565,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGG1MqicgY8PWc6lI9PhYxUg9vKEbmeuuloqIqvzbj5GxibeDTgBh7yORKiaYIgiaXJkgYqmVTiarDuZDycDYCW0UrdK4mXp1htKExTk/0?wx_fmt=jpeg",
-    "digest": "和GitHub齐名，业绩超预期却裁员14%",
-    "author": "",
-    "feedId": "MzIzNjc1NzUzMw=="
-  },
-  {
-    "id": "2247895048_3",
-    "title": "超越TurboQuant：Together AI把2-bit KV Cache推向真实服务",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247895048&idx=3&sn=c800a6ca1334742600bae6a37295cb19&chksm=e8da7f7adfadf66c95079d28e6bda144389ddcbf3a0e68d64a115261342cb8a9fdd8fa872f7e#rd",
-    "publishTime": 1780561565,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGHu2I9YDfvCQBiblk47CA6YAsXQQOwiaUDKRbUvs4AsuHUwxkB70t23wwKg1Kq2ycaHiaTeWtxUTxqgEaD7HpsEusNycvMnlZibiaLU/0?wx_fmt=jpeg",
-    "digest": "不只压得小，也能跑得稳",
+    "id": "2247893825_2",
+    "title": "打破Agent训练瓶颈！人大&至知研究院开源Claw Agent数据+训练+评测全链条",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247893825&idx=2&sn=2f1e5fdae519fe910eda7f64a58247ca&chksm=e8da7433dfadfd252c7bb3a02e99abfad94ec4de84c3db23b6ccd92ee9f0e0a2b0909ce40a0a#rd",
+    "publishTime": 1780113600,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGGI6KWYpJUcXmwfKDMZrnoSqZalru6YErAAMl4AWOFYkFbDeZSTEISRF3EtT4ADIWiblsZdiarDhg8A6A6ULA6cevRKh9V2mIaZk/0?wx_fmt=jpeg",
+    "digest": "13.5K合成数据让30B超越235B",
     "author": "",
     "feedId": "MzIzNjc1NzUzMw=="
   },
@@ -206,26 +226,6 @@
     "publishTime": 1779873931,
     "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGEfzjMEPMCwRSMknfHgwSibQCiagB8WjQrgu8z0ibaOwXzibPtdHPgo32skr9ONY132ia5rrAohxwyV3RBDbFZViaIiaEW7KGN77FBSVc/0?wx_fmt=jpeg",
     "digest": "解越难的题，越要多睡会儿",
-    "author": "",
-    "feedId": "MzIzNjc1NzUzMw=="
-  },
-  {
-    "id": "2247893397_3",
-    "title": "7B打败o3、GPT-5！医学AI智能体让模型学会“看哪里、怎么看”",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247893397&idx=3&sn=d86dba851c44d7cf9236b933d052be3f&chksm=e8da76e7dfadfff13048e58c012783ad47388a9fd0289c126e2378f34ac73e8068da26c5d569#rd",
-    "publishTime": 1779873931,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGFbch0OtGmu4wpEiaHk7Po3Jon7AwDwjSHf9Izh1ZC6MiblhG5AYKbH68PTLRkjMbiaWibLUXQKQvMqCHYS98Og2z7RP3iaLicNNTlt8/0?wx_fmt=jpeg",
-    "digest": "医学AI Agent到了关键拐点",
-    "author": "",
-    "feedId": "MzIzNjc1NzUzMw=="
-  },
-  {
-    "id": "2247893123_1",
-    "title": "刚刚，国产AI自己造了AI，全球首例！",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247893123&idx=1&sn=5d7d73a6ba59384a99ee4e5abc254e05&chksm=e8da77f1dfadfee79bced5763bcfa06fb19b0af7c4cb9d5e8d4404fc7d29fb02144994f3d752#rd",
-    "publishTime": 1779773400,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGHLLCs9ESYxlsmYnM4Kl1YtfoZR4WvY6ylANK6B56mbsiaPmXJ9laMkIeY9nfcIqwrUjzvZtRxiaBbHD9Tkacndwpsv0jTS30FEM/0?wx_fmt=jpeg",
-    "digest": "训练速度比英伟达Megatron快10%",
     "author": "",
     "feedId": "MzIzNjc1NzUzMw=="
   }

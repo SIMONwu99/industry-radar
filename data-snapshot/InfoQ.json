@@ -1,5 +1,45 @@
 [
   {
+    "id": "2651286666_1",
+    "title": "WWDC 2026，硅谷历史上最昂贵的认输：1.2 万亿参数 Siri 来自 Gemini，但你的手机跑不了",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286666&idx=1&sn=3554dc0f722659acae9bd815e8c80674&chksm=bdba94d98acd1dcf7b4d94e9721c9c401c36f27b578552686ab1b098929fc08d857a2f4b6652#rd",
+    "publishTime": 1780977856,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNj6VkxibCbGCFickMGCeoPSGZLhkAiabs3HZKGltd6baEAoK9l6B0hUabv3mmauRibACO05jeDqWFn7EFk6SxCfibP1y3auia1R7BHU0/0?wx_fmt=jpeg",
+    "digest": "对苹果公司而言，这是一个“证明自己”的时刻。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651286666_2",
+    "title": "AI 写了 60% 的代码，为什么企业研发效率还是没飞起来？",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286666&idx=2&sn=07e6adcc9bf695b751f118eb5a656577&chksm=bdba94d98acd1dcfee9c8d5f9e60e964ed3c4a245265037ca1b47aa822eaeea093c187f6de64#rd",
+    "publishTime": 1780977856,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNjDtB2zzbB7SEGzibYicZyrvQ4LB6P271lbmbDxd66WdJYpaXOibD0JoORqx4ibpm6iaqbAXqnLr8kcmyKUbVt2OvwPmzmhTNjv1uMs/0?wx_fmt=jpeg",
+    "digest": "“会用 AI 工具不等于个人提效，个人提效也不等于组织提效。”",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651286666_3",
+    "title": "深入解读 GPUDirect PCIe P2P 驱动代码：Mailbox 和 BAR1 的实现原理及对比",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286666&idx=3&sn=f2210509e7832f8520f2ef6eddd5e15b&chksm=bdba94d98acd1dcf07700e5976fe9481545caf41b3c6133b795b62e6531af61f46df64026357#rd",
+    "publishTime": 1780977856,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNiaPbwLMByPOw1Qu722hpoHmVtiaGmm9Wm85BZp8KFOfRhsjQkZwcicUPNje4bPAUx4veQSM7HULznv76yHibUhpF0fpyywprKnuVk/0?wx_fmt=jpeg",
+    "digest": "自 2022 年起，NVIDIA 开源了其 Linux GPU 内核模块代码。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651286666_4",
+    "title": "借助广度优先引擎，Shopify 将 GraphQL 执行速度提升了 15 倍",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286666&idx=4&sn=d0383c1803be44ef4856a8f9e7aa1d81&chksm=bdba94d98acd1dcf392ad3571413ebeafaf04f054bc451f773f4d7fe455b268dc35d9b87a451#rd",
+    "publishTime": 1780977856,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNhHicn6KyXf8T0Kml6D3YzcGic8pI9ib4qAfABk3zZVYvYF8K0qIeKzlpUWkp6EfO7ZXlfDtakY2GTjDOHmguoOwuG4Z2cic7xk8sw/0?wx_fmt=jpeg",
+    "digest": "借助广度优先引擎，Shopify 将 GraphQL 执行速度提升了 15 倍。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
     "id": "2651286622_1",
     "title": "云知声U2，重新计算通用大模型的商业价值",
     "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286622&idx=1&sn=0aaf0cecf1cfab309da2a33d1f5f69c3&chksm=bdba940d8acd1d1be20225f72dd4d0754974631f9ff2c0ca9e5b83e90fd6a3d301e9bd82b81d#rd",
@@ -180,52 +220,42 @@
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651286315_1",
-    "title": "OpenAI CFO 首次详解公司战略：B端C端收入五五开、抢 IPO 第一名没意义、神秘硬件今年公布",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286315&idx=1&sn=d93377aa78bee152659192677541f079&chksm=bdba93788acd1a6eaf8abefa64babf08fcc1ce55135b57bfc22cb7165dcc7f4a7f70d5e51864#rd",
-    "publishTime": 1780556862,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNhMCDHyMWEUx9iaLoHvNBb57Kh0XiaXLqtZKRmZTxXDdVPBkKMVZVXWLylAG49OetlEKug3IdjsGg1ZZOepJK21HVXX6Qfeer90w/0?wx_fmt=jpeg",
-    "digest": "Anthropic 抢交 S-1？OpenAI CFO 冷脸回应：没人记得谁先上市，市场最终看价值",
+    "id": "2651285965_1",
+    "title": "半数华人、3位亿万富翁：这张十年前的量化实习生合照，藏着 AI 时代的新贵版图",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285965&idx=1&sn=ad6a6573fd31635e961e4053015737b1&chksm=bdba919e8acd18886c274fa288b737277dd55cf5ffdd33fcd02851d9dc129d40ee64f8ecafde#rd",
+    "publishTime": 1780106400,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/lYDricib2fsm6kl8VjUd3YF7dibucVZjiaFZgY6TzTtGqdp9GNXbwwbQbq0atWoOaRrTOt0dbSKcqvsvxAB2mbUox4MyNEkUa239yZUwme6EBl0/0?wx_fmt=jpeg",
+    "digest": "AI圈里最炙手可热的新贵们，可能一大半都出自量化交易。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651286315_2",
-    "title": "写代码可以 Vibe Coding 了，为什么办公还不能 Vibe Officing？",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286315&idx=2&sn=09885b688b8367a2eb84677d05da75a0&chksm=bdba93788acd1a6e5b61a5685f45c684773a48b675771a8797a0f194c1ba026e606d087a27c0#rd",
-    "publishTime": 1780556862,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNgDoIuXl8EBFnR096n9N267EicF33bVVnfZIYyFRAwZOc1bhxkqc8IXMUTibia59yVdIaqZ3icIKAbc1nnY1htTs2q6rn9HfWaseJI/0?wx_fmt=jpeg",
-    "digest": "本文将站在资深研发的视角，从技术层面探讨现在市面上 AI+ 文档的工具与 Vibe Officing 之间的距离，分析为何 HTML 和 Markdown 都无法承载这种工作方式，并给出基于 OOXML 的解决方案。",
+    "id": "2651285965_2",
+    "title": "对话罗剑岚：把机器人“部署”本身变成训练的一部分",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285965&idx=2&sn=b29da24f7803ae93ce8cdf9a3f90d40e&chksm=bdba919e8acd18881c5bfb657bb58209c0c8eeb0d292a5cd22c2d414be73a12d4aa4d57983f7#rd",
+    "publishTime": 1780106400,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/lYDricib2fsm42EpQcW2gjNg6kN3zkMh69BVV6uY6XTw2cmeuiaicueagYY2PHUVliagAAnk4ibDhYjQkN5MURZicX4PyjEeEiafLc7mYVeVsBpQNfw/0?wx_fmt=jpeg",
+    "digest": "具身智能过去两年始终无法回避的核心矛盾：模型越来越强，但机器人仍然很“笨拙”。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651286315_3",
-    "title": "把数据库运维这件苦差事，交给 AI Agent",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286315&idx=3&sn=154c81386b9415c738b2892e84a1de1b&chksm=bdba93788acd1a6e52a4b99344f8fbcbd73ce1cdba787cacae766b16fb76b98f10160847f09e#rd",
-    "publishTime": 1780556862,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNiaqeLnRfP39Eg8LsrT8dHOeOtHEq8tPNrc38GWRhvcGqzeKAv2QZLw8b5b72W9qTS7UQvib8wrcITC8MQxDFL2XYeCE8XHrgjwA/0?wx_fmt=jpeg",
-    "digest": "诊断引擎怎么进化、安全底座怎么搭、Agent 怎么跑通生产闭环。",
+    "id": "2651285965_3",
+    "title": "Google 想为 AI Agent 打造下一个 Kubernetes",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285965&idx=3&sn=4983abf3b26a06107a296e637db04fbb&chksm=bdba919e8acd18881bdf5c40a5d02ce9cd92d7f5a0d4af0d31165fc959d960944830a43afa77#rd",
+    "publishTime": 1780106400,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNiahhicSTcRBdjuo1y8W31jjuyShLx2c9a37wTOaFNU8GrBC1xMNb718E9b6oRRriagW5VSJibX59kolMIQia9MEtVeCJXwYxZ5a7J8/0?wx_fmt=jpeg",
+    "digest": "Google 开源两大项目，瞄准 AI Agent 的规模化运行难题。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651286315_4",
-    "title": "谷歌扩大 SynthID 在 AI 水印技术中的应用，并提供内容检测 API 预览",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286315&idx=4&sn=ada09312247a581c0fb2400f5e7765a1&chksm=bdba93788acd1a6e240052af81325861d39370b7a1bd9b1173a8e000cffe3a05f1981cba6d8e#rd",
-    "publishTime": 1780556862,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjVRRhB0vMXDf0fLBGuMyFdeQvCdWnQH7OvEVAl8GawYyicobTe6leNxiaJEwuhla3wakh82utmYeMV80bCPlKRyF6FI3fISgIqc/0?wx_fmt=jpeg",
-    "digest": "谷歌扩大 SynthID 在 AI 水印技术中的应用，并提供内容检测 API 预览。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651286315_5",
-    "title": "科大讯飞面向超大规模教育场景的 Agent 系统架构演进与工程实践｜AICon 上海",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286315&idx=5&sn=8b30bba75f1cb98df892bef1e6bd4e07&chksm=bdba93788acd1a6eaaf905ca9c59ed00bbdefbc33e200c33790d8a3125fea1f91b78e68aa9d5#rd",
-    "publishTime": 1780556862,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNiaFYySro7IPYQr2GWEXicDte0W12sORm0VgYvNfOdbticNWlHfCYmRjdBqNKgU60dQPty5s201ict7wfX1wo4bo8npqJ0WuZTOTJg/0?wx_fmt=jpeg",
-    "digest": "在 Agent 系统里，决定上限的不只是模型能力，调度、工具、权限、记忆与监控这些 harness 设计同样关键",
+    "id": "2651285965_4",
+    "title": "Java 近期资讯：OpenJDK JEP、Azul Payara、WildFly、LangChain4j、OpenXava 和 Google ADK",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285965&idx=4&sn=6b0135d696d12db04ff0938a1e74f226&chksm=bdba919e8acd188801280ecd45a385f63eeb8ba4caaf2cd08dccf3ecabc972a5da03dc51566b#rd",
+    "publishTime": 1780106400,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNia2LpDkBRsSro2Q5slVZ9UkicfQ8Af9KxngXYJmzyM7I3oRMXvd3MAqstU7OyWd7HVFwTXIYTMRclMIvYNMqtQ0Eia0tAjDD3Xib8/0?wx_fmt=jpeg",
+    "digest": "Java近期资讯综述。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
@@ -266,36 +296,6 @@
     "publishTime": 1780034400,
     "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNiaf0lCDmMovianficwcerQb271Jia7fJJefvdsofpH2vnCAkM0GGkWKjtp3Z7CVib3NFuCpHxuYPYFIpnUl33h1R5UIph88ehJCNp8/0?wx_fmt=jpeg",
     "digest": "谷歌推出全新的 Android 开发工具，借助 AI 代理，可以将应用构建速度提升至原来的 3 倍。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651285886_5",
-    "title": "OPPO 小布记忆：全模态碎片化内容的理解与智能整理实践｜AICon 上海",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285886&idx=5&sn=e9eac5d0fc9459fd53f37220bba2cc68&chksm=bdba912d8acd183b439b436300899f1521e792a93959657f3ff98d78f6b1f878228c153637d9#rd",
-    "publishTime": 1780034400,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNgrkBMCc5yPhvic4AWE1iaw7VdywickuuIHI5pYqz1IM1GVDODyQUeGlY3aM3309Fo6Xs6cJRnvSzaerOasqzNa9Wdt16LUM1tGg0/0?wx_fmt=jpeg",
-    "digest": "用户每天产生大量碎片化内容——截图、语音、视频、文档、多图……如何让 AI 理解这些异构多模态数据，并自动整理成有价值的\"记忆\"？",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651285828_1",
-    "title": "前 CEO 被学生嘘“别吹AI”，现 CEO 被追问“会不会被AI取代”：谷歌两代掌门人的AI信仰，同时被质疑",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285828&idx=1&sn=7c93b4bd38e015e55ecb8cbc86aa82ca&chksm=bdba91178acd18013eb67b6a710f70e9f0e7cdc5c67ba81ef6840d240e38243ebc5d952e1a60#rd",
-    "publishTime": 1779957255,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNgmH2hofKXXqOHDG7QV7MvIp1V5T00Ow1bsImJYY9iatscU6wzcakyibbek9fmX6Ats9EOLtqQic9ebKibEWvBI2LjC4WTHOnVcKGc/0?wx_fmt=jpeg",
-    "digest": "“CEO 这份工作并没有那么复杂，真的”",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651285828_2",
-    "title": "空间智能初探：重建与生成的双路径实践",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285828&idx=2&sn=3068aefd33a4873f4b26a8bbef3d0137&chksm=bdba91178acd1801a2d0121b5fdd832b601b15284fbf052d4db061ecb11c9b43ff3c71d0feb1#rd",
-    "publishTime": 1779957255,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNg3NShgxtfgpTDJGkx5XNrbCLc41aKFtFj7KWHRTj6C9MXyUCYNp0sxOQU8a0qQW1yiboduSibWtF0NT7qf8Wd69GAdJfVOHnuks/0?wx_fmt=jpeg",
-    "digest": "“端到端的四维生成模型，是我们理想中的终极形态。”",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   }
