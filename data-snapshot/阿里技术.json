@@ -1,5 +1,15 @@
 [
   {
+    "id": "2247509774_1",
+    "title": "AI 不缺智商缺纪律：一场 Harness 工程化实践",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247509774&idx=1&sn=02c8d0506c7d6ebc8fd58669160f1db3&chksm=cfa6b7edf8d13efb3317ba22ffb089aee8377ae0fa7187163944df9c8536a52d2a219145fda1#rd",
+    "publishTime": 1781094231,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/kN3t5R6pdz6LX89DUobWcUPUx0Gia6g5zU82Nrv05gwuWwkJV1gEEPAx1icwLznuWzKOyecuHTG8MLQC1ENl2Beibiau6uUMuxicY5AKd3ARxxC4/0?wx_fmt=jpeg",
+    "digest": "如何让模型稳定地执行端到端交付全链路，本文给出一些参考。",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
     "id": "2247509738_1",
     "title": "Harness Engineering：长程自动化 AI Coding / Skills 开发实践",
     "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247509738&idx=1&sn=15fcaaa7949c28593c2f6231ebe68748&chksm=cfa6b609f8d13f1fc71a1ed770b25217434a31aca2e6404072acb17a70d13701c2c953da21d3#rd",
@@ -36,16 +46,6 @@
     "publishTime": 1779966342,
     "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/kN3t5R6pdz5PoRtV8qiaia999LV5kVNyfHmJXtpJXQXmNeF07WBFiaFBfAA17Lia250Qsh89RBzLG48e6rhaibYjI7CCm6NKeJXMWxk2Nwb7bVj4/0?wx_fmt=jpeg",
     "digest": "",
-    "author": "",
-    "feedId": "Mzg4NTczNzg2OA=="
-  },
-  {
-    "id": "2247509605_1",
-    "title": "从语言涌现到协作涌现：如何让 AI 产生高质量决策",
-    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247509605&idx=1&sn=45be5e8b0426154f4dc4d4b6b56d52dc&chksm=cfa6b686f8d13f902df7917aac958425eb9409b985e07ffe8e9626cc55a1cd9f007d4bee7d7f#rd",
-    "publishTime": 1779877768,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/kN3t5R6pdz5UcSRkUr2OgWfOJUYGsooibNL895icsonkyCbIn6Xk7gicoucW9mMe2xiaTg5LlfH5GOMxxTsoibgJHlJLGpG8pVcZzsqQTibEBXXHY/0?wx_fmt=jpeg",
-    "digest": "AI NATIVE组织/业务自迭代 由AI 能否产生高质量决策决定。",
     "author": "",
     "feedId": "Mzg4NTczNzg2OA=="
   }

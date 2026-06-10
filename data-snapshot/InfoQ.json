@@ -1,5 +1,55 @@
 [
   {
+    "id": "2651286735_1",
+    "title": "Anthropic 祭出双旗舰模型 Fable、Mythos，屠榜所有基测！网友：除了贵没毛病",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286735&idx=1&sn=d1ca4072b48e4e09cb70043250675293&chksm=bdba949c8acd1d8aa0dd790c5a48e64106704e807fb8b7b7b75a3261b521057cef860addf8f0#rd",
+    "publishTime": 1781055590,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNiarNCThKtItJJa6pLo6h05s5bq4KZweYXtafOibD1aIDdEM9FlwxBSvn8PoAMCfobM7lBOs2LpUkRaY8UrezpsZrnCicxps1twrk/0?wx_fmt=jpeg",
+    "digest": "据介绍，这是 Anthropic 迄今性能最强的一代模型。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651286735_2",
+    "title": "人形机器人价格大跳水，比iPhone还便宜：一场关于生产力而非形态的产业竞速",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286735&idx=2&sn=79974b506ba9dedcb675b700944fab1c&chksm=bdba949c8acd1d8a481884369fa71f033131e368eeec48db8436e5bc518c566b6ab128f30721#rd",
+    "publishTime": 1781055590,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/lYDricib2fsm4SC6jDr1RRcENxNDRUTFLibb1Djm3WLW59hAlEq8ALk6GXI1CPwcwYxdjDv9lLtNbIyh3Tyyyr0eRz2Cg6p8lFwhETvJFmNY8k/0?wx_fmt=jpeg",
+    "digest": "最近，人形机器人迎来了从“奢侈品”到“白菜价”的历史性转折。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651286735_3",
+    "title": "这款国产模型登顶 Artificial Analysis 输出速度榜榜首",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286735&idx=3&sn=77f99fa7daf725e17f630543920d2876&chksm=bdba949c8acd1d8abdd6f8061bd54f63129afc2863bf0f3b417d2b8cd88b1b254297cc506fa3#rd",
+    "publishTime": 1781055590,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNjEXj2xyan9jgr6mMlEtWyqaTOP4LZryHppmczp0wtv6vcmmpwhhBrppx7CMtZTdKvtMv37G4muSwf3Ob8tMY3dqqJYfHYa2n0/0?wx_fmt=jpeg",
+    "digest": "模型竞争正在从“谁更聪明”逐步转向“谁能以更低成本完成更多真实任务”。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651286735_4",
+    "title": "Google Workspace CLI：专为人类和 AI 代理设计的统一命令行工具",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286735&idx=4&sn=c69065d4a91f4f32a707c8b5ee30ff50&chksm=bdba949c8acd1d8a595bec825fd70e1239a2ba411ba94e9b98ce5fa5db7c6f32a719d338f435#rd",
+    "publishTime": 1781055590,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjicpxyWKvOlPf04YibIIRia67qfFBEMpyPyEl4olXMXiaZfj2CVzbw4icI0qgWdRVtJOd4HBCNpQN9yBqMlL1de2ibNKN3shvdYFKGc/0?wx_fmt=jpeg",
+    "digest": "Google Workspace CLI 发布，为 Drive、Gmail、日历、表格、文档、聊天、管理控制台以及所有其他 Google Workspace API 提供了一个统一的接口。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651286735_5",
+    "title": "算力新基建，推荐新智能：快手推荐系统池化的探索与实践｜AICon 上海",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286735&idx=5&sn=765cd2e0cc9dbed54f4274996c4f9aa3&chksm=bdba949c8acd1d8aea6e00f752ddbae308e427daba7eb431fc59ca58f897f3c348b3256cf1df#rd",
+    "publishTime": 1781055590,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNia4lQXkecsNpluEstIyJvDbVeUwZnDuO8SFzvcWwFqQDAf735xVLOAczdzbDTmdQ0UjvsEDvsvfI5dD1iclAmXRPZyibFklJ7cVc/0?wx_fmt=jpeg",
+    "digest": "本次演讲将系统阐述快手在推荐系统算力池化方向上的思考与实践",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
     "id": "2651286666_1",
     "title": "WWDC 2026，硅谷历史上最昂贵的认输：1.2 万亿参数 Siri 来自 Gemini，但你的手机跑不了",
     "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286666&idx=1&sn=3554dc0f722659acae9bd815e8c80674&chksm=bdba94d98acd1dcf7b4d94e9721c9c401c36f27b578552686ab1b098929fc08d857a2f4b6652#rd",
@@ -170,52 +220,42 @@
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651286445_1",
-    "title": "Anthropic 被曝雇1000名人类工程师“培训”Claude Code，时薪280美元：AI 编程越进化越离不开真人兜底",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286445&idx=1&sn=fb37f3bd259b5ce502e336904c999640&chksm=bdba93fe8acd1ae881fa9ac6dab785bb9f2494a3705d72c684d2d943c4cd3528ef74e5885b21#rd",
-    "publishTime": 1780641000,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjxxwoaveW1fCSia6VxS3DxSibvNQxaKrMDoB5Zfsf7nUtJEkl6iaXj8hrXFib7aKjGyhOyZT38zRDfgmIuFbmm4tQVK6IJOWq8J70/0?wx_fmt=jpeg",
-    "digest": "据 Business Insider 报道，Anthropic 正在通过一个由约 1000 名人类软件工程师参与的项目，提升旗下 AI 编程工具 Claude Code 的表现。",
+    "id": "2651285996_1",
+    "title": "蚂蚁三代CTO闭门对话：周期穿越、技术决策与AI-Native组织",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285996&idx=1&sn=257fb4ce44ddfc94b3d482ea98b2a9ee&chksm=bdba91bf8acd18a90ca0d490c1a0a6a3966f43dd0afbe46c0a1040efb21810dae5176bdf0e8e#rd",
+    "publishTime": 1780193700,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNgGRnxgrFQmUSSEibeBZxlpdEVTrdbuIGJzEzstu9ibNa5BoLPJoyMnxkSINULq6Xk2x1YasaV0WT2PpG3ItLe1pSYVjQlyOXQmg/0?wx_fmt=jpeg",
+    "digest": "蚂蚁每一次最关键的决策，都来自于追问时代里的真问题。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651286445_2",
-    "title": "openJiuwen 社区又上新： JiuwenSwarm给Harness 装上「后训练」",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286445&idx=2&sn=96ee0c464a6f16d01c6145f0f208e874&chksm=bdba93fe8acd1ae8baebea73de6d2f00930aa7cb2840ce904403594451f3d5c459a052deba25#rd",
-    "publishTime": 1780641000,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNjS3XugW61ddmDHEgibLeEMbTty9nGS02r0C4K25ib5lfxmcBJeh4L6t4grN1Dpvv6OATqmIPlKe6nPtQk39MibOG3R5xrVxoj6So/0?wx_fmt=jpeg",
-    "digest": "开启 Harness 后训练新范式",
+    "id": "2651285996_2",
+    "title": "利润腰斩也要卷AI！小米模型永久降价99%，雷军还要再砸600亿",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285996&idx=2&sn=116a0e58a4dee2f97cee9c9923af6318&chksm=bdba91bf8acd18a94e65b831532f2870059e57bfbeb1b47a00a98205473ef8971756def338f7#rd",
+    "publishTime": 1780193700,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNiagzJOic3HxsqsnyhViaoeomIcZ9FQslia7uD9lINUbVcR8WocOiarxB1U8kaySd54LhfBjticDv5XpmLmhKu1BHaibXCT05DW1u54tM/0?wx_fmt=jpeg",
+    "digest": "今日，小米宣布永久性翻新整个模型定价体系。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651286445_3",
-    "title": "英伟达甩出物理 AI 王炸！Cosmos 3 全模态模型开源，Agent Tookit 补齐工具短板",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286445&idx=3&sn=f6adfe460e167cd807dee6e56dd7478a&chksm=bdba93fe8acd1ae82abd50d404683005301ad92b4920a2a7d26f2fd13ad297e54c64e29c5ff7#rd",
-    "publishTime": 1780641000,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNiaiarKJ4JvdLZVwMXb3SiafxtzeBicA4ANG7kRZE1Lia4m4uITeDtLtGIb3icplBMZTHPNqLW6k84VoziapJGiaQJSYIs1ynQ9mtOh49c/0?wx_fmt=jpeg",
-    "digest": "英伟达正试图锁定物理AI时代话语权。",
+    "id": "2651285996_3",
+    "title": "Zod 作者推出 Pullfrog：一个跑在 GitHub Actions 里的开源 AI 编程 Agent",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285996&idx=3&sn=ca6294b4067d06d050f87beb44cdd0ad&chksm=bdba91bf8acd18a98923849df606cc32925f9cfb5c363b123162662a59ad87d76a9460fc143a#rd",
+    "publishTime": 1780193700,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNgQXJgh60icXHEicvXWJ5nmg2cEPywEe2aMAdt1CHIO98sTpO2nofO6LmN1ficnNzK2opJ33JRO3sZnHfmibPSZuOibeszG8OZv2JP4/0?wx_fmt=jpeg",
+    "digest": "Pullfrog AI：由 GitHub Actions 驱动的开源 CodeRabbit 替代方案。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651286445_4",
-    "title": "微软推出 MDASH，用于大规模 AI 漏洞研究",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286445&idx=4&sn=de8ebef020c463361aa349a0606ff917&chksm=bdba93fe8acd1ae8cf2c5a672ff31313a115bd9c31b40491eed54907107434afc7d66233f28a#rd",
-    "publishTime": 1780641000,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjbxXnZQsyiayUX7PwYQxrSR44GFqIxAsUcO6Vs5LAchy1lpbVG40TtWDXMicMeDD0hH2bI8lhicg7r1MQ2n7sR5fA7pGtCxXlnwQ/0?wx_fmt=jpeg",
-    "digest": "微软推出了一款 AI 驱动的新型漏洞发现系统 MDASH。这是一个多模型代理安全平台，用于对 Windows 及其他微软软件环境进行大规模的代码自动化审计。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651286445_5",
-    "title": "AI Agent 沙箱的网络安全：从流量隔离到智能治理｜AICon 上海",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286445&idx=5&sn=0dd575849e4aedb921e97c8211db95fe&chksm=bdba93fe8acd1ae87f2d75b600f1919d5b5f64ef7a9f56059361e04dd32c7df21d2b3e739641#rd",
-    "publishTime": 1780641000,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNiaE8SVgZSpzVGM6XX4G69N5VmfrfemiavvukdzErZcTsSlZRzGb2ibcibwaicbohXSS72ia1fYmIV694UyqCTyutBczSyX5aFiaxL9dk/0?wx_fmt=jpeg",
-    "digest": "本演讲以阿里云 ACK 在生产环境的实践为主线分三个层次展开",
+    "id": "2651285996_4",
+    "title": "Google Cloud 在 BigQuery 中引入跨引擎 Apache Iceberg 支持",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285996&idx=4&sn=5ab10f9f88576316e58d0ac88a580492&chksm=bdba91bf8acd18a96371800e27aa1a5706c8b51143fc1dc9822e202cde0eac9243fb6f0c23b5#rd",
+    "publishTime": 1780193700,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNia6XGlZIiaq3vmMfObRyuJslOSzibeEqrk8micVIsIwUOz84pbaVyic3qof5jd9hhQcRBjOqGRvkBXhpHyptABYlib4r17HZvFKicGeQ/0?wx_fmt=jpeg",
+    "digest": "在上个月举行的 Apache Iceberg Summit 上，谷歌宣布了 BigQuery 针对 Apache Iceberg 的一系列新互操作能力。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
@@ -256,46 +296,6 @@
     "publishTime": 1780106400,
     "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNia2LpDkBRsSro2Q5slVZ9UkicfQ8Af9KxngXYJmzyM7I3oRMXvd3MAqstU7OyWd7HVFwTXIYTMRclMIvYNMqtQ0Eia0tAjDD3Xib8/0?wx_fmt=jpeg",
     "digest": "Java近期资讯综述。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651285886_1",
-    "title": "深度对话：后龙虾时代，企业Agent从“能用”到“生产级”差距在哪里？",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285886&idx=1&sn=d0a813cbf2ef68c477eddf58ead8fbbc&chksm=bdba912d8acd183b3c10dc3581d70eeb0c72b77f44a1f71a2894ac94b6078945d3f4955a2161#rd",
-    "publishTime": 1780034400,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjWia6hHf6rWqza6kiaHia0s3dvNDMw6xrjaBKcBZq5wHua3DFnpARCyfpCgC7ibwNJibvtONSZanFrmIn7NLmKYLwqicEia54rHwL3aI/0?wx_fmt=jpeg",
-    "digest": "Agent落地从“能用”到“生产级”，最致命的差距在于场景选择与知识数据的治理。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651285886_2",
-    "title": "超越 TurboQuant! OSCAR：面向真实 Serving 的 2bit KV Cache量化",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285886&idx=2&sn=4edea3aefc77fd98dce2d9a9fc2d44f9&chksm=bdba912d8acd183bc9c6b66f6ee7c61f838febf3b1b88f69e30b5d0337c6e4470bd6778f7366#rd",
-    "publishTime": 1780034400,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNgyRkHuzziaeKgGEgmRNnUiaat6uEDxflskhIuho6zo62XTbEmIN2JCRqQUibx64KGu9mzLANyaA9aDmwmqgK72hz9ascMsJPO0Mk/0?wx_fmt=jpeg",
-    "digest": "长上下文模型的能力还在往前走，但在线推理服务遇到的压力，很多时候已经不只是计算量本身。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651285886_3",
-    "title": "Cloudflare 通过对 Browser Run 的重构和六层平台完善了其代理基础设施技术栈",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285886&idx=3&sn=5549f9ce3dac3a21a240b95eacaa1b63&chksm=bdba912d8acd183b308023015c17d2306e5e36e7d777a8b4e62ab63a244805b14b94e085e1b8#rd",
-    "publishTime": 1780034400,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNgyvMhiaBHVGMXO2Eb8Aic5cA6R0nqYbugiazpPfwBfrjiccoY7NQvAnmDtXwkiceX5U8vicgf9Kz8aeiaI1u0PXw8oCpqBQLZK6kibVL0/0?wx_fmt=jpeg",
-    "digest": "Cloudflare 以其自有容器平台为基础重构了 Browser Run，并发数提升了 4 倍，快速操作的响应时间缩短了 50%，并支持 WebGL 和 WebMCP。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651285886_4",
-    "title": "借助 Android CLI，谷歌正让 Android 工具链更便于代理使用",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285886&idx=4&sn=225c9cce9315781e279fed96a9a6a359&chksm=bdba912d8acd183b35a5ff2bf3027945ecf06743697ac4dcdc060e4a23124e356ba7d48cb491#rd",
-    "publishTime": 1780034400,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNiaf0lCDmMovianficwcerQb271Jia7fJJefvdsofpH2vnCAkM0GGkWKjtp3Z7CVib3NFuCpHxuYPYFIpnUl33h1R5UIph88ehJCNp8/0?wx_fmt=jpeg",
-    "digest": "谷歌推出全新的 Android 开发工具，借助 AI 代理，可以将应用构建速度提升至原来的 3 倍。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   }
