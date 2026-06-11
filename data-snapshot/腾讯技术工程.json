@@ -1,5 +1,15 @@
 [
   {
+    "id": "2649801982_1",
+    "title": "腾讯混元AI Infra进化：HPC-Ops推理核心算子全面升级",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649801982&idx=1&sn=25fb653637a2fbac015d46c265f8266e&chksm=becc578589bbde93464f9c6b27b6b9b2e7cc0befe8da9467bd745bb03723a1dbfcb9fcb38caf#rd",
+    "publishTime": 1781165966,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/KVER9adz906m2f5jdzsvWniajo553nahPD5bptibibuTlEYVSH0TIAfB9wUla3ge3RCbbIIrnPoyJcNFzib7ia41ZjRJx8N0ouoWlRhGMA3qcEEw/0?wx_fmt=jpeg",
+    "digest": "全新更新升级",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
     "id": "2649801924_1",
     "title": "跨端页面秒开，腾讯开源框架Kuikly是怎么做到的？",
     "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649801924&idx=1&sn=319b28177b03a56e9d63b61285e5606b&chksm=becc57bf89bbdea94e28f8b399075b4cc7ca807ec53e904446c9fe47ba006824bcd97b5bcf03#rd",
@@ -36,16 +46,6 @@
     "publishTime": 1780652160,
     "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/KVER9adz905r5ia072TZfibiaYl16fldibK0L4R57K9n52a9HnvjeDK1krGuRzwC4uxgbrk4OomqRowAtQBYsYht6ZkWPR6RAU7yajJvku8ouwI/0?wx_fmt=jpeg",
     "digest": "鹅厂团队积累的知识，帮大家少走弯路",
-    "author": "",
-    "feedId": "MjM5ODYwMjI2MA=="
-  },
-  {
-    "id": "2649801828_1",
-    "title": "还在好奇鹅厂人Vibe Coding了什么东西？",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649801828&idx=1&sn=8a039db77b364696448024073e7d25be&chksm=becc571f89bbde09e20c276c865cfa0b078ec86f7ecf7afb86a9d880f0551c19fbb2ecb0fcb4#rd",
-    "publishTime": 1780484507,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/KVER9adz906F9GgPBRweeaibLRB4TMVOicuPUBzibGXskM13gibuiahPzrxtMVXEJkXX0sbWyFAEJ8OoicgicuFclJ3RD0TRcPhNDMibibP0X05UD1bs/0?wx_fmt=jpeg",
-    "digest": "第二期来袭！",
     "author": "",
     "feedId": "MjM5ODYwMjI2MA=="
   }

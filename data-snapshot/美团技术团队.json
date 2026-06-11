@@ -1,5 +1,25 @@
 [
   {
+    "id": "2651782810_1",
+    "title": "从月球漫步到赛博都市，WBench测出了世界模型的边界",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651782810&idx=1&sn=46c1b066323502bd35af6995ec81bc70&chksm=bd1227d78a65aec1173dd08308e77f00e8fa337de954e7aee05916f083d102dc6fdfc4997fb2#rd",
+    "publishTime": 1781179080,
+    "cover": "http://mmecoa.qpic.cn/mmecoa_jpg/V95GN2mm0Dwyh49vuWN93xIqHeSRGMG8dBsR4iaDBgTiaDoiamH7qIccNsu2BgGmJaRRM5B5ft2NuA60sKZBmdJeNIVsarWa9Bticb30xmYcP2o/0?wx_fmt=jpeg",
+    "digest": "覆盖导航、动作、编辑、视角切换的世界模型基准",
+    "author": "",
+    "feedId": "MjM5NjQ5MTI5OA=="
+  },
+  {
+    "id": "2651782810_2",
+    "title": "报名｜ACL'26 论文分享会：美团履约团队前沿技术专场",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651782810&idx=2&sn=aeb92a7c0c0bcf2befa7a201f1d4ece9&chksm=bd1227d78a65aec19f0cd0a2beda20e671bcd2a8eb3e2b3dfe98d900b52814148b602c74d0f9#rd",
+    "publishTime": 1781179080,
+    "cover": "http://mmecoa.qpic.cn/mmecoa_jpg/V95GN2mm0DyteWLKgiakJc0JicNuGHN2CKFMCEVjFibfpav2HBPsQDAl61DkebDgtaJBHQEB4JxPzjqBgOu9BmCnymicmFfING6TRCiaaudwWAls/0?wx_fmt=jpeg",
+    "digest": "6月17日 周三下午，线上直播！",
+    "author": "",
+    "feedId": "MjM5NjQ5MTI5OA=="
+  },
+  {
     "id": "2651782776_1",
     "title": "美团LongCat大模型人才校招全球启动",
     "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651782776&idx=1&sn=7d8d86a3f682ddefdaef2e28de4c0041&chksm=bd1227358a65ae239d32768514382403445e9a9bb0e15ffee83a40d5ef086917d386248cd0d2#rd",
@@ -80,32 +100,22 @@
     "feedId": "MjM5NjQ5MTI5OA=="
   },
   {
-    "id": "2651782607_1",
-    "title": "美团 LongCat 开源 General 365：树立推理评测新标尺",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651782607&idx=1&sn=4ddacd5f735d67913062b793ce7db6e1&chksm=bd1224828a65ad943df21d8dadeaed4d5620cefdf73e47de38024c474018573729a8d0e71dc8#rd",
-    "publishTime": 1778759880,
-    "cover": "http://mmecoa.qpic.cn/sz_mmecoa_jpg/V95GN2mm0DyeuYk2vbDVt7Hu5u61BvAoiaeaElibiaKzpLx03vZyCax8icJoopVH4YuPjX9oIOkd5TkSZmHUwBoQCzQMCbs6GmcUk0yRzW4J75I/0?wx_fmt=jpeg",
-    "digest": "用365道种子题重构推理评测多样性",
+    "id": "2651782437_1",
+    "title": "美团发布原生多模态 LongCat-Next：当视觉和语音成为AI的母语",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651782437&idx=1&sn=42cd63e1238b0c841a4ef137049d018b&chksm=bd1224688a65ad7e232f184792986cb4d4fa22f41a59efd1705f2b42b8c9715224b01dbb6833#rd",
+    "publishTime": 1775131080,
+    "cover": "http://mmecoa.qpic.cn/mmecoa_jpg/V95GN2mm0Dz2oia5LRmwvIUgFvcwZ686Mxbia49RvMARqLBOib8j4fosY0raYHMoc4EWLwnHh1YWd0U7ard86maLXxQnnOQC6q1FJiaSOQWkkBs/0?wx_fmt=jpeg",
+    "digest": "一起构建真正能感知、理解并作用于真实世界的AI",
     "author": "",
     "feedId": "MjM5NjQ5MTI5OA=="
   },
   {
-    "id": "2651782607_2",
-    "title": "美团无人机低空物流解决方案亮相世界无人机大会",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651782607&idx=2&sn=556ce4fb751183e404cea0218f8f7867&chksm=bd1224828a65ad94c66b41c9c9f68eb6afe79ca93c2f2d47b0fbccc36a689fa80fc7cdaa2268#rd",
-    "publishTime": 1778759880,
-    "cover": "http://mmecoa.qpic.cn/sz_mmecoa_jpg/V95GN2mm0DzgsOe5dcxIbao4tBIAfzlTzRDYQ9wsdxmkmWwYMPIFk1OJvyrfJmUfXOBYwria9iacuZkouPUDgwjOibCF4apZ09AXjesK4ibf1C8/0?wx_fmt=jpeg",
-    "digest": "全系新品展会首次亮相，欢迎内文扫码留下合作信息。",
-    "author": "",
-    "feedId": "MjM5NjQ5MTI5OA=="
-  },
-  {
-    "id": "2651782607_3",
-    "title": "MARS TALK 香港大学站｜共话具身智能的技术演进与商业化进程",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651782607&idx=3&sn=a7270bae51bb2df89e5e587e601ba5a0&chksm=bd1224828a65ad94972d752d666bdcc8c335ac195889716be0c480f0f12f1c3cf17bb34990ca#rd",
-    "publishTime": 1778759880,
-    "cover": "http://mmecoa.qpic.cn/mmecoa_jpg/V95GN2mm0DwW5icG8znp1QiaV4NiaMmibRjYM5lHcrSicC2akB8t0HYeoJ11uO8a5XWyYrQwQlVW0G7oTWiaahiccbwfbKKC0iaiaWqrnCiajj0wPjJEE/0?wx_fmt=jpeg",
-    "digest": "从技术验证到规模化商用，探讨具身智能如何走进真实世界。",
+    "id": "2651782437_2",
+    "title": "LongCat-Flash-Prover：AI 攻克数学定理证明，不仅要“算得对”，更要“证得严”",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651782437&idx=2&sn=d2cdd9b2ca84834eb5746bbcfdce139d&chksm=bd1224688a65ad7eb523af3e93142ad608ec2bd34768f7ea0ba43a05261c574e977ed109f261#rd",
+    "publishTime": 1775131080,
+    "cover": "http://mmecoa.qpic.cn/sz_mmecoa_jpg/V95GN2mm0DzXHXTCDriaHDLTBWD3mN2S2CCkdz0oJGoTNfXyOowEyGDpvXlvar6okDgic3tWJ5b4uwphXUR1rMHc5mwPSRBeRiblcoMuP9oKMw/0?wx_fmt=jpeg",
+    "digest": "AI 攻克数学定理证明",
     "author": "",
     "feedId": "MjM5NjQ5MTI5OA=="
   },
@@ -166,26 +176,6 @@
     "publishTime": 1772711880,
     "cover": "http://mmecoa.qpic.cn/mmecoa_jpg/V95GN2mm0DyLrmBmB8aFkn6yFEp3zZkTjPM8MUbKH6YWrNK9FdCUNmBo9zyypqutL7xRAD21IxeBUuib7NYiaubM6z792cdicjvZnAuMlqcTvM/0?wx_fmt=jpeg",
     "digest": "LongCat 团队提供稳定合规的官方免费 API，开发者可通过官方渠道直接接入，在确保账号安全的前提下构建自动化工作流。",
-    "author": "",
-    "feedId": "MjM5NjQ5MTI5OA=="
-  },
-  {
-    "id": "2651782198_1",
-    "title": "美团发布基于 N-gram 全新模型：嵌入扩展新范式，实现轻量化 MoE 高效进化",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651782198&idx=1&sn=1fc74977fcd90d92f82c1f0709902df0&chksm=bd12257b8a65ac6db20f186e52aa93a271309ce1bf1250f7a6a202299d6f39b4131935fba1c6#rd",
-    "publishTime": 1770603802,
-    "cover": "http://mmecoa.qpic.cn/mmecoa_jpg/V95GN2mm0DyrWibDXH7z3mYbuKnnzGAmGSU2WXLA9VdcSjRBjhhIsHFFyCdvE0miaa1ApnQB1mxFHEvpqzUGAzkQ8iceDMyIHVMgqxbUnrY0to/0?wx_fmt=jpeg",
-    "digest": "LongCat-Flash-Lite 正式发布！",
-    "author": "",
-    "feedId": "MjM5NjQ5MTI5OA=="
-  },
-  {
-    "id": "2651782198_2",
-    "title": "美团无人机年度报告",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651782198&idx=2&sn=bd5e18cf2ce92d777564d527023328c0&chksm=bd12257b8a65ac6dea713b87b45853343fd676552567f8b5b65098e569c3012288bdb57ebde5#rd",
-    "publishTime": 1770603802,
-    "cover": "http://mmecoa.qpic.cn/mmecoa_jpg/V95GN2mm0Dy9nHdArdPAPdQCLdOOrFQCfQVS9nX0kR6NeohllPanQ1tibbgrlTg5icU0picibPe9YdmelrkoOg5IG7RibiaHjPzjVSTiahfVhKPMJ0/0?wx_fmt=jpeg",
-    "digest": "飞越2025，为万千期待提速，奔赴2026，让科技的温度延伸至更多角落。",
     "author": "",
     "feedId": "MjM5NjQ5MTI5OA=="
   }

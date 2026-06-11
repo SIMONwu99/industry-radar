@@ -1,5 +1,15 @@
 [
   {
+    "id": "2247520272_1",
+    "title": "三篇论文入选 SIGMOD 2026：从真实业务深处长出的字节跳动数据库创新",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247520272&idx=1&sn=f5620d52a047940001c522147da97b24&chksm=e9d35bf2dea4d2e45fbf7abfa4d766fbec1981effbf538b9e49d909c413edea7526a38a977e6#rd",
+    "publishTime": 1781168400,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/FGB4hYw9FedAY0Q4ibWFApUyypOdL1XUXfTVKCdJyDcoOB8XHb7cicW7H1icByk4XGzpaeficmeaGrGXXoibEbcnbJ4Nbtskbq0WzstKXvB1ANQs/0?wx_fmt=jpeg",
+    "digest": "",
+    "author": "",
+    "feedId": "MzI1MzYzMjE0MQ=="
+  },
+  {
     "id": "2247520252_1",
     "title": "你的 Agent 每次都“失忆”？这个工具彻底治好了我的前端开发焦虑",
     "link": "http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247520252&idx=1&sn=965325b6e00360e3d3bd90f561598f17&chksm=e9d3441edea4cd08f9ccfa1b68e0c0113df95319752059e524acd642af6699a43630079f76b9#rd",
@@ -36,16 +46,6 @@
     "publishTime": 1780299941,
     "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/FGB4hYw9FeetK2vMk9erGicGjLyjOWavpdzrUcIU6qBUnjRnAVUjwgJGichibicYsR3wvs8HwQuiczK2ZVq5CXYmplEYd2lN1Mr3IBCNO4v2VibXM/0?wx_fmt=jpeg",
     "digest": "开启人和 Agent 协作新方式",
-    "author": "",
-    "feedId": "MzI1MzYzMjE0MQ=="
-  },
-  {
-    "id": "2247520140_1",
-    "title": "让 Agent 真正“记得住”：飞书妙搭 OpenClaw × 火山 Mem0 的企业级记忆升级",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247520140&idx=1&sn=e04a92eb4b3a892f59490059b1f327a9&chksm=e9d3446edea4cd789813f440a5b82a60dba81c54ad1c921091715ef992dede14ae827f8f1bc7#rd",
-    "publishTime": 1780060533,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/FGB4hYw9FefLcBJocmRIlhl1wuPfTgpW0PKMFf6lOBzheCucsyJVqA8eG6qia0Tabu6rksXarEEMUic4rTYgNodBWZRFRDUlKQGh2Rjw0tEEM/0?wx_fmt=jpeg",
-    "digest": "",
     "author": "",
     "feedId": "MzI1MzYzMjE0MQ=="
   }

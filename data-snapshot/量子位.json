@@ -1,5 +1,45 @@
 [
   {
+    "id": "2247896929_1",
+    "title": "3D创作迎来ChatGPT时刻：Meshy发布全球首个3D AI Agent",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247896929&idx=1&sn=af60a68d34fb2d8d3060aa8148bf83e5&chksm=e8da7813dfadf105d44a10bc0bb20c9d14ed2533b347f38cb9c65d826999597dd84207ced784#rd",
+    "publishTime": 1781150400,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGH29BDEsCqfINDS0OUsiaEGA2BtFwBBoC1QKs1amUD6icxkmkaTNxm2qjcL66zWpHpia5A4Kia4r27rcqV9PZ8mOIK6yX8IHOBkLsY/0?wx_fmt=jpeg",
+    "digest": "让3D模型变为可复用资产",
+    "author": "",
+    "feedId": "MzIzNjc1NzUzMw=="
+  },
+  {
+    "id": "2247896929_2",
+    "title": "Mythos阴影里谷歌悄悄发模型，速度暴涨4倍",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247896929&idx=2&sn=588705bddb905f19a9792a684f13b53a&chksm=e8da7813dfadf105a995bc018b555bcd5fb9ca577f7633ab53480e8e0844be93ab3500d8361d#rd",
+    "publishTime": 1781150400,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGG6cq77ib80CkQqPrWV328K7q09UHGgEA3RVeodY4tSnicicib57YrjNibDUhxFbzjK4rw7iawTz2N7jWKQwFnYyfpPLjhicMoWCfz1x8/0?wx_fmt=jpeg",
+    "digest": "用扩散模型生成文本",
+    "author": "",
+    "feedId": "MzIzNjc1NzUzMw=="
+  },
+  {
+    "id": "2247896929_3",
+    "title": "指令遵循媲美Seedance 2.0！复旦腾讯联合提出Baton，多说话人场景M-WER暴降76%",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247896929&idx=3&sn=3bf0f092b291e86ae6f9621b63f4267c&chksm=e8da7813dfadf105b6a05755fad1f59b2ce24e248c02462d9979ccbb2b375e8a745f5652d832#rd",
+    "publishTime": 1781150400,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGHmgibEfBEn5M4yrRQWibYyRQbVd43cnNibB50em21YbFMkJE0uJVlDFoReD4lRNZxh4b0M2ibdeZjicBicJ1Mkk2fH3zr462EronqGg/0?wx_fmt=jpeg",
+    "digest": "视频和音频终于对齐了",
+    "author": "",
+    "feedId": "MzIzNjc1NzUzMw=="
+  },
+  {
+    "id": "2247896929_4",
+    "title": "量子位编辑作者招聘",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247896929&idx=4&sn=c0755091cca36e3dcdb9352f437f95e6&chksm=e8da7813dfadf105c575ab10867f01ed79d34828b42625bc70a8d29aed5d21d09ad40b1f38f4#rd",
+    "publishTime": 1781150400,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/YicUhk5aAGtBwsQQg50rdDIFHPibz5pbVfnv0oOoRSQ2KmEYBSJRibeXrJnIU1euj0icCf6pXdduQdCbnRJy3b7u7Q/0?wx_fmt=jpeg",
+    "digest": "3个岗位（含实习），不设边界",
+    "author": "",
+    "feedId": "MzIzNjc1NzUzMw=="
+  },
+  {
     "id": "2247896768_1",
     "title": "抖音征召天下「AI视频英才」！创作者们，这次是真能吃上AI红利了…",
     "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247896768&idx=1&sn=1fb68c681dc5e2f5fe3288b6e9ec164a&chksm=e8da79b2dfadf0a43f95b30958b5f85b50c6d6900f85ec64c3da1d9ba3a51af0f47d1c82a9f5#rd",
@@ -26,16 +66,6 @@
     "publishTime": 1781085980,
     "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGGKmYgpNe1zekH4VRkn3U1eupODrMv4vKBUHQpnUQ1icRUzZJG2f3ysjvUeGng47Rn6IN9vJSuIaYARlib67lERfHLL6Giauop4dM/0?wx_fmt=jpeg",
     "digest": "从“看循环”到“看全过程”",
-    "author": "",
-    "feedId": "MzIzNjc1NzUzMw=="
-  },
-  {
-    "id": "2247896768_4",
-    "title": "量子位编辑作者招聘",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247896768&idx=4&sn=58969f4c2f4e9e1018f41a1843653350&chksm=e8da79b2dfadf0a48088e0b3fd36dfca313fdb133e348609b3fe2e86c10aa322206d58ac34ce#rd",
-    "publishTime": 1781085980,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/YicUhk5aAGtBwsQQg50rdDIFHPibz5pbVfnv0oOoRSQ2KmEYBSJRibeXrJnIU1euj0icCf6pXdduQdCbnRJy3b7u7Q/0?wx_fmt=jpeg",
-    "digest": "3个岗位（含实习），不设边界",
     "author": "",
     "feedId": "MzIzNjc1NzUzMw=="
   },
@@ -130,22 +160,22 @@
     "feedId": "MzIzNjc1NzUzMw=="
   },
   {
-    "id": "2247895494_1",
-    "title": "大模型发展三年半，AI圈终于等来了一场“不要大厂，只赌脑洞”的比赛",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247895494&idx=1&sn=9f5af0c9bb7f2c399a9c9a1fd0c9e324&chksm=e8da7eb4dfadf7a2c351770fc832be2a7feb2096edde24f8c752591f7ed4b60be6f287a3b2e8#rd",
-    "publishTime": 1780715700,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGFoyxrjxAbdTlMHaLAficicGsuNMrPvwghed7Lz7jH8myDGNg89Rl7RSicib5k0VrfVOiahTkwAXpFWJr24ArBxrIH5RnjC0QI6X98U/0?wx_fmt=jpeg",
-    "digest": "观众投币定前10！",
+    "id": "2247894090_1",
+    "title": "近2亿美元！VAST完成新一轮融资，正式披露世界模型路线",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247894090&idx=1&sn=9179a21958712e5c31ef6b8e9da5499f&chksm=e8da7338dfadfa2e8a6cd549a703090ca3d24c84d21cc3144fa2d5549570b99e779f24eb4cf4#rd",
+    "publishTime": 1780302344,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGHZzCmIjyNAXT5Voa8pK1NCFRvuQmFtQsK01GrnGjnqmyMaqE9WaD6tVAibZe5r0tDJYEX6aer87GRVOnR290mO8KVjVg6QeWDI/0?wx_fmt=jpeg",
+    "digest": "场景永不消失，多人真正同屏",
     "author": "",
     "feedId": "MzIzNjc1NzUzMw=="
   },
   {
-    "id": "2247895494_2",
-    "title": "港股鞋王千百度，一夜完成AI数据公司转型",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247895494&idx=2&sn=e008b344edd08b0e0ba77e015f491adb&chksm=e8da7eb4dfadf7a278675bc9afc04ea3d078b2cd9e2851b88e6751e67cff53faebeb53b88c75#rd",
-    "publishTime": 1780715700,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGFfp6vlHBxPC3xxb4XsTvhlkOicQZYY4fx9jAgn14yuYoiaHH6sInrYsAbsHC8BdlWEcDSk9c7kyWQX7x5qfMNPTKYRkW02JT8D4/0?wx_fmt=jpeg",
-    "digest": "形成「鞋履+人工智能数据」双主业",
+    "id": "2247894090_2",
+    "title": "云端模型如何落地物理世界？招商局狮子山人工智能实验室用LiOS打通具身智能全链路",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247894090&idx=2&sn=e505746db4e72c7d97d75fa113db3932&chksm=e8da7338dfadfa2eae74dc3875e55fccf98986ee629b47f6bcf40504212a044f3c5c847a892a#rd",
+    "publishTime": 1780302344,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGGlpNW3EMm73LJ2qvJUq1tk2p2unCGlW9GCTwP45sgotPMXoWOIuaChDn9xLat5Ir0r1jtFm0Klq9xZIraib5a12aIskWaqQiaEw/0?wx_fmt=jpeg",
+    "digest": "从仿真到多形态真机，具身模型如何落地复杂家庭柔性物体操作？",
     "author": "",
     "feedId": "MzIzNjc1NzUzMw=="
   },
@@ -196,36 +226,6 @@
     "publishTime": 1780113600,
     "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGGI6KWYpJUcXmwfKDMZrnoSqZalru6YErAAMl4AWOFYkFbDeZSTEISRF3EtT4ADIWiblsZdiarDhg8A6A6ULA6cevRKh9V2mIaZk/0?wx_fmt=jpeg",
     "digest": "13.5K合成数据让30B超越235B",
-    "author": "",
-    "feedId": "MzIzNjc1NzUzMw=="
-  },
-  {
-    "id": "2247893795_1",
-    "title": "5亿Tokens白送！全球首个商用AI主机发布，终于能放开烧Token了",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247893795&idx=1&sn=e1570e7f2b099258881e57818b7d0d2b&chksm=e8da7451dfadfd4729d8c93bb5a78da4990b8c05e1cbbef362bb6e608494f4e86394f29bac9b#rd",
-    "publishTime": 1780042273,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGF988MqczsOsj4h9T8611BfJnfHA4OTvvFUj6G19ZBFl7qibt3Lt9AGfcrQTnovlIdk7ArhpQOEU9ajibHryrjzzWhH5ibmFdSkHI/0?wx_fmt=jpeg",
-    "digest": "让OPC和成长型企业AI落地一步到位",
-    "author": "",
-    "feedId": "MzIzNjc1NzUzMw=="
-  },
-  {
-    "id": "2247893795_2",
-    "title": "下限零基础，上限肝大作！腾讯这个AI游戏创作平台，太野了",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247893795&idx=2&sn=468e326c3f9baa63b46f9aa75d2bf2b4&chksm=e8da7451dfadfd47772da8a2b3b66b4fc1cc303f2ddd6551d1680458e01b1b85b259d50c9168#rd",
-    "publishTime": 1780042273,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGF5dbqSr7HWa8Aywbpia9DIaA3jXZ46rRmC68D80HWPGzJQ7KNKbwhIOlULxR3AhSEGLqu8fMXX9ibgPPlGHBAfh9VicNKDRljPzE/0?wx_fmt=jpeg",
-    "digest": "下一波AI创作浪潮正在游戏领域发生",
-    "author": "",
-    "feedId": "MzIzNjc1NzUzMw=="
-  },
-  {
-    "id": "2247893592_1",
-    "title": "DeepSeek V4芯模协同背后，国产算力生态开始飞轮加速",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247893592&idx=1&sn=f3de28fc4031f185ad9c2576c20c03c3&chksm=e8da752adfadfc3cc4e7af667db226790a096073db12d2bbb89c48448e76503d1a20cbd70f30#rd",
-    "publishTime": 1779974100,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGEPUbjzS4m5px7uUKm1v6wBjA7IweHsVDmNZf57scILhMPoecTF6LMXMwnPuTFCpouK1icXx3b0p1aNjmXdEbKJ6KaAa4WeuE94/0?wx_fmt=jpeg",
-    "digest": "国产算力是潮流，先用起来",
     "author": "",
     "feedId": "MzIzNjc1NzUzMw=="
   }

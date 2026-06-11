@@ -1,5 +1,45 @@
 [
   {
+    "id": "2651286819_1",
+    "title": "“Token 大爆炸”前夜，数据基础设施正在成为新的变量",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286819&idx=1&sn=19260cb473657ed5f0e0339df7c5ad0f&chksm=bdba95708acd1c669054637e883ad7aa03fcff9e3fd42ff806a4f18e46fdef72d0c7d4c83faf#rd",
+    "publishTime": 1781155800,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNg7UlFb6naJTG05zBmFh8GjMH0LYTWw0sXp9lQCzxMALZ9ymNfxkt9hwlZg3VIjqfia7fDibicEzHcOlrDjhKs8vlhQs0fViaBSufg/0?wx_fmt=jpeg",
+    "digest": "Agent 正在制造一场“Token 大爆炸”。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651286819_2",
+    "title": "复杂业务场景下 RCA Agent 的探索实践",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286819&idx=2&sn=803565661ca00c316b89845bcb430b4f&chksm=bdba95708acd1c66d441d839a9a183ec578a33ff7afce25b1ffdaf600cd0c7a77eccc51dbc9e#rd",
+    "publishTime": 1781155800,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNialaJgnzG4a6uU5FibGAK2jed1uaCPibfDDQsZELdo06tcfv7eAn0iamIvv6QtSAq9DYoHxBcPhQYNfTqI3h3dvXavgnHY68zWEib0/0?wx_fmt=jpeg",
+    "digest": "“拿着旧地图，找不到新大陆。”",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651286819_3",
+    "title": "拖尾请求不是故障：自适应 Hedged Request 如何降低 74% 的 p99 延迟",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286819&idx=3&sn=788184e4b45c11b1b7467a06ecba6770&chksm=bdba95708acd1c6629aef97db7025771e1f7fded181652d66d5b631c774888631c6e3e658b78#rd",
+    "publishTime": 1781155800,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNgaguNdlc0Y1ff8IGPrbjJrsc0g6s3dibgBgXL5Z54HTuXricLjoXbMInBkGgyKCloDTygMmaFia7ClSUpoKGxiaWLibGvQpYYjMUyY/0?wx_fmt=jpeg",
+    "digest": "拖尾请求指的是完成时间异常缓慢但最终成功完成的请求。在扇出（fan-out）架构中，它们才是 p99 延迟的主要来源。重试机制则会向已经备受压力的后端增加额外负载，从而使问题进一步恶化。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651286819_4",
+    "title": "OpenAI 为 Codex 智能体打造安全的 Windows 沙盒",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286819&idx=4&sn=c72b5b9ba1badd2ea8161c0645ced221&chksm=bdba95708acd1c66c4154f2f71984db17280367d7a3138e1ed4442bf6c4b71794304ae4e675d#rd",
+    "publishTime": 1781155800,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNhAYTZYLDqk2wvtsgvvh1wtbLIFEZJDDIU4aeicO4g1lVDJ8UHP2B6l3dltdPRwJAQh6lQpr6H9HyyE7WcIowt1A2cDCrevEHzE/0?wx_fmt=jpeg",
+    "digest": "OpenAI 公布 Codex 编码智能体所用的 Windows 沙盒架构的技术细节。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
     "id": "2651286735_1",
     "title": "Anthropic 祭出双旗舰模型 Fable、Mythos，屠榜所有基测！网友：除了贵没毛病",
     "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286735&idx=1&sn=d1ca4072b48e4e09cb70043250675293&chksm=bdba949c8acd1d8aa0dd790c5a48e64106704e807fb8b7b7b75a3261b521057cef860addf8f0#rd",
@@ -180,42 +220,42 @@
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651286503_1",
-    "title": "“英伟达也缺算力！”顶尖 AI 研究员转投 xAI 内幕：谁 GPU 管够，就去哪里",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286503&idx=1&sn=05966c3549545a6b330e6c0463482767&chksm=bdba93b48acd1aa24695047b4a079da14b5fea45be0ff71df134f979ca5e3a53b62cae29e0f2#rd",
-    "publishTime": 1780712100,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNgAxgoDDTuqKSoY631AMUuH9Sp3dTp9ZmgwPzrJ5COEhGztmxCzNa8FlBdMictsibYJ6ibhZEmkj071zYP4O75iacaoHbXR06rMUak/0?wx_fmt=jpeg",
-    "digest": "在 AI 行业，最硬的招聘福利，得加上“算力”了，而且连英伟达都无法置身事外。",
+    "id": "2651286067_1",
+    "title": "Codex 500万用户福利被怼“作秀”！Claude Code 吃掉近九成 Token，OpenAI 抢用户败在“小气”上？",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286067&idx=1&sn=415624c61dd4f2714a6b1d43d8190553&chksm=bdba92608acd1b7675e740093bd1d23368fde752812cefc7dc1c829054813c603648011c19da#rd",
+    "publishTime": 1780300951,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNia4icz4nMBDHzPlElibnIrpHrr81Gk8kZwyRn9tFwibYecY6nY38tia6hRia1tPjZ01qYQMic47nJMy9byf8zTC6VyIc5LQA52IVhFuw/0?wx_fmt=jpeg",
+    "digest": "“玩归玩、闹归闹，别拿我的token开玩笑～”",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651286503_2",
-    "title": "互联网变天：机器人流量首次反超人类，Agent 时代拉开大幕",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286503&idx=2&sn=10233266ac356f3f687f0c63f36c04a2&chksm=bdba93b48acd1aa27390e179f08161912deced79cf12bf51e95ea7b1a0ba9c03d7406484acae#rd",
-    "publishTime": 1780712100,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjecQgdaygadk23hDAERry1LvFTsaibseA0vVG0ia4hIFDhdua7aqetxCBqedBLoH6um3ZxicQqZAInN34ibZYyHq6TnQcAppiaIoYY/0?wx_fmt=jpeg",
-    "digest": "过去半个多世纪，互联网的技术和商业体系，都是建立在“服务对象是人”这个前提之上的。",
+    "id": "2651286067_2",
+    "title": "打破“人月神话”，Agent 重塑风控场景产运研职能",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286067&idx=2&sn=2546edb27850b2ba70a13c0f9b45ef97&chksm=bdba92608acd1b76df427b797fc2cc3663b6a91bd570fd4e7c852cbaf11b8686ad96a38bd421#rd",
+    "publishTime": 1780300951,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNhc6wjQjHlBGOrxoQ4UkibIwn13XR6aluQU0Lh9k91xPjM9yQyPUE7DjLpTJfc7NiczWqhKf9E69gT6UgIpVcAf99hqCOjSickloA/0?wx_fmt=jpeg",
+    "digest": "传统的产品、运营、研发协作模式正在经历前所未有的效能考验。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651286503_3",
-    "title": "构建云原生 Kafka：从分层存储迈向无盘未来",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286503&idx=3&sn=707849ff5c4ade43f5238dc351c28211&chksm=bdba93b48acd1aa200eded9a1f69afcc73fb8e6ac1db786657e7b60168f5781ff2c6d8710839#rd",
-    "publishTime": 1780712100,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNjPiaTGdtXCrjf8OVD8av51GBK2AmSJM1CmGPOSJPfhGVthQLq7WBVAr6R8ErJOS9gr3BhjhwbkvdpNxKicsGGiciaNhnmjUUCCYD0/0?wx_fmt=jpeg",
-    "digest": "在本文中，我们将结合从分层存储到无盘未来的各个架构演进阶段，探讨现实中的运营挑战，并详细说明架构师和平台团队必须如何调整其部署策略。",
+    "id": "2651286067_3",
+    "title": "Azure Logic Apps 为智能体工作流新增沙箱化代码解释器",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286067&idx=3&sn=d4a72c34ea09ab592439c1e7b63ac565&chksm=bdba92608acd1b76de1197d3c9e805258009e93a79feb1952c3e2ae5b3c82d2bd763b39374a3#rd",
+    "publishTime": 1780300951,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNhMrUMInEc3qV1uetfhJjahXe0RNwZPxnxp0pbCfb7HUZvt0ibS6dSPuWTqZ5ibxj7wlMUtiaNgGDkS08oWctDjZloEstPBYjqpk8/0?wx_fmt=jpeg",
+    "digest": "微软为 Azure Logic Apps 推出代码解释器，AI 智能体可在 Hyper-V 隔离沙箱中生成并运行多种编程语言代码。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651286503_4",
-    "title": "TamboUI 承诺为使用 Java 构建 TUI 提供更强大的功能",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286503&idx=4&sn=f771751e97dd50c1fa696ad484af6dfa&chksm=bdba93b48acd1aa231a3ebe7e0ca9dc9835952fb40d07ba3f60400232093453f2d0f8b29fa49#rd",
-    "publishTime": 1780712100,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNg6zPEkLHr3oWaFyKkgTdjPpl0jaSsddSbGnOqOicfrgAxaK3UCxjgBStBDC25Hhfe6R257yJES9Boue53dHNkr6gYMzYQ78B1o/0?wx_fmt=jpeg",
-    "digest": "针对“让 2026 成为终端侧的 Java 之年”这一号召，首个现代化 TUI Java 库 TamboUI 应运而生。",
+    "id": "2651286067_4",
+    "title": "把 GPT-4o 拉下神坛！星源智联合北大推出 RoboAgent，让 3B VLM 在未知场景跑出 94% 成功率",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286067&idx=4&sn=c8d3e181305fc11d14a1d154a8e106f2&chksm=bdba92608acd1b76115c569c4eaf83f645faede430d8b05fd8ea5cff4ad590e9c53f9f70041d#rd",
+    "publishTime": 1780300951,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNjsG6Vyldb9m3BluQ5IyFibPeLRx2W9ibB1ibTY11tZDNmhibEfdFlQ0aq3UptIDafAJCgzx9K9zj1oUZU9yuaicD5zHxrlbxtpfS1I/0?wx_fmt=jpeg",
+    "digest": "值得一提的是，该核心方案相关论文《RoboAgent: Chaining Basic Capabilities for Embodied Task Planning 》成功入选全球计算机视觉顶会CVPR 2026。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
@@ -256,46 +296,6 @@
     "publishTime": 1780193700,
     "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNia6XGlZIiaq3vmMfObRyuJslOSzibeEqrk8micVIsIwUOz84pbaVyic3qof5jd9hhQcRBjOqGRvkBXhpHyptABYlib4r17HZvFKicGeQ/0?wx_fmt=jpeg",
     "digest": "在上个月举行的 Apache Iceberg Summit 上，谷歌宣布了 BigQuery 针对 Apache Iceberg 的一系列新互操作能力。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651285965_1",
-    "title": "半数华人、3位亿万富翁：这张十年前的量化实习生合照，藏着 AI 时代的新贵版图",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285965&idx=1&sn=ad6a6573fd31635e961e4053015737b1&chksm=bdba919e8acd18886c274fa288b737277dd55cf5ffdd33fcd02851d9dc129d40ee64f8ecafde#rd",
-    "publishTime": 1780106400,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/lYDricib2fsm6kl8VjUd3YF7dibucVZjiaFZgY6TzTtGqdp9GNXbwwbQbq0atWoOaRrTOt0dbSKcqvsvxAB2mbUox4MyNEkUa239yZUwme6EBl0/0?wx_fmt=jpeg",
-    "digest": "AI圈里最炙手可热的新贵们，可能一大半都出自量化交易。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651285965_2",
-    "title": "对话罗剑岚：把机器人“部署”本身变成训练的一部分",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285965&idx=2&sn=b29da24f7803ae93ce8cdf9a3f90d40e&chksm=bdba919e8acd18881c5bfb657bb58209c0c8eeb0d292a5cd22c2d414be73a12d4aa4d57983f7#rd",
-    "publishTime": 1780106400,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/lYDricib2fsm42EpQcW2gjNg6kN3zkMh69BVV6uY6XTw2cmeuiaicueagYY2PHUVliagAAnk4ibDhYjQkN5MURZicX4PyjEeEiafLc7mYVeVsBpQNfw/0?wx_fmt=jpeg",
-    "digest": "具身智能过去两年始终无法回避的核心矛盾：模型越来越强，但机器人仍然很“笨拙”。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651285965_3",
-    "title": "Google 想为 AI Agent 打造下一个 Kubernetes",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285965&idx=3&sn=4983abf3b26a06107a296e637db04fbb&chksm=bdba919e8acd18881bdf5c40a5d02ce9cd92d7f5a0d4af0d31165fc959d960944830a43afa77#rd",
-    "publishTime": 1780106400,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNiahhicSTcRBdjuo1y8W31jjuyShLx2c9a37wTOaFNU8GrBC1xMNb718E9b6oRRriagW5VSJibX59kolMIQia9MEtVeCJXwYxZ5a7J8/0?wx_fmt=jpeg",
-    "digest": "Google 开源两大项目，瞄准 AI Agent 的规模化运行难题。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651285965_4",
-    "title": "Java 近期资讯：OpenJDK JEP、Azul Payara、WildFly、LangChain4j、OpenXava 和 Google ADK",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285965&idx=4&sn=6b0135d696d12db04ff0938a1e74f226&chksm=bdba919e8acd188801280ecd45a385f63eeb8ba4caaf2cd08dccf3ecabc972a5da03dc51566b#rd",
-    "publishTime": 1780106400,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNia2LpDkBRsSro2Q5slVZ9UkicfQ8Af9KxngXYJmzyM7I3oRMXvd3MAqstU7OyWd7HVFwTXIYTMRclMIvYNMqtQ0Eia0tAjDD3Xib8/0?wx_fmt=jpeg",
-    "digest": "Java近期资讯综述。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   }
