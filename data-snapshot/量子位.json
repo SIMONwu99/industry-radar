@@ -1,5 +1,45 @@
 [
   {
+    "id": "2247897256_1",
+    "title": "「AI春晚」又来了！智源研究院推出的世界模型，成今年最硬一盘菜",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247897256&idx=1&sn=20f9d25a3953f445564cae061af4cd93&chksm=e8da67dadfadeecc8925f9bcab4c53d548b3cd1f885d651557c406ab16557d5f2ed9c4941e07#rd",
+    "publishTime": 1781278534,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGEhVFZbg2YomGsbiaojSRCSpKwLqjwOcSp9CyOXppPx0eeUsXAYaIawuE4L5q5ficEcJWIjx4heKUR4pTKuhwj9a4a3UXqFib6XIk/0?wx_fmt=jpeg",
+    "digest": "AI话题风向标",
+    "author": "",
+    "feedId": "MzIzNjc1NzUzMw=="
+  },
+  {
+    "id": "2247897256_2",
+    "title": "清华开源视频生成加速框架：无需重训练，视频生成提速1.8倍，质量几乎无损",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247897256&idx=2&sn=488b6ab262fd16fe718fe689bd607713&chksm=e8da67dadfadeecce7154d14aca1c320eea84ffd758c551320ca81b56c16c30c001d2375dcb8#rd",
+    "publishTime": 1781278534,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGGXAfko0VFWzcNfI62ce3Da053zDibfTj7ibKPibibp1U9RJ7ibS7XbpUoRJd7icXw0Gee0t0RWRIpZeQbL8QicmXe2UCnHHiad5UAPUbs/0?wx_fmt=jpeg",
+    "digest": "让不同帧各走各的路",
+    "author": "",
+    "feedId": "MzIzNjc1NzUzMw=="
+  },
+  {
+    "id": "2247897256_3",
+    "title": "不改工作流，多智能体系统也能继续涨性能｜ICML 2026 Spotlight",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247897256&idx=3&sn=cccf741b9bfbeaff954a34fd4a14f006&chksm=e8da67dadfadeecc5e0fbbb58e6fec897f4e9a6a65193ccf026a6569c76c8609a9ffc10d9315#rd",
+    "publishTime": 1781278534,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGEO5PZgblZDhQ3rgesmtTOBKaTX6ZZyzUNbcE050zLmnCoVzXxM1NfHA4AjdUhWZiciarxzgfOnCn35Sic9kAWre6qYCFhwxVyBCw/0?wx_fmt=jpeg",
+    "digest": "不动拓扑也能优化多智能体",
+    "author": "",
+    "feedId": "MzIzNjc1NzUzMw=="
+  },
+  {
+    "id": "2247897256_4",
+    "title": "量子位编辑作者招聘",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247897256&idx=4&sn=6e9e0e2d8de7c7d1ac761e56f51453ab&chksm=e8da67dadfadeecc2fc98dcd6021ed3bdbc3e75d8eb706acbf5705ffbd10cddc0fcd0eca39e5#rd",
+    "publishTime": 1781278534,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/YicUhk5aAGtBwsQQg50rdDIFHPibz5pbVfnv0oOoRSQ2KmEYBSJRibeXrJnIU1euj0icCf6pXdduQdCbnRJy3b7u7Q/0?wx_fmt=jpeg",
+    "digest": "3个岗位（含实习），不设边界",
+    "author": "",
+    "feedId": "MzIzNjc1NzUzMw=="
+  },
+  {
     "id": "2247896929_1",
     "title": "3D创作迎来ChatGPT时刻：Meshy发布全球首个3D AI Agent",
     "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247896929&idx=1&sn=af60a68d34fb2d8d3060aa8148bf83e5&chksm=e8da7813dfadf105d44a10bc0bb20c9d14ed2533b347f38cb9c65d826999597dd84207ced784#rd",
@@ -26,16 +66,6 @@
     "publishTime": 1781150400,
     "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGHmgibEfBEn5M4yrRQWibYyRQbVd43cnNibB50em21YbFMkJE0uJVlDFoReD4lRNZxh4b0M2ibdeZjicBicJ1Mkk2fH3zr462EronqGg/0?wx_fmt=jpeg",
     "digest": "视频和音频终于对齐了",
-    "author": "",
-    "feedId": "MzIzNjc1NzUzMw=="
-  },
-  {
-    "id": "2247896929_4",
-    "title": "量子位编辑作者招聘",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247896929&idx=4&sn=c0755091cca36e3dcdb9352f437f95e6&chksm=e8da7813dfadf105c575ab10867f01ed79d34828b42625bc70a8d29aed5d21d09ad40b1f38f4#rd",
-    "publishTime": 1781150400,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/YicUhk5aAGtBwsQQg50rdDIFHPibz5pbVfnv0oOoRSQ2KmEYBSJRibeXrJnIU1euj0icCf6pXdduQdCbnRJy3b7u7Q/0?wx_fmt=jpeg",
-    "digest": "3个岗位（含实习），不设边界",
     "author": "",
     "feedId": "MzIzNjc1NzUzMw=="
   },
@@ -130,32 +160,22 @@
     "feedId": "MzIzNjc1NzUzMw=="
   },
   {
-    "id": "2247895580_1",
-    "title": "5分钟AI长视频不翻车！国产开源框架杀到全球第一梯队",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247895580&idx=1&sn=5b2a135ab096cac4c5092ce4e0e334fd&chksm=e8da7d6edfadf4784d914283c27665ac8650e69271a7fa1332b52ff5db957212f4c98f9c9f13#rd",
-    "publishTime": 1780794000,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGEplYYpyOLB04LFjx5TkqhTdcKza7iaG16bsPxrB2uBnxZMl6XEjYktXmia0WCuialOFaqZgudXGIkqzZbmia2icxLvhDMKdWrbfkNs/0?wx_fmt=jpeg",
-    "digest": "高一致性、低延迟、实时超分全梭哈！",
+    "id": "2247894165_1",
+    "title": "头部厂商集体买单，全球AI原生达人营销头号平台正在诞生！",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247894165&idx=1&sn=8b6bd8dfeb2dd86592bb39326f8040e8&chksm=e8da73e7dfadfaf11f9e73565412845e4bc4520a4302fc112ef0f8fb73c08efc2cab1d6c84e8#rd",
+    "publishTime": 1780373100,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGGEDM3YgpibsMCepoGRel4kXxx0n1FFOlFyv9gjkibab3jiaFoN5VaBELunt3Bia6wxhickV7YWzhicXlFtkK4JQ7C5FhprpxhRF15k0/0?wx_fmt=jpeg",
+    "digest": "平台入驻全球达人已超10万",
     "author": "",
     "feedId": "MzIzNjc1NzUzMw=="
   },
   {
-    "id": "2247895580_2",
-    "title": "教你用AI一节课收17万，华尔街精英排着队付费",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247895580&idx=2&sn=cfb18e20ff2f3edd0803ba01425b6780&chksm=e8da7d6edfadf478977673dc251ec7cffb05379de0b7aa4d0292b7d36b78f99fb20f348bca1a#rd",
-    "publishTime": 1780794000,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGHjH73CqC6Lx4ib9QCmCfJHOqkXyeeTPUMKU2LSGfvz98JWN1ZdZtHz1gB0WdV3zaQuRu7TPRLYEWg1lGvUjjwzKBt4y7U6gVG8/0?wx_fmt=jpeg",
-    "digest": "花旗美银都是客户",
-    "author": "",
-    "feedId": "MzIzNjc1NzUzMw=="
-  },
-  {
-    "id": "2247895580_3",
-    "title": "快手可灵提出VLM-as-Teacher：用测试时在线优化，让视频生成模型学会按规则推理",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247895580&idx=3&sn=58f3cf8717e28f3ebeb75276734df8ca&chksm=e8da7d6edfadf478a16851b2e5c8156166713d35b409ea5f01fc53da02dcff9ffda771ed8010#rd",
-    "publishTime": 1780794000,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGEwz8Xt98TiclSlRg0jPCsxhSqte0vibluqD2E7p3UicRwdfQNo4Aa2D8WtpW2KvVVzpd9jnojGAKE0MBOVZvtm7pLb5ia05vbD838/0?wx_fmt=jpeg",
-    "digest": "推理能力平均提升16.7",
+    "id": "2247894165_2",
+    "title": "老黄带着英伟达CPU杀入PC赛道",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247894165&idx=2&sn=0125e0e1973268ab6434b7a2664bcc8c&chksm=e8da73e7dfadfaf14b0746eeba5bd7d44d7fed70955f60a323299fecaa28c06978985f74ff4c#rd",
+    "publishTime": 1780373100,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGF06OHPZvc5OOpGzFWCRw2iaqgzIMedicqtPmr0QUZLVkeicaFlXWz6guOKPbNGG7wRVIIXL98x2aqlrGPPrWIVricENVO5qDnKORY/0?wx_fmt=jpeg",
+    "digest": "把百万上下文、120B参数的大模型，完整塞进一台笔记本电脑里。",
     "author": "",
     "feedId": "MzIzNjc1NzUzMw=="
   },
@@ -206,26 +226,6 @@
     "publishTime": 1780203600,
     "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGHEicZUibNIPFfWE8eDCY7dmAuTiaHYnicX20wLyWqqAvShWEDGr7HjQSzYPdoiakibXTRgicBJM2umliaM9cuYD9EuWLJ5ic2uEAMWPmSI/0?wx_fmt=jpeg",
     "digest": "准确率逼近Claude 4.5",
-    "author": "",
-    "feedId": "MzIzNjc1NzUzMw=="
-  },
-  {
-    "id": "2247893825_1",
-    "title": "帮Gemini拿下IMO金牌的关键先生，差点成了职业钢琴家",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247893825&idx=1&sn=8400f94e7918332be98a3ae5489a70b2&chksm=e8da7433dfadfd25d19382d13221d61c2ea94a3ffef8bf88ae7de8c6ad8ceffcd5261fb5b90a#rd",
-    "publishTime": 1780113600,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGHgnIYwHfiaXWkLcL6LTWB8gyFGNvxoJuLJibK5mLtxLhhbMtTOxJ1WTA1VFAicLmicuGibyqtdnEqUZR8ickEWtPWEU3ZPbXIbxMX7I/0?wx_fmt=jpeg",
-    "digest": "（可能是）大模型圈最会弹钢琴的人",
-    "author": "",
-    "feedId": "MzIzNjc1NzUzMw=="
-  },
-  {
-    "id": "2247893825_2",
-    "title": "打破Agent训练瓶颈！人大&至知研究院开源Claw Agent数据+训练+评测全链条",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247893825&idx=2&sn=2f1e5fdae519fe910eda7f64a58247ca&chksm=e8da7433dfadfd252c7bb3a02e99abfad94ec4de84c3db23b6ccd92ee9f0e0a2b0909ce40a0a#rd",
-    "publishTime": 1780113600,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGGI6KWYpJUcXmwfKDMZrnoSqZalru6YErAAMl4AWOFYkFbDeZSTEISRF3EtT4ADIWiblsZdiarDhg8A6A6ULA6cevRKh9V2mIaZk/0?wx_fmt=jpeg",
-    "digest": "13.5K合成数据让30B超越235B",
     "author": "",
     "feedId": "MzIzNjc1NzUzMw=="
   }
