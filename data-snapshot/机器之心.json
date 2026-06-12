@@ -1,5 +1,35 @@
 [
   {
+    "id": "2651038804_1",
+    "title": "入围CVPR 2026最佳论文决选，ViT³用「测试时训练」突破Transformer复杂度瓶颈",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651038804&idx=1&sn=d2bab50f9d5db279727d50646d23ff9b&chksm=84e6602ab391e93c1de51a4f80d09556a0703157573344be7fdaece903dd132921854d033600#rd",
+    "publishTime": 1781254260,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqEibRPDv7gnnMA9LARG8j8rVcd78z7BTCJUM6loE6ZHENIkGO4qichWDKrsoWDbNJm7LdryJmK0KrcWVwZtx6nzQuPj6F2nZArib8/0?wx_fmt=jpeg",
+    "digest": "一张高清图6084个token，ViT³跑快4.6倍、显存不到十分之一。",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
+    "id": "2651038804_2",
+    "title": "5秒攻破，仅需1次对话：Fable 5最强安全机制被华人团队破解",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651038804&idx=2&sn=e7cfc446d6b3d44fd7a3384da026471e&chksm=84e6602ab391e93cfbc4d7824a4079f199efbcd819e8a7dba83be60052803f079399369a0136#rd",
+    "publishTime": 1781254260,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqHWTPs14XHWRGgrfFicSH9RTUwfJCiaX8iaFL8Cta8TZXWicClKYJpLNqvtOkbHUtiaoCTrm1hoHsAQ34EIyT2CfSV9A9WDrBibuv1K0/0?wx_fmt=jpeg",
+    "digest": "不到 5 秒就能破解。",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
+    "id": "2651038804_3",
+    "title": "RSS 2026 | 别再让机器人看错重点，GuidedVLA给动作解码器装上可控可解释的注意力专家",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651038804&idx=3&sn=83dbed4ed25f6197c61d69a07f72ad88&chksm=84e6602ab391e93c7a8d1cbbb56d9c9b2fb935dab8fa5b372ca7a7ca981fd4c94ed8d2740e75#rd",
+    "publishTime": 1781254260,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqEjpkRstcyNVpIYL68UYSVU4JYbkk6XskUKF7niaaiaU5AqxYrqW74U1ORAUAJlIlX0dKHu3EG7JtO14GicJFfTM9KIZ9ibV3FFIeI/0?wx_fmt=jpeg",
+    "digest": "让VLA不只是变大，也要变得更可控、更可解释。",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
     "id": "2651038459_1",
     "title": "斩获15个顶级零日漏洞：0G Lab联合新国立，北大和北邮团队构建的共识协议debug智能体框架",
     "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651038459&idx=1&sn=5135bb68ee4470d665e36e42e01dd80c&chksm=84e66685b391ef93957db1ebee840fefe115b710d285769ee8252d4960f70deeeea8b1f72d4e#rd",
@@ -120,32 +150,32 @@
     "feedId": "MzA3MzI4MjgzMw=="
   },
   {
-    "id": "2651037576_1",
-    "title": "连续入选ICRA最佳论文，RoboScience机器科学如何突破具身智能泛化瓶颈？",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651037576&idx=1&sn=40ad053f2557643fc9abd2b5fa1ef594&chksm=84e65bf6b391d2e013f4dd0c9f30a0e241004819331461e41336828f9d2d8cb1b6eb36c77893#rd",
-    "publishTime": 1780803000,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqHczv4VQBZ0zuPzgjCIAx7PtPb2BH8yfvldvBYpdlo7MDWIFZ9rNbt43Kwf4zktoF5F1tcG3KyE2zHb6VDMv6sGtWCZROlBI50/0?wx_fmt=jpeg",
-    "digest": "打通具身智能从「学术顶尖」走向「规模化落地」的关键链路。",
+    "id": "2651036359_1",
+    "title": "AGI将至！40项实验全面SOTA，超级递归智能体自主打造最强材料基座模型",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651036359&idx=1&sn=c35956da899798d3888ce7a451854352&chksm=84e65eb9b391d7afee9e2044e8a9be22a6f6e5a34802e367dc40e14f5352c09c4815025f14a6#rd",
+    "publishTime": 1780378200,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqF1ibWYpey8V3XfePmBibTBuXdibU2LuZzapzrgZev0YKtAzXvicxh4XFH4UdL35a2caZUlOqHT0qUKPeB6Cib6RmiahWBu8a66fROjM/0?wx_fmt=jpeg",
+    "digest": "一个材料基座模型的「自我超越」",
     "author": "",
     "feedId": "MzA3MzI4MjgzMw=="
   },
   {
-    "id": "2651037576_2",
-    "title": "AI真能学会心算？隐式思维链首次得到理论证明，Stuart Russell参与",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651037576&idx=2&sn=8fe5a722058d772b225ca70a6170e5a8&chksm=84e65bf6b391d2e01d69c17e313b400e349ae2d9e355e332b5356c6702063145f5225b91df01#rd",
-    "publishTime": 1780803000,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqFicTu5e3X5zf616naQSq3LDGMGxQLuVxjYgDwqibWMw1txBgpIh4l4EeuNTGrj4UBjpenIdlbtJPcDAZBSZ7HOKgXTeJaXtYdKI/0?wx_fmt=jpeg",
-    "digest": "UC Berkeley用数学证明了隐式思维链的可行性",
+    "id": "2651036359_2",
+    "title": "图灵奖得主Sutton新作：AI的下一步，是走向「生成认知」",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651036359&idx=2&sn=216de3faa9f2b86de3bf762aad6709ba&chksm=84e65eb9b391d7af5c6597e09e12e31902c717fbc19b02aea94ac08c9ecce2cae7b88ae9c678#rd",
+    "publishTime": 1780378200,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqEUHkjViciaJRtCovmDic5Wmu1XyiaibenLIU7u9UFS1eQq1OJrOeagwFzQUjM78pLYKoBpNia6PauzPjexbTPtyXYfDxq2XHexCwP9Q/0?wx_fmt=jpeg",
+    "digest": "世界本身就是它最好的模型",
     "author": "",
     "feedId": "MzA3MzI4MjgzMw=="
   },
   {
-    "id": "2651037576_3",
-    "title": "ICML 2026｜FusionRoute：从专家路由到自我修正，一种新的多LLM协作范式",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651037576&idx=3&sn=d9f62fcd25f17dc41ab5b387f1862731&chksm=84e65bf6b391d2e02512f3b6d1b5522526ef9fa016d2146930657d8f2990be2d740e306c62e7#rd",
-    "publishTime": 1780803000,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqFjxR7wBM4avGZFElVBBbsgNNxRlHagYF99uDofAialJZH06dzEz24CkThSkZvnRyZcjFUb9s34PgDrUXD57BicELNyYK8oHFJNE/0?wx_fmt=jpeg",
-    "digest": "多个专门化小模型的协作正在成为通用大模型之外一条具有现实价值的技术路径。",
+    "id": "2651036359_3",
+    "title": "DataMaster：当AI开始成为自己的数据工程师",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651036359&idx=3&sn=4a37dcabcf03195ad573d1aa43e29555&chksm=84e65eb9b391d7afda5fdb1482b5fda5f6a1fdd5f8f9e55ef0e31889a48b9659ce02b69ef38b#rd",
+    "publishTime": 1780378200,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqH7dxQXRBIKDARgohG4RLZw8sjeDE4SL9H4wIvxoeHq8ibEzaN0NDgMLKC1n0UCxVE1fpTRBqhVT4jqWIL5xImjljCvXx6aoSyc/0?wx_fmt=jpeg",
+    "digest": "DataMaster只让智能体自动搜索、清洗、组合和复用数据，就能在多个基准上继续提升下游性能",
     "author": "",
     "feedId": "MzA3MzI4MjgzMw=="
   },
@@ -266,36 +296,6 @@
     "publishTime": 1780027409,
     "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqHbnPYdLic63hEniaUKhHmWHexQqh3xw2R8vysraGEloUnibk93eHoicyUTz9fsiar9GLBRvJAVpudE4cUBaEL7L781JbqBuY1Kb6Uo/0?wx_fmt=jpeg",
     "digest": "内存有救了",
-    "author": "",
-    "feedId": "MzA3MzI4MjgzMw=="
-  },
-  {
-    "id": "2651035468_1",
-    "title": "刚刚，国产预训练具身大模型开源了，让后训练不再是必选项！",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651035468&idx=1&sn=36799d5092c0657548b5c4c1be82a6fc&chksm=84e65332b391da2480b031e5ed7a0a7fda1ebd5dc716ffcb08b4d3bac1f1673536e685b11917#rd",
-    "publishTime": 1779942600,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqH5ckMdib1JIf1cY0DJMGnCGgT7NhjQ71rJQy2T74JwjGCVHeEpJXGJWsuibQH9HhcugibXlnSwZayQ1VS0tRq8Me9CWrC1yr76aU/0?wx_fmt=jpeg",
-    "digest": "预训练模型到底能不能直接使用？能！",
-    "author": "",
-    "feedId": "MzA3MzI4MjgzMw=="
-  },
-  {
-    "id": "2651035468_2",
-    "title": "多变量神经缩放定律迈向大一统：Mila联手DeepMind提出UNSL",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651035468&idx=2&sn=04c057ee3ddfb6194df95cb4f6c03ef2&chksm=84e65332b391da249e8a9a35e1dc603e56c894441545b7c33cb6ad2cc3dba26d906107016309#rd",
-    "publishTime": 1779942600,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqFWBibQa8mTncFBETfsF5ib1nnibcqTRweHjFNoeP5F28BPME8v2kAXYSUicF3k9fMAjA5jyxKOPJhQ9EgTBuQOjgRNxsOIMP9OVLw/0?wx_fmt=jpeg",
-    "digest": "大模型规模化的「万能公式」？",
-    "author": "",
-    "feedId": "MzA3MzI4MjgzMw=="
-  },
-  {
-    "id": "2651035468_3",
-    "title": "ICML2026 | AutoMoT : B2D & nuScense双SOTA ，重新思考VLM和端到端驾驶的结合",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651035468&idx=3&sn=c2d8f60bfc41fea7fcdfcd7d25b83291&chksm=84e65332b391da249beb98da7ad1fe1654ac75b5b4d9e7da3fbaa8086dd692e95c6bbd2c6aa1#rd",
-    "publishTime": 1779942600,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqGGMQh3D34iaWm8jeQFrhgZkhLdvbqjqfhjkq4cUrkVy1icicH5wicmlUu49WvuicLu1EKNMzNo9eT2ichItaOM9aELQNrQ86XVib0fN8/0?wx_fmt=jpeg",
-    "digest": "大模型的理解能力，如何真正服务于驾驶决策和轨迹规划？",
     "author": "",
     "feedId": "MzA3MzI4MjgzMw=="
   }

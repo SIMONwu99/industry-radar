@@ -1,5 +1,15 @@
 [
   {
+    "id": "2247509780_1",
+    "title": "Qoder 工程实践：当瓶颈从模型转移到人",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247509780&idx=1&sn=510914e2f03e6b3d26d57ff593310e79&chksm=cfa6b7f7f8d13ee11b5c4923ed3c9168370f4fb7d361b6bcd72302316c6dc609948fecf00b08#rd",
+    "publishTime": 1781258093,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/kN3t5R6pdz6y873eohmU7vF5hHWsCbFDuibFUOu3gEWGHZyia1Tiaic28cibDsUicKTpuhpag0oOknHJuiaFibhZItI5pmH3ZR7j9ga817vgVI5KwRk/0?wx_fmt=jpeg",
+    "digest": "当 Al 输出的价值稳定超过 Token 成本之后，瓶颈从模型能力转移到了人的精力。",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
     "id": "2247509774_1",
     "title": "AI 不缺智商缺纪律：一场 Harness 工程化实践",
     "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247509774&idx=1&sn=02c8d0506c7d6ebc8fd58669160f1db3&chksm=cfa6b7edf8d13efb3317ba22ffb089aee8377ae0fa7187163944df9c8536a52d2a219145fda1#rd",
@@ -36,16 +46,6 @@
     "publishTime": 1780309080,
     "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/kN3t5R6pdz5XPa1tS3iaR2aBWSmR8niaBmKCuzrtcXmNPtLNkIAGc7KN1qDLtkWPchUuAo8NFO06AGiaIb8xIiaFYdwajStoLRDVQiaaG0SztcVg/0?wx_fmt=jpeg",
     "digest": "理解技术演进背后的逻辑。",
-    "author": "",
-    "feedId": "Mzg4NTczNzg2OA=="
-  },
-  {
-    "id": "2247509622_1",
-    "title": "让项目管理也 AI Native —— 两个 Git 仓库干掉了周报、洞察和效能报表",
-    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247509622&idx=1&sn=1fcb4838aac320dd7365ba534e8bc696&chksm=cfa6b695f8d13f8325e62c50d0cd57457669cf69d4058c5be297595e8c6fc4177a0544756d5f#rd",
-    "publishTime": 1779966342,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/kN3t5R6pdz5PoRtV8qiaia999LV5kVNyfHmJXtpJXQXmNeF07WBFiaFBfAA17Lia250Qsh89RBzLG48e6rhaibYjI7CCm6NKeJXMWxk2Nwb7bVj4/0?wx_fmt=jpeg",
-    "digest": "",
     "author": "",
     "feedId": "Mzg4NTczNzg2OA=="
   }

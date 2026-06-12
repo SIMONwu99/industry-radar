@@ -1,5 +1,45 @@
 [
   {
+    "id": "2651286878_1",
+    "title": "Snowflake 迈向 Agentic Enterprise 的关键一跃",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286878&idx=1&sn=6c3c80b949ef61c1a39c3db8238b2a37&chksm=bdba950d8acd1c1bd5563b90d8d5134262040328611b516f3a6e221bc20bd8fa8d537523aa1e#rd",
+    "publishTime": 1781239086,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNj943V3cCcFibTcfJl3Qgyp8gRq4kjbhXQfspA78z8no9kcR2f2ibRLLS4m6Nporg6icXcOfkg4dRXeCumavI5xicSEyaGfZ0brRN4/0?wx_fmt=jpeg",
+    "digest": "最好的 Agent 平台，必须建立在最好的数据平台之上。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651286878_2",
+    "title": "技术采用曲线：回望二十年",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286878&idx=2&sn=3d34299849597658445c33a68ddb933b&chksm=bdba950d8acd1c1bc46bcdc0ec83d5e2f61ba06a1efe9d5eeaa983fd963e6ddfad0c2ccef7ea#rd",
+    "publishTime": 1781239086,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNj3XtYyVavw8HrF7EnkvS13BA4mxhOyb8PV8YdO1IibDF3PwVzsarMqxIjXCKZVFcic62xkYx4YENPjg747K7SlNicFaS5hPsYTic8/0?wx_fmt=jpeg",
+    "digest": "6月8日InfoQ迎来二十周年，本文精选梳理其早期关注的技术与实践，分析它们当下所处的应用阶段，并预测未来五至十年的发展走向。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651286878_3",
+    "title": "微软 Foundry 新增生产级智能体运行时、工具链与管控能力",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286878&idx=3&sn=3be100defb8b7132db4d80dcd80f918c&chksm=bdba950d8acd1c1b9a5bcbeda4b2d9ef8273079121e238033ab88e7e47f2bdbed1363fde44b1#rd",
+    "publishTime": 1781239086,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjzXMIrLpcr3lNB2WC3a0JOD86bWZedHeMqlvyWtdGS7IjSnNXO5aUpicfeGz3fg3lWDeOS0aM7aC4tyNn3jX1EVEqlk4BOjhl0/0?wx_fmt=jpeg",
+    "digest": "微软在Build 2026大会推出Microsoft Foundry新功能，该平台可助力AI智能体落地生产环境，本次更新补齐了搭建生产级智能体所需的全套能力，并非仅新增模型接口。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651286878_4",
+    "title": "Cloudflare 发现 ClickHouse 查询规划阶段存在性能瓶颈",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286878&idx=4&sn=9cdf276e8ea26c3533e5fb602ab76a87&chksm=bdba950d8acd1c1baa5ff8f2066b6b4182fdd3e63a9608a17c304d5c486e7bdc1ce4df9c886c#rd",
+    "publishTime": 1781239086,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNhgknC2oNrQAuNG3HVHiaIP1icHM5ugtyS5v393AibKoecM6FyezK52TibWSVnbZtdwnQUkG5t7syRoLiaGLdLv8aV5Q0A5ca8bAvPk/0?wx_fmt=jpeg",
+    "digest": "Cloudflare 计费管道卡顿源于ClickHouse查询规划阶段的锁竞争，团队通过修改锁类型、取消分片列表复制、优化分片过滤等补丁修复问题。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
     "id": "2651286819_1",
     "title": "“Token 大爆炸”前夜，数据基础设施正在成为新的变量",
     "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286819&idx=1&sn=19260cb473657ed5f0e0339df7c5ad0f&chksm=bdba95708acd1c669054637e883ad7aa03fcff9e3fd42ff806a4f18e46fdef72d0c7d4c83faf#rd",
@@ -180,42 +220,42 @@
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651286556_1",
-    "title": "Coding Agent 技术全景图：Context Engineering、Subagents 与 Harness，一年范式转移全解析",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286556&idx=1&sn=e20fc46413fcb8fae553d416e38598d6&chksm=bdba944f8acd1d59b5efd6431c1a72b2e793ccf2188342d898d36aced3a1c6a20f9165c02656#rd",
-    "publishTime": 1780798500,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNiaq0LIm414ENsK1vcKcNibIwv9WHRTurSNBXP21h1EF0EDUAlnmrFnOhcq3nv4nqVE3FNsqT4U9MeR51vWDQ6jG4ZBDfichhvv5o/0?wx_fmt=jpeg",
-    "digest": "也许未来我们不再靠传统服务模板起步，而是靠“Harness模板”，实例化后直接支撑整个代码库的演进。",
+    "id": "2651286142_1",
+    "title": "Agentic 时代的技术地图：AICon 2026 上海站全日程正式发布",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286142&idx=1&sn=355df12c793a227c4391d2ced93aada3&chksm=bdba922d8acd1b3bc40d0021c13b4572ffd1c43735cb6427f1c203670b779a4f92b2cd670512#rd",
+    "publishTime": 1780379050,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNhOMo0drGhiamUcRq9acCbRAXB8JuOfaZGmP5NN3b2Kqj8jDYiarb54mFZ5Uia5eQX2322YYze7FCk1WNicX5O7byTlaAecTPfQyzg/0?wx_fmt=jpeg",
+    "digest": "当 AI 不再只是工具，组织本身开始被重塑。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651286556_2",
-    "title": "砍掉90%冗余词元，省下70万美元：Netflix开源工具狙击AI账单黑洞",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286556&idx=2&sn=5f2c0c609af8ed994a20ecc86aae53bd&chksm=bdba944f8acd1d59260ac3500252990d62250a568bddf64b2fd77acb8fe9c89439cf6ecb82d8#rd",
-    "publishTime": 1780798500,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNj6q5eULOhCfP9buR95gD0LicPOVHMkUwicmBmMCia57rdTTlqQkiawrFk4tJ5SEQNZNep36Oh1tZCSeZrHcuX4ZkRdWH5HBkDhMKc/0?wx_fmt=jpeg",
-    "digest": "正如 Uber 和微软 COO 最近所领教的那样，鼓励公司工程师积极使用 AI 可能会带来巨额账单，甚至可能抵消裁员带来的所有收益。",
+    "id": "2651286142_2",
+    "title": "黄仁勋宣布 Rubin 全面投产，4万名工程师参与构建！史上最强CPU同步亮相",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286142&idx=2&sn=8d8473097b958df32ae3acdf79db649a&chksm=bdba922d8acd1b3b1f641eae2575ffc047e1c5874a4d126cabec54c0b11d70fc96e4ba895e6e#rd",
+    "publishTime": 1780379050,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNhibeft6LTgj7f4Iu9gl48LOqaDfHDiaV1O0ibccH2HMBX8CIz7xOnVJwyyuuJXH54hxOpUicbnnaM3H02olLNjZg1T8q5tMIjtcp8/0?wx_fmt=jpeg",
+    "digest": "老黄的口头禅已经从“买得越多，省得越多了”变为了“买得越多，赚的越多”。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651286556_3",
-    "title": "Meta 重构 PB 级高可靠数据摄取架构",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286556&idx=3&sn=7efa5949660d3ca90ea72ab23df8e804&chksm=bdba944f8acd1d59d6f873f89593b50eae5960486fc540264b70d8008248194b601a636a79aa#rd",
-    "publishTime": 1780798500,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjDU7uAgHFlHKib4t8w5UNC4xsBVTXMh7Tel20n4FXGAuajxf8CAYW8uxAcBURToGAqH1at8SlqGHDibpRJtibjCrbJfSzlicQc7n8/0?wx_fmt=jpeg",
-    "digest": "Meta工程团队完成日均数PB MySQL社交图谱数据的摄取平台迁移，借助反向影子部署、校验和持续监控等手段，实现零停机迁移，并提升了系统可靠性与运行效率。",
+    "id": "2651286142_3",
+    "title": "Anthropic 在 Code With Claude 上发布托管式智能体、主动式工作流与能力曲线",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286142&idx=3&sn=cfdda501d9ce9bd63573aafb47b3e967&chksm=bdba922d8acd1b3bc980fba654ab59a13287c58f7d5050c2b5f319e3eb4cc13553e86a1c5a37#rd",
+    "publishTime": 1780379050,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNiaqEd8ibzMv6icSqBOGDEQmf2RYasqP7gKrLwJa4YPahfWN4gAjpvyasaNkuznvvcWXJzVHQCT8gF0lVEocYQdYxhbuNPW6Mv29g/0?wx_fmt=jpeg",
+    "digest": "Anthropic于旧金山举办了“Code with Claude 2026”，通过直播分享了围绕Claude Code、Claude API平台及相关项目的最新进展。核心议题包括开发者体验、自主性能力、模型能力跃迁，以及AI对产品架构带来",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651286556_4",
-    "title": "AI 辅助迁移工具：数分钟完成 ingress-nginx 向 Higress 迁移",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286556&idx=4&sn=7cc7d11ab03dc4e1cf8587bb7e4d759d&chksm=bdba944f8acd1d591109b24e3152446c13556cf0ea6da1fb581611f33d69eff888cbafd75697#rd",
-    "publishTime": 1780798500,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNggw9Jz4FCoC2iahPbfgl0CHSENHpFp3ibyCBKRvCuh0XY9pa7ZgQ1gj5JAVQHM2p8pzcYu4dPGaM5NIk2Vt9VNtQGY7CR9wSFWI/0?wx_fmt=jpeg",
-    "digest": "CNCF推出AI辅助迁移方案，可快速完成ingress-nginx到Higress的资源迁移，体现出AI在云原生网关基础设施现代化中应用愈发广泛。",
+    "id": "2651286142_4",
+    "title": "谷歌推出适用于 Genkit 应用程序的中间件架构",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286142&idx=4&sn=5825dc19861e5035bee122aaa41130ed&chksm=bdba922d8acd1b3b06acaef96082a680587b0f4a98b47136aba2cd67cc7a243d4f4b9469b2de#rd",
+    "publishTime": 1780379050,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNhqFJx2QexfDH4htsdPUZkBdkrBYN67OyiaW6qvicgDHLwJ1LKbngWj8QSoibTjsOCqdlwRnYIFhaEU8rZCicib4Yo1xqM6cZ3CdADU/0?wx_fmt=jpeg",
+    "digest": "谷歌推出 Middleware for Genkit，这是一个用于构建基于 AI 的代理型应用程序的开源框架。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
@@ -256,46 +296,6 @@
     "publishTime": 1780300951,
     "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNjsG6Vyldb9m3BluQ5IyFibPeLRx2W9ibB1ibTY11tZDNmhibEfdFlQ0aq3UptIDafAJCgzx9K9zj1oUZU9yuaicD5zHxrlbxtpfS1I/0?wx_fmt=jpeg",
     "digest": "值得一提的是，该核心方案相关论文《RoboAgent: Chaining Basic Capabilities for Embodied Task Planning 》成功入选全球计算机视觉顶会CVPR 2026。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651285996_1",
-    "title": "蚂蚁三代CTO闭门对话：周期穿越、技术决策与AI-Native组织",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285996&idx=1&sn=257fb4ce44ddfc94b3d482ea98b2a9ee&chksm=bdba91bf8acd18a90ca0d490c1a0a6a3966f43dd0afbe46c0a1040efb21810dae5176bdf0e8e#rd",
-    "publishTime": 1780193700,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNgGRnxgrFQmUSSEibeBZxlpdEVTrdbuIGJzEzstu9ibNa5BoLPJoyMnxkSINULq6Xk2x1YasaV0WT2PpG3ItLe1pSYVjQlyOXQmg/0?wx_fmt=jpeg",
-    "digest": "蚂蚁每一次最关键的决策，都来自于追问时代里的真问题。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651285996_2",
-    "title": "利润腰斩也要卷AI！小米模型永久降价99%，雷军还要再砸600亿",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285996&idx=2&sn=116a0e58a4dee2f97cee9c9923af6318&chksm=bdba91bf8acd18a94e65b831532f2870059e57bfbeb1b47a00a98205473ef8971756def338f7#rd",
-    "publishTime": 1780193700,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNiagzJOic3HxsqsnyhViaoeomIcZ9FQslia7uD9lINUbVcR8WocOiarxB1U8kaySd54LhfBjticDv5XpmLmhKu1BHaibXCT05DW1u54tM/0?wx_fmt=jpeg",
-    "digest": "今日，小米宣布永久性翻新整个模型定价体系。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651285996_3",
-    "title": "Zod 作者推出 Pullfrog：一个跑在 GitHub Actions 里的开源 AI 编程 Agent",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285996&idx=3&sn=ca6294b4067d06d050f87beb44cdd0ad&chksm=bdba91bf8acd18a98923849df606cc32925f9cfb5c363b123162662a59ad87d76a9460fc143a#rd",
-    "publishTime": 1780193700,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNgQXJgh60icXHEicvXWJ5nmg2cEPywEe2aMAdt1CHIO98sTpO2nofO6LmN1ficnNzK2opJ33JRO3sZnHfmibPSZuOibeszG8OZv2JP4/0?wx_fmt=jpeg",
-    "digest": "Pullfrog AI：由 GitHub Actions 驱动的开源 CodeRabbit 替代方案。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651285996_4",
-    "title": "Google Cloud 在 BigQuery 中引入跨引擎 Apache Iceberg 支持",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285996&idx=4&sn=5ab10f9f88576316e58d0ac88a580492&chksm=bdba91bf8acd18a96371800e27aa1a5706c8b51143fc1dc9822e202cde0eac9243fb6f0c23b5#rd",
-    "publishTime": 1780193700,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNia6XGlZIiaq3vmMfObRyuJslOSzibeEqrk8micVIsIwUOz84pbaVyic3qof5jd9hhQcRBjOqGRvkBXhpHyptABYlib4r17HZvFKicGeQ/0?wx_fmt=jpeg",
-    "digest": "在上个月举行的 Apache Iceberg Summit 上，谷歌宣布了 BigQuery 针对 Apache Iceberg 的一系列新互操作能力。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   }

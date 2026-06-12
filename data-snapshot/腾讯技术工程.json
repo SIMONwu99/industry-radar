@@ -1,5 +1,15 @@
 [
   {
+    "id": "2649802000_1",
+    "title": "微信测试团队斩获 CVPR 2026 NTIRE RAIM挑战赛冠军",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802000&idx=1&sn=e98b528060a2ae5d34b6f9eeb6e517ce&chksm=becc566b89bbdf7d7661c8209d3a858e73c6774e9aa879b63d396e1c477eedf68a6ec6787056#rd",
+    "publishTime": 1781256960,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/KVER9adz907flb3hKgSIgYdKNpnKuRvxSX9sHgh8gVD5MscicQxM2cUAPnLWN5qM6CjsdhS9I5jUImJXaTMjQibico5bS71OMqZLbxJiaLhEcX4/0?wx_fmt=jpeg",
+    "digest": "智能Agent迭代",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
     "id": "2649801982_1",
     "title": "腾讯混元AI Infra进化：HPC-Ops推理核心算子全面升级",
     "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649801982&idx=1&sn=25fb653637a2fbac015d46c265f8266e&chksm=becc578589bbde93464f9c6b27b6b9b2e7cc0befe8da9467bd745bb03723a1dbfcb9fcb38caf#rd",
@@ -36,16 +46,6 @@
     "publishTime": 1780911360,
     "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/KVER9adz904icjO7uu7V3eJl74ibrHT6Op7KK36ibT9b6ubsbMGr4T9uqOlDic27J7Anp4vMYj72eb4wPNATNKZacQLSS8DRUOWlspZ9jpweJWg/0?wx_fmt=jpeg",
     "digest": "一套可直接落地的可实践方案",
-    "author": "",
-    "feedId": "MjM5ODYwMjI2MA=="
-  },
-  {
-    "id": "2649801836_1",
-    "title": "如何写好 Skill：一份终极实战经验手册",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649801836&idx=1&sn=f01a69e0c012eafde5f8bc76804bc5fb&chksm=becc571789bbde01761f555e84d55f81c006ceea844174e91d70c61ab5c8a60d850a5263396d#rd",
-    "publishTime": 1780652160,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/KVER9adz905r5ia072TZfibiaYl16fldibK0L4R57K9n52a9HnvjeDK1krGuRzwC4uxgbrk4OomqRowAtQBYsYht6ZkWPR6RAU7yajJvku8ouwI/0?wx_fmt=jpeg",
-    "digest": "鹅厂团队积累的知识，帮大家少走弯路",
     "author": "",
     "feedId": "MjM5ODYwMjI2MA=="
   }
