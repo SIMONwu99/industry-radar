@@ -1,5 +1,45 @@
 [
   {
+    "id": "2247897320_1",
+    "title": "HuggingFace CEO力荐，Bengio团队也押注：这个1500美元训出的HRM模型，凭什么火了？",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247897320&idx=1&sn=5878287bea9ccab89ef33330ba9b07a2&chksm=e8da679adfadee8c6106b518bfec04a4303c5083096a4659e4ba3b9e0bb1516ca00f0fe054d2#rd",
+    "publishTime": 1781337299,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGGvtQfEb56iaIvCzufbpScjpiafL9V5lqibuRTSQw0EWha3mLxyp9IYw1d6t36VYQ53JXWfISOzTSlrn63jV0dJribjwMkH6DpMYeA/0?wx_fmt=jpeg",
+    "digest": "模型参数量只有1B",
+    "author": "",
+    "feedId": "MzIzNjc1NzUzMw=="
+  },
+  {
+    "id": "2247897320_2",
+    "title": "Agent终于长出了身体：Jiuwen Symbiosis背后的思考与实践",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247897320&idx=2&sn=26ebec72b5313d09d09d072e489af690&chksm=e8da679adfadee8cae399fc366fcff0593aebd40a24ae51d0e91e4aaabab72bf7da54fa427dd#rd",
+    "publishTime": 1781337299,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGFNRzfyHA0k3QwO2Ct0prcicahw7sPKJ2MhnyAICrP3F21h4J7hvtbhjCA0flicebOEORXVN9NtnvW1eJQvb5ribqtyQERGGeiasvk/0?wx_fmt=jpeg",
+    "digest": "一起构建下一代物理世界的智能系统",
+    "author": "",
+    "feedId": "MzIzNjc1NzUzMw=="
+  },
+  {
+    "id": "2247897320_3",
+    "title": "华为SpaceMind登顶空间智能权威榜：纯RGB视觉语言模型拿下70.6分，刷新李飞飞榜单记录",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247897320&idx=3&sn=07784c5d298edcd85f0796f1ddcca265&chksm=e8da679adfadee8c88afb46932ce3711153f04eafbb70a421ab5f2631d4c9587487976445674#rd",
+    "publishTime": 1781337299,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGG5719ibcAeVpcB7XhrpSHRs2ZKFibTBysYCaaK6EWzkEqibdUF8VzBqYADSHnaNzOBS37rv4RzY0hic0MwY0XOnicEQX3icSYDPHDlM/0?wx_fmt=jpeg",
+    "digest": "空间智能的价值，最终要落在真实场景里",
+    "author": "",
+    "feedId": "MzIzNjc1NzUzMw=="
+  },
+  {
+    "id": "2247897320_4",
+    "title": "量子位编辑作者招聘",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247897320&idx=4&sn=31238cfd3d7d9fa480d0eefb321475fc&chksm=e8da679adfadee8ca3f4d4fe46845e3e93371a8e2b8391a411e12bf27555d9e871b3d113c952#rd",
+    "publishTime": 1781337299,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/YicUhk5aAGtBwsQQg50rdDIFHPibz5pbVfnv0oOoRSQ2KmEYBSJRibeXrJnIU1euj0icCf6pXdduQdCbnRJy3b7u7Q/0?wx_fmt=jpeg",
+    "digest": "3个岗位（含实习），不设边界",
+    "author": "",
+    "feedId": "MzIzNjc1NzUzMw=="
+  },
+  {
     "id": "2247897256_1",
     "title": "「AI春晚」又来了！智源研究院推出的世界模型，成今年最硬一盘菜",
     "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247897256&idx=1&sn=20f9d25a3953f445564cae061af4cd93&chksm=e8da67dadfadeecc8925f9bcab4c53d548b3cd1f885d651557c406ab16557d5f2ed9c4941e07#rd",
@@ -26,16 +66,6 @@
     "publishTime": 1781278534,
     "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGEO5PZgblZDhQ3rgesmtTOBKaTX6ZZyzUNbcE050zLmnCoVzXxM1NfHA4AjdUhWZiciarxzgfOnCn35Sic9kAWre6qYCFhwxVyBCw/0?wx_fmt=jpeg",
     "digest": "不动拓扑也能优化多智能体",
-    "author": "",
-    "feedId": "MzIzNjc1NzUzMw=="
-  },
-  {
-    "id": "2247897256_4",
-    "title": "量子位编辑作者招聘",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247897256&idx=4&sn=6e9e0e2d8de7c7d1ac761e56f51453ab&chksm=e8da67dadfadeecc2fc98dcd6021ed3bdbc3e75d8eb706acbf5705ffbd10cddc0fcd0eca39e5#rd",
-    "publishTime": 1781278534,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/YicUhk5aAGtBwsQQg50rdDIFHPibz5pbVfnv0oOoRSQ2KmEYBSJRibeXrJnIU1euj0icCf6pXdduQdCbnRJy3b7u7Q/0?wx_fmt=jpeg",
-    "digest": "3个岗位（含实习），不设边界",
     "author": "",
     "feedId": "MzIzNjc1NzUzMw=="
   },
@@ -130,32 +160,32 @@
     "feedId": "MzIzNjc1NzUzMw=="
   },
   {
-    "id": "2247896042_1",
-    "title": "你天天刷的小红书，正在长出一个GitHub",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247896042&idx=1&sn=2d44f5d7b95c60603e0c46c4c6416b6a&chksm=e8da7c98dfadf58ed86b0c66fbd011b84c40f1711e5c266ad130e4000c35895b7b57a8404e71#rd",
-    "publishTime": 1780916340,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGFl4DSI8KHt2ewWFvUWhP7OaKluq83Htgkl3reN8qaX2Zu21WGM4aib1K3uFoKjvKnuq4XJyuxVBQ5VWyoVzQLq9lcVANdTUqyk/0?wx_fmt=jpeg",
-    "digest": "RED Skill预计7月全量上线",
+    "id": "2247894624_1",
+    "title": "扣子3.0实测：手机就能远程遥控你电脑里的Agent",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247894624&idx=1&sn=bb01deffc8d61bd9743370897b64e85a&chksm=e8da7112dfadf804a833d7f49b061831eb900934124d2b5da85627bcbeb0dafa348cbc1e0434#rd",
+    "publishTime": 1780463407,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGEMreAsicrNOV1eYa7b1VNPZ9HMIQ3Fuq8BIq5PbcR4ianXo04JKQmPLqewOaKWLg7peAheXXibgcJmSlW1NDMMVMvnImyu5hql7w/0?wx_fmt=jpeg",
+    "digest": "电脑、手机、桌面，三端打通",
     "author": "",
     "feedId": "MzIzNjc1NzUzMw=="
   },
   {
-    "id": "2247896042_2",
-    "title": "腾讯想让企业打开AI的方式只剩一个",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247896042&idx=2&sn=38035b110ae836c33bea101545a485b9&chksm=e8da7c98dfadf58e86d8dead6d3f16b5629c4b3561ad4ec97699c912eb95af83f27616c02c38#rd",
-    "publishTime": 1780916340,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGHW0AZOz3hBTKQPDshtTOwCym5hjtqrgPJ9vLIlym2cvrkvqfSTWK0ibXQjMZ1vg9OjIsctrKzUdgz9jFlAjkiaPribIawlknRSMA/0?wx_fmt=jpeg",
-    "digest": "一个入口串起全栈智能体",
+    "id": "2247894624_2",
+    "title": "CVPR论文一网打尽！科研神器Papers with Code满血复活",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247894624&idx=2&sn=722d75de2aa3d5319582852e9c934a6b&chksm=e8da7112dfadf804ece39e84c5d3fadbea5feeb42a4921e1fcb34ba6c5e4dc02eb46df0ae172#rd",
+    "publishTime": 1780463407,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGFShfSVgh8LEHoJZz2B4Cgffktob2C2f3LfIJmSFmbCkiaM7cfRudvOMKFQaun9an65VQo0Wo7GFqBZjJhHjjlfiboarrKibaCDOk/0?wx_fmt=jpeg",
+    "digest": "SOTA排行榜全面回归",
     "author": "",
     "feedId": "MzIzNjc1NzUzMw=="
   },
   {
-    "id": "2247896042_3",
-    "title": "UCL长视频理解新思路：视频转记忆，再让模型去检索",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247896042&idx=3&sn=01efd711fcbad47f2bb356ca4306bb60&chksm=e8da7c98dfadf58e2279f49ef8cd555d6ac2ccd7949e6df0cba81381bf853ed1c60a14a27c18#rd",
-    "publishTime": 1780916340,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGFBLAvcIISjBxAYu0r2CpJeRWy4SlpYfEgVlDVdfxGQjcreCIb7kKnMiazZsDTyVTQdYaDNoCtAONGQ8FkAlIqTY4bsunu3Dibec/0?wx_fmt=jpeg",
-    "digest": "免训练，即插即用",
+    "id": "2247894624_3",
+    "title": "大晓机器人x南洋理工PhysX-Omni统一物理3D生成！一个框架搞定刚体/软体/关节体",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247894624&idx=3&sn=a1a7fee7cbc45e93d5422f40b67ccacb&chksm=e8da7112dfadf8048ba2e9afd2d22c34ee519c92bf56e47a1adf05c380a40833522693f88143#rd",
+    "publishTime": 1780463407,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGE9Bm0OISpFbLGqgk8NgOOlN3n8QmZh7I7zfD0BheOL5mzC44RxnvicNEV2dWhMt4vHEIg2tm0fCgOK33lRGsicDlmvdVPib7TpHs/0?wx_fmt=jpeg",
+    "digest": "还构建了数据集和评测基准",
     "author": "",
     "feedId": "MzIzNjc1NzUzMw=="
   },
@@ -196,36 +226,6 @@
     "publishTime": 1780302344,
     "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGGlpNW3EMm73LJ2qvJUq1tk2p2unCGlW9GCTwP45sgotPMXoWOIuaChDn9xLat5Ir0r1jtFm0Klq9xZIraib5a12aIskWaqQiaEw/0?wx_fmt=jpeg",
     "digest": "从仿真到多形态真机，具身模型如何落地复杂家庭柔性物体操作？",
-    "author": "",
-    "feedId": "MzIzNjc1NzUzMw=="
-  },
-  {
-    "id": "2247893880_1",
-    "title": "机器人原生世界动作模型问世！首创时空一体架构，复旦系团队出品",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247893880&idx=1&sn=62985b132c123bdecf8f5635fd585ecd&chksm=e8da740adfadfd1c94ef59cf9f4280a1237659549d1365d62ba075e9270480790548013156b3#rd",
-    "publishTime": 1780203600,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGF4D99iaZllkqic1mfvrnibWEeZjpW2Lvpk9RZ0sWJylRj1ZUBe9DYzhUkovcVd3o9ULhocbKdukIVDDngrnjZGvPyEJP8d0zM8Bo/0?wx_fmt=jpeg",
-    "digest": "半年斩获5轮融资",
-    "author": "",
-    "feedId": "MzIzNjc1NzUzMw=="
-  },
-  {
-    "id": "2247893880_2",
-    "title": "英伟达版「MacBook Pro」曝光：老黄自研了CPU！",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247893880&idx=2&sn=c644d0e9f0d84f172a16345899ba028b&chksm=e8da740adfadfd1c116af1f414fb0c21cda7c5bcec868bdc7151e719d2c8c484012ebc5d994d#rd",
-    "publishTime": 1780203600,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGEsJqoUIFKrTUFuxtKv0ibjD0zq5bdBHnf8xMOTWZkzhp9s203sluGnuhd92rM0xjYiaiaqOYxDsJ1G4BrfVkoDA5aIIEI3g3XVyU/0?wx_fmt=jpeg",
-    "digest": "联手微软ARM",
-    "author": "",
-    "feedId": "MzIzNjc1NzUzMw=="
-  },
-  {
-    "id": "2247893880_3",
-    "title": "别光给Agent加Tool了，它根本选不明白！复旦×通义提出全新CUA训练范式",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247893880&idx=3&sn=3801eccb44a75d9e72fc8da3c199f2a3&chksm=e8da740adfadfd1c78b28142a407cfb63b460636d7e8185aef2d7f19a64c5829182d80636e07#rd",
-    "publishTime": 1780203600,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGHEicZUibNIPFfWE8eDCY7dmAuTiaHYnicX20wLyWqqAvShWEDGr7HjQSzYPdoiakibXTRgicBJM2umliaM9cuYD9EuWLJ5ic2uEAMWPmSI/0?wx_fmt=jpeg",
-    "digest": "准确率逼近Claude 4.5",
     "author": "",
     "feedId": "MzIzNjc1NzUzMw=="
   }
