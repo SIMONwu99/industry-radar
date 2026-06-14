@@ -1,5 +1,45 @@
 [
   {
+    "id": "2247897349_1",
+    "title": "Agent时代，华为云开始重新造地基了",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247897349&idx=1&sn=28447d634d3e27883ce00d1099701268&chksm=e8da6677dfadef6178967557726b9b1fceb96c030e0359bc4c9c5bc0927ad91816bb3056e1b8#rd",
+    "publishTime": 1781409600,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGF8WAk0Z2gNicTXShWaiclOcyEicUUGuuiayBmL8icYo31rcemaZicdEklyhOTcAnytw8j4KTOZoctSqSuOxR6CwF46cMOdbGmlT7Zmo/0?wx_fmt=jpeg",
+    "digest": "Agentic新基建",
+    "author": "",
+    "feedId": "MzIzNjc1NzUzMw=="
+  },
+  {
+    "id": "2247897349_2",
+    "title": "KV Cache终于不用无脑全留了！百度&复旦用「投资回报率」重新分配缓存｜ICML 2026",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247897349&idx=2&sn=14ceeec45a2f6803e40bc7b029964120&chksm=e8da6677dfadef611e37c6a895364482f0ed922a0a24325a648cab7480a9db3cf4b61635a142#rd",
+    "publishTime": 1781409600,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGHAbGXtpngZqyrOdq180t1s7xlCo7ERiacklZAAOfUcZCbt7qFMWylTgEzVvNR6cGlPk8GneJEyhHNl1SGnSQtcG2XsCNDYwSicE/0?wx_fmt=jpeg",
+    "digest": "80% KV Cache压缩，性能损失仅0.52%",
+    "author": "",
+    "feedId": "MzIzNjc1NzUzMw=="
+  },
+  {
+    "id": "2247897349_3",
+    "title": "登Nature子刊！清华团队提出全球气候模态统一预测模型UniCM",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247897349&idx=3&sn=5c778ae0801953d9b307cb1582ec4cd1&chksm=e8da6677dfadef61ba0167aa604792532c5bfac36c7e512d7da287c339cc381e7ad2227bde84#rd",
+    "publishTime": 1781409600,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGHgsFxrUAl3mIb2BrgCopMDpx8pMOSEMPCqhzR9xNBfx8GGibmw2WribmN9NeeEGmFPEzS9huRXrU385YA4fp8kOIdw9KZIlFjiao/0?wx_fmt=jpeg",
+    "digest": "首次实现七类气候模态统一建模",
+    "author": "",
+    "feedId": "MzIzNjc1NzUzMw=="
+  },
+  {
+    "id": "2247897349_4",
+    "title": "量子位编辑作者招聘",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247897349&idx=4&sn=39f0bc4ab31cbb872725c1fae7771b86&chksm=e8da6677dfadef61ef65bacc92322a44a94eb789267ce25d85b5c4d093d7739e8dcb267558b2#rd",
+    "publishTime": 1781409600,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/YicUhk5aAGtBwsQQg50rdDIFHPibz5pbVfnv0oOoRSQ2KmEYBSJRibeXrJnIU1euj0icCf6pXdduQdCbnRJy3b7u7Q/0?wx_fmt=jpeg",
+    "digest": "3个岗位（含实习），不设边界",
+    "author": "",
+    "feedId": "MzIzNjc1NzUzMw=="
+  },
+  {
     "id": "2247897320_1",
     "title": "HuggingFace CEO力荐，Bengio团队也押注：这个1500美元训出的HRM模型，凭什么火了？",
     "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247897320&idx=1&sn=5878287bea9ccab89ef33330ba9b07a2&chksm=e8da679adfadee8c6106b518bfec04a4303c5083096a4659e4ba3b9e0bb1516ca00f0fe054d2#rd",
@@ -26,16 +66,6 @@
     "publishTime": 1781337299,
     "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGG5719ibcAeVpcB7XhrpSHRs2ZKFibTBysYCaaK6EWzkEqibdUF8VzBqYADSHnaNzOBS37rv4RzY0hic0MwY0XOnicEQX3icSYDPHDlM/0?wx_fmt=jpeg",
     "digest": "空间智能的价值，最终要落在真实场景里",
-    "author": "",
-    "feedId": "MzIzNjc1NzUzMw=="
-  },
-  {
-    "id": "2247897320_4",
-    "title": "量子位编辑作者招聘",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247897320&idx=4&sn=31238cfd3d7d9fa480d0eefb321475fc&chksm=e8da679adfadee8ca3f4d4fe46845e3e93371a8e2b8391a411e12bf27555d9e871b3d113c952#rd",
-    "publishTime": 1781337299,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/YicUhk5aAGtBwsQQg50rdDIFHPibz5pbVfnv0oOoRSQ2KmEYBSJRibeXrJnIU1euj0icCf6pXdduQdCbnRJy3b7u7Q/0?wx_fmt=jpeg",
-    "digest": "3个岗位（含实习），不设边界",
     "author": "",
     "feedId": "MzIzNjc1NzUzMw=="
   },
@@ -130,32 +160,32 @@
     "feedId": "MzIzNjc1NzUzMw=="
   },
   {
-    "id": "2247896365_1",
-    "title": "你最该认识的「硅谷CEO」：面试紧张，害怕演讲，管出最赚钱的AI广告公司",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247896365&idx=1&sn=9cdc4a9960e498da6f0009682c967030&chksm=e8da7a5fdfadf34956b050d13df7e7e75703a458656d850326cdf401bffcb538cd7bdb4bf857#rd",
-    "publishTime": 1780995600,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGFOmdYPUVDWLYvrAmOICDnkrMSXZrzHiasqIFMXzibzyqkVjAS7eHpudYfXvpa5hRFibia9W2RvymuhZV2ibOlIyPDclVicrYTnic9nHs/0?wx_fmt=jpeg",
-    "digest": "AppLovin创始人兼CEO",
+    "id": "2247895048_1",
+    "title": "CVPR 2026，英伟达特斯拉Waymo一块听中国公司讲物理AI",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247895048&idx=1&sn=ec4a4ad3ed33dbb770e48ffd7b1c1a5c&chksm=e8da7f7adfadf66cbb4141f22c3fc49e74c0eddc15b49e59404971339b872b68da313738b048#rd",
+    "publishTime": 1780561565,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGFddElHKE6oJHp4EsDJdCGMZWXFpPlIdYuJkOibtuYXG7t6PQibk7uvmVMrFWglib0HG2tlkb5PHn5SHQ2DcNHuMLauINyqKEwIto/0?wx_fmt=jpeg",
+    "digest": "小鹏进阶物理AI公司",
     "author": "",
     "feedId": "MzIzNjc1NzUzMw=="
   },
   {
-    "id": "2247896365_2",
-    "title": "内蒙跑通AI逆袭新解法",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247896365&idx=2&sn=d36645941acc198c754199c14a475aa3&chksm=e8da7a5fdfadf34910e27f4b8a1829ea5edf61d90fe889a1eebefd96770f0b2b2af069636840#rd",
-    "publishTime": 1780995600,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGH8LZt43IMBnefFiaknpulqicd3Iq7goqenGKJQN5OkzGxqCvicibQHZumKNqVnpJawsA8PnWsMoQ9SsicXDN7iahT7C8vm7vBCRicO70/0?wx_fmt=jpeg",
-    "digest": "全行业的Token焦虑何解？",
+    "id": "2247895048_2",
+    "title": "连GitLab都开始裁程序员了",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247895048&idx=2&sn=26784e6bc12d95e419bd7c6a77a44fd1&chksm=e8da7f7adfadf66cd8042a92ca007e247b0324e9d19e47dde63443af844414c4461940a733a0#rd",
+    "publishTime": 1780561565,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGG1MqicgY8PWc6lI9PhYxUg9vKEbmeuuloqIqvzbj5GxibeDTgBh7yORKiaYIgiaXJkgYqmVTiarDuZDycDYCW0UrdK4mXp1htKExTk/0?wx_fmt=jpeg",
+    "digest": "和GitHub齐名，业绩超预期却裁员14%",
     "author": "",
     "feedId": "MzIzNjc1NzUzMw=="
   },
   {
-    "id": "2247896365_3",
-    "title": "3B小模型，把图像视频“看画改”全打通了，字节Lance开源即冲上抱抱脸第一",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247896365&idx=3&sn=e12711bc2012bf7690c5815c1e2348d5&chksm=e8da7a5fdfadf3498ba8c5530b00f07a034ea717292194bf9f05161633045b1bbf3010e2000b#rd",
-    "publishTime": 1780995600,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGG4dwXG8u09pKH1EARPF80iaX6wcH1k8QibhhhicANoIGKmoDAhK0zG1MlX8lRY2AgROZb2dlCYLZxX5uLwnQ9h7aJicMauTXgNaQ4/0?wx_fmt=jpeg",
-    "digest": "多模态模型，终于不只是“会看”或者“会画”了",
+    "id": "2247895048_3",
+    "title": "超越TurboQuant：Together AI把2-bit KV Cache推向真实服务",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247895048&idx=3&sn=c800a6ca1334742600bae6a37295cb19&chksm=e8da7f7adfadf66c95079d28e6bda144389ddcbf3a0e68d64a115261342cb8a9fdd8fa872f7e#rd",
+    "publishTime": 1780561565,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGHu2I9YDfvCQBiblk47CA6YAsXQQOwiaUDKRbUvs4AsuHUwxkB70t23wwKg1Kq2ycaHiaTeWtxUTxqgEaD7HpsEusNycvMnlZibiaLU/0?wx_fmt=jpeg",
+    "digest": "不只压得小，也能跑得稳",
     "author": "",
     "feedId": "MzIzNjc1NzUzMw=="
   },
@@ -206,26 +236,6 @@
     "publishTime": 1780373100,
     "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGF06OHPZvc5OOpGzFWCRw2iaqgzIMedicqtPmr0QUZLVkeicaFlXWz6guOKPbNGG7wRVIIXL98x2aqlrGPPrWIVricENVO5qDnKORY/0?wx_fmt=jpeg",
     "digest": "把百万上下文、120B参数的大模型，完整塞进一台笔记本电脑里。",
-    "author": "",
-    "feedId": "MzIzNjc1NzUzMw=="
-  },
-  {
-    "id": "2247894090_1",
-    "title": "近2亿美元！VAST完成新一轮融资，正式披露世界模型路线",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247894090&idx=1&sn=9179a21958712e5c31ef6b8e9da5499f&chksm=e8da7338dfadfa2e8a6cd549a703090ca3d24c84d21cc3144fa2d5549570b99e779f24eb4cf4#rd",
-    "publishTime": 1780302344,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGHZzCmIjyNAXT5Voa8pK1NCFRvuQmFtQsK01GrnGjnqmyMaqE9WaD6tVAibZe5r0tDJYEX6aer87GRVOnR290mO8KVjVg6QeWDI/0?wx_fmt=jpeg",
-    "digest": "场景永不消失，多人真正同屏",
-    "author": "",
-    "feedId": "MzIzNjc1NzUzMw=="
-  },
-  {
-    "id": "2247894090_2",
-    "title": "云端模型如何落地物理世界？招商局狮子山人工智能实验室用LiOS打通具身智能全链路",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247894090&idx=2&sn=e505746db4e72c7d97d75fa113db3932&chksm=e8da7338dfadfa2eae74dc3875e55fccf98986ee629b47f6bcf40504212a044f3c5c847a892a#rd",
-    "publishTime": 1780302344,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGGlpNW3EMm73LJ2qvJUq1tk2p2unCGlW9GCTwP45sgotPMXoWOIuaChDn9xLat5Ir0r1jtFm0Klq9xZIraib5a12aIskWaqQiaEw/0?wx_fmt=jpeg",
-    "digest": "从仿真到多形态真机，具身模型如何落地复杂家庭柔性物体操作？",
     "author": "",
     "feedId": "MzIzNjc1NzUzMw=="
   }

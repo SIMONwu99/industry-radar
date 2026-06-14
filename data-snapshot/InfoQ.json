@@ -1,5 +1,45 @@
 [
   {
+    "id": "2651286966_1",
+    "title": "全网首份指令级拆解：看华为昇腾 950DT 芯片如何撬动 DeepSeek 75%降价与字节锁单",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286966&idx=1&sn=33044df3c1d2b3664baf784d61cca573&chksm=bdba95e58acd1cf3ceac894bf230922c4b9ded0e05dc745b56da51be9cb6999bebe31e63b17f#rd",
+    "publishTime": 1781403300,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/lYDricib2fsm6oDZZU4pJuKUp7qIoneUtarB24woGUL6w06XBPBmR1FpWAn0OepzoPjLh630ViaO9qAOOroZVwxnlWG4NJyicic1icp0aKQgURT6M/0?wx_fmt=jpeg",
+    "digest": "距离正式上线华为云还有两个月，华为的最新 AI 芯片昇腾 950DT，已经被提前放到了显微镜下。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651286966_2",
+    "title": "自主智能体遇阻：数据库成最大挑战",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286966&idx=2&sn=66c6a43ee91dca691395c664568f0407&chksm=bdba95e58acd1cf366386cc18708e4f67f1d58543be0762ca4d709cd04b31cc3e856f9c69f55#rd",
+    "publishTime": 1781403300,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNhgno0SWibNicKZtcvMZkziaauurjO2UhicXnpZVwuKLP6vtc151UGFrq0WLiaxFh9KX4Zz8wiatQocEp9vMff33WcW3pazWKp6Btiaes/0?wx_fmt=jpeg",
+    "digest": "随着大语言模型从单纯的聊天机器人逐步进化为具备推理、规划与行动能力的自主智能体，它们已经能够自主编排复杂的应用栈。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651286966_3",
+    "title": "AI 驱动的网络钓鱼：技术演变与实施方式",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286966&idx=3&sn=c581788f8e8e12501f59854e6846725c&chksm=bdba95e58acd1cf33f9d1668e4fd05f0e24cd9955ae9fecc46703cebbe01e5952053291ee22d#rd",
+    "publishTime": 1781403300,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjkpnE7ZvySLn7wTXMsvEP6mXvia6ibnvwSrPZLFmaOqAu04xJ0Sibc56EeNibiaQ97JuicYfd9icMBmHaAwbGSEHh9sULdcOL0OzdK8E/0?wx_fmt=jpeg",
+    "digest": "本文分析了AI推动网络钓鱼向自动化、规模化演变的过程，阐述其在钓鱼全流程中的作用，并介绍了融合技术、流程与人员意识的分层防御策略。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651286966_4",
+    "title": "Uber 如何通过批处理实现单账户每秒 30+ 次更新",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286966&idx=4&sn=f895b338df56a0a3bce75d7b866eeaec&chksm=bdba95e58acd1cf371f00b59b99f3bae524e9e82d242ea05ad1bb6f995d95cfffff14caf1ff6#rd",
+    "publishTime": 1781403300,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNhlMpzJfkc3EhROWmMeDFGuEfhfUHOy7pCtiaic7EywNsKOKibsJ8HiaowFI6HFbRTrR0rsAv2spAUnDZlolhkaPJ16saOPBPTSsas/0?wx_fmt=jpeg",
+    "digest": "Uber 近日介绍了一套高吞吐量账本处理系统，用于解决其分布式账务基础设施中单个账户持续遭遇高并发写入的问题。这类问题通常出现在大量更新请求集中落到同一个账户上的场景中。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
     "id": "2651286939_1",
     "title": "严禁手写代码、一天烧不完 10 亿 Token 就是失职：OpenAI 工程师揭秘“零人类编码”的激进实践",
     "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286939&idx=1&sn=4c7b1d2d31e85c97537dbdf4f421bebb&chksm=bdba95c88acd1cde61812ca1caf7d2223fcee5b75709adcbafa0160774efce7f9323b4326297#rd",
@@ -170,42 +210,52 @@
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651286666_1",
-    "title": "WWDC 2026，硅谷历史上最昂贵的认输：1.2 万亿参数 Siri 来自 Gemini，但你的手机跑不了",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286666&idx=1&sn=3554dc0f722659acae9bd815e8c80674&chksm=bdba94d98acd1dcf7b4d94e9721c9c401c36f27b578552686ab1b098929fc08d857a2f4b6652#rd",
-    "publishTime": 1780977856,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNj6VkxibCbGCFickMGCeoPSGZLhkAiabs3HZKGltd6baEAoK9l6B0hUabv3mmauRibACO05jeDqWFn7EFk6SxCfibP1y3auia1R7BHU0/0?wx_fmt=jpeg",
-    "digest": "对苹果公司而言，这是一个“证明自己”的时刻。",
+    "id": "2651286315_1",
+    "title": "OpenAI CFO 首次详解公司战略：B端C端收入五五开、抢 IPO 第一名没意义、神秘硬件今年公布",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286315&idx=1&sn=d93377aa78bee152659192677541f079&chksm=bdba93788acd1a6eaf8abefa64babf08fcc1ce55135b57bfc22cb7165dcc7f4a7f70d5e51864#rd",
+    "publishTime": 1780556862,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNhMCDHyMWEUx9iaLoHvNBb57Kh0XiaXLqtZKRmZTxXDdVPBkKMVZVXWLylAG49OetlEKug3IdjsGg1ZZOepJK21HVXX6Qfeer90w/0?wx_fmt=jpeg",
+    "digest": "Anthropic 抢交 S-1？OpenAI CFO 冷脸回应：没人记得谁先上市，市场最终看价值",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651286666_2",
-    "title": "AI 写了 60% 的代码，为什么企业研发效率还是没飞起来？",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286666&idx=2&sn=07e6adcc9bf695b751f118eb5a656577&chksm=bdba94d98acd1dcfee9c8d5f9e60e964ed3c4a245265037ca1b47aa822eaeea093c187f6de64#rd",
-    "publishTime": 1780977856,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNjDtB2zzbB7SEGzibYicZyrvQ4LB6P271lbmbDxd66WdJYpaXOibD0JoORqx4ibpm6iaqbAXqnLr8kcmyKUbVt2OvwPmzmhTNjv1uMs/0?wx_fmt=jpeg",
-    "digest": "“会用 AI 工具不等于个人提效，个人提效也不等于组织提效。”",
+    "id": "2651286315_2",
+    "title": "写代码可以 Vibe Coding 了，为什么办公还不能 Vibe Officing？",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286315&idx=2&sn=09885b688b8367a2eb84677d05da75a0&chksm=bdba93788acd1a6e5b61a5685f45c684773a48b675771a8797a0f194c1ba026e606d087a27c0#rd",
+    "publishTime": 1780556862,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNgDoIuXl8EBFnR096n9N267EicF33bVVnfZIYyFRAwZOc1bhxkqc8IXMUTibia59yVdIaqZ3icIKAbc1nnY1htTs2q6rn9HfWaseJI/0?wx_fmt=jpeg",
+    "digest": "本文将站在资深研发的视角，从技术层面探讨现在市面上 AI+ 文档的工具与 Vibe Officing 之间的距离，分析为何 HTML 和 Markdown 都无法承载这种工作方式，并给出基于 OOXML 的解决方案。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651286666_3",
-    "title": "深入解读 GPUDirect PCIe P2P 驱动代码：Mailbox 和 BAR1 的实现原理及对比",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286666&idx=3&sn=f2210509e7832f8520f2ef6eddd5e15b&chksm=bdba94d98acd1dcf07700e5976fe9481545caf41b3c6133b795b62e6531af61f46df64026357#rd",
-    "publishTime": 1780977856,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNiaPbwLMByPOw1Qu722hpoHmVtiaGmm9Wm85BZp8KFOfRhsjQkZwcicUPNje4bPAUx4veQSM7HULznv76yHibUhpF0fpyywprKnuVk/0?wx_fmt=jpeg",
-    "digest": "自 2022 年起，NVIDIA 开源了其 Linux GPU 内核模块代码。",
+    "id": "2651286315_3",
+    "title": "把数据库运维这件苦差事，交给 AI Agent",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286315&idx=3&sn=154c81386b9415c738b2892e84a1de1b&chksm=bdba93788acd1a6e52a4b99344f8fbcbd73ce1cdba787cacae766b16fb76b98f10160847f09e#rd",
+    "publishTime": 1780556862,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNiaqeLnRfP39Eg8LsrT8dHOeOtHEq8tPNrc38GWRhvcGqzeKAv2QZLw8b5b72W9qTS7UQvib8wrcITC8MQxDFL2XYeCE8XHrgjwA/0?wx_fmt=jpeg",
+    "digest": "诊断引擎怎么进化、安全底座怎么搭、Agent 怎么跑通生产闭环。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651286666_4",
-    "title": "借助广度优先引擎，Shopify 将 GraphQL 执行速度提升了 15 倍",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286666&idx=4&sn=d0383c1803be44ef4856a8f9e7aa1d81&chksm=bdba94d98acd1dcf392ad3571413ebeafaf04f054bc451f773f4d7fe455b268dc35d9b87a451#rd",
-    "publishTime": 1780977856,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNhHicn6KyXf8T0Kml6D3YzcGic8pI9ib4qAfABk3zZVYvYF8K0qIeKzlpUWkp6EfO7ZXlfDtakY2GTjDOHmguoOwuG4Z2cic7xk8sw/0?wx_fmt=jpeg",
-    "digest": "借助广度优先引擎，Shopify 将 GraphQL 执行速度提升了 15 倍。",
+    "id": "2651286315_4",
+    "title": "谷歌扩大 SynthID 在 AI 水印技术中的应用，并提供内容检测 API 预览",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286315&idx=4&sn=ada09312247a581c0fb2400f5e7765a1&chksm=bdba93788acd1a6e240052af81325861d39370b7a1bd9b1173a8e000cffe3a05f1981cba6d8e#rd",
+    "publishTime": 1780556862,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjVRRhB0vMXDf0fLBGuMyFdeQvCdWnQH7OvEVAl8GawYyicobTe6leNxiaJEwuhla3wakh82utmYeMV80bCPlKRyF6FI3fISgIqc/0?wx_fmt=jpeg",
+    "digest": "谷歌扩大 SynthID 在 AI 水印技术中的应用，并提供内容检测 API 预览。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651286315_5",
+    "title": "科大讯飞面向超大规模教育场景的 Agent 系统架构演进与工程实践｜AICon 上海",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286315&idx=5&sn=8b30bba75f1cb98df892bef1e6bd4e07&chksm=bdba93788acd1a6eaaf905ca9c59ed00bbdefbc33e200c33790d8a3125fea1f91b78e68aa9d5#rd",
+    "publishTime": 1780556862,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNiaFYySro7IPYQr2GWEXicDte0W12sORm0VgYvNfOdbticNWlHfCYmRjdBqNKgU60dQPty5s201ict7wfX1wo4bo8npqJ0WuZTOTJg/0?wx_fmt=jpeg",
+    "digest": "在 Agent 系统里，决定上限的不只是模型能力，调度、工具、权限、记忆与监控这些 harness 设计同样关键",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
@@ -246,56 +296,6 @@
     "publishTime": 1780461000,
     "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNjlET1VLQVCk2M2mSFH5vOAXYK7cyzQKft0QibPd82yc28bgtsKcy7VumCPicwjic4HePhxkqHic3KQlM1vtUZicm5KOCZzF2Kqtozw/0?wx_fmt=jpeg",
     "digest": "LinkedIn 的工程师们遇到了一种短暂且反复出现的故障，即支撑用户信息流的数据库会突然不可用，随后又恢复正常，而且没有留下任何有用的痕迹。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651286214_5",
-    "title": "记忆感知的大模型 KVCache 优化｜AICon 上海",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286214&idx=5&sn=b0b32b37aa82ba2bf8384ec7a0ada087&chksm=bdba92958acd1b83638f8c2dd96245e4e3b32303f21074750ed30bf7039148b4cda74f06d120#rd",
-    "publishTime": 1780461000,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNhfPSicC0ibnMicfyuxZZnNFldralSmLSKFMpneSX4OfB46nUKM4hogb0CBiaDZ7yuVLqq6zvcfDAGDJN9Og3kLWJYO6RGhmvJXFlI/0?wx_fmt=jpeg",
-    "digest": "本次分享重点介绍以 KVCache 为中心的开源大模型服务框架——Mooncake",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651286142_1",
-    "title": "Agentic 时代的技术地图：AICon 2026 上海站全日程正式发布",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286142&idx=1&sn=355df12c793a227c4391d2ced93aada3&chksm=bdba922d8acd1b3bc40d0021c13b4572ffd1c43735cb6427f1c203670b779a4f92b2cd670512#rd",
-    "publishTime": 1780379050,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNhOMo0drGhiamUcRq9acCbRAXB8JuOfaZGmP5NN3b2Kqj8jDYiarb54mFZ5Uia5eQX2322YYze7FCk1WNicX5O7byTlaAecTPfQyzg/0?wx_fmt=jpeg",
-    "digest": "当 AI 不再只是工具，组织本身开始被重塑。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651286142_2",
-    "title": "黄仁勋宣布 Rubin 全面投产，4万名工程师参与构建！史上最强CPU同步亮相",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286142&idx=2&sn=8d8473097b958df32ae3acdf79db649a&chksm=bdba922d8acd1b3b1f641eae2575ffc047e1c5874a4d126cabec54c0b11d70fc96e4ba895e6e#rd",
-    "publishTime": 1780379050,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNhibeft6LTgj7f4Iu9gl48LOqaDfHDiaV1O0ibccH2HMBX8CIz7xOnVJwyyuuJXH54hxOpUicbnnaM3H02olLNjZg1T8q5tMIjtcp8/0?wx_fmt=jpeg",
-    "digest": "老黄的口头禅已经从“买得越多，省得越多了”变为了“买得越多，赚的越多”。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651286142_3",
-    "title": "Anthropic 在 Code With Claude 上发布托管式智能体、主动式工作流与能力曲线",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286142&idx=3&sn=cfdda501d9ce9bd63573aafb47b3e967&chksm=bdba922d8acd1b3bc980fba654ab59a13287c58f7d5050c2b5f319e3eb4cc13553e86a1c5a37#rd",
-    "publishTime": 1780379050,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNiaqEd8ibzMv6icSqBOGDEQmf2RYasqP7gKrLwJa4YPahfWN4gAjpvyasaNkuznvvcWXJzVHQCT8gF0lVEocYQdYxhbuNPW6Mv29g/0?wx_fmt=jpeg",
-    "digest": "Anthropic于旧金山举办了“Code with Claude 2026”，通过直播分享了围绕Claude Code、Claude API平台及相关项目的最新进展。核心议题包括开发者体验、自主性能力、模型能力跃迁，以及AI对产品架构带来",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651286142_4",
-    "title": "谷歌推出适用于 Genkit 应用程序的中间件架构",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286142&idx=4&sn=5825dc19861e5035bee122aaa41130ed&chksm=bdba922d8acd1b3b06acaef96082a680587b0f4a98b47136aba2cd67cc7a243d4f4b9469b2de#rd",
-    "publishTime": 1780379050,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNhqFJx2QexfDH4htsdPUZkBdkrBYN67OyiaW6qvicgDHLwJ1LKbngWj8QSoibTjsOCqdlwRnYIFhaEU8rZCicib4Yo1xqM6cZ3CdADU/0?wx_fmt=jpeg",
-    "digest": "谷歌推出 Middleware for Genkit，这是一个用于构建基于 AI 的代理型应用程序的开源框架。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   }
