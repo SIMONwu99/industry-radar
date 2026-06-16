@@ -1,5 +1,45 @@
 [
   {
+    "id": "2651287211_1",
+    "title": "Redis 之父为 DeepSeek 抱不平：美国 AI 圈又为“蒸馏”吵起来了",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287211&idx=1&sn=5db63e2f8d84a6ab3b0e48f3538615ad&chksm=bdba96f88acd1feefa257f6affc8f9b14ce75b121c42236411d87ecb1fcd66c48544599d360e#rd",
+    "publishTime": 1781600291,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNjmjHxib5PCkxey8Eypav1XCq0hJFZkabSAsLnjpW4QNZaxibNQvLT4kTcv2MKk1fo9aENjP4k4GibHcvXTKM1SCpMMCA1VwQAibTE/0?wx_fmt=jpeg",
+    "digest": "Redis 之父七条推文反驳 DeepSeek“蒸馏”指控",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651287211_2",
+    "title": "对话谢国：从 Flutter 到 KMP，跨平台框架正在从“代码复用工具”走向“生态连接器”",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287211&idx=2&sn=fcaa7341cea51495b49051b2fe9313d9&chksm=bdba96f88acd1fee2a24d345706e3ee6915484d33e9b700879a1b32af906f56455d254620b57#rd",
+    "publishTime": 1781600291,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNhlhOwiaPzKF0RrvURX06TNc26eiaUQ4GQpwpxia5aNX6399Mu1VQnT6cB1ORhmGwK2yiaDrdhk8Yswzwedv9iaKZk542nnN65wmEJU/0?wx_fmt=jpeg",
+    "digest": "跨平台框架正演变为“生态连接器”，未来可能走向“原生UI + 共享逻辑 + AI协同”",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651287211_3",
+    "title": "普通人创作千万播放量爆款视频不是梦！从字节走出的产品人，做了一款 AIGC 视频神器",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287211&idx=3&sn=0fc9ebd344cbb5ebbba44bcc7ed91dfb&chksm=bdba96f88acd1fee96c55536647d67f3cee6023777c6ba3834c949ee6c3ae1e33a7b07c9bd97#rd",
+    "publishTime": 1781600291,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNj6GF8yf8oX4ccIRONDKbicSny6ulkelgwFv12icb7a1mSOZeJeQicZxsRC9dkDIYabZlMQIlTjIBsW4a75pNCOtINUYHEEZ6ZYc8/0?wx_fmt=jpeg",
+    "digest": "“过去制作一条AI短片至少要耗时一周以上，如今借助OiiOii，8分钟的成片仅需1-2天即可高效完成。”",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651287211_4",
+    "title": "导致 Spark on Kubernetes 发生 OOM 故障的两个配置错误",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287211&idx=4&sn=d4decd7c33c7b67b4efdf80bb0910f6d&chksm=bdba96f88acd1feea1da4cb83f0240ec7c6e58b68626424e24e4cd77923cb8a85a95757f2762#rd",
+    "publishTime": 1781600291,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNgtK1E5OIYjELvic4atNibwlYuoibfNo0CEgFNCnKg2S5XdZibibNybPzSia3waCQicZwwiatWnkCWcq1tOibxB26oxrl4pNYOwicWS0p1jQ/0?wx_fmt=jpeg",
+    "digest": "在将几个 Spark 批处理管道从本地基础设施迁移到 Azure Kubernetes Service (AKS) 后不久，我们发现其中一个比较大的作业反复出现执行器内存不足 (OOM) 故障。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
     "id": "2651287045_1",
     "title": "Claude背后全是大厂老兵！Anthropic工程团队1680人画像曝光：谷歌系、12年经验、本硕为主",
     "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287045&idx=1&sn=956afee706b85a59bd62561432c3da8b&chksm=bdba96568acd1f405c443ab0757cac4efb879aa7bb0efb57f91dc4846f01c1fa4ab6042e6abb#rd",
@@ -160,32 +200,42 @@
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651286819_1",
-    "title": "“Token 大爆炸”前夜，数据基础设施正在成为新的变量",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286819&idx=1&sn=19260cb473657ed5f0e0339df7c5ad0f&chksm=bdba95708acd1c669054637e883ad7aa03fcff9e3fd42ff806a4f18e46fdef72d0c7d4c83faf#rd",
-    "publishTime": 1781155800,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNg7UlFb6naJTG05zBmFh8GjMH0LYTWw0sXp9lQCzxMALZ9ymNfxkt9hwlZg3VIjqfia7fDibicEzHcOlrDjhKs8vlhQs0fViaBSufg/0?wx_fmt=jpeg",
-    "digest": "Agent 正在制造一场“Token 大爆炸”。",
+    "id": "2651286503_1",
+    "title": "“英伟达也缺算力！”顶尖 AI 研究员转投 xAI 内幕：谁 GPU 管够，就去哪里",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286503&idx=1&sn=05966c3549545a6b330e6c0463482767&chksm=bdba93b48acd1aa24695047b4a079da14b5fea45be0ff71df134f979ca5e3a53b62cae29e0f2#rd",
+    "publishTime": 1780712100,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNgAxgoDDTuqKSoY631AMUuH9Sp3dTp9ZmgwPzrJ5COEhGztmxCzNa8FlBdMictsibYJ6ibhZEmkj071zYP4O75iacaoHbXR06rMUak/0?wx_fmt=jpeg",
+    "digest": "在 AI 行业，最硬的招聘福利，得加上“算力”了，而且连英伟达都无法置身事外。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651286819_3",
-    "title": "拖尾请求不是故障：自适应 Hedged Request 如何降低 74% 的 p99 延迟",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286819&idx=3&sn=788184e4b45c11b1b7467a06ecba6770&chksm=bdba95708acd1c6629aef97db7025771e1f7fded181652d66d5b631c774888631c6e3e658b78#rd",
-    "publishTime": 1781155800,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNgaguNdlc0Y1ff8IGPrbjJrsc0g6s3dibgBgXL5Z54HTuXricLjoXbMInBkGgyKCloDTygMmaFia7ClSUpoKGxiaWLibGvQpYYjMUyY/0?wx_fmt=jpeg",
-    "digest": "拖尾请求指的是完成时间异常缓慢但最终成功完成的请求。在扇出（fan-out）架构中，它们才是 p99 延迟的主要来源。重试机制则会向已经备受压力的后端增加额外负载，从而使问题进一步恶化。",
+    "id": "2651286503_2",
+    "title": "互联网变天：机器人流量首次反超人类，Agent 时代拉开大幕",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286503&idx=2&sn=10233266ac356f3f687f0c63f36c04a2&chksm=bdba93b48acd1aa27390e179f08161912deced79cf12bf51e95ea7b1a0ba9c03d7406484acae#rd",
+    "publishTime": 1780712100,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjecQgdaygadk23hDAERry1LvFTsaibseA0vVG0ia4hIFDhdua7aqetxCBqedBLoH6um3ZxicQqZAInN34ibZYyHq6TnQcAppiaIoYY/0?wx_fmt=jpeg",
+    "digest": "过去半个多世纪，互联网的技术和商业体系，都是建立在“服务对象是人”这个前提之上的。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651286819_4",
-    "title": "OpenAI 为 Codex 智能体打造安全的 Windows 沙盒",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286819&idx=4&sn=c72b5b9ba1badd2ea8161c0645ced221&chksm=bdba95708acd1c66c4154f2f71984db17280367d7a3138e1ed4442bf6c4b71794304ae4e675d#rd",
-    "publishTime": 1781155800,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNhAYTZYLDqk2wvtsgvvh1wtbLIFEZJDDIU4aeicO4g1lVDJ8UHP2B6l3dltdPRwJAQh6lQpr6H9HyyE7WcIowt1A2cDCrevEHzE/0?wx_fmt=jpeg",
-    "digest": "OpenAI 公布 Codex 编码智能体所用的 Windows 沙盒架构的技术细节。",
+    "id": "2651286503_3",
+    "title": "构建云原生 Kafka：从分层存储迈向无盘未来",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286503&idx=3&sn=707849ff5c4ade43f5238dc351c28211&chksm=bdba93b48acd1aa200eded9a1f69afcc73fb8e6ac1db786657e7b60168f5781ff2c6d8710839#rd",
+    "publishTime": 1780712100,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNjPiaTGdtXCrjf8OVD8av51GBK2AmSJM1CmGPOSJPfhGVthQLq7WBVAr6R8ErJOS9gr3BhjhwbkvdpNxKicsGGiciaNhnmjUUCCYD0/0?wx_fmt=jpeg",
+    "digest": "在本文中，我们将结合从分层存储到无盘未来的各个架构演进阶段，探讨现实中的运营挑战，并详细说明架构师和平台团队必须如何调整其部署策略。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651286503_4",
+    "title": "TamboUI 承诺为使用 Java 构建 TUI 提供更强大的功能",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286503&idx=4&sn=f771751e97dd50c1fa696ad484af6dfa&chksm=bdba93b48acd1aa231a3ebe7e0ca9dc9835952fb40d07ba3f60400232093453f2d0f8b29fa49#rd",
+    "publishTime": 1780712100,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNg6zPEkLHr3oWaFyKkgTdjPpl0jaSsddSbGnOqOicfrgAxaK3UCxjgBStBDC25Hhfe6R257yJES9Boue53dHNkr6gYMzYQ78B1o/0?wx_fmt=jpeg",
+    "digest": "针对“让 2026 成为终端侧的 Java 之年”这一号召，首个现代化 TUI Java 库 TamboUI 应运而生。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
@@ -246,46 +296,6 @@
     "publishTime": 1780556862,
     "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNhMCDHyMWEUx9iaLoHvNBb57Kh0XiaXLqtZKRmZTxXDdVPBkKMVZVXWLylAG49OetlEKug3IdjsGg1ZZOepJK21HVXX6Qfeer90w/0?wx_fmt=jpeg",
     "digest": "Anthropic 抢交 S-1？OpenAI CFO 冷脸回应：没人记得谁先上市，市场最终看价值",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651286315_2",
-    "title": "写代码可以 Vibe Coding 了，为什么办公还不能 Vibe Officing？",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286315&idx=2&sn=09885b688b8367a2eb84677d05da75a0&chksm=bdba93788acd1a6e5b61a5685f45c684773a48b675771a8797a0f194c1ba026e606d087a27c0#rd",
-    "publishTime": 1780556862,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNgDoIuXl8EBFnR096n9N267EicF33bVVnfZIYyFRAwZOc1bhxkqc8IXMUTibia59yVdIaqZ3icIKAbc1nnY1htTs2q6rn9HfWaseJI/0?wx_fmt=jpeg",
-    "digest": "本文将站在资深研发的视角，从技术层面探讨现在市面上 AI+ 文档的工具与 Vibe Officing 之间的距离，分析为何 HTML 和 Markdown 都无法承载这种工作方式，并给出基于 OOXML 的解决方案。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651286315_3",
-    "title": "把数据库运维这件苦差事，交给 AI Agent",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286315&idx=3&sn=154c81386b9415c738b2892e84a1de1b&chksm=bdba93788acd1a6e52a4b99344f8fbcbd73ce1cdba787cacae766b16fb76b98f10160847f09e#rd",
-    "publishTime": 1780556862,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNiaqeLnRfP39Eg8LsrT8dHOeOtHEq8tPNrc38GWRhvcGqzeKAv2QZLw8b5b72W9qTS7UQvib8wrcITC8MQxDFL2XYeCE8XHrgjwA/0?wx_fmt=jpeg",
-    "digest": "诊断引擎怎么进化、安全底座怎么搭、Agent 怎么跑通生产闭环。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651286315_4",
-    "title": "谷歌扩大 SynthID 在 AI 水印技术中的应用，并提供内容检测 API 预览",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286315&idx=4&sn=ada09312247a581c0fb2400f5e7765a1&chksm=bdba93788acd1a6e240052af81325861d39370b7a1bd9b1173a8e000cffe3a05f1981cba6d8e#rd",
-    "publishTime": 1780556862,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjVRRhB0vMXDf0fLBGuMyFdeQvCdWnQH7OvEVAl8GawYyicobTe6leNxiaJEwuhla3wakh82utmYeMV80bCPlKRyF6FI3fISgIqc/0?wx_fmt=jpeg",
-    "digest": "谷歌扩大 SynthID 在 AI 水印技术中的应用，并提供内容检测 API 预览。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651286315_5",
-    "title": "科大讯飞面向超大规模教育场景的 Agent 系统架构演进与工程实践｜AICon 上海",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286315&idx=5&sn=8b30bba75f1cb98df892bef1e6bd4e07&chksm=bdba93788acd1a6eaaf905ca9c59ed00bbdefbc33e200c33790d8a3125fea1f91b78e68aa9d5#rd",
-    "publishTime": 1780556862,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNiaFYySro7IPYQr2GWEXicDte0W12sORm0VgYvNfOdbticNWlHfCYmRjdBqNKgU60dQPty5s201ict7wfX1wo4bo8npqJ0WuZTOTJg/0?wx_fmt=jpeg",
-    "digest": "在 Agent 系统里，决定上限的不只是模型能力，调度、工具、权限、记忆与监控这些 harness 设计同样关键",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   }

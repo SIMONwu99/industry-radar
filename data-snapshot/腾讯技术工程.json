@@ -1,5 +1,25 @@
 [
   {
+    "id": "2649802062_1",
+    "title": "AI Agent & Skill 测评方案及落地实践",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802062&idx=1&sn=a5983c28a6df652c9873b577a493571f&chksm=becc563589bbdf238034e5a4493c87e81dea1de8bb31f40c1ef8d872c6bbe3bc0016334c7860#rd",
+    "publishTime": 1781602380,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/KVER9adz906M72615UyOLbfb785d2hXpOFcnev0icMXfSoDsyhNeYh8JkYQNrZLY4nRTQalEf0JzL2e1CRJMy5NtC2q35xYZPnDP58Svp4J8/0?wx_fmt=jpeg",
+    "digest": "万字长文落地Agent评测实践",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649802062_2",
+    "title": "谁是 Agent 最强守门员？首个 Agent 技能安全评测基准 SkillTrustBench 正式发布",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802062&idx=2&sn=ce7da8c7786c043c56d64e23c92b2544&chksm=becc563589bbdf233988cfc7c3cab78347b193e620c0cd45c30193aea83ef2a55a9021b20160#rd",
+    "publishTime": 1781602380,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/KVER9adz907gPl47451s1Ug2f4SfiarEpHyuXZR6XM3Nc9CYpdict6qZZnnu5vLRTDSUerv5THLcK4rVgeqf780LP2gT3icDze2gl7gTL6qgBc/0?wx_fmt=jpeg",
+    "digest": "首个skill安全基准发布",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
     "id": "2649802024_1",
     "title": "一篇搞懂 AI Coding Agent 的 Token 成本控制",
     "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802024&idx=1&sn=14ebabcd0d270ae39c6d9cd1d12fca84&chksm=becc565389bbdf4532adbb7d98a740b93cb77c4ee8756537e12f365633b9e5eb5987abecef93#rd",
@@ -36,16 +56,6 @@
     "publishTime": 1781084220,
     "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/KVER9adz9053GB9RPKV0WI4nVyfQwtMKI6YMkqJ52c930f1zySNnfQRnjtRcNu27ZxMSiaicgSvMWLutk04ExeGibRWiaATRRkq4pXdPSlVhYa4/0?wx_fmt=jpeg",
     "digest": "自研首屏加速方案——TurboDisplay",
-    "author": "",
-    "feedId": "MjM5ODYwMjI2MA=="
-  },
-  {
-    "id": "2649801918_1",
-    "title": "高考那几天，鹅厂员工遇到过什么至今难忘的事？",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649801918&idx=1&sn=02b1729b29e056bca66a3861ca724a34&chksm=becc57c589bbded3e2112e050685b7a16251d2204bc021075d7f1913cba4f04eae5bb9e2ba33#rd",
-    "publishTime": 1780998058,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/KVER9adz907A9Q4lnMWyIMhPMiatFiapJEDxs34eb36W3eHSsp0cQswuDp1Xl2E0NZIqQNWyOQMTMJkKHp3C7gbRDNAAHumN7PspczlgJjaak/0?wx_fmt=jpeg",
-    "digest": "评论区一起来聊！",
     "author": "",
     "feedId": "MjM5ODYwMjI2MA=="
   }
