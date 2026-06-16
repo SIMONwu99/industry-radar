@@ -1,5 +1,15 @@
 [
   {
+    "id": "2649802024_1",
+    "title": "一篇搞懂 AI Coding Agent 的 Token 成本控制",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802024&idx=1&sn=14ebabcd0d270ae39c6d9cd1d12fca84&chksm=becc565389bbdf4532adbb7d98a740b93cb77c4ee8756537e12f365633b9e5eb5987abecef93#rd",
+    "publishTime": 1781515620,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/KVER9adz905QlibkFZjjzceqhbMSkUiaWzjtmKRj72dRhwQdibYzGeOsh1WOTCcbOgiamYxw1uZdrWdC64haiaw2Z7BgxIZTsJAUmKj9OfveVV24/0?wx_fmt=jpeg",
+    "digest": "万字长文 Token 成本优化指南",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
     "id": "2649802000_1",
     "title": "微信测试团队斩获 CVPR 2026 NTIRE RAIM挑战赛冠军",
     "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802000&idx=1&sn=e98b528060a2ae5d34b6f9eeb6e517ce&chksm=becc566b89bbdf7d7661c8209d3a858e73c6774e9aa879b63d396e1c477eedf68a6ec6787056#rd",
@@ -36,16 +46,6 @@
     "publishTime": 1780998058,
     "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/KVER9adz907A9Q4lnMWyIMhPMiatFiapJEDxs34eb36W3eHSsp0cQswuDp1Xl2E0NZIqQNWyOQMTMJkKHp3C7gbRDNAAHumN7PspczlgJjaak/0?wx_fmt=jpeg",
     "digest": "评论区一起来聊！",
-    "author": "",
-    "feedId": "MjM5ODYwMjI2MA=="
-  },
-  {
-    "id": "2649801845_1",
-    "title": "横向拆解Claude Code、Codex等六大Agent上下文压缩策略后，我们做了第 7 个",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649801845&idx=1&sn=25c1772d233048ad058811b25ff90a5b&chksm=becc570e89bbde18e38c4115246ea82de1494952136153f0623e1b8c6898e2d700dfa3b91c16#rd",
-    "publishTime": 1780911360,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/KVER9adz904icjO7uu7V3eJl74ibrHT6Op7KK36ibT9b6ubsbMGr4T9uqOlDic27J7Anp4vMYj72eb4wPNATNKZacQLSS8DRUOWlspZ9jpweJWg/0?wx_fmt=jpeg",
-    "digest": "一套可直接落地的可实践方案",
     "author": "",
     "feedId": "MjM5ODYwMjI2MA=="
   }

@@ -1,5 +1,15 @@
 [
   {
+    "id": "2247485659_1",
+    "title": "从“静态看图”到“动态探索”：MineExplorer揭示顶级多模态大模型被忽视的能力断层",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzYyMTA0NTc5NQ==&mid=2247485659&idx=1&sn=0641b592766cc206d9cf6a6e17e29d20&chksm=ffea7997c89df081e3009ab4c2aef6cc31f9674de3b66a98a4a4cb5fe4eabd67b41fea9bce41#rd",
+    "publishTime": 1781575200,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/JhVy5CXYiaoia3wibibzUCXZsF4mQHY2DhLsiaa2547RMyhOyRk9aia0EHvtkPhgW1u0DicAiayXE7icghP4X1rZ5Yf5o9jgCFR6hIBhnkB1xWhg1q30/0?wx_fmt=jpeg",
+    "digest": "MineExplorer 已全面开源，欢迎各大模型前来挑战开放世界",
+    "author": "",
+    "feedId": "MzYyMTA0NTc5NQ=="
+  },
+  {
     "id": "2247485613_1",
     "title": "LongCat 顶会论文分享｜三大专场深度解读 AI 前沿成果",
     "link": "http://mp.weixin.qq.com/s?__biz=MzYyMTA0NTc5NQ==&mid=2247485613&idx=1&sn=281e0d880f766044e50a78e3fd4c2e9b&chksm=ffea79e1c89df0f70c0d3ac53b08882e7abea04c4699a24f1313c95cb57218689c54b4afb548#rd",
@@ -36,16 +46,6 @@
     "publishTime": 1779417359,
     "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/JhVy5CXYiaohXciaRHKz42HqwZVlJhPsMhU2rCVqRwzFruQsGuN5MGkZhu4rvdyMUpj7HQ1XortKiagML4U9kkOPCJiahD6ibiaiaajVF2Sep5sOiaY/0?wx_fmt=jpeg",
     "digest": "从彩排室的完美演练，走向千人千面的真实舞台",
-    "author": "",
-    "feedId": "MzYyMTA0NTc5NQ=="
-  },
-  {
-    "id": "2247485335_1",
-    "title": "General 365 树立推理评测新标尺：大模型的通用推理，才刚刚“及格”",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzYyMTA0NTc5NQ==&mid=2247485335&idx=1&sn=89ab1619e0ff50bf8205f9c2ec16faf9&chksm=ffea76dbc89dffcdfb17c00c1bd0e82b063d5e175d4aba1cdf8c895070de31aaaab91aa061a5#rd",
-    "publishTime": 1777285976,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/JhVy5CXYiaojAamwQn2ocgCLvCmy82WnfU3l054A75cw2HicRHyYE2xpJJau1os1p3JOqvNLvG3cOV1JJJfjpicsPGGBy0wIA7FwZIDTfmUdzA/0?wx_fmt=jpeg",
-    "digest": "用365道种子题重构推理评测多样性",
     "author": "",
     "feedId": "MzYyMTA0NTc5NQ=="
   }

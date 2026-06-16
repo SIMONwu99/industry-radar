@@ -1,5 +1,15 @@
 [
   {
+    "id": "2247509820_1",
+    "title": "后端架构 AI Friendly 的标准与路径：面向无人值守开发时代的系统重构",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247509820&idx=1&sn=c6bfc1326933573566b4e13f14625390&chksm=cfa6b7dff8d13ec9e0d5aab821af5cc3f29f130d00dc505953977816b98ac1072ec25298171c#rd",
+    "publishTime": 1781522808,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/kN3t5R6pdz4KmFibLXrcicA4ncPOiacaIzpjmVB8rAG5fppmRyUgKKggU3PgaTB479z40uecFcvP3CCrnf3kWHzc4QVlKx3eWd18Ef2JGzZYME/0?wx_fmt=jpeg",
+    "digest": "面向7×24小时无人值守AI Coding，后端系统架构的适配和优化思考。",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
     "id": "2247509780_1",
     "title": "Qoder 工程实践：当瓶颈从模型转移到人",
     "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247509780&idx=1&sn=510914e2f03e6b3d26d57ff593310e79&chksm=cfa6b7f7f8d13ee11b5c4923ed3c9168370f4fb7d361b6bcd72302316c6dc609948fecf00b08#rd",
@@ -36,16 +46,6 @@
     "publishTime": 1780481361,
     "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/kN3t5R6pdz5qDxrV6UMRAOAib4Bu62qOQOp5SjxfNcw8ibW9zpRicrwXpLST3cFz81L3SVJ74WMeJrm6gbeAibib3LjzwmvUkOQqCUvichBpRRE4Y/0?wx_fmt=jpeg",
     "digest": "2026 的下半年，关于 Agent 我们可能最需要关注 Infra 的演进。",
-    "author": "",
-    "feedId": "Mzg4NTczNzg2OA=="
-  },
-  {
-    "id": "2247509628_1",
-    "title": "Agent核心技术概念与范式发生了哪些演变以及背后的思考",
-    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247509628&idx=1&sn=6a31cc7a478c2bba91b1eaf405176dfe&chksm=cfa6b69ff8d13f89d53cec186c2302942b919995374174500f99cdd10a9807049ca10c88c3d4#rd",
-    "publishTime": 1780309080,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/kN3t5R6pdz5XPa1tS3iaR2aBWSmR8niaBmKCuzrtcXmNPtLNkIAGc7KN1qDLtkWPchUuAo8NFO06AGiaIb8xIiaFYdwajStoLRDVQiaaG0SztcVg/0?wx_fmt=jpeg",
-    "digest": "理解技术演进背后的逻辑。",
     "author": "",
     "feedId": "Mzg4NTczNzg2OA=="
   }
