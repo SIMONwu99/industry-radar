@@ -1,5 +1,15 @@
 [
   {
+    "id": "2247495414_1",
+    "title": "小红书数据平台部 ICDE 2026 新成果：RedParrot 以语义缓存加速企业级自然语言数据分析",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247495414&idx=1&sn=3f8e8207b3fee0149054a4260a69423a&chksm=cfe44c01f893c51742a1624fca1f2136d9db78e7fd00fed528ac507deea36dd3648826761d0d#rd",
+    "publishTime": 1781690340,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/P9Hs04VFGRmfCRQgalNUa9Wht3o8RBaoJeiaPWDL1wvYE0CsPUibq938o7CaX5ibnrym77KTmZ4W5mKu9yzuW2tLspYy5ePG1TVrorYASY00u4/0?wx_fmt=jpeg",
+    "digest": "近日，小红书数据平台部联合浙江大学在 ICDE 2026 发表论文《RedParrot: Accelerating NL-to-DSL for Business Analytics via Query Semantic Caching》",
+    "author": "",
+    "feedId": "Mzg4OTc2MzczNg=="
+  },
+  {
     "id": "2247495297_1",
     "title": "小红书多媒体任务调度系统的演进优化",
     "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247495297&idx=1&sn=735c23c396fc39d6fbe04ad9bb503d14&chksm=cfe44c76f893c5609b984f2e9cfb6fa96aa71dd27e40a475f1430f6f1b7ab5725275d3d8d45c#rd",
@@ -36,16 +46,6 @@
     "publishTime": 1778580000,
     "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/P9Hs04VFGRmShGCtjal8UEssIcYExhS04iaMT0gu8J3SfbgXucHPKucz4YBMibOhERAQPKP4EEJayWVTBicbNNxbqMayQ0wPt9Id9IA2YWPiarE/0?wx_fmt=jpeg",
     "digest": "用工程化的方式让 GUI Agent 在真实业务场景里跑起来、跑得稳、跑得省钱。",
-    "author": "",
-    "feedId": "Mzg4OTc2MzczNg=="
-  },
-  {
-    "id": "2247495214_1",
-    "title": "打造AI时代项目管理新范式 - 小红书PMO团队的Agentic探索之路",
-    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247495214&idx=1&sn=7b7de8e86eaedf6f0cdda2f56b05cbbd&chksm=cfe44cd9f893c5cf82ba31e5e52ce316bb5d8a3b534d78aa7a02d1a1df65b9b49183fbb7d479#rd",
-    "publishTime": 1778493480,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/P9Hs04VFGRlqKB3vrAT8Ow9dnrV8CpJiaKq54dgp9nboeox4yickAYRU4qfoxfgwHTRp321xm5xUoh37ia0qLhYQuyR6UuWicmPjJx8fqQRrgB4/0?wx_fmt=jpeg",
-    "digest": "从「让 AI 理解项目管理」到「为每个项目组打造一个专属 BP」",
     "author": "",
     "feedId": "Mzg4OTc2MzczNg=="
   }

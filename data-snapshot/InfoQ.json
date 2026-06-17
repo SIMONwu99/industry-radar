@@ -1,5 +1,55 @@
 [
   {
+    "id": "2651287250_1",
+    "title": "Cursor 1.5T新模型放弃Kimi基座！600亿美元股票换Cursor，马斯克第一刀砍向微软GitHub",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287250&idx=1&sn=ec24ac0033677dc7c4df6fda2ebdf1be&chksm=bdba96818acd1f971e1758a2c55e5f92e69c65c376ed804f1f2a2aee6938e2a56e05dd28b0de#rd",
+    "publishTime": 1781678123,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNiaNRtT7cO2tnJhXJbDLIGBoib8s4Zx6zVbzmsc3GuW9Nibb2ibqSjEfI8FDicD2SWd2xE92Q2SVMeR6P5dib58Eia2oaicVWVkbSOib9u0/0?wx_fmt=jpeg",
+    "digest": "今天，Cursor 在 Compile 大会上发布了几个产品“期货”",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651287250_2",
+    "title": "大模型已经够聪明了，为什么 95% 的 AI 项目还是跑不出 ROI？",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287250&idx=2&sn=19868c946a3e659e044b63c949111a71&chksm=bdba96818acd1f972f1e8826c547a90015ed06d3b8d625027ab04e6520e8e837224f74d7cd32#rd",
+    "publishTime": 1781678123,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNgvbE2Qvb6cMze7aCvTGWvtlNGZUEr2tH3hXC5xcorIicPoeqj3s62PricUs1oxez4icGiaMmPgE6XQxGbibYGxPX3J7rpXHiaG5zFiaQ/0?wx_fmt=jpeg",
+    "digest": "模型能力突飞猛进，企业 AI 投入成本与日俱增，但然后呢？",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651287250_3",
+    "title": "AI 企业 Day 0 出海，如何少走技术弯路？",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287250&idx=3&sn=4fecbfc4b1fa7c38c3338cf0b46465a0&chksm=bdba96818acd1f973bb1c4c55c454353efb141ba98c009f9649dd0777c27f95e94f15a1d71bf#rd",
+    "publishTime": 1781678123,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNgGGdD7kkaOWEjGPxx3zg2SbGrOvCL2OkdqW7EZ3YyjflRTd2fYx5J6xrnX9hCGaYjpxJA0YlgOhpsAn2BibqPkhop5z0pHdF8k/0?wx_fmt=jpeg",
+    "digest": "起跑线的差距，不是后期优化能弥补的",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651287250_4",
+    "title": "Java 近期新闻：JDK 27 进入收尾阶段、JDK 28 专家组、GlassFish、Infinispan、Kotlin",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287250&idx=4&sn=08da2adafc5bf75994ae973e6a30464e&chksm=bdba96818acd1f9783136d65d56b57f268cea8dde67827011751042058856c36a8b754a74361#rd",
+    "publishTime": 1781678123,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNja1quYezdgNenc1xOJpEuTPZOXHQVySrKOAeSoSvCZiaySZvflibHvYKBOC8vFLkTxxHhWj5TRTpQoYrj18wqFECSiadDGPSHLzA/0?wx_fmt=jpeg",
+    "digest": "本文为 Java 近期新闻，内容涉及：JDK 27 进入收尾阶段、JDK 28 专家组、GlassFish、Infinispan、Kotlin。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651287250_5",
+    "title": "生成式推荐引擎升级，快手在线参数服务器性能与时延深度优化实践｜AICon 上海",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287250&idx=5&sn=9686035f79985eea3336a95b6baae8b9&chksm=bdba96818acd1f97fc79165d3a2e2096ac28cb86d175aa32ad8dab28fd247df697babf0d26a2#rd",
+    "publishTime": 1781678123,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNhtdXL3NCKuJByxzr7GCz0D2RiasHyNj4aQnYPYQOcq05FfwBCkDnrwntPhkTJf6cR1pEIb5RoELB8eCIfrAyxvlpPzNYlsjiaJs/0?wx_fmt=jpeg",
+    "digest": "随着模型规模的持续扩张以及在线请求量的爆炸式增长，传统在线 ParameterServer 逐渐暴露出性能短板。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
     "id": "2651287211_1",
     "title": "Redis 之父为 DeepSeek 抱不平：美国 AI 圈又为“蒸馏”吵起来了",
     "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287211&idx=1&sn=5db63e2f8d84a6ab3b0e48f3538615ad&chksm=bdba96f88acd1feefa257f6affc8f9b14ce75b121c42236411d87ecb1fcd66c48544599d360e#rd",
@@ -160,42 +210,42 @@
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651286878_1",
-    "title": "Snowflake 迈向 Agentic Enterprise 的关键一跃",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286878&idx=1&sn=6c3c80b949ef61c1a39c3db8238b2a37&chksm=bdba950d8acd1c1bd5563b90d8d5134262040328611b516f3a6e221bc20bd8fa8d537523aa1e#rd",
-    "publishTime": 1781239086,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNj943V3cCcFibTcfJl3Qgyp8gRq4kjbhXQfspA78z8no9kcR2f2ibRLLS4m6Nporg6icXcOfkg4dRXeCumavI5xicSEyaGfZ0brRN4/0?wx_fmt=jpeg",
-    "digest": "最好的 Agent 平台，必须建立在最好的数据平台之上。",
+    "id": "2651286556_1",
+    "title": "Coding Agent 技术全景图：Context Engineering、Subagents 与 Harness，一年范式转移全解析",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286556&idx=1&sn=e20fc46413fcb8fae553d416e38598d6&chksm=bdba944f8acd1d59b5efd6431c1a72b2e793ccf2188342d898d36aced3a1c6a20f9165c02656#rd",
+    "publishTime": 1780798500,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNiaq0LIm414ENsK1vcKcNibIwv9WHRTurSNBXP21h1EF0EDUAlnmrFnOhcq3nv4nqVE3FNsqT4U9MeR51vWDQ6jG4ZBDfichhvv5o/0?wx_fmt=jpeg",
+    "digest": "也许未来我们不再靠传统服务模板起步，而是靠“Harness模板”，实例化后直接支撑整个代码库的演进。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651286878_2",
-    "title": "技术采用曲线：回望二十年",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286878&idx=2&sn=3d34299849597658445c33a68ddb933b&chksm=bdba950d8acd1c1bc46bcdc0ec83d5e2f61ba06a1efe9d5eeaa983fd963e6ddfad0c2ccef7ea#rd",
-    "publishTime": 1781239086,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNj3XtYyVavw8HrF7EnkvS13BA4mxhOyb8PV8YdO1IibDF3PwVzsarMqxIjXCKZVFcic62xkYx4YENPjg747K7SlNicFaS5hPsYTic8/0?wx_fmt=jpeg",
-    "digest": "6月8日InfoQ迎来二十周年，本文精选梳理其早期关注的技术与实践，分析它们当下所处的应用阶段，并预测未来五至十年的发展走向。",
+    "id": "2651286556_2",
+    "title": "砍掉90%冗余词元，省下70万美元：Netflix开源工具狙击AI账单黑洞",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286556&idx=2&sn=5f2c0c609af8ed994a20ecc86aae53bd&chksm=bdba944f8acd1d59260ac3500252990d62250a568bddf64b2fd77acb8fe9c89439cf6ecb82d8#rd",
+    "publishTime": 1780798500,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNj6q5eULOhCfP9buR95gD0LicPOVHMkUwicmBmMCia57rdTTlqQkiawrFk4tJ5SEQNZNep36Oh1tZCSeZrHcuX4ZkRdWH5HBkDhMKc/0?wx_fmt=jpeg",
+    "digest": "正如 Uber 和微软 COO 最近所领教的那样，鼓励公司工程师积极使用 AI 可能会带来巨额账单，甚至可能抵消裁员带来的所有收益。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651286878_3",
-    "title": "微软 Foundry 新增生产级智能体运行时、工具链与管控能力",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286878&idx=3&sn=3be100defb8b7132db4d80dcd80f918c&chksm=bdba950d8acd1c1b9a5bcbeda4b2d9ef8273079121e238033ab88e7e47f2bdbed1363fde44b1#rd",
-    "publishTime": 1781239086,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjzXMIrLpcr3lNB2WC3a0JOD86bWZedHeMqlvyWtdGS7IjSnNXO5aUpicfeGz3fg3lWDeOS0aM7aC4tyNn3jX1EVEqlk4BOjhl0/0?wx_fmt=jpeg",
-    "digest": "微软在Build 2026大会推出Microsoft Foundry新功能，该平台可助力AI智能体落地生产环境，本次更新补齐了搭建生产级智能体所需的全套能力，并非仅新增模型接口。",
+    "id": "2651286556_3",
+    "title": "Meta 重构 PB 级高可靠数据摄取架构",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286556&idx=3&sn=7efa5949660d3ca90ea72ab23df8e804&chksm=bdba944f8acd1d59d6f873f89593b50eae5960486fc540264b70d8008248194b601a636a79aa#rd",
+    "publishTime": 1780798500,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjDU7uAgHFlHKib4t8w5UNC4xsBVTXMh7Tel20n4FXGAuajxf8CAYW8uxAcBURToGAqH1at8SlqGHDibpRJtibjCrbJfSzlicQc7n8/0?wx_fmt=jpeg",
+    "digest": "Meta工程团队完成日均数PB MySQL社交图谱数据的摄取平台迁移，借助反向影子部署、校验和持续监控等手段，实现零停机迁移，并提升了系统可靠性与运行效率。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651286878_4",
-    "title": "Cloudflare 发现 ClickHouse 查询规划阶段存在性能瓶颈",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286878&idx=4&sn=9cdf276e8ea26c3533e5fb602ab76a87&chksm=bdba950d8acd1c1baa5ff8f2066b6b4182fdd3e63a9608a17c304d5c486e7bdc1ce4df9c886c#rd",
-    "publishTime": 1781239086,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNhgknC2oNrQAuNG3HVHiaIP1icHM5ugtyS5v393AibKoecM6FyezK52TibWSVnbZtdwnQUkG5t7syRoLiaGLdLv8aV5Q0A5ca8bAvPk/0?wx_fmt=jpeg",
-    "digest": "Cloudflare 计费管道卡顿源于ClickHouse查询规划阶段的锁竞争，团队通过修改锁类型、取消分片列表复制、优化分片过滤等补丁修复问题。",
+    "id": "2651286556_4",
+    "title": "AI 辅助迁移工具：数分钟完成 ingress-nginx 向 Higress 迁移",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286556&idx=4&sn=7cc7d11ab03dc4e1cf8587bb7e4d759d&chksm=bdba944f8acd1d591109b24e3152446c13556cf0ea6da1fb581611f33d69eff888cbafd75697#rd",
+    "publishTime": 1780798500,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNggw9Jz4FCoC2iahPbfgl0CHSENHpFp3ibyCBKRvCuh0XY9pa7ZgQ1gj5JAVQHM2p8pzcYu4dPGaM5NIk2Vt9VNtQGY7CR9wSFWI/0?wx_fmt=jpeg",
+    "digest": "CNCF推出AI辅助迁移方案，可快速完成ingress-nginx到Higress的资源迁移，体现出AI在云原生网关基础设施现代化中应用愈发广泛。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
@@ -246,56 +296,6 @@
     "publishTime": 1780641000,
     "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjxxwoaveW1fCSia6VxS3DxSibvNQxaKrMDoB5Zfsf7nUtJEkl6iaXj8hrXFib7aKjGyhOyZT38zRDfgmIuFbmm4tQVK6IJOWq8J70/0?wx_fmt=jpeg",
     "digest": "据 Business Insider 报道，Anthropic 正在通过一个由约 1000 名人类软件工程师参与的项目，提升旗下 AI 编程工具 Claude Code 的表现。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651286445_2",
-    "title": "openJiuwen 社区又上新： JiuwenSwarm给Harness 装上「后训练」",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286445&idx=2&sn=96ee0c464a6f16d01c6145f0f208e874&chksm=bdba93fe8acd1ae8baebea73de6d2f00930aa7cb2840ce904403594451f3d5c459a052deba25#rd",
-    "publishTime": 1780641000,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNjS3XugW61ddmDHEgibLeEMbTty9nGS02r0C4K25ib5lfxmcBJeh4L6t4grN1Dpvv6OATqmIPlKe6nPtQk39MibOG3R5xrVxoj6So/0?wx_fmt=jpeg",
-    "digest": "开启 Harness 后训练新范式",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651286445_3",
-    "title": "英伟达甩出物理 AI 王炸！Cosmos 3 全模态模型开源，Agent Tookit 补齐工具短板",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286445&idx=3&sn=f6adfe460e167cd807dee6e56dd7478a&chksm=bdba93fe8acd1ae82abd50d404683005301ad92b4920a2a7d26f2fd13ad297e54c64e29c5ff7#rd",
-    "publishTime": 1780641000,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNiaiarKJ4JvdLZVwMXb3SiafxtzeBicA4ANG7kRZE1Lia4m4uITeDtLtGIb3icplBMZTHPNqLW6k84VoziapJGiaQJSYIs1ynQ9mtOh49c/0?wx_fmt=jpeg",
-    "digest": "英伟达正试图锁定物理AI时代话语权。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651286445_4",
-    "title": "微软推出 MDASH，用于大规模 AI 漏洞研究",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286445&idx=4&sn=de8ebef020c463361aa349a0606ff917&chksm=bdba93fe8acd1ae8cf2c5a672ff31313a115bd9c31b40491eed54907107434afc7d66233f28a#rd",
-    "publishTime": 1780641000,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjbxXnZQsyiayUX7PwYQxrSR44GFqIxAsUcO6Vs5LAchy1lpbVG40TtWDXMicMeDD0hH2bI8lhicg7r1MQ2n7sR5fA7pGtCxXlnwQ/0?wx_fmt=jpeg",
-    "digest": "微软推出了一款 AI 驱动的新型漏洞发现系统 MDASH。这是一个多模型代理安全平台，用于对 Windows 及其他微软软件环境进行大规模的代码自动化审计。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651286445_5",
-    "title": "AI Agent 沙箱的网络安全：从流量隔离到智能治理｜AICon 上海",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286445&idx=5&sn=0dd575849e4aedb921e97c8211db95fe&chksm=bdba93fe8acd1ae87f2d75b600f1919d5b5f64ef7a9f56059361e04dd32c7df21d2b3e739641#rd",
-    "publishTime": 1780641000,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNiaE8SVgZSpzVGM6XX4G69N5VmfrfemiavvukdzErZcTsSlZRzGb2ibcibwaicbohXSS72ia1fYmIV694UyqCTyutBczSyX5aFiaxL9dk/0?wx_fmt=jpeg",
-    "digest": "本演讲以阿里云 ACK 在生产环境的实践为主线分三个层次展开",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651286315_1",
-    "title": "OpenAI CFO 首次详解公司战略：B端C端收入五五开、抢 IPO 第一名没意义、神秘硬件今年公布",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286315&idx=1&sn=d93377aa78bee152659192677541f079&chksm=bdba93788acd1a6eaf8abefa64babf08fcc1ce55135b57bfc22cb7165dcc7f4a7f70d5e51864#rd",
-    "publishTime": 1780556862,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNhMCDHyMWEUx9iaLoHvNBb57Kh0XiaXLqtZKRmZTxXDdVPBkKMVZVXWLylAG49OetlEKug3IdjsGg1ZZOepJK21HVXX6Qfeer90w/0?wx_fmt=jpeg",
-    "digest": "Anthropic 抢交 S-1？OpenAI CFO 冷脸回应：没人记得谁先上市，市场最终看价值",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   }

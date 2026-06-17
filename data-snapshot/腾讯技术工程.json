@@ -1,5 +1,25 @@
 [
   {
+    "id": "2649802115_1",
+    "title": "拆解大模型几项核心操作背后的数学与 Infra 优化逻辑",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802115&idx=1&sn=30424274c8e7e355c2ee62e70b058d52&chksm=becc56f889bbdfee9a56d870ff6bd1cc73e5bc5958d6984960136daadfb8011f0f4749a09da2#rd",
+    "publishTime": 1781688718,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/KVER9adz905ia76VjjQGjG0YIYZh4IzgMA9zpU9ickZtiaHQ4m8wGsibff116HCrFNt0grpQ1bic3YotibG8HhRwNv4sXNI8tEbzicAo0oWBNPwZwc/0?wx_fmt=jpeg",
+    "digest": "AI Infra科普、入门或者进阶",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649802115_2",
+    "title": "AI 真的能帮你微信下单了！",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802115&idx=2&sn=f27fb69af23cbed1d814390a84147742&chksm=becc56f889bbdfee4b3b883f63bac504a3165b41ea76a9c911cce3f0420eaee5842166b551ee#rd",
+    "publishTime": 1781688718,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/KVER9adz905KuJzzP6wemgJ3piaC7ZibtRjTJzkGF4TfltpWTxI7KQGSn7GvqGicrKYwOeBfgbclB8pm6vkJkqJRaR7nckODWFrhZ8l5UMfZL4/0?wx_fmt=jpeg",
+    "digest": "微信支付正式发布「AI 专属卡」",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
     "id": "2649802062_1",
     "title": "AI Agent & Skill 测评方案及落地实践",
     "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802062&idx=1&sn=a5983c28a6df652c9873b577a493571f&chksm=becc563589bbdf238034e5a4493c87e81dea1de8bb31f40c1ef8d872c6bbe3bc0016334c7860#rd",
@@ -46,16 +66,6 @@
     "publishTime": 1781165966,
     "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/KVER9adz906m2f5jdzsvWniajo553nahPD5bptibibuTlEYVSH0TIAfB9wUla3ge3RCbbIIrnPoyJcNFzib7ia41ZjRJx8N0ouoWlRhGMA3qcEEw/0?wx_fmt=jpeg",
     "digest": "全新更新升级",
-    "author": "",
-    "feedId": "MjM5ODYwMjI2MA=="
-  },
-  {
-    "id": "2649801924_1",
-    "title": "跨端页面秒开，腾讯开源框架Kuikly是怎么做到的？",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649801924&idx=1&sn=319b28177b03a56e9d63b61285e5606b&chksm=becc57bf89bbdea94e28f8b399075b4cc7ca807ec53e904446c9fe47ba006824bcd97b5bcf03#rd",
-    "publishTime": 1781084220,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/KVER9adz9053GB9RPKV0WI4nVyfQwtMKI6YMkqJ52c930f1zySNnfQRnjtRcNu27ZxMSiaicgSvMWLutk04ExeGibRWiaATRRkq4pXdPSlVhYa4/0?wx_fmt=jpeg",
-    "digest": "自研首屏加速方案——TurboDisplay",
     "author": "",
     "feedId": "MjM5ODYwMjI2MA=="
   }
