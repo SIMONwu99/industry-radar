@@ -1,5 +1,15 @@
 [
   {
+    "id": "2247509834_1",
+    "title": "Loop Engineering 概念解析、思考与实践",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247509834&idx=1&sn=b514f1bc2616df514cb218a5bad28296&chksm=cfa6b7a9f8d13ebfe7a2958fa539f9dbec358f50d27a2d37b725c04fdcca3d2a122e37be512d#rd",
+    "publishTime": 1781778022,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/kN3t5R6pdz6S6teY5R5dMWu03E3xZObdUkdLWGb273g2NMJBibc9nrjLzHHcuuSuoXk8iadibA64E6UnlbmPXqwNVVqreOic2Pbemff46ZibnArE/0?wx_fmt=jpeg",
+    "digest": "技术探索过程中的一些心得与总结。",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
     "id": "2247509820_1",
     "title": "后端架构 AI Friendly 的标准与路径：面向无人值守开发时代的系统重构",
     "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247509820&idx=1&sn=c6bfc1326933573566b4e13f14625390&chksm=cfa6b7dff8d13ec9e0d5aab821af5cc3f29f130d00dc505953977816b98ac1072ec25298171c#rd",
@@ -36,16 +46,6 @@
     "publishTime": 1781008933,
     "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/kN3t5R6pdz6joE5oChcJSbMV23Bc1G28hMFP1ot0iaN8JbS4gQBUvkMibJTgBGz8xMSvAZKSelBib62MFzAf0gtaGeLJiaKDUeAwDkXXwoncvjc/0?wx_fmt=jpeg",
     "digest": "本文阐述了Harness Engineering作为AI Agent自主演进的核心工程体系，通过约束机制、反馈闭环、工作流编排与结构化Rubric评估，实现长时运行下的自我迭代与持续优化。",
-    "author": "",
-    "feedId": "Mzg4NTczNzg2OA=="
-  },
-  {
-    "id": "2247509639_1",
-    "title": "重新思考研发基础设施：当 Agent 成为第一公民",
-    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247509639&idx=1&sn=bac09af0c76f4383f03c0d96cb48bd0a&chksm=cfa6b664f8d13f7221a5323d4aea4ab0a2186df3b2a265104424e38ceeb205c489efcb0bca5b#rd",
-    "publishTime": 1780481361,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/kN3t5R6pdz5qDxrV6UMRAOAib4Bu62qOQOp5SjxfNcw8ibW9zpRicrwXpLST3cFz81L3SVJ74WMeJrm6gbeAibib3LjzwmvUkOQqCUvichBpRRE4Y/0?wx_fmt=jpeg",
-    "digest": "2026 的下半年，关于 Agent 我们可能最需要关注 Infra 的演进。",
     "author": "",
     "feedId": "Mzg4NTczNzg2OA=="
   }

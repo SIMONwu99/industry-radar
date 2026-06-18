@@ -1,5 +1,45 @@
 [
   {
+    "id": "2651287343_1",
+    "title": "当 Token 成为商品，AI 基础设施会怎么变化？",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287343&idx=1&sn=e2b3ae44c168110fd4ab3b1f861646b1&chksm=bdba977c8acd1e6a95f9425d036ef46b34f03b1350495dd5be46ddf8a85d5eca55efd23cfcf7#rd",
+    "publishTime": 1781762400,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNgKbxgH6wbFVUy7pJ48dd35icibjvE6JlwTsfgeUNp8grlw0rJiaLEmxbCTvev0C5r0rRHaPcrVYEHt2NTibBPjv9k6zZHajCyOvkA/0?wx_fmt=jpeg",
+    "digest": "时代需要智能生产力的突破",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651287343_2",
+    "title": "AI 时代，实时入湖正在告别 ETL：从 Kafka 到 Iceberg 的架构减法",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287343&idx=2&sn=97526ae2ed89d3c24496bf4c3ae6c398&chksm=bdba977c8acd1e6a3ccf5dd242f11ae4dcd49ce02735c4fcc092c658ffef2a9747d3634f02ff#rd",
+    "publishTime": 1781762400,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNialCdz9PNAhD1OmlNZw8ySicFJgibQRNGfuHy2s3x1aLw9Nn8HL8ic62t2vgNRbP90w7DIR6Liblw3XE77IBZphgYBspoSFMjlhJ1c/0?wx_fmt=jpeg",
+    "digest": "在 AI 驱动的数据应用场景中，企业越来越需要一套同时支撑实时消费、历史沉淀与多引擎复用的数据底座。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651287343_3",
+    "title": "Pinterest 利用内容指纹技术，在数百万个域名中实现 URL 去重",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287343&idx=3&sn=cf2b9d46fbfa9bc1db48c8b8e798a346&chksm=bdba977c8acd1e6aa793d7da79ce763c5e4344fe076e79be657a81f44edd4e07bdab07d65cd3#rd",
+    "publishTime": 1781762400,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNgQUV7Dwhbr9x5u4pS2J0B0wcmYiboEzQt34KBRZrhzZDfNpNcx2J5YB8MQzQChbzRia11SonyjsSeI3qCkDZ97RSnMbycXVgatI/0?wx_fmt=jpeg",
+    "digest": "Pinterest 工程师开发了一套名为“最小重要查询参数集”（MIQPS）的 URL 标准化系统，旨在优化其大规模数据采集管道中的内容去重处理。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651287343_4",
+    "title": "AI Agent 沙箱的网络安全：从流量隔离到智能治理｜AICon 上海",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287343&idx=4&sn=c5639884dacee3ed50e7ab04bc68d237&chksm=bdba977c8acd1e6ab0108626a0c7d15d46d8efd0c41168f8b86d38596892f5dbe9e3186131d0#rd",
+    "publishTime": 1781762400,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNiaMoj6nWSve7WiaEjMr03elrQwhP0ypVqicJbEicg7S6egWQoPGIPHEyxcNQ7Go0gta4jxPh5msV6R0GowxZ9v4guMwnKdfkXa19U/0?wx_fmt=jpeg",
+    "digest": "本演讲以阿里云 ACK 在生产环境的实践为主线分三个层次展开",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
     "id": "2651287250_1",
     "title": "Cursor 1.5T新模型放弃Kimi基座！600亿美元股票换Cursor，马斯克第一刀砍向微软GitHub",
     "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287250&idx=1&sn=ec24ac0033677dc7c4df6fda2ebdf1be&chksm=bdba96818acd1f971e1758a2c55e5f92e69c65c376ed804f1f2a2aee6938e2a56e05dd28b0de#rd",
@@ -170,42 +210,52 @@
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651286939_1",
-    "title": "严禁手写代码、一天烧不完 10 亿 Token 就是失职：OpenAI 工程师揭秘“零人类编码”的激进实践",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286939&idx=1&sn=4c7b1d2d31e85c97537dbdf4f421bebb&chksm=bdba95c88acd1cde61812ca1caf7d2223fcee5b75709adcbafa0160774efce7f9323b4326297#rd",
-    "publishTime": 1781328600,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjFaE45rQdHqicnHDE9yBjOwdpSvaBMf0aGoO0w6lmN6Xeic0uSttzbqAMjRXzvUy60a8aTlcjIV0Dq9plsyMr1QIh8wtuzYyAug/0?wx_fmt=jpeg",
-    "digest": "Harness Engineering，这个词最近在开发者圈子里引发了激烈讨论",
+    "id": "2651286622_1",
+    "title": "云知声U2，重新计算通用大模型的商业价值",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286622&idx=1&sn=0aaf0cecf1cfab309da2a33d1f5f69c3&chksm=bdba940d8acd1d1be20225f72dd4d0754974631f9ff2c0ca9e5b83e90fd6a3d301e9bd82b81d#rd",
+    "publishTime": 1780900200,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNia1YXB2vglZskHicat8z6gY59ZicIIwfZbUnJ7kSmTm4TWWZNmmicuNcIoibentpcFEtXXtjLJmlcLabutLXiagIm0cMSuvc6EhBUTQ/0?wx_fmt=jpeg",
+    "digest": "参数规模本身，并不能直接转化为应用价值。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651286939_2",
-    "title": "OpenAI 秘密递表！三巨头一起“抢钱”：AI 史上最贵一轮融资要来了",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286939&idx=2&sn=a72aed1686b7568356047e3caccd3a3e&chksm=bdba95c88acd1cde38b63ffec499b4308211692d2a1ef873ffc822231272e7129fedb567cf01#rd",
-    "publishTime": 1781328600,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjxmIXiaEQyUuicuG0fibvdDibhUlGCEYkycRP4IuuQmJJLw1sdGkLqgSg4o2gxUNiamOqER1tL52xxyzL9GuKwVSwUT4dYjI8JCmJ4/0?wx_fmt=jpeg",
-    "digest": "近日，OpenAI 已向美国证券交易委员会（SEC）秘密提交了 IPO（首次公开募股）申请。",
+    "id": "2651286622_2",
+    "title": "别再碰瓷 100 亿美元“身价”的世界模型了，李飞飞这次手把手教你分辨",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286622&idx=2&sn=8efd498d3db69e8d738bd3d0f9c0518a&chksm=bdba940d8acd1d1b1deeaaf85193cf94cc3be71e9708aedac32bca982c65c1fa369734fe9844#rd",
+    "publishTime": 1780900200,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNiaA0iar4K3ictefsTRPia8jhIibDyQyT9lHPKrr1gr7zurMjsjIJMnNXcOZG6Q277ElaEvfAN6L5gIINMf5d4A8zl4VVkiawudG46XI/0?wx_fmt=jpeg",
+    "digest": "世界模型火了。但其实际概念一直众说纷纭，让人摸不着头脑。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651286939_3",
-    "title": "Arm 神经技术与虚幻引擎 MegaLights 首登移动端，手游画质跨入电影时代",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286939&idx=3&sn=aa541a2c4db0abd507b0dca9a708d0bc&chksm=bdba95c88acd1cdec2e23a7481e2d6c2285ccd15db0daf6802a35da5fe9232448d30e99d3ce1#rd",
-    "publishTime": 1781328600,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNhJdYapToiaQZYEgCAR3VRhiawSia7qD4uAiadHjsbBdOH8265bzVmMvibIcUrDZCvrnyzRVWO7u8KgV5Hic9Egz30LeVFviaTeZ4iaicjE/0?wx_fmt=jpeg",
-    "digest": "未来移动 GPU 的一个重要发展方向——从单纯提升图形算力，转向图形计算与神经计算协同工作。",
+    "id": "2651286622_3",
+    "title": "架构变更案例：面向演进式架构的实用方法",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286622&idx=3&sn=85e836a3bf6be76c05e56d1a5ece50a2&chksm=bdba940d8acd1d1bc277aeedeb82737a6284722088da7c80639183b3d0c839d1877e7f25ff73#rd",
+    "publishTime": 1780900200,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNhNgHVvjNWfVvr3Z0PZ62MCSUMbnHDuSZl3RENLY8dpbC8xlDEWG9E9M18zlk5oeHRMFadZgnYjkqwrS9QS1XyI8wic7Y8NjTP4/0?wx_fmt=jpeg",
+    "digest": "架构变更案例拓展了架构决策记录（ADR）的设计思路，用于评估各项决策后续可能发生的变更，能够挖掘隐藏的预设条件，协助团队预估变更的撤回成本与可逆程度。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651286939_4",
-    "title": "Zero 1.0 发布，Rocicorp Web 同步引擎迎来首个稳定版",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286939&idx=4&sn=0152b51992e4690840e069f65cab254f&chksm=bdba95c88acd1cdebf0d8d72d43e98360c3580a2da666c7d3a65a0573073187b1222997e1432#rd",
-    "publishTime": 1781328600,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNiajuM7Ymw1A1pOibr7SqgegaG7vJeyVCAWcWuj6VVlCAic07N1QeZoAGeEAOADiblWJ8PokXgOicTibddmdMfj1DpXNNvLrrInW5skc/0?wx_fmt=jpeg",
-    "digest": "Rocicorp 推出通用Web同步引擎Zero 1.0首个稳定版，已全面支持Zero API并将持续维护，后续破坏性变更会极少且影响有限。",
+    "id": "2651286622_4",
+    "title": "Next.js 16.2 发布：开发提速 4 倍、渲染性能优化，新增深度适配 AI 智能体的开发工具",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286622&idx=4&sn=95d1829ac8bc54c173c4c28a83a659b9&chksm=bdba940d8acd1d1ba85a624f37b198ce89a4d84e3b850973218550561793c09fba93738890d3#rd",
+    "publishTime": 1780900200,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNgicH7SZGuhQbfJuTu3z7hUtwED1KrhDIL9BacYNtHMD46rSyvjFoeFXAwUAeVYD6l6ib03QJjYgAReAcmtFFKDn1yMj6tZP3OUE/0?wx_fmt=jpeg",
+    "digest": "Vercel推出开源React框架Next.js 16.2新版本，优化性能与调试体验、新增AI智能体配套工具，并完成200余项Turbopack修复优化。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651286622_5",
+    "title": "迈向高保真与工业化：混元 3D 生成大模型从理论到实践的 SOTA 之路｜AICon 上海",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286622&idx=5&sn=512383e8381d7b723e976fa0f9d39b10&chksm=bdba940d8acd1d1b6caffd0c074da684dbf83b204e0ddf6db7364a74273ccd8d3a3baac64b57#rd",
+    "publishTime": 1780900200,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNiaqsibuJzQJ7pibluQrSsYKibX5gkOUobUT8Pgz8U2Yj4NSV2qz3BGxicA4xVuQ8U43LuePicalgiaP0F0BqXHoCwRzAzKZC3O3xN0Hw/0?wx_fmt=jpeg",
+    "digest": "腾讯混元3D生成大模型致力于通过AIGC技术重塑3D内容生产管线",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
@@ -246,56 +296,6 @@
     "publishTime": 1780798500,
     "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNggw9Jz4FCoC2iahPbfgl0CHSENHpFp3ibyCBKRvCuh0XY9pa7ZgQ1gj5JAVQHM2p8pzcYu4dPGaM5NIk2Vt9VNtQGY7CR9wSFWI/0?wx_fmt=jpeg",
     "digest": "CNCF推出AI辅助迁移方案，可快速完成ingress-nginx到Higress的资源迁移，体现出AI在云原生网关基础设施现代化中应用愈发广泛。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651286503_1",
-    "title": "“英伟达也缺算力！”顶尖 AI 研究员转投 xAI 内幕：谁 GPU 管够，就去哪里",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286503&idx=1&sn=05966c3549545a6b330e6c0463482767&chksm=bdba93b48acd1aa24695047b4a079da14b5fea45be0ff71df134f979ca5e3a53b62cae29e0f2#rd",
-    "publishTime": 1780712100,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNgAxgoDDTuqKSoY631AMUuH9Sp3dTp9ZmgwPzrJ5COEhGztmxCzNa8FlBdMictsibYJ6ibhZEmkj071zYP4O75iacaoHbXR06rMUak/0?wx_fmt=jpeg",
-    "digest": "在 AI 行业，最硬的招聘福利，得加上“算力”了，而且连英伟达都无法置身事外。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651286503_2",
-    "title": "互联网变天：机器人流量首次反超人类，Agent 时代拉开大幕",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286503&idx=2&sn=10233266ac356f3f687f0c63f36c04a2&chksm=bdba93b48acd1aa27390e179f08161912deced79cf12bf51e95ea7b1a0ba9c03d7406484acae#rd",
-    "publishTime": 1780712100,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjecQgdaygadk23hDAERry1LvFTsaibseA0vVG0ia4hIFDhdua7aqetxCBqedBLoH6um3ZxicQqZAInN34ibZYyHq6TnQcAppiaIoYY/0?wx_fmt=jpeg",
-    "digest": "过去半个多世纪，互联网的技术和商业体系，都是建立在“服务对象是人”这个前提之上的。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651286503_3",
-    "title": "构建云原生 Kafka：从分层存储迈向无盘未来",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286503&idx=3&sn=707849ff5c4ade43f5238dc351c28211&chksm=bdba93b48acd1aa200eded9a1f69afcc73fb8e6ac1db786657e7b60168f5781ff2c6d8710839#rd",
-    "publishTime": 1780712100,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNjPiaTGdtXCrjf8OVD8av51GBK2AmSJM1CmGPOSJPfhGVthQLq7WBVAr6R8ErJOS9gr3BhjhwbkvdpNxKicsGGiciaNhnmjUUCCYD0/0?wx_fmt=jpeg",
-    "digest": "在本文中，我们将结合从分层存储到无盘未来的各个架构演进阶段，探讨现实中的运营挑战，并详细说明架构师和平台团队必须如何调整其部署策略。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651286503_4",
-    "title": "TamboUI 承诺为使用 Java 构建 TUI 提供更强大的功能",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286503&idx=4&sn=f771751e97dd50c1fa696ad484af6dfa&chksm=bdba93b48acd1aa231a3ebe7e0ca9dc9835952fb40d07ba3f60400232093453f2d0f8b29fa49#rd",
-    "publishTime": 1780712100,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNg6zPEkLHr3oWaFyKkgTdjPpl0jaSsddSbGnOqOicfrgAxaK3UCxjgBStBDC25Hhfe6R257yJES9Boue53dHNkr6gYMzYQ78B1o/0?wx_fmt=jpeg",
-    "digest": "针对“让 2026 成为终端侧的 Java 之年”这一号召，首个现代化 TUI Java 库 TamboUI 应运而生。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651286445_1",
-    "title": "Anthropic 被曝雇1000名人类工程师“培训”Claude Code，时薪280美元：AI 编程越进化越离不开真人兜底",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286445&idx=1&sn=fb37f3bd259b5ce502e336904c999640&chksm=bdba93fe8acd1ae881fa9ac6dab785bb9f2494a3705d72c684d2d943c4cd3528ef74e5885b21#rd",
-    "publishTime": 1780641000,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjxxwoaveW1fCSia6VxS3DxSibvNQxaKrMDoB5Zfsf7nUtJEkl6iaXj8hrXFib7aKjGyhOyZT38zRDfgmIuFbmm4tQVK6IJOWq8J70/0?wx_fmt=jpeg",
-    "digest": "据 Business Insider 报道，Anthropic 正在通过一个由约 1000 名人类软件工程师参与的项目，提升旗下 AI 编程工具 Claude Code 的表现。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   }

@@ -1,5 +1,15 @@
 [
   {
+    "id": "2649802116_1",
+    "title": "你的 Harness 工作流真的在进步吗？我们用一场考试撕掉了遮羞布",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802116&idx=1&sn=8886f8c0078cc85a39ac97fa2deff22a&chksm=becc56ff89bbdfe9b7a885ed28d514e550bb280ec17f0d259bbbe0c576c4a1b5e87541a340d3#rd",
+    "publishTime": 1781777949,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/KVER9adz906yLicFicu38vURmYibn0aoFY0z3QeEuk0iax3gwD67K3OiclCLQUaypAm7iaHV9GtulAnGJUl7wRlvvyIAeCEwen9BdicCw4HHUPx4mk/0?wx_fmt=jpeg",
+    "digest": "一套可量化的工作流评估体系",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
     "id": "2649802115_1",
     "title": "拆解大模型几项核心操作背后的数学与 Infra 优化逻辑",
     "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802115&idx=1&sn=30424274c8e7e355c2ee62e70b058d52&chksm=becc56f889bbdfee9a56d870ff6bd1cc73e5bc5958d6984960136daadfb8011f0f4749a09da2#rd",
@@ -56,16 +66,6 @@
     "publishTime": 1781256960,
     "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/KVER9adz907flb3hKgSIgYdKNpnKuRvxSX9sHgh8gVD5MscicQxM2cUAPnLWN5qM6CjsdhS9I5jUImJXaTMjQibico5bS71OMqZLbxJiaLhEcX4/0?wx_fmt=jpeg",
     "digest": "智能Agent迭代",
-    "author": "",
-    "feedId": "MjM5ODYwMjI2MA=="
-  },
-  {
-    "id": "2649801982_1",
-    "title": "腾讯混元AI Infra进化：HPC-Ops推理核心算子全面升级",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649801982&idx=1&sn=25fb653637a2fbac015d46c265f8266e&chksm=becc578589bbde93464f9c6b27b6b9b2e7cc0befe8da9467bd745bb03723a1dbfcb9fcb38caf#rd",
-    "publishTime": 1781165966,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/KVER9adz906m2f5jdzsvWniajo553nahPD5bptibibuTlEYVSH0TIAfB9wUla3ge3RCbbIIrnPoyJcNFzib7ia41ZjRJx8N0ouoWlRhGMA3qcEEw/0?wx_fmt=jpeg",
-    "digest": "全新更新升级",
     "author": "",
     "feedId": "MjM5ODYwMjI2MA=="
   }
