@@ -1,5 +1,55 @@
 [
   {
+    "id": "2651287490_1",
+    "title": "MOSS 全模态技术体系全解析：统一离散化建模、推理优化与情境数据构建路径",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287490&idx=1&sn=5bbce67700d93c8c3ece905011bd64a7&chksm=bdba97918acd1e875844c418739c04b075e55a7879f64a7ba375b5fb365df9c6e79f14734382#rd",
+    "publishTime": 1782104033,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNglejF3tPVviaGX0nPYNa8DBy4hAJgWciaH7oxgQ9ecmibOYOsjibJzwbgLcXlicT8Q2xArL5iav0v35g9kpOJY6BwAXJzNnAxZfMwbo/0?wx_fmt=jpeg",
+    "digest": "大模型正从 “文本优先” 向 “情境智能” 发生范式转移",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651287490_2",
+    "title": "这家Agent 公司从 Claude 切到 DeepSeek v4：一年省下数百万美元，迁移工作量却是预期的 100 倍",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287490&idx=2&sn=cde599d579c02a1339cc36f183039487&chksm=bdba97918acd1e872ab6de459d47489acdb5f59045f0c54e8c8eb754c01c347585cead6f1a3c#rd",
+    "publishTime": 1782104033,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNiaOQJhHoyQtLmXW5WEgRAaOrk9twEo95GuFwdDYflVbyarYibicA7mmcbuibDPpSqZzqERbO9awWCr6jDpSWxTkbTCMWZDiazn4j4k/0?wx_fmt=jpeg",
+    "digest": "初创公司 Lindy 将其全部 AI 代理流量从 Anthropic 转移到了 DeepSeek v4，每年可以节省数百万美元的推理成本。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651287490_3",
+    "title": "Gemma 4 12B 通过无编码器架构实现设备端多模态主动工作流",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287490&idx=3&sn=f06146e3f8420e3c4175eab95514c426&chksm=bdba97918acd1e8775b40ac627178c31b5506ebc4e9ae2c11605653f88c7b3465c34dbb8ec8a#rd",
+    "publishTime": 1782104033,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjhNmR2szKP2HEBTv8ia1akv29l3HCicuicU3adpqs9Bia5v72Cyl5ibhiax1s6X5qTXibrfRYgrvEFIWcEzgFCicQ7bzZ3nq6gBM8EQ0U/0?wx_fmt=jpeg",
+    "digest": "谷歌表示，Gemma 4 12B 旨在“将具有自主性的多模态智能直接带入到你的笔记本电脑”。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651287490_4",
+    "title": "Vercel Labs 开源 Zero-Native：一个基于 Zig 的跨平台原生应用框架",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287490&idx=4&sn=93eb12b4bdea16b6ec153670a165bd4d&chksm=bdba97918acd1e87dd37ca58d9c3f80dd065199bf5577a1d46fd9d57a31934ef687715151fc8#rd",
+    "publishTime": 1782104033,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNhM6PYiceS2XM4Tq406hIzMuSvqF2sG1hCGFdG2YnXDABd2LcRibicZUGxHIMos6D95ZwAOMsiaozrfnTgVjKYPibzTFricISu2S9Sxg/0?wx_fmt=jpeg",
+    "digest": "近日，Vercel Labs 开源了 zero-native。该框架绕过了 Electron 运行时，转而采用操作系统原生的 WebView，并声称能够以极低的开销构建出更小、更高效的原生应用。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651287490_5",
+    "title": "阿里云智能集团高级技术专家刘少伟已确认出席 AICon 上海站，并分享如何构建企业 Agent 的自动化行动架构",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287490&idx=5&sn=dfb8839b5f12eee2e70bdb8197f02908&chksm=bdba97918acd1e87b907ba64efaaf234079f0403a2ba118390ec3275353ec3e2a6557c605289#rd",
+    "publishTime": 1782104033,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNiawibCsvp2lK7MbicGxGiblwefogbHYRBZKaRaMmx1sibRVfBpKrx8eRP8Fv5fiaX1iaUeZECKvGvSCnD7ZiaUAG65o79ksMgj4NNVo0Q/0?wx_fmt=jpeg",
+    "digest": "深入探讨 Agent 从原型到量产的工程挑战、数据与记忆的基础设施底座、安全可信的落地保障，以及大模型推理优化、智算架构升级等关键命题。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
     "id": "2651287454_1",
     "title": "吴恩达戳破AI幻象：炒作过头了，未来公司是10人小队＋Agent重做数据架构",
     "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287454&idx=1&sn=9de7ef2850b77e5f02b4864387d74121&chksm=bdba97cd8acd1edbc0991b7f92039b011cc25f3588ee5836fd39ff4e3470f226bf6be19e46ca#rd",
@@ -150,52 +200,42 @@
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651287250_1",
-    "title": "Cursor 1.5T新模型放弃Kimi基座！600亿美元股票换Cursor，马斯克第一刀砍向微软GitHub",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287250&idx=1&sn=ec24ac0033677dc7c4df6fda2ebdf1be&chksm=bdba96818acd1f971e1758a2c55e5f92e69c65c376ed804f1f2a2aee6938e2a56e05dd28b0de#rd",
-    "publishTime": 1781678123,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNiaNRtT7cO2tnJhXJbDLIGBoib8s4Zx6zVbzmsc3GuW9Nibb2ibqSjEfI8FDicD2SWd2xE92Q2SVMeR6P5dib58Eia2oaicVWVkbSOib9u0/0?wx_fmt=jpeg",
-    "digest": "今天，Cursor 在 Compile 大会上发布了几个产品“期货”",
+    "id": "2651286878_1",
+    "title": "Snowflake 迈向 Agentic Enterprise 的关键一跃",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286878&idx=1&sn=6c3c80b949ef61c1a39c3db8238b2a37&chksm=bdba950d8acd1c1bd5563b90d8d5134262040328611b516f3a6e221bc20bd8fa8d537523aa1e#rd",
+    "publishTime": 1781239086,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNj943V3cCcFibTcfJl3Qgyp8gRq4kjbhXQfspA78z8no9kcR2f2ibRLLS4m6Nporg6icXcOfkg4dRXeCumavI5xicSEyaGfZ0brRN4/0?wx_fmt=jpeg",
+    "digest": "最好的 Agent 平台，必须建立在最好的数据平台之上。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651287250_2",
-    "title": "大模型已经够聪明了，为什么 95% 的 AI 项目还是跑不出 ROI？",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287250&idx=2&sn=19868c946a3e659e044b63c949111a71&chksm=bdba96818acd1f972f1e8826c547a90015ed06d3b8d625027ab04e6520e8e837224f74d7cd32#rd",
-    "publishTime": 1781678123,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNgvbE2Qvb6cMze7aCvTGWvtlNGZUEr2tH3hXC5xcorIicPoeqj3s62PricUs1oxez4icGiaMmPgE6XQxGbibYGxPX3J7rpXHiaG5zFiaQ/0?wx_fmt=jpeg",
-    "digest": "模型能力突飞猛进，企业 AI 投入成本与日俱增，但然后呢？",
+    "id": "2651286878_2",
+    "title": "技术采用曲线：回望二十年",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286878&idx=2&sn=3d34299849597658445c33a68ddb933b&chksm=bdba950d8acd1c1bc46bcdc0ec83d5e2f61ba06a1efe9d5eeaa983fd963e6ddfad0c2ccef7ea#rd",
+    "publishTime": 1781239086,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNj3XtYyVavw8HrF7EnkvS13BA4mxhOyb8PV8YdO1IibDF3PwVzsarMqxIjXCKZVFcic62xkYx4YENPjg747K7SlNicFaS5hPsYTic8/0?wx_fmt=jpeg",
+    "digest": "6月8日InfoQ迎来二十周年，本文精选梳理其早期关注的技术与实践，分析它们当下所处的应用阶段，并预测未来五至十年的发展走向。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651287250_3",
-    "title": "AI 企业 Day 0 出海，如何少走技术弯路？",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287250&idx=3&sn=4fecbfc4b1fa7c38c3338cf0b46465a0&chksm=bdba96818acd1f973bb1c4c55c454353efb141ba98c009f9649dd0777c27f95e94f15a1d71bf#rd",
-    "publishTime": 1781678123,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNgGGdD7kkaOWEjGPxx3zg2SbGrOvCL2OkdqW7EZ3YyjflRTd2fYx5J6xrnX9hCGaYjpxJA0YlgOhpsAn2BibqPkhop5z0pHdF8k/0?wx_fmt=jpeg",
-    "digest": "起跑线的差距，不是后期优化能弥补的",
+    "id": "2651286878_3",
+    "title": "微软 Foundry 新增生产级智能体运行时、工具链与管控能力",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286878&idx=3&sn=3be100defb8b7132db4d80dcd80f918c&chksm=bdba950d8acd1c1b9a5bcbeda4b2d9ef8273079121e238033ab88e7e47f2bdbed1363fde44b1#rd",
+    "publishTime": 1781239086,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjzXMIrLpcr3lNB2WC3a0JOD86bWZedHeMqlvyWtdGS7IjSnNXO5aUpicfeGz3fg3lWDeOS0aM7aC4tyNn3jX1EVEqlk4BOjhl0/0?wx_fmt=jpeg",
+    "digest": "微软在Build 2026大会推出Microsoft Foundry新功能，该平台可助力AI智能体落地生产环境，本次更新补齐了搭建生产级智能体所需的全套能力，并非仅新增模型接口。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651287250_4",
-    "title": "Java 近期新闻：JDK 27 进入收尾阶段、JDK 28 专家组、GlassFish、Infinispan、Kotlin",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287250&idx=4&sn=08da2adafc5bf75994ae973e6a30464e&chksm=bdba96818acd1f9783136d65d56b57f268cea8dde67827011751042058856c36a8b754a74361#rd",
-    "publishTime": 1781678123,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNja1quYezdgNenc1xOJpEuTPZOXHQVySrKOAeSoSvCZiaySZvflibHvYKBOC8vFLkTxxHhWj5TRTpQoYrj18wqFECSiadDGPSHLzA/0?wx_fmt=jpeg",
-    "digest": "本文为 Java 近期新闻，内容涉及：JDK 27 进入收尾阶段、JDK 28 专家组、GlassFish、Infinispan、Kotlin。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651287250_5",
-    "title": "生成式推荐引擎升级，快手在线参数服务器性能与时延深度优化实践｜AICon 上海",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287250&idx=5&sn=9686035f79985eea3336a95b6baae8b9&chksm=bdba96818acd1f97fc79165d3a2e2096ac28cb86d175aa32ad8dab28fd247df697babf0d26a2#rd",
-    "publishTime": 1781678123,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNhtdXL3NCKuJByxzr7GCz0D2RiasHyNj4aQnYPYQOcq05FfwBCkDnrwntPhkTJf6cR1pEIb5RoELB8eCIfrAyxvlpPzNYlsjiaJs/0?wx_fmt=jpeg",
-    "digest": "随着模型规模的持续扩张以及在线请求量的爆炸式增长，传统在线 ParameterServer 逐渐暴露出性能短板。",
+    "id": "2651286878_4",
+    "title": "Cloudflare 发现 ClickHouse 查询规划阶段存在性能瓶颈",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286878&idx=4&sn=9cdf276e8ea26c3533e5fb602ab76a87&chksm=bdba950d8acd1c1baa5ff8f2066b6b4182fdd3e63a9608a17c304d5c486e7bdc1ce4df9c886c#rd",
+    "publishTime": 1781239086,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNhgknC2oNrQAuNG3HVHiaIP1icHM5ugtyS5v393AibKoecM6FyezK52TibWSVnbZtdwnQUkG5t7syRoLiaGLdLv8aV5Q0A5ca8bAvPk/0?wx_fmt=jpeg",
+    "digest": "Cloudflare 计费管道卡顿源于ClickHouse查询规划阶段的锁竞争，团队通过修改锁类型、取消分片列表复制、优化分片过滤等补丁修复问题。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
@@ -246,46 +286,6 @@
     "publishTime": 1781055590,
     "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNiarNCThKtItJJa6pLo6h05s5bq4KZweYXtafOibD1aIDdEM9FlwxBSvn8PoAMCfobM7lBOs2LpUkRaY8UrezpsZrnCicxps1twrk/0?wx_fmt=jpeg",
     "digest": "据介绍，这是 Anthropic 迄今性能最强的一代模型。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651286735_2",
-    "title": "人形机器人价格大跳水，比iPhone还便宜：一场关于生产力而非形态的产业竞速",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286735&idx=2&sn=79974b506ba9dedcb675b700944fab1c&chksm=bdba949c8acd1d8a481884369fa71f033131e368eeec48db8436e5bc518c566b6ab128f30721#rd",
-    "publishTime": 1781055590,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/lYDricib2fsm4SC6jDr1RRcENxNDRUTFLibb1Djm3WLW59hAlEq8ALk6GXI1CPwcwYxdjDv9lLtNbIyh3Tyyyr0eRz2Cg6p8lFwhETvJFmNY8k/0?wx_fmt=jpeg",
-    "digest": "最近，人形机器人迎来了从“奢侈品”到“白菜价”的历史性转折。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651286735_3",
-    "title": "这款国产模型登顶 Artificial Analysis 输出速度榜榜首",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286735&idx=3&sn=77f99fa7daf725e17f630543920d2876&chksm=bdba949c8acd1d8abdd6f8061bd54f63129afc2863bf0f3b417d2b8cd88b1b254297cc506fa3#rd",
-    "publishTime": 1781055590,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNjEXj2xyan9jgr6mMlEtWyqaTOP4LZryHppmczp0wtv6vcmmpwhhBrppx7CMtZTdKvtMv37G4muSwf3Ob8tMY3dqqJYfHYa2n0/0?wx_fmt=jpeg",
-    "digest": "模型竞争正在从“谁更聪明”逐步转向“谁能以更低成本完成更多真实任务”。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651286735_4",
-    "title": "Google Workspace CLI：专为人类和 AI 代理设计的统一命令行工具",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286735&idx=4&sn=c69065d4a91f4f32a707c8b5ee30ff50&chksm=bdba949c8acd1d8a595bec825fd70e1239a2ba411ba94e9b98ce5fa5db7c6f32a719d338f435#rd",
-    "publishTime": 1781055590,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjicpxyWKvOlPf04YibIIRia67qfFBEMpyPyEl4olXMXiaZfj2CVzbw4icI0qgWdRVtJOd4HBCNpQN9yBqMlL1de2ibNKN3shvdYFKGc/0?wx_fmt=jpeg",
-    "digest": "Google Workspace CLI 发布，为 Drive、Gmail、日历、表格、文档、聊天、管理控制台以及所有其他 Google Workspace API 提供了一个统一的接口。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651286735_5",
-    "title": "算力新基建，推荐新智能：快手推荐系统池化的探索与实践｜AICon 上海",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286735&idx=5&sn=765cd2e0cc9dbed54f4274996c4f9aa3&chksm=bdba949c8acd1d8aea6e00f752ddbae308e427daba7eb431fc59ca58f897f3c348b3256cf1df#rd",
-    "publishTime": 1781055590,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNia4lQXkecsNpluEstIyJvDbVeUwZnDuO8SFzvcWwFqQDAf735xVLOAczdzbDTmdQ0UjvsEDvsvfI5dD1iclAmXRPZyibFklJ7cVc/0?wx_fmt=jpeg",
-    "digest": "本次演讲将系统阐述快手在推荐系统算力池化方向上的思考与实践",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   }

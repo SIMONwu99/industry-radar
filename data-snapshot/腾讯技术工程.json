@@ -1,5 +1,15 @@
 [
   {
+    "id": "2649802117_1",
+    "title": "Loop Engineering 实践指南：在 Code Buddy 中构建自主循环系统",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802117&idx=1&sn=a91a32e0b00305c1a30f4a6684c3c6b2&chksm=becc56fe89bbdfe82b6c712ac76e7a59992d93972396a45afff84f7e1987a5cff4a0ee08cc8c#rd",
+    "publishTime": 1782120107,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/KVER9adz906NjWbW9fb7bSyM329L0VtXtibAaEsAzl5aAMf0Mj5A9obCPqicVC6yVZrIJQky0yfR91DWicOlLCkjvumZfNZklmvBXNrmI5CAWA/0?wx_fmt=jpeg",
+    "digest": "AI 编程第三次革命",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
     "id": "2649802116_1",
     "title": "你的 Harness 工作流真的在进步吗？我们用一场考试撕掉了遮羞布",
     "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802116&idx=1&sn=8886f8c0078cc85a39ac97fa2deff22a&chksm=becc56ff89bbdfe9b7a885ed28d514e550bb280ec17f0d259bbbe0c576c4a1b5e87541a340d3#rd",
@@ -56,16 +66,6 @@
     "publishTime": 1781515620,
     "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/KVER9adz905QlibkFZjjzceqhbMSkUiaWzjtmKRj72dRhwQdibYzGeOsh1WOTCcbOgiamYxw1uZdrWdC64haiaw2Z7BgxIZTsJAUmKj9OfveVV24/0?wx_fmt=jpeg",
     "digest": "万字长文 Token 成本优化指南",
-    "author": "",
-    "feedId": "MjM5ODYwMjI2MA=="
-  },
-  {
-    "id": "2649802000_1",
-    "title": "微信测试团队斩获 CVPR 2026 NTIRE RAIM挑战赛冠军",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802000&idx=1&sn=e98b528060a2ae5d34b6f9eeb6e517ce&chksm=becc566b89bbdf7d7661c8209d3a858e73c6774e9aa879b63d396e1c477eedf68a6ec6787056#rd",
-    "publishTime": 1781256960,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/KVER9adz907flb3hKgSIgYdKNpnKuRvxSX9sHgh8gVD5MscicQxM2cUAPnLWN5qM6CjsdhS9I5jUImJXaTMjQibico5bS71OMqZLbxJiaLhEcX4/0?wx_fmt=jpeg",
-    "digest": "智能Agent迭代",
     "author": "",
     "feedId": "MjM5ODYwMjI2MA=="
   }
