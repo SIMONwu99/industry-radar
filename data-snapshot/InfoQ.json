@@ -1,5 +1,55 @@
 [
   {
+    "id": "2651287603_1",
+    "title": "人人都是 Builder 的时代，企业的真正挑战是“怎么管”？",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287603&idx=1&sn=01ea72d3a308f0b8583909f81913a56e&chksm=bdba88608acd0176602bb85a82a6fb121d37aa071023ec183d20fe4b23e8f7a2b9d315cafe8e#rd",
+    "publishTime": 1782219310,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNgDNBY4qoUEIQib7m6Fy67rECjALs9vWuibHpMHgwFYChMWhic9XDnsH4ucQvZ6iaOpibmK2Ys7qHqaevU432BDkVlOL5VwE03Ixzfw/0?wx_fmt=jpeg",
+    "digest": "造 Agent 的门槛，正在低到人人都能上手。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651287603_2",
+    "title": "Dashboard 和 Alert 走到尽头，可观测性正在被 AI 接管",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287603&idx=2&sn=f6c2230d2726894419aeed93dfd5ef2d&chksm=bdba88608acd01769a6cbbf7b0a45af3f9578638cf6209ec056fbcc6a71fad14e116cfc8fdd8#rd",
+    "publishTime": 1782219310,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNjko8Qh0NMTbCWcchKXicCN6ViaUiaARUevibE2k7veQE97aOgA9dhSIwj39JicnPadW2g0HXJFTXxRNhT0mNUq5wJtOHygiaqfIhaRs/0?wx_fmt=jpeg",
+    "digest": "没人真的想“观察”，大家要的是“理解”。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651287603_3",
+    "title": "数据库到底该怎么选？TDSQL 用一套内核给出了三个答案",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287603&idx=3&sn=a40f03ed52fdaec9fe8725a23bd4e7e4&chksm=bdba88608acd0176ce0d9aa84349cc04548e59d073850b3f6d1d940a5cfad8a1b83289311960#rd",
+    "publishTime": 1782219310,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNj815azWkWrLcickib8lZ8VR26eTqb6O66Pdjcad56g5j2Rxhica0otcE9icPnwhicnz0hug1d5JJTYAdw9HTqsGDRGB2jyLSKKYWNc/0?wx_fmt=jpeg",
+    "digest": "过去几年，企业对数据库的需求分化越来越明显。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651287603_4",
+    "title": "Terraform MCP Server 发布，助力 AI 助手对接 Terraform 基础设施",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287603&idx=4&sn=552eee133dd1d60c4aec3f7bf8300b59&chksm=bdba88608acd0176494b1ee2fbefbf6f290a18b2c19d77854719052ee21e810d2bef93e64b7c#rd",
+    "publishTime": 1782219310,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNiaROFd60CUk2GB08t0bhI15JQSqWxciacxmkPSE6ibe4jf49Qia5ia2nJ3DCkem9XBhvxDjpHXDxCsmeHkX6IrmOLLTWAGHfL2k4MU/0?wx_fmt=jpeg",
+    "digest": "时代需要智能生产力的突破",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651287603_5",
+    "title": "从唤醒到陪伴：多模态 Agent 如何重构手机交互范式｜AICon 上海",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287603&idx=5&sn=2d53a40e939de6419ee3bd24820f5a40&chksm=bdba88608acd01764eef8134e14fc8f6345a4be8d89bc78053d496ab4d5f082eedbb857a4429#rd",
+    "publishTime": 1782219310,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjQtK3rbIXuRygSTnKWClL6F75tk5PJtJ6aEZXiaNzIvdGvTEJneRmwicRdEhoy7KD6clI2tX2XibtxoppYQiaWXKFbosnPRQmiayOo/0?wx_fmt=jpeg",
+    "digest": "本次分享介绍的系统，以手机屏幕时序视频流为输入，构建了一个具备持续感知、个性化记忆与主动执行能力的多模态伴随 Agent。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
     "id": "2651287490_1",
     "title": "MOSS 全模态技术体系全解析：统一离散化建模、推理优化与情境数据构建路径",
     "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287490&idx=1&sn=5bbce67700d93c8c3ece905011bd64a7&chksm=bdba97918acd1e875844c418739c04b075e55a7879f64a7ba375b5fb365df9c6e79f14734382#rd",
@@ -170,32 +220,42 @@
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651287343_1",
-    "title": "当 Token 成为商品，AI 基础设施会怎么变化？",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287343&idx=1&sn=e2b3ae44c168110fd4ab3b1f861646b1&chksm=bdba977c8acd1e6a95f9425d036ef46b34f03b1350495dd5be46ddf8a85d5eca55efd23cfcf7#rd",
-    "publishTime": 1781762400,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNgKbxgH6wbFVUy7pJ48dd35icibjvE6JlwTsfgeUNp8grlw0rJiaLEmxbCTvev0C5r0rRHaPcrVYEHt2NTibBPjv9k6zZHajCyOvkA/0?wx_fmt=jpeg",
-    "digest": "时代需要智能生产力的突破",
+    "id": "2651286939_1",
+    "title": "严禁手写代码、一天烧不完 10 亿 Token 就是失职：OpenAI 工程师揭秘“零人类编码”的激进实践",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286939&idx=1&sn=4c7b1d2d31e85c97537dbdf4f421bebb&chksm=bdba95c88acd1cde61812ca1caf7d2223fcee5b75709adcbafa0160774efce7f9323b4326297#rd",
+    "publishTime": 1781328600,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjFaE45rQdHqicnHDE9yBjOwdpSvaBMf0aGoO0w6lmN6Xeic0uSttzbqAMjRXzvUy60a8aTlcjIV0Dq9plsyMr1QIh8wtuzYyAug/0?wx_fmt=jpeg",
+    "digest": "Harness Engineering，这个词最近在开发者圈子里引发了激烈讨论",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651287343_2",
-    "title": "AI 时代，实时入湖正在告别 ETL：从 Kafka 到 Iceberg 的架构减法",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287343&idx=2&sn=97526ae2ed89d3c24496bf4c3ae6c398&chksm=bdba977c8acd1e6a3ccf5dd242f11ae4dcd49ce02735c4fcc092c658ffef2a9747d3634f02ff#rd",
-    "publishTime": 1781762400,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNialCdz9PNAhD1OmlNZw8ySicFJgibQRNGfuHy2s3x1aLw9Nn8HL8ic62t2vgNRbP90w7DIR6Liblw3XE77IBZphgYBspoSFMjlhJ1c/0?wx_fmt=jpeg",
-    "digest": "在 AI 驱动的数据应用场景中，企业越来越需要一套同时支撑实时消费、历史沉淀与多引擎复用的数据底座。",
+    "id": "2651286939_2",
+    "title": "OpenAI 秘密递表！三巨头一起“抢钱”：AI 史上最贵一轮融资要来了",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286939&idx=2&sn=a72aed1686b7568356047e3caccd3a3e&chksm=bdba95c88acd1cde38b63ffec499b4308211692d2a1ef873ffc822231272e7129fedb567cf01#rd",
+    "publishTime": 1781328600,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjxmIXiaEQyUuicuG0fibvdDibhUlGCEYkycRP4IuuQmJJLw1sdGkLqgSg4o2gxUNiamOqER1tL52xxyzL9GuKwVSwUT4dYjI8JCmJ4/0?wx_fmt=jpeg",
+    "digest": "近日，OpenAI 已向美国证券交易委员会（SEC）秘密提交了 IPO（首次公开募股）申请。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651287343_4",
-    "title": "AI Agent 沙箱的网络安全：从流量隔离到智能治理｜AICon 上海",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287343&idx=4&sn=c5639884dacee3ed50e7ab04bc68d237&chksm=bdba977c8acd1e6ab0108626a0c7d15d46d8efd0c41168f8b86d38596892f5dbe9e3186131d0#rd",
-    "publishTime": 1781762400,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNiaMoj6nWSve7WiaEjMr03elrQwhP0ypVqicJbEicg7S6egWQoPGIPHEyxcNQ7Go0gta4jxPh5msV6R0GowxZ9v4guMwnKdfkXa19U/0?wx_fmt=jpeg",
-    "digest": "本演讲以阿里云 ACK 在生产环境的实践为主线分三个层次展开",
+    "id": "2651286939_3",
+    "title": "Arm 神经技术与虚幻引擎 MegaLights 首登移动端，手游画质跨入电影时代",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286939&idx=3&sn=aa541a2c4db0abd507b0dca9a708d0bc&chksm=bdba95c88acd1cdec2e23a7481e2d6c2285ccd15db0daf6802a35da5fe9232448d30e99d3ce1#rd",
+    "publishTime": 1781328600,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNhJdYapToiaQZYEgCAR3VRhiawSia7qD4uAiadHjsbBdOH8265bzVmMvibIcUrDZCvrnyzRVWO7u8KgV5Hic9Egz30LeVFviaTeZ4iaicjE/0?wx_fmt=jpeg",
+    "digest": "未来移动 GPU 的一个重要发展方向——从单纯提升图形算力，转向图形计算与神经计算协同工作。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651286939_4",
+    "title": "Zero 1.0 发布，Rocicorp Web 同步引擎迎来首个稳定版",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286939&idx=4&sn=0152b51992e4690840e069f65cab254f&chksm=bdba95c88acd1cdebf0d8d72d43e98360c3580a2da666c7d3a65a0573073187b1222997e1432#rd",
+    "publishTime": 1781328600,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNiajuM7Ymw1A1pOibr7SqgegaG7vJeyVCAWcWuj6VVlCAic07N1QeZoAGeEAOADiblWJ8PokXgOicTibddmdMfj1DpXNNvLrrInW5skc/0?wx_fmt=jpeg",
+    "digest": "Rocicorp 推出通用Web同步引擎Zero 1.0首个稳定版，已全面支持Zero API并将持续维护，后续破坏性变更会极少且影响有限。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
@@ -236,56 +296,6 @@
     "publishTime": 1781239086,
     "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNhgknC2oNrQAuNG3HVHiaIP1icHM5ugtyS5v393AibKoecM6FyezK52TibWSVnbZtdwnQUkG5t7syRoLiaGLdLv8aV5Q0A5ca8bAvPk/0?wx_fmt=jpeg",
     "digest": "Cloudflare 计费管道卡顿源于ClickHouse查询规划阶段的锁竞争，团队通过修改锁类型、取消分片列表复制、优化分片过滤等补丁修复问题。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651286819_1",
-    "title": "“Token 大爆炸”前夜，数据基础设施正在成为新的变量",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286819&idx=1&sn=19260cb473657ed5f0e0339df7c5ad0f&chksm=bdba95708acd1c669054637e883ad7aa03fcff9e3fd42ff806a4f18e46fdef72d0c7d4c83faf#rd",
-    "publishTime": 1781155800,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNg7UlFb6naJTG05zBmFh8GjMH0LYTWw0sXp9lQCzxMALZ9ymNfxkt9hwlZg3VIjqfia7fDibicEzHcOlrDjhKs8vlhQs0fViaBSufg/0?wx_fmt=jpeg",
-    "digest": "Agent 正在制造一场“Token 大爆炸”。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651286819_2",
-    "title": "复杂业务场景下 RCA Agent 的探索实践",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286819&idx=2&sn=803565661ca00c316b89845bcb430b4f&chksm=bdba95708acd1c66d441d839a9a183ec578a33ff7afce25b1ffdaf600cd0c7a77eccc51dbc9e#rd",
-    "publishTime": 1781155800,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNialaJgnzG4a6uU5FibGAK2jed1uaCPibfDDQsZELdo06tcfv7eAn0iamIvv6QtSAq9DYoHxBcPhQYNfTqI3h3dvXavgnHY68zWEib0/0?wx_fmt=jpeg",
-    "digest": "“拿着旧地图，找不到新大陆。”",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651286819_3",
-    "title": "拖尾请求不是故障：自适应 Hedged Request 如何降低 74% 的 p99 延迟",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286819&idx=3&sn=788184e4b45c11b1b7467a06ecba6770&chksm=bdba95708acd1c6629aef97db7025771e1f7fded181652d66d5b631c774888631c6e3e658b78#rd",
-    "publishTime": 1781155800,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNgaguNdlc0Y1ff8IGPrbjJrsc0g6s3dibgBgXL5Z54HTuXricLjoXbMInBkGgyKCloDTygMmaFia7ClSUpoKGxiaWLibGvQpYYjMUyY/0?wx_fmt=jpeg",
-    "digest": "拖尾请求指的是完成时间异常缓慢但最终成功完成的请求。在扇出（fan-out）架构中，它们才是 p99 延迟的主要来源。重试机制则会向已经备受压力的后端增加额外负载，从而使问题进一步恶化。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651286819_4",
-    "title": "OpenAI 为 Codex 智能体打造安全的 Windows 沙盒",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286819&idx=4&sn=c72b5b9ba1badd2ea8161c0645ced221&chksm=bdba95708acd1c66c4154f2f71984db17280367d7a3138e1ed4442bf6c4b71794304ae4e675d#rd",
-    "publishTime": 1781155800,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNhAYTZYLDqk2wvtsgvvh1wtbLIFEZJDDIU4aeicO4g1lVDJ8UHP2B6l3dltdPRwJAQh6lQpr6H9HyyE7WcIowt1A2cDCrevEHzE/0?wx_fmt=jpeg",
-    "digest": "OpenAI 公布 Codex 编码智能体所用的 Windows 沙盒架构的技术细节。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651286735_1",
-    "title": "Anthropic 祭出双旗舰模型 Fable、Mythos，屠榜所有基测！网友：除了贵没毛病",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286735&idx=1&sn=d1ca4072b48e4e09cb70043250675293&chksm=bdba949c8acd1d8aa0dd790c5a48e64106704e807fb8b7b7b75a3261b521057cef860addf8f0#rd",
-    "publishTime": 1781055590,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNiarNCThKtItJJa6pLo6h05s5bq4KZweYXtafOibD1aIDdEM9FlwxBSvn8PoAMCfobM7lBOs2LpUkRaY8UrezpsZrnCicxps1twrk/0?wx_fmt=jpeg",
-    "digest": "据介绍，这是 Anthropic 迄今性能最强的一代模型。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   }
