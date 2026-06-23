@@ -1,5 +1,35 @@
 [
   {
+    "id": "2651040687_1",
+    "title": "生物学的EDA时刻来了！",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651040687&idx=1&sn=2c73f012b6de7e93f6cae1ec97cbda76&chksm=84e66fd1b391e6c73b27c837061b13b9324af96dad78143bde5cb56076e21fddf760c90d73b4#rd",
+    "publishTime": 1782199129,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqG68KRg5BYVsialza7iayz4wkhU4bkic1jEQmianMwhxcHlpWoHoQMSpFDTtHg4HoXUFQ8GKo1TKHImribibUQ4kg5uM0Dj1jab7JBcg/0?wx_fmt=jpeg",
+    "digest": "深度拆解恩和科技 BPL 语言与底层验证架构",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
+    "id": "2651040687_2",
+    "title": "百度开源无限OCR，跑通长程解析，核心作者YY疑是来自DeepSeek",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651040687&idx=2&sn=11f7171bdd0d0f945fccf4d07599b020&chksm=84e66fd1b391e6c77f184c79afc2e226ebd3c1718662567eb42ccdf2b57a51bd7cf32d286316#rd",
+    "publishTime": 1782199129,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqEeMVJbEwU6icUxfARqz5mcpOeHXXG7PyKPvFctLSXUyongvVzGA2l7X6Ldsj5hGQna8DZ0TYXHicmHQRSTic96MrwQgfM1bFcbcE/0?wx_fmt=jpeg",
+    "digest": "百度 OCR 新模型拿下 SOTA：一次前向推理解析数十页文档",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
+    "id": "2651040687_3",
+    "title": "真机强化学习如何保证安全性？清华团队提出安全探索均衡机制",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651040687&idx=3&sn=6fc0e69567a4d42d3090874b5a26aef8&chksm=84e66fd1b391e6c740085be6a7ca7798655739d018c623598e9cfe35cf89d01af4a66ad27534#rd",
+    "publishTime": 1782199129,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqHVvLKKrib3U64TCEb9NeUxrvaDWsQMrs1kPfgogF6y6sdr5HEhs1Tb7hPfJzOgffPtVDnmgXfuD39vDwbmY3OQ7pmzuxLxdCao/0?wx_fmt=jpeg",
+    "digest": "让智能体在零约束违反的前提下逐步扩展可行区域。",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
     "id": "2651040283_1",
     "title": "AI for Computing迎来破局者，国产黑马智子芯元两个月融了两轮！",
     "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651040283&idx=1&sn=93595b00f573595ad5eeb730d79a4868&chksm=84e66e65b391e773fa671658a6d7dbafd77481d41030036ba8cf9995c18ac6e62722652d7606#rd",
@@ -70,22 +100,32 @@
     "feedId": "MzA3MzI4MjgzMw=="
   },
   {
-    "id": "2651040185_1",
-    "title": "谷歌：我手握最多诺奖得主，为啥就留不住他们？",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651040185&idx=1&sn=b6b423222924587bc75c0b837aae2192&chksm=84e66dc7b391e4d1daca3964eb64b10bac9533d0ef2ea7db20498a90850c7f34211cd25c1a3f#rd",
-    "publishTime": 1781928876,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqGibV7lZv4RRHpOLhu81Rb9kKcKrOSWWKU5SsKC94Kmx7TXfUfhwzOfozSy22dhHhrPk8SVOasJCb91h3gbfTMiaTr6pU3eIiclzs/0?wx_fmt=jpeg",
-    "digest": "谷歌三天连失Transformer 大神、诺奖得主。",
+    "id": "2651039196_1",
+    "title": "腾讯Robotics X开源HyVLA-0.5：基于亚毫米级指套UMI与真机强化，摆脱繁重遥操",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651039196&idx=1&sn=cf807f51fc0efaffb4bf9996f743493d&chksm=84e661a2b391e8b46eb603daf842562199d96402a29da1e3dd34f9c4d8ca3a46617f059e39dd#rd",
+    "publishTime": 1781517304,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqFibKDMbib3cj4gPsXG5XhGbTt0BY6A0t7kGK5HW5MlPibGibaOU5Pe3QicyeiazQaduBfa2GEVnvh1Fo5gQsE5UCGKbSpGtBX2zspoc/0?wx_fmt=jpeg",
+    "digest": "机器人离真实干活更近一步。",
     "author": "",
     "feedId": "MzA3MzI4MjgzMw=="
   },
   {
-    "id": "2651040185_2",
-    "title": "沿着何恺明团队「漂移模型」再走一步：奖励只需排名，单步文生图偏好优化提速3.51倍",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651040185&idx=2&sn=287321a45f59600797b57be39fcadfeb&chksm=84e66dc7b391e4d132c5e1901819485ecc44764d56ba9f7ee4f127c5d11b09370d63cfc54e45#rd",
-    "publishTime": 1781928876,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqEVjfbksicOHcxfFa1O481HcsOsuFV0gNCUniaic4e6TzpErTcib4TUIkNYic7GEVlwx2KlW6jRAeicCU14ViaoOmubK6p2kBAicgzglZc/0?wx_fmt=jpeg",
-    "digest": "DrPO 将漂移模型中的漂移场估计引入单步文生图模型的强化学习后训练。",
+    "id": "2651039196_2",
+    "title": "用国产GPU训练AI给自己写内核，摩尔线程刷榜硬核基准",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651039196&idx=2&sn=f13e155230d90bbd87c8680cc29b1e4a&chksm=84e661a2b391e8b4957e2dc6332f39eac676e4f6bf327a0808595ba0cbd79d1356a322f99c0c#rd",
+    "publishTime": 1781517304,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqHFuwAicjDAQAwKXN7E4cOGP6vBoDOxjvfRkic2k6LdXcg0KeX4u18dM320pOibBK2E8MY1f8ACQdQGzyKMKcL6wwaFflicJ9ozFEA/0?wx_fmt=jpeg",
+    "digest": "首个国产GPU训练的代码大模型。",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
+    "id": "2651039196_3",
+    "title": "1080条提示词、7款模型大比拼：视频生成离「好看、好用又准确」还差多少？",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651039196&idx=3&sn=a8c0079c0c8998cbed22222b8cd884e8&chksm=84e661a2b391e8b4dd7e1b76ce37554b392fcebf0706182f409af7399310a834bf7592553b19#rd",
+    "publishTime": 1781517304,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqE60sPicwwMAialfulr95aMvANCGl8sF1jTqoZyAImAmibRxCLcAt7JCKb6Tiak7zNkpic4Yd137Onxk4aQg0xg8zuPQ0picmfJ0Tp1Y/0?wx_fmt=jpeg",
+    "digest": "KIVI：面向知识密集型场景的视频生成任务与评测基准。",
     "author": "",
     "feedId": "MzA3MzI4MjgzMw=="
   },
@@ -200,32 +240,32 @@
     "feedId": "MzA3MzI4MjgzMw=="
   },
   {
-    "id": "2651038220_1",
-    "title": "能自动干活的AI浏览器，永久免费，来自美团",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651038220&idx=1&sn=b28fde9ad9069776c607d93405b3cd0b&chksm=84e66672b391ef64873e70a26eade52919b2457ba6bc18298f39d2929f0b04d968d4a24ecfa3#rd",
-    "publishTime": 1781063345,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqHFLZwibmNpz8ianCJsicPa46D8kqHGezbrGtZdmbaciaCiccibYewuHH5Mpqjqwqlz27MpJ1xwZ4icx5ZUoxYNez1yMW1bEWfdcJszwA/0?wx_fmt=jpeg",
-    "digest": "浏览器替你跑流程！",
+    "id": "2651037190_1",
+    "title": "进家大战已经打响，第一个跑出来的不是人形",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651037190&idx=1&sn=2caac8a67974cf40e6577a707b4b0e3d&chksm=84e65a78b391d36e641c0d1c420fefb3da3ef0f4809a8117e182edb077bb7aacbace950fcaec#rd",
+    "publishTime": 1780632428,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqGdn2X4A73a8zP8wicEW4KOmcRSo70OVFPwzLdABrfl4TBMmGpdmI6Bxibz0qnJ36SHSXdXsSaFkpVHRfick66ZzvIaVW7T7QUtP4/0?wx_fmt=jpeg",
+    "digest": "让上万个家庭主动掏钱买机器人，他们做对了什么？",
     "author": "",
     "feedId": "MzA3MzI4MjgzMw=="
   },
   {
-    "id": "2651038220_2",
-    "title": "SwarmFlow来了！openJiuwen开创蜂群可控协同新范式",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651038220&idx=2&sn=63760476eb94ffe5f957ebc4e77870f7&chksm=84e66672b391ef64a685a1cf3d0a9b5e81a53eb03d0a92912d278a55b066e64ff5c0b52e941f#rd",
-    "publishTime": 1781063345,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqG2gQib57fSMLLaSZzWD7iczVOueCwxqwqfKXUSeXkro1ls0uxtaNjeoX7MdxLD1IpnMup4Ciba5E4YzZfZiaaalKcmoBkCicwibR9rg/0?wx_fmt=jpeg",
-    "digest": "把编排交给系统，智能留给 Agent",
+    "id": "2651037190_2",
+    "title": "模型也需要「睡觉」？CMU新论文让LLM在梦中「巩固记忆」",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651037190&idx=2&sn=b5976fc929c8c0c135d11c99e0ea1ace&chksm=84e65a78b391d36e69e4193eb3c4bdcfb43c8fee771e572fe51f8c000fb52be66bde3e4d071e#rd",
+    "publishTime": 1780632428,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqGaDZOZ1zwCvfw8DCFeVVdPr9OKQsY4pEpWj3E8eSQV2sjcLDrrJ2icqkRKiaMicKAtSpHHaU0bvryvsGGrVoiaxX2xWOPGFGY4Moc/0?wx_fmt=jpeg",
+    "digest": "睡得越久，推理越强？",
     "author": "",
     "feedId": "MzA3MzI4MjgzMw=="
   },
   {
-    "id": "2651038220_3",
-    "title": "RSS2026 | 强泛化强迁移VLA，上海创智学院×上海交大提出MINT：让VLA从模仿轨迹走向理解意图",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651038220&idx=3&sn=9a8e4da9e8dfd7e9cec0def48512cfc2&chksm=84e66672b391ef643aceb57b49a87b89ed8884bd39f8f9ec6885461a58336918a73028c4f814#rd",
-    "publishTime": 1781063345,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqEP0nDZAHCNahG8t3JYD7I0wKobnwTYSmItZicvgtVGsLc3YWIXt1aSg965e1ObQBsibX56Z72KcJYkmIlg92pOyDw668GBnMQPg/0?wx_fmt=jpeg",
-    "digest": "MINT 学到的，已经不是单纯的轨迹，而是真正可迁移的行为结构。",
+    "id": "2651037190_3",
+    "title": "刺破成功率幻象，直面具身智能的「真灵巧」，机器人精细操作评测新范式来了！",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651037190&idx=3&sn=53e0adcbf4b30f3515ff236734530c0c&chksm=84e65a78b391d36e341fbfe650ce1ea354881196ff7c5da6209a4e8c6a04880c2ce966a39824#rd",
+    "publishTime": 1780632428,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqE2PxL0HXialsCpY6o51dOfpjYw155oYg3BRt3uh5PO1iaCBZiclCaofC9Xibs0A0jQN2IEnROmxg4LpjZBBAVN2QMkjm5KUx1StDY/0?wx_fmt=jpeg",
+    "digest": "从 “是否成功” 到 “为何失败”，重新定义机器人精细操作评测范式",
     "author": "",
     "feedId": "MzA3MzI4MjgzMw=="
   },
@@ -236,46 +276,6 @@
     "publishTime": 1780566687,
     "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqFGsHBkzY0iaXGKSpAQ2fhF90OlzsOq6jX5waKcHas6B7ic0V9fnLbSEBBdKibNib1zJVfNosGMwUckKd0onruDYWk564NMC235YBU/0?wx_fmt=jpeg",
     "digest": "硅谷开始喃喃低语……",
-    "author": "",
-    "feedId": "MzA3MzI4MjgzMw=="
-  },
-  {
-    "id": "2651037142_2",
-    "title": "告别盲盒筛选！分子之心发布MMDesign，抗体发现迈入可编程生物工程时代",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651037142&idx=2&sn=af4d327cc3b148b0928fc83e67d14753&chksm=84e659a8b391d0be16e7b5af9b276dedc1f349aac14391d194225e8964ccc03edd17970272a8#rd",
-    "publishTime": 1780566687,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqHRIyfhwNjnWvCrSZ7rrm4GctwKyHIYXxHzficYZoGPbsZwibz0I2yfksGXLSnAZILAttSebTCMvXsrTtEnFLEfTeSl4VicvSPmicc/0?wx_fmt=jpeg",
-    "digest": "AI蛋白质设计从概念验证走向产业化应用。",
-    "author": "",
-    "feedId": "MzA3MzI4MjgzMw=="
-  },
-  {
-    "id": "2651037142_3",
-    "title": "120亿参数跑在16G笔记本上，谷歌Gemma 4新成员杀来了",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651037142&idx=3&sn=4f4b6b166c1ab682a944438f594da763&chksm=84e659a8b391d0be7a5ea3d8d4ae16afeed90fd0ca6224ec111f87642c6bf5cb2d720607546c#rd",
-    "publishTime": 1780566687,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqHj6WbENibk511L6QyWpSaR3JEAvjSG4nialHr3eVMNWUvobjCJbQWre6Nr7MnRIM4A7nvSia1AmUJnLmH0PicSRRYfibmM8c24tepM/0?wx_fmt=jpeg",
-    "digest": "12B性能逼近更大规模的26B。",
-    "author": "",
-    "feedId": "MzA3MzI4MjgzMw=="
-  },
-  {
-    "id": "2651036834_1",
-    "title": "当Token飙到天文数字，高通用「计算连续体」重搭智能体新基建",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651036834&idx=1&sn=8b0f4f0b3ee04d86335f17b70dfde29c&chksm=84e658dcb391d1ca6aaca7e468c38594afd762f087b08ce481284f3214d3a7d4ac4833eeb991#rd",
-    "publishTime": 1780471799,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqE1oe3MnDFnZsC9C4WJib0vsLQmmyuJa4sibkAAY22RUV9dVGHm5aUMJxVdRWpbXCmtfLf3Z05ROxicRzRHfMJs1hAxPORamKG0H0/0?wx_fmt=jpeg",
-    "digest": "高通「重塑」自己。",
-    "author": "",
-    "feedId": "MzA3MzI4MjgzMw=="
-  },
-  {
-    "id": "2651036834_2",
-    "title": "RSS 2026｜蚂蚁灵波提出首个自回归因果世界模型，50条数据解锁通用机器人操控",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651036834&idx=2&sn=2ee913b69d3841ccae7b2fa64b0704d4&chksm=84e658dcb391d1cab0af445b9e489944c5a17df47ae20d734970658764c89b26dd2c9a244339#rd",
-    "publishTime": 1780471799,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqGUjhhKwOAibTWtTibpP6vINKGOBvrlNYhx39brEXsrSVKJc4q8H1eyJCnlzzxuKhQBJhF12F8wha32N1tutTNwkrNU27OiaA4kMA/0?wx_fmt=jpeg",
-    "digest": "通过自回归扩散框架学会“一边思考一边行动”。",
     "author": "",
     "feedId": "MzA3MzI4MjgzMw=="
   }

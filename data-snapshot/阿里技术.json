@@ -1,5 +1,15 @@
 [
   {
+    "id": "2247509838_1",
+    "title": "HappyHorse 1.1来了，现已登陆千问云、百炼",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247509838&idx=1&sn=0cc367fe6ad5f4efcaf331d66b08c8e2&chksm=cfa6b7adf8d13ebbdf94036f05a1fb615dffe04c97bb4a0c3d33287e05e2fc256716cedc9b7e#rd",
+    "publishTime": 1782209594,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/kN3t5R6pdz6ZiacR9zpicRnOUj1jk6ShF0G7y1haFqD1IW8GFjFpVUncEexqEqbg9q0z8W5KHKunLdAQR7PaKdEULebpQzZmZNz3F7lHgl5Kw/0?wx_fmt=jpeg",
+    "digest": "围绕动态表现力、主体一致性、指令遵循、视觉呈现质量、音频表达能力等维度进行了系统升级",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
     "id": "2247509834_1",
     "title": "Loop Engineering 概念解析、思考与实践",
     "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247509834&idx=1&sn=b514f1bc2616df514cb218a5bad28296&chksm=cfa6b7a9f8d13ebfe7a2958fa539f9dbec358f50d27a2d37b725c04fdcca3d2a122e37be512d#rd",
@@ -36,16 +46,6 @@
     "publishTime": 1781094231,
     "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/kN3t5R6pdz6LX89DUobWcUPUx0Gia6g5zU82Nrv05gwuWwkJV1gEEPAx1icwLznuWzKOyecuHTG8MLQC1ENl2Beibiau6uUMuxicY5AKd3ARxxC4/0?wx_fmt=jpeg",
     "digest": "如何让模型稳定地执行端到端交付全链路，本文给出一些参考。",
-    "author": "",
-    "feedId": "Mzg4NTczNzg2OA=="
-  },
-  {
-    "id": "2247509738_1",
-    "title": "Harness Engineering：长程自动化 AI Coding / Skills 开发实践",
-    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247509738&idx=1&sn=15fcaaa7949c28593c2f6231ebe68748&chksm=cfa6b609f8d13f1fc71a1ed770b25217434a31aca2e6404072acb17a70d13701c2c953da21d3#rd",
-    "publishTime": 1781008933,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/kN3t5R6pdz6joE5oChcJSbMV23Bc1G28hMFP1ot0iaN8JbS4gQBUvkMibJTgBGz8xMSvAZKSelBib62MFzAf0gtaGeLJiaKDUeAwDkXXwoncvjc/0?wx_fmt=jpeg",
-    "digest": "本文阐述了Harness Engineering作为AI Agent自主演进的核心工程体系，通过约束机制、反馈闭环、工作流编排与结构化Rubric评估，实现长时运行下的自我迭代与持续优化。",
     "author": "",
     "feedId": "Mzg4NTczNzg2OA=="
   }

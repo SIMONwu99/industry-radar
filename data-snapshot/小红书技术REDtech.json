@@ -1,5 +1,15 @@
 [
   {
+    "id": "2247495498_1",
+    "title": "小红书QEcon分享回顾：Agent 驱动的服务端端到端测试",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247495498&idx=1&sn=4b09ccf844ed91df1ba7209bbc0303d6&chksm=cfe44dbdf893c4ab8492373a2a8800f32ecbe543a82060e66598da702c7db01f4dc95c02c2da#rd",
+    "publishTime": 1782212488,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/P9Hs04VFGRmOC8OiaduQnQ6S758NUv49paib7VgnCyxqpXT4k9CrQXpNeFZqpM7EEXpIibn4oWZw98GCska3adukZQ4sNVhibuH3oXz20Qusb50/0?wx_fmt=jpeg",
+    "digest": "从流程编排到意图驱动，Agent 自主完成测试",
+    "author": "",
+    "feedId": "Mzg4OTc2MzczNg=="
+  },
+  {
     "id": "2247495414_1",
     "title": "小红书数据平台部 ICDE 2026 新成果：RedParrot 以语义缓存加速企业级自然语言数据分析",
     "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247495414&idx=1&sn=3f8e8207b3fee0149054a4260a69423a&chksm=cfe44c01f893c51742a1624fca1f2136d9db78e7fd00fed528ac507deea36dd3648826761d0d#rd",
@@ -36,16 +46,6 @@
     "publishTime": 1779098400,
     "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/P9Hs04VFGRmxBJuxIvdA0IwXJmWDFnv3vxKfRI7rCHseT3GCAh72MqFG1LCfey62rJHDf8Lia51Lf2gPPdwRRInjS8NVVZnjaXSbicGIa0bSQ/0?wx_fmt=jpeg",
     "digest": "面向多核CPU的CCD级负载感知和线程编排向量检索框架",
-    "author": "",
-    "feedId": "Mzg4OTc2MzczNg=="
-  },
-  {
-    "id": "2247495245_1",
-    "title": "QCon 北京 2026 | 把自动化测试当 AI Coding 来做：小红书 GUI Agent 实战回顾",
-    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247495245&idx=1&sn=b9a041f238016c2727189ef801b9b07f&chksm=cfe44cbaf893c5acf596372b060c36ba0f02c4a7a7c65cf620ad49f444b0423ef2128805de29#rd",
-    "publishTime": 1778580000,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/P9Hs04VFGRmShGCtjal8UEssIcYExhS04iaMT0gu8J3SfbgXucHPKucz4YBMibOhERAQPKP4EEJayWVTBicbNNxbqMayQ0wPt9Id9IA2YWPiarE/0?wx_fmt=jpeg",
-    "digest": "用工程化的方式让 GUI Agent 在真实业务场景里跑起来、跑得稳、跑得省钱。",
     "author": "",
     "feedId": "Mzg4OTc2MzczNg=="
   }

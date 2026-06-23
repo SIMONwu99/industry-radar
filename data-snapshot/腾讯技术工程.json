@@ -1,5 +1,15 @@
 [
   {
+    "id": "2649802164_1",
+    "title": "你讲卫生吗？ \n \n \n \n\n\nEnri，一位腾讯AI产品工程师，\n过去半年Enri和大模型打交道，最大收获就两个字：卫生。 \n不是物理卫生，是交互习惯的卫生。Token 越来越便宜，但你的注意力和决策带宽不会。脏活干多了，模型变傻，脑子也跟着乱。 \n\n以下七条实战经验：\n\n一、锁死模型配置 \n很多工具默认\"自适应思考\"，实际上它会让Token 消耗失控。正确做法是固定配置：推理档位锁死 high，关掉自适应，思考预算设上限 32K，关掉超长上下文，设定 200K 自动压缩。降智是你没把档位锁死，不是模型变笨。  \n \n二、固定内容别动，利用缓存 \n模型对完全相同的输入前缀有缓存命中机制，重复使用只需十分之一的费用。长期不变的内容（如身份、业务、输出偏好、原则、约束）固定下来，不要每次重新组织语言。临时放本次任务、材料、目标、截止时间。变动的成本远高于你想象。 \n \n三、别喂 PPT \nPPT、Word 这类复杂格式文件包含大量排版控制信息，喂给模型会消耗 80% 以上的无效 Token。先转成 Markdown 再喂。格式是给人看的，Markdown 是给模型看的。 \n \n四、别让会话变垃圾桶 \n超长会话堆积历史日志和工具调用记录，模型翻旧账，又贵又慢。换任务就开新对话，跑偏了重开重说背景，距上一条超一小时也重开。只有同一任务连续推进且不足一小时，留原对话才划算。 \n \n五、让 AI 看一段，别扫一片 \n用 @ 精准指定文件或函数，别让 AI 自己扫描整个项目。@文件名引用文件，@函数名引用函数，选中代码直接改。改一个验证规则从扫几十个文件降到几百 Token，差距是几十倍。能 @ 函数不 @ 文件，能 @ 文件不靠扫描。 \n \n六、让模型先问 \n告诉模型\"你一次问我一个问题，帮我把思路理清\"，等它问完再整理成文档，产出的 AI 感会弱很多。或先问\"你需要我给你什么信息才能完成得更好？\"，让模型主动暴露你的盲区。让模型先问，比让模型先猜便宜。 \n \n七、把想和干拆开 \n用顶配模型讨论方案，只出方案不动文件；然后交给便宜模型机械执行。顶配模型不需要读取整个项目，消耗降 3-5 倍；便宜模型不思考只管干，Token 极便宜。机械的活交给机器，思考留给最贵的脑子。 \n\n这些习惯不是为了省钱。Token 会继续变便宜，但你的思考带宽和注意力不会。AI 太便宜反而容易滥用——一十个 Agent 全开，扫整个项目，无限试错无限返工。 \n你的决策带宽有限。对自己前额叶好点，注意 AI 时代的工作卫生。",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802164&idx=1&sn=cbd6e39ed31765be87a5a97846dab9a8&chksm=becc56cf89bbdfd9cf6a523735819fbc7bd17e8419152841b4b9d4b8ce90935b157978293dc1#rd",
+    "publishTime": 1782211444,
+    "cover": "",
+    "digest": "",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
     "id": "2649802117_1",
     "title": "Loop Engineering 实践指南：在 Code Buddy 中构建自主循环系统",
     "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802117&idx=1&sn=a91a32e0b00305c1a30f4a6684c3c6b2&chksm=becc56fe89bbdfe82b6c712ac76e7a59992d93972396a45afff84f7e1987a5cff4a0ee08cc8c#rd",
@@ -56,16 +66,6 @@
     "publishTime": 1781602380,
     "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/KVER9adz907gPl47451s1Ug2f4SfiarEpHyuXZR6XM3Nc9CYpdict6qZZnnu5vLRTDSUerv5THLcK4rVgeqf780LP2gT3icDze2gl7gTL6qgBc/0?wx_fmt=jpeg",
     "digest": "首个skill安全基准发布",
-    "author": "",
-    "feedId": "MjM5ODYwMjI2MA=="
-  },
-  {
-    "id": "2649802024_1",
-    "title": "一篇搞懂 AI Coding Agent 的 Token 成本控制",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802024&idx=1&sn=14ebabcd0d270ae39c6d9cd1d12fca84&chksm=becc565389bbdf4532adbb7d98a740b93cb77c4ee8756537e12f365633b9e5eb5987abecef93#rd",
-    "publishTime": 1781515620,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/KVER9adz905QlibkFZjjzceqhbMSkUiaWzjtmKRj72dRhwQdibYzGeOsh1WOTCcbOgiamYxw1uZdrWdC64haiaw2Z7BgxIZTsJAUmKj9OfveVV24/0?wx_fmt=jpeg",
-    "digest": "万字长文 Token 成本优化指南",
     "author": "",
     "feedId": "MjM5ODYwMjI2MA=="
   }

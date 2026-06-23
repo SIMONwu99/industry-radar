@@ -1,5 +1,45 @@
 [
   {
+    "id": "2247899001_1",
+    "title": "刚刚，豆包2.1发布！Agent自己跑18个小时搞定芯片设计代码",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247899001&idx=1&sn=667de11c1f709be1981e2a3ffd0837d1&chksm=e8da600bdfade91d81f2b696c1f99a2b734cd5cb3ff2497cc9d510c968778450d85561f42f3c#rd",
+    "publishTime": 1782208261,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGGDRE8qquicQlhV91Qk28kcdoiciaeOut5v6BvmGb8LPFzecABiaibXnU5htHzUFn90lYbB6X2ovR6oy2tjOEKYjoAhQNsD7HtSuPWM/0?wx_fmt=jpeg",
+    "digest": "编程比肩Opus 4.7",
+    "author": "",
+    "feedId": "MzIzNjc1NzUzMw=="
+  },
+  {
+    "id": "2247899001_2",
+    "title": "一次吃下一本书！百度开源新OCR，作者疑似前DeepSeek研究员",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247899001&idx=2&sn=ca1e4f8f5ceec52853bc7d0393af1ecb&chksm=e8da600bdfade91d72911b5882b41b82bd23b4ec4cee8ff530722dda7c51b5d027301f6f19be#rd",
+    "publishTime": 1782208261,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGGu9jK9MUg01u2BrBqBafJIkbjql251VUqWvFQz0BOufpFm10O8G79uleicTqfOHKIFgbQtmf1rzJTTCB3XxdxMMicxicjbDI4tIc/0?wx_fmt=jpeg",
+    "digest": "全新注意力机制给出长程推理的另一条路",
+    "author": "",
+    "feedId": "MzIzNjc1NzUzMw=="
+  },
+  {
+    "id": "2247899001_3",
+    "title": "中国团队拿下ICRA'26最佳论文：Agentic Coding驱动工业制造通往自主通用智能",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247899001&idx=3&sn=2ac3a9e5559030390d39af99a7519134&chksm=e8da600bdfade91d80ab25cf75e86e831ec8d35f56a2000c38a2296720f7d0e5977a1831c6fb#rd",
+    "publishTime": 1782208261,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGGZialMia1zfkAWWibYKCB54ZJ7qA8gQVNzUCtPG6dtF8tI8zIxA84zTnyWwSDB5za834Xl36HekfATCD5V8NzmW3OUIEIibFs65yk/0?wx_fmt=jpeg",
+    "digest": "对着工厂说句话，机器人就开工了！",
+    "author": "",
+    "feedId": "MzIzNjc1NzUzMw=="
+  },
+  {
+    "id": "2247899001_4",
+    "title": "量子位编辑作者招聘",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247899001&idx=4&sn=21a5e46d1f004964ab916e57a7a5c562&chksm=e8da600bdfade91d867496536e0b1aaf3b13774c90627051c9739d7b964c4db0ac0debd38c3d#rd",
+    "publishTime": 1782208261,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/YicUhk5aAGtBwsQQg50rdDIFHPibz5pbVfnv0oOoRSQ2KmEYBSJRibeXrJnIU1euj0icCf6pXdduQdCbnRJy3b7u7Q/0?wx_fmt=jpeg",
+    "digest": "3个岗位（含实习），不设边界",
+    "author": "",
+    "feedId": "MzIzNjc1NzUzMw=="
+  },
+  {
     "id": "2247898679_1",
     "title": "DeepSeek缺Agent人才缺疯了！负责人各种贴广告",
     "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247898679&idx=1&sn=7e13093476268ed660ab89bfa7edc32f&chksm=e8da6145dfade8539ac1b2f961435a56d9e7af64255ce7d889f9261822ed3a542ec75ec736b4#rd",
@@ -16,16 +56,6 @@
     "publishTime": 1782102007,
     "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGH7WZichEG37PsBmLclMBtFBYA5AfWOb7yvZbBcyxDcF8joM6cdKibRUh49j8LfYnkiaYgmzsbLx7gmBp3649ruAJy4plI8XVlUaU/0?wx_fmt=jpeg",
     "digest": "24小时在线、2秒回话，陪你聊球",
-    "author": "",
-    "feedId": "MzIzNjc1NzUzMw=="
-  },
-  {
-    "id": "2247898679_3",
-    "title": "量子位编辑作者招聘",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247898679&idx=3&sn=df7b9f202d363c5c301283763df5cd5a&chksm=e8da6145dfade8533eb4d7f77039b95e39951033461e776bc6b0fa72c4aa373e576a23271d58#rd",
-    "publishTime": 1782102007,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/YicUhk5aAGtBwsQQg50rdDIFHPibz5pbVfnv0oOoRSQ2KmEYBSJRibeXrJnIU1euj0icCf6pXdduQdCbnRJy3b7u7Q/0?wx_fmt=jpeg",
-    "digest": "3个岗位（含实习），不设边界",
     "author": "",
     "feedId": "MzIzNjc1NzUzMw=="
   },
@@ -110,22 +140,32 @@
     "feedId": "MzIzNjc1NzUzMw=="
   },
   {
-    "id": "2247898354_1",
-    "title": "AI看病成为医患新包袱？补上「多轮追问」，通用AI才迈得过医疗关",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247898354&idx=1&sn=b06a7a37d4509957c76dafa8e063b594&chksm=e8da6380dfadea96db943daa4fac8d84779f366dbcfb05c910e69d1a5d3c1c5bd7f0a97186d7#rd",
-    "publishTime": 1781781605,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGEVn3fNFld3JAVSKRyLzxicKXvcwRWVQsVwBtoj12q0FkzAyQeYC0iaso9ibb7Zvmvlf9apR3UlIRibNx0nbakYq1DwfCMte8l6RCU/0?wx_fmt=jpeg",
-    "digest": "当医疗增强大模型开始进入普通家庭",
+    "id": "2247897320_1",
+    "title": "HuggingFace CEO力荐，Bengio团队也押注：这个1500美元训出的HRM模型，凭什么火了？",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247897320&idx=1&sn=5878287bea9ccab89ef33330ba9b07a2&chksm=e8da679adfadee8c6106b518bfec04a4303c5083096a4659e4ba3b9e0bb1516ca00f0fe054d2#rd",
+    "publishTime": 1781337299,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGGvtQfEb56iaIvCzufbpScjpiafL9V5lqibuRTSQw0EWha3mLxyp9IYw1d6t36VYQ53JXWfISOzTSlrn63jV0dJribjwMkH6DpMYeA/0?wx_fmt=jpeg",
+    "digest": "模型参数量只有1B",
     "author": "",
     "feedId": "MzIzNjc1NzUzMw=="
   },
   {
-    "id": "2247898354_2",
-    "title": "Midjourney新副业曝光：50万个传感器藏进浴池，60秒生成你的3D身体地图",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247898354&idx=2&sn=f842f4fd953b066992ed4f5808c6c8d0&chksm=e8da6380dfadea96eff104c54cdbed95f07a88a128f7390bd394e3fa72b6e3e136dbcca00c91#rd",
-    "publishTime": 1781781605,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGFiabOq5q9EEvCP9CCDKyOiaI0Gp896OSicWn3oatYRmG8BCSQVia6mtRQMaK9XSYTVlKSibpWeHiaWJtrrtVVic1OZKBapzPu1vJuCYQ/0?wx_fmt=jpeg",
-    "digest": "一边泡澡，另一边全身影像检查果就出来了",
+    "id": "2247897320_2",
+    "title": "Agent终于长出了身体：Jiuwen Symbiosis背后的思考与实践",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247897320&idx=2&sn=26ebec72b5313d09d09d072e489af690&chksm=e8da679adfadee8cae399fc366fcff0593aebd40a24ae51d0e91e4aaabab72bf7da54fa427dd#rd",
+    "publishTime": 1781337299,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGFNRzfyHA0k3QwO2Ct0prcicahw7sPKJ2MhnyAICrP3F21h4J7hvtbhjCA0flicebOEORXVN9NtnvW1eJQvb5ribqtyQERGGeiasvk/0?wx_fmt=jpeg",
+    "digest": "一起构建下一代物理世界的智能系统",
+    "author": "",
+    "feedId": "MzIzNjc1NzUzMw=="
+  },
+  {
+    "id": "2247897320_3",
+    "title": "华为SpaceMind登顶空间智能权威榜：纯RGB视觉语言模型拿下70.6分，刷新李飞飞榜单记录",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247897320&idx=3&sn=07784c5d298edcd85f0796f1ddcca265&chksm=e8da679adfadee8c88afb46932ce3711153f04eafbb70a421ab5f2631d4c9587487976445674#rd",
+    "publishTime": 1781337299,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGG5719ibcAeVpcB7XhrpSHRs2ZKFibTBysYCaaK6EWzkEqibdUF8VzBqYADSHnaNzOBS37rv4RzY0hic0MwY0XOnicEQX3icSYDPHDlM/0?wx_fmt=jpeg",
+    "digest": "空间智能的价值，最终要落在真实场景里",
     "author": "",
     "feedId": "MzIzNjc1NzUzMw=="
   },
@@ -196,36 +236,6 @@
     "publishTime": 1781085980,
     "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGFicdEe7TC1PtAQtp7J1tO6BwMNFCnyicoicpnlhxdQmWwXS4JooIXp1tl9LNxKGCXFe5CO9R7yvodicewOWZkUBrHq2y0XaBfZxnI/0?wx_fmt=jpeg",
     "digest": "400万找会讲故事的人",
-    "author": "",
-    "feedId": "MzIzNjc1NzUzMw=="
-  },
-  {
-    "id": "2247896768_2",
-    "title": "Fable 5自带反蒸馏机制！检测到就降智，误触率高到离谱",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247896768&idx=2&sn=3fe4ace3a13b4940d14e1837f87128ed&chksm=e8da79b2dfadf0a4d1d6c417345ba1d93309f01009c8973830a08711e005c59ba0a7e5861bc0#rd",
-    "publishTime": 1781085980,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGFsmcBDrv19O9iamibYofUGEmnyiaX8Qu6fe29eUv64oEDGDLqA5Nw4rQx09cf73Z0CHyvBVfTusZasfQHM10uhib3DpXpz0EdCheE/0?wx_fmt=jpeg",
-    "digest": "提示词一错，Fable变Opus",
-    "author": "",
-    "feedId": "MzIzNjc1NzUzMw=="
-  },
-  {
-    "id": "2247896768_3",
-    "title": "电池寿命预测新SOTA！港科广联合团队开源新方法，用多层次学习精准预测电池全生命衰老",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247896768&idx=3&sn=a7bfc20df45440bb79703ad6d2be7311&chksm=e8da79b2dfadf0a4adfe55cc5930faeb9c8f63bfc98c06ba21e4608351debfd87a29d742b71f#rd",
-    "publishTime": 1781085980,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGGKmYgpNe1zekH4VRkn3U1eupODrMv4vKBUHQpnUQ1icRUzZJG2f3ysjvUeGng47Rn6IN9vJSuIaYARlib67lERfHLL6Giauop4dM/0?wx_fmt=jpeg",
-    "digest": "从“看循环”到“看全过程”",
-    "author": "",
-    "feedId": "MzIzNjc1NzUzMw=="
-  },
-  {
-    "id": "2247896365_1",
-    "title": "你最该认识的「硅谷CEO」：面试紧张，害怕演讲，管出最赚钱的AI广告公司",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247896365&idx=1&sn=9cdc4a9960e498da6f0009682c967030&chksm=e8da7a5fdfadf34956b050d13df7e7e75703a458656d850326cdf401bffcb538cd7bdb4bf857#rd",
-    "publishTime": 1780995600,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGFOmdYPUVDWLYvrAmOICDnkrMSXZrzHiasqIFMXzibzyqkVjAS7eHpudYfXvpa5hRFibia9W2RvymuhZV2ibOlIyPDclVicrYTnic9nHs/0?wx_fmt=jpeg",
-    "digest": "AppLovin创始人兼CEO",
     "author": "",
     "feedId": "MzIzNjc1NzUzMw=="
   }
