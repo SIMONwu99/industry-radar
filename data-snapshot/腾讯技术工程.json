@@ -1,5 +1,25 @@
 [
   {
+    "id": "2649802248_1",
+    "title": "从0到1带你速通 Marvis马维斯",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802248&idx=1&sn=5091aa9c4be79a49c871a5503386135f&chksm=becc557389bbdc6543b86542db2d72ad9e393deca73d157441ba96a766fd4cf54aa9c71bd718#rd",
+    "publishTime": 1782303572,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/KVER9adz907tBGPddnkVK9nZnHHzvhwGFSoNeicJbmxhTAZUL05jwsB3InMIeenS5Y0ibXpuFfroSh1BvGibolwpNL7qDrJS6FaUetdaMpUXKM/0?wx_fmt=jpeg",
+    "digest": "能力强大的Agent产品层出不穷，但对普通用户来说，门槛也是真的高。",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649802248_2",
+    "title": "2026腾讯犀牛鸟开源人才培养计划正式开启",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802248&idx=2&sn=192920746656c75f76d8fc634989642c&chksm=becc557389bbdc652a1d57342b8c7cde4281bf6f304b4f02e7677f3bbed5a21dabbe45e7c0a4#rd",
+    "publishTime": 1782303572,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/KVER9adz906nehQfE12pShMK1sXRuhz2R8b4npVzK7Ro2yzj96YICftPZkTm8uc7EoHA7By6hVINJqxcS5CN1AWpEuVkc39tLcvOossiaa6k/0?wx_fmt=jpeg",
+    "digest": "2026腾讯犀牛鸟开源人才培养计划正式开启",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
     "id": "2649802164_1",
     "title": "你讲卫生吗？ \n \n \n \n\n\nEnri，一位腾讯AI产品工程师，\n过去半年Enri和大模型打交道，最大收获就两个字：卫生。 \n不是物理卫生，是交互习惯的卫生。Token 越来越便宜，但你的注意力和决策带宽不会。脏活干多了，模型变傻，脑子也跟着乱。 \n\n以下七条实战经验：\n\n一、锁死模型配置 \n很多工具默认\"自适应思考\"，实际上它会让Token 消耗失控。正确做法是固定配置：推理档位锁死 high，关掉自适应，思考预算设上限 32K，关掉超长上下文，设定 200K 自动压缩。降智是你没把档位锁死，不是模型变笨。  \n \n二、固定内容别动，利用缓存 \n模型对完全相同的输入前缀有缓存命中机制，重复使用只需十分之一的费用。长期不变的内容（如身份、业务、输出偏好、原则、约束）固定下来，不要每次重新组织语言。临时放本次任务、材料、目标、截止时间。变动的成本远高于你想象。 \n \n三、别喂 PPT \nPPT、Word 这类复杂格式文件包含大量排版控制信息，喂给模型会消耗 80% 以上的无效 Token。先转成 Markdown 再喂。格式是给人看的，Markdown 是给模型看的。 \n \n四、别让会话变垃圾桶 \n超长会话堆积历史日志和工具调用记录，模型翻旧账，又贵又慢。换任务就开新对话，跑偏了重开重说背景，距上一条超一小时也重开。只有同一任务连续推进且不足一小时，留原对话才划算。 \n \n五、让 AI 看一段，别扫一片 \n用 @ 精准指定文件或函数，别让 AI 自己扫描整个项目。@文件名引用文件，@函数名引用函数，选中代码直接改。改一个验证规则从扫几十个文件降到几百 Token，差距是几十倍。能 @ 函数不 @ 文件，能 @ 文件不靠扫描。 \n \n六、让模型先问 \n告诉模型\"你一次问我一个问题，帮我把思路理清\"，等它问完再整理成文档，产出的 AI 感会弱很多。或先问\"你需要我给你什么信息才能完成得更好？\"，让模型主动暴露你的盲区。让模型先问，比让模型先猜便宜。 \n \n七、把想和干拆开 \n用顶配模型讨论方案，只出方案不动文件；然后交给便宜模型机械执行。顶配模型不需要读取整个项目，消耗降 3-5 倍；便宜模型不思考只管干，Token 极便宜。机械的活交给机器，思考留给最贵的脑子。 \n\n这些习惯不是为了省钱。Token 会继续变便宜，但你的思考带宽和注意力不会。AI 太便宜反而容易滥用——一十个 Agent 全开，扫整个项目，无限试错无限返工。 \n你的决策带宽有限。对自己前额叶好点，注意 AI 时代的工作卫生。",
     "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802164&idx=1&sn=cbd6e39ed31765be87a5a97846dab9a8&chksm=becc56cf89bbdfd9cf6a523735819fbc7bd17e8419152841b4b9d4b8ce90935b157978293dc1#rd",
@@ -46,26 +66,6 @@
     "publishTime": 1781688718,
     "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/KVER9adz905KuJzzP6wemgJ3piaC7ZibtRjTJzkGF4TfltpWTxI7KQGSn7GvqGicrKYwOeBfgbclB8pm6vkJkqJRaR7nckODWFrhZ8l5UMfZL4/0?wx_fmt=jpeg",
     "digest": "微信支付正式发布「AI 专属卡」",
-    "author": "",
-    "feedId": "MjM5ODYwMjI2MA=="
-  },
-  {
-    "id": "2649802062_1",
-    "title": "AI Agent & Skill 测评方案及落地实践",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802062&idx=1&sn=a5983c28a6df652c9873b577a493571f&chksm=becc563589bbdf238034e5a4493c87e81dea1de8bb31f40c1ef8d872c6bbe3bc0016334c7860#rd",
-    "publishTime": 1781602380,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/KVER9adz906M72615UyOLbfb785d2hXpOFcnev0icMXfSoDsyhNeYh8JkYQNrZLY4nRTQalEf0JzL2e1CRJMy5NtC2q35xYZPnDP58Svp4J8/0?wx_fmt=jpeg",
-    "digest": "万字长文落地Agent评测实践",
-    "author": "",
-    "feedId": "MjM5ODYwMjI2MA=="
-  },
-  {
-    "id": "2649802062_2",
-    "title": "谁是 Agent 最强守门员？首个 Agent 技能安全评测基准 SkillTrustBench 正式发布",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802062&idx=2&sn=ce7da8c7786c043c56d64e23c92b2544&chksm=becc563589bbdf233988cfc7c3cab78347b193e620c0cd45c30193aea83ef2a55a9021b20160#rd",
-    "publishTime": 1781602380,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/KVER9adz907gPl47451s1Ug2f4SfiarEpHyuXZR6XM3Nc9CYpdict6qZZnnu5vLRTDSUerv5THLcK4rVgeqf780LP2gT3icDze2gl7gTL6qgBc/0?wx_fmt=jpeg",
-    "digest": "首个skill安全基准发布",
     "author": "",
     "feedId": "MjM5ODYwMjI2MA=="
   }
