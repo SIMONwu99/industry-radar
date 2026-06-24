@@ -1,5 +1,45 @@
 [
   {
+    "id": "2651287639_1",
+    "title": "AI可以用任何手段、写任何东西，但你得是个“中年老登”",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287639&idx=1&sn=08140f6d5bd0137872f8a8bda5e55e12&chksm=bdba88048acd0112a008a29d8dc82f891250b970221b83ddcc9c9aa17fe40a6f2a8379878f60#rd",
+    "publishTime": 1782271521,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNhNwFxIAAesEXT2Td0q5NxEwklw9Re5AuQ4ibkiafiaicEpiaS5jbkicT7lT471gC63w5siakwJQGApFolJu1DR7mkxggjecglQknuEPM/0?wx_fmt=jpeg",
+    "digest": "“我现在陷入到一种巨大的虚无主义里，AI 什么都能写。”",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651287639_2",
+    "title": "对话蚂蚁吴伟：训推一体池化调度，如何把GPU用到极限",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287639&idx=2&sn=e7ba685b72669645851d105c1910bc24&chksm=bdba88048acd0112d0f2feaa3e176b9793a8a9893178b7eb8a45775a9aa052843ff3b1c59e82#rd",
+    "publishTime": 1782271521,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNjRhdYWMUwIBabjaPMT0ggb2zibqxu9VFBYyqhTYOdUyiciaBBrVQUoxibCojviaZPsuIllkcEibzOwoZrT5oEjXffp2tJZhVZNG56iaI/0?wx_fmt=jpeg",
+    "digest": "打通训推潮汐壁垒，池化调度榨干 GPU 每寸算力。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651287639_3",
+    "title": "AI 大模型热潮的第三年，这场直播给出了 4 个值得参考的判断 | 极客时间企业版",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287639&idx=3&sn=27a38ab673396cf17e4b0df5190432d3&chksm=bdba88048acd0112f54737229edcc098f79ca07540619451d029fadfbd9ab8cb9ad86b32ffc0#rd",
+    "publishTime": 1782271521,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNgPzTM0YzuEg7K0OJ1MZPu6XS7h63q8qJ7qNvWicHicibYNESkd6OT9nDibT1Wvhj2LKdINuicCLPJ7cqf4lB2dEn9icj1oGwYlZiaic5U/0?wx_fmt=jpeg",
+    "digest": "当大模型的热潮进入第三年，企业最关心的问题已经从\"要不要做 AI\"变成了\"怎么把 AI 做进组织里\"。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651287639_4",
+    "title": "Slack 淘汰 SSH：700+ EMR 作业迁移至基于 REST 的调度架构",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287639&idx=4&sn=c4be36752b8771fee12c280885f567bf&chksm=bdba88048acd011259f2df15d24c905770554c58a2f83dc72d3645b910d408a4908594002080#rd",
+    "publishTime": 1782271521,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNh6nWq5vSuy5unFlibpR32qVSlMJBKeuDqcUuGSokx2w9sC8R82Cc8uFK5dM7pPoeYicTic5dHySOmBr7K2qkNiaj4PpXbweKZ6q8o/0?wx_fmt=jpeg",
+    "digest": "Slack 近期完成了一项大规模数据平台改造：将其 Amazon EMR 数据处理流程中的 SSH 作业执行模式全面替换为基于 REST API 的统一调度架构。此次改造彻底移除了对生产集群的直接 SSH 访问，并将 700 多个 Airf",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
     "id": "2651287603_1",
     "title": "人人都是 Builder 的时代，企业的真正挑战是“怎么管”？",
     "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287603&idx=1&sn=01ea72d3a308f0b8583909f81913a56e&chksm=bdba88608acd0176602bb85a82a6fb121d37aa071023ec183d20fe4b23e8f7a2b9d315cafe8e#rd",
@@ -180,42 +220,32 @@
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651287382_1",
-    "title": "智谱创始人唐杰隔空对话马斯克：赶超Claude Fable 5不用等到2027年",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287382&idx=1&sn=4c7bc1d0a9bac7578c701e46cc92a585&chksm=bdba97058acd1e139b90b02460bee91f19a68c60145cd164b551a2da414abaecca0fd71b08cc#rd",
-    "publishTime": 1781834400,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjdGeHDGK2RGXsJojvNmNyfWoEE4ZD5jUzRhr3qeY2QqjECicpNHsicrzDuHeCBDLPlicu1sUDeacmSEoScVrBRqa6uvaKgrjhiaYA/0?wx_fmt=jpeg",
-    "digest": "昨晚，马斯克和智谱创始人兼首席科学家唐杰在 X 上来了一次隔空对话。",
+    "id": "2651286966_2",
+    "title": "自主智能体遇阻：数据库成最大挑战",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286966&idx=2&sn=66c6a43ee91dca691395c664568f0407&chksm=bdba95e58acd1cf366386cc18708e4f67f1d58543be0762ca4d709cd04b31cc3e856f9c69f55#rd",
+    "publishTime": 1781403300,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNhgno0SWibNicKZtcvMZkziaauurjO2UhicXnpZVwuKLP6vtc151UGFrq0WLiaxFh9KX4Zz8wiatQocEp9vMff33WcW3pazWKp6Btiaes/0?wx_fmt=jpeg",
+    "digest": "随着大语言模型从单纯的聊天机器人逐步进化为具备推理、规划与行动能力的自主智能体，它们已经能够自主编排复杂的应用栈。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651287382_2",
-    "title": "硅谷大厂，员工人均月花 5 万养 AI",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287382&idx=2&sn=f01398b31e1eea9bf7788dd303021391&chksm=bdba97058acd1e13af8b83616c63528d0759a19d75f429a8e1e223aacdaaab09b0b24747a53e#rd",
-    "publishTime": 1781834400,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNg9Dy3pTYYgibLYibDIUYvXibVibKY6lr7OT3VwrtbAiaezpFm92r3Hs7YU9RQTpcv4dnISSMtiajBtJJWMLBSNdXaroxRKI6NIicZdu8/0?wx_fmt=jpeg",
-    "digest": "最积极采用AI的公司，每月每位员工在AI工具上花费7500美元，约合50807元人民币。",
+    "id": "2651286966_3",
+    "title": "AI 驱动的网络钓鱼：技术演变与实施方式",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286966&idx=3&sn=c581788f8e8e12501f59854e6846725c&chksm=bdba95e58acd1cf33f9d1668e4fd05f0e24cd9955ae9fecc46703cebbe01e5952053291ee22d#rd",
+    "publishTime": 1781403300,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjkpnE7ZvySLn7wTXMsvEP6mXvia6ibnvwSrPZLFmaOqAu04xJ0Sibc56EeNibiaQ97JuicYfd9icMBmHaAwbGSEHh9sULdcOL0OzdK8E/0?wx_fmt=jpeg",
+    "digest": "本文分析了AI推动网络钓鱼向自动化、规模化演变的过程，阐述其在钓鱼全流程中的作用，并介绍了融合技术、流程与人员意识的分层防御策略。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651287382_3",
-    "title": "前 OpenAI 高管清华演讲：比失业更可怕的，是 AI 时代我们不知道“我是谁”",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287382&idx=3&sn=398e68a3015912d710355e5deb6b5dd7&chksm=bdba97058acd1e133fc3edba12b1243c6cca1ff5be4f1dfe085b0e1b871fd001c5d1b88dfadb#rd",
-    "publishTime": 1781834400,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNh6FJgZicEjeI3gLRNdjCxNGJSl7XBSpuZibNIcvo1wUjWwl4ibspoZEicvBsLkQmLkOKnaSJRUKvWEBtBMiaRMEg7d0mqaH1StlfwQ/0?wx_fmt=jpeg",
-    "digest": "当智能变得足够便宜、足够普及之后，AI 将如何重塑社会、产业与个体生活。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651287382_4",
-    "title": "Lyft 借助地图智能技术缓解封闭式小区接驾难题",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287382&idx=4&sn=c2e21c4970b7003fdb75d02bd22065fe&chksm=bdba97058acd1e13ba637419acff2a4235355831b85042aa0a10c3e381d5f2399d9e506846da#rd",
-    "publishTime": 1781834400,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNh5hhuvMPpibMP6rYZrUOqcg0LXSYUR38HGJhWQTc9Z5ibyJJyyU4Lo7LEchKK8nGTSaHMUCDlC8ujwYVAg8NYT2v2OpS6Cib53Zc/0?wx_fmt=jpeg",
-    "digest": "Lyft 推出新的接驾方案，解决封闭式小区约 25% 至 30% 订单存在的路线、门禁对接难题。",
+    "id": "2651286966_4",
+    "title": "Uber 如何通过批处理实现单账户每秒 30+ 次更新",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286966&idx=4&sn=f895b338df56a0a3bce75d7b866eeaec&chksm=bdba95e58acd1cf371f00b59b99f3bae524e9e82d242ea05ad1bb6f995d95cfffff14caf1ff6#rd",
+    "publishTime": 1781403300,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNhlMpzJfkc3EhROWmMeDFGuEfhfUHOy7pCtiaic7EywNsKOKibsJ8HiaowFI6HFbRTrR0rsAv2spAUnDZlolhkaPJ16saOPBPTSsas/0?wx_fmt=jpeg",
+    "digest": "Uber 近日介绍了一套高吞吐量账本处理系统，用于解决其分布式账务基础设施中单个账户持续遭遇高并发写入的问题。这类问题通常出现在大量更新请求集中落到同一个账户上的场景中。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
@@ -266,36 +296,6 @@
     "publishTime": 1781239086,
     "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNj943V3cCcFibTcfJl3Qgyp8gRq4kjbhXQfspA78z8no9kcR2f2ibRLLS4m6Nporg6icXcOfkg4dRXeCumavI5xicSEyaGfZ0brRN4/0?wx_fmt=jpeg",
     "digest": "最好的 Agent 平台，必须建立在最好的数据平台之上。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651286878_2",
-    "title": "技术采用曲线：回望二十年",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286878&idx=2&sn=3d34299849597658445c33a68ddb933b&chksm=bdba950d8acd1c1bc46bcdc0ec83d5e2f61ba06a1efe9d5eeaa983fd963e6ddfad0c2ccef7ea#rd",
-    "publishTime": 1781239086,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNj3XtYyVavw8HrF7EnkvS13BA4mxhOyb8PV8YdO1IibDF3PwVzsarMqxIjXCKZVFcic62xkYx4YENPjg747K7SlNicFaS5hPsYTic8/0?wx_fmt=jpeg",
-    "digest": "6月8日InfoQ迎来二十周年，本文精选梳理其早期关注的技术与实践，分析它们当下所处的应用阶段，并预测未来五至十年的发展走向。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651286878_3",
-    "title": "微软 Foundry 新增生产级智能体运行时、工具链与管控能力",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286878&idx=3&sn=3be100defb8b7132db4d80dcd80f918c&chksm=bdba950d8acd1c1b9a5bcbeda4b2d9ef8273079121e238033ab88e7e47f2bdbed1363fde44b1#rd",
-    "publishTime": 1781239086,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjzXMIrLpcr3lNB2WC3a0JOD86bWZedHeMqlvyWtdGS7IjSnNXO5aUpicfeGz3fg3lWDeOS0aM7aC4tyNn3jX1EVEqlk4BOjhl0/0?wx_fmt=jpeg",
-    "digest": "微软在Build 2026大会推出Microsoft Foundry新功能，该平台可助力AI智能体落地生产环境，本次更新补齐了搭建生产级智能体所需的全套能力，并非仅新增模型接口。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651286878_4",
-    "title": "Cloudflare 发现 ClickHouse 查询规划阶段存在性能瓶颈",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286878&idx=4&sn=9cdf276e8ea26c3533e5fb602ab76a87&chksm=bdba950d8acd1c1baa5ff8f2066b6b4182fdd3e63a9608a17c304d5c486e7bdc1ce4df9c886c#rd",
-    "publishTime": 1781239086,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNhgknC2oNrQAuNG3HVHiaIP1icHM5ugtyS5v393AibKoecM6FyezK52TibWSVnbZtdwnQUkG5t7syRoLiaGLdLv8aV5Q0A5ca8bAvPk/0?wx_fmt=jpeg",
-    "digest": "Cloudflare 计费管道卡顿源于ClickHouse查询规划阶段的锁竞争，团队通过修改锁类型、取消分片列表复制、优化分片过滤等补丁修复问题。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   }

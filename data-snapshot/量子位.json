@@ -1,5 +1,45 @@
 [
   {
+    "id": "2247899199_1",
+    "title": "世界模型来了因果技术标杆！具身大脑真要长脑子了",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247899199&idx=1&sn=d07b4e0a44735c47a8fa28a492ad1773&chksm=e8da6f4ddfade65b506ba047884154fbd7524b8569a95c887c6f3f38066f9e0b40ac601bac9e#rd",
+    "publishTime": 1782273600,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGHmLyHvjC2UuDgtZUicewQnibE3dyWkRIhgsj874nDUHUesYPOKIuIpJ7BxmCID5xFNCLb180Pia0ukPbKzaYiaWuKfc92JiaibH593s/0?wx_fmt=jpeg",
+    "digest": "让AI真正理解“为什么”",
+    "author": "",
+    "feedId": "MzIzNjc1NzUzMw=="
+  },
+  {
+    "id": "2247899199_2",
+    "title": "华为天才少年一作，港大MaRS Lab拿下IEEE TRO傅京孙纪念最佳论文奖",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247899199&idx=2&sn=d8441293749d5101e0cfd2e5db490454&chksm=e8da6f4ddfade65b7900ad6f9b663a7de87b26baffde98eb780f8fe168c6c967153653265589#rd",
+    "publishTime": 1782273600,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGHxTOZMHNibnObwR9Cc4QDscoLjkh1z5wDWu4eaOm9ToIKETrzmOQZP4Uc66hoJXCfiaVcalwx2UrKtStq7tFSWD0EMUyBZZVuBY/0?wx_fmt=jpeg",
+    "digest": "开源项目GitHub狂揽4.2k Star",
+    "author": "",
+    "feedId": "MzIzNjc1NzUzMw=="
+  },
+  {
+    "id": "2247899199_3",
+    "title": "TRM思考奖励模型上线，大模型推理质量终于能量化了 | ICML‘26 Oral",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247899199&idx=3&sn=b0d6764e50d881295fd85b75f8f9434a&chksm=e8da6f4ddfade65b6026934293d1e8a8bb9f6501c353785c204ca7333dbe2eb1975bdb6f0659#rd",
+    "publishTime": 1782273600,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGEeYpQ6kYKWnQgQOjdTOOCpOciahQgQS8WyLqTnrVZmibyu68ib4QXKxZ26N4yelCmMolIKS10emEwibDmvFSLeS9ib2nROVyhOEkyE/0?wx_fmt=jpeg",
+    "digest": "大模型推理能力越来越强，但答案对了，思考过程就一定好吗？",
+    "author": "",
+    "feedId": "MzIzNjc1NzUzMw=="
+  },
+  {
+    "id": "2247899199_4",
+    "title": "量子位编辑作者招聘",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247899199&idx=4&sn=aba9ee8d06883486775d9b0c9bba8022&chksm=e8da6f4ddfade65b9c60fe5346cef3c7e47ead59c12a332a7ddc7e006018b5a111a0e29d7458#rd",
+    "publishTime": 1782273600,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/YicUhk5aAGtBwsQQg50rdDIFHPibz5pbVfnv0oOoRSQ2KmEYBSJRibeXrJnIU1euj0icCf6pXdduQdCbnRJy3b7u7Q/0?wx_fmt=jpeg",
+    "digest": "3个岗位（含实习），不设边界",
+    "author": "",
+    "feedId": "MzIzNjc1NzUzMw=="
+  },
+  {
     "id": "2247899001_1",
     "title": "刚刚，豆包2.1发布！Agent自己跑18个小时搞定芯片设计代码",
     "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247899001&idx=1&sn=667de11c1f709be1981e2a3ffd0837d1&chksm=e8da600bdfade91d81f2b696c1f99a2b734cd5cb3ff2497cc9d510c968778450d85561f42f3c#rd",
@@ -26,16 +66,6 @@
     "publishTime": 1782208261,
     "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGGZialMia1zfkAWWibYKCB54ZJ7qA8gQVNzUCtPG6dtF8tI8zIxA84zTnyWwSDB5za834Xl36HekfATCD5V8NzmW3OUIEIibFs65yk/0?wx_fmt=jpeg",
     "digest": "对着工厂说句话，机器人就开工了！",
-    "author": "",
-    "feedId": "MzIzNjc1NzUzMw=="
-  },
-  {
-    "id": "2247899001_4",
-    "title": "量子位编辑作者招聘",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247899001&idx=4&sn=21a5e46d1f004964ab916e57a7a5c562&chksm=e8da600bdfade91d867496536e0b1aaf3b13774c90627051c9739d7b964c4db0ac0debd38c3d#rd",
-    "publishTime": 1782208261,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/YicUhk5aAGtBwsQQg50rdDIFHPibz5pbVfnv0oOoRSQ2KmEYBSJRibeXrJnIU1euj0icCf6pXdduQdCbnRJy3b7u7Q/0?wx_fmt=jpeg",
-    "digest": "3个岗位（含实习），不设边界",
     "author": "",
     "feedId": "MzIzNjc1NzUzMw=="
   },
@@ -120,22 +150,32 @@
     "feedId": "MzIzNjc1NzUzMw=="
   },
   {
-    "id": "2247898466_1",
-    "title": "不靠单款爆款吃红利，中国AI应用首现3亿ARR独角兽！腾讯顺为红杉继续加码",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247898466&idx=1&sn=40266d0d34c669e0fbf8082a96c5251e&chksm=e8da6210dfadeb06880989148fae6d45b88c04524022a81a417acb6990263868a0bf2aeae0b8#rd",
-    "publishTime": 1781847000,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGGSQZ0zpnd1MfusBg0cu0aT3WaDdNoWlHibr0ib6xic5jGcIvH4nTaZSiaMuMB7vWhwyOkVCbT2Kric80S3CHMP1rTIATdMdXuwgrR4/0?wx_fmt=jpeg",
-    "digest": "商业化硬样本",
+    "id": "2247897349_1",
+    "title": "Agent时代，华为云开始重新造地基了",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247897349&idx=1&sn=28447d634d3e27883ce00d1099701268&chksm=e8da6677dfadef6178967557726b9b1fceb96c030e0359bc4c9c5bc0927ad91816bb3056e1b8#rd",
+    "publishTime": 1781409600,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGF8WAk0Z2gNicTXShWaiclOcyEicUUGuuiayBmL8icYo31rcemaZicdEklyhOTcAnytw8j4KTOZoctSqSuOxR6CwF46cMOdbGmlT7Zmo/0?wx_fmt=jpeg",
+    "digest": "Agentic新基建",
     "author": "",
     "feedId": "MzIzNjc1NzUzMw=="
   },
   {
-    "id": "2247898466_2",
-    "title": "马斯克预测GLM明年Q1追平Fable，智谱唐杰：没那么久",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247898466&idx=2&sn=e860d314527de80953b2e54ee1b6226e&chksm=e8da6210dfadeb066cb0f16f4aa2f3de2de2742df87bd31d95753c69470a5a04df6cf50347e9#rd",
-    "publishTime": 1781847000,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGHCnTGpBwdibUWIodBVfF3FhRibKx6sKphFia44iatmgx0S1C71EfyxMqMuCoq1eHdCuNn1LeESyL4qbbV6UQcyKAGyqr3FVFeW83M/0?wx_fmt=jpeg",
-    "digest": "开源圈美滋滋",
+    "id": "2247897349_2",
+    "title": "KV Cache终于不用无脑全留了！百度&复旦用「投资回报率」重新分配缓存｜ICML 2026",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247897349&idx=2&sn=14ceeec45a2f6803e40bc7b029964120&chksm=e8da6677dfadef611e37c6a895364482f0ed922a0a24325a648cab7480a9db3cf4b61635a142#rd",
+    "publishTime": 1781409600,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGHAbGXtpngZqyrOdq180t1s7xlCo7ERiacklZAAOfUcZCbt7qFMWylTgEzVvNR6cGlPk8GneJEyhHNl1SGnSQtcG2XsCNDYwSicE/0?wx_fmt=jpeg",
+    "digest": "80% KV Cache压缩，性能损失仅0.52%",
+    "author": "",
+    "feedId": "MzIzNjc1NzUzMw=="
+  },
+  {
+    "id": "2247897349_3",
+    "title": "登Nature子刊！清华团队提出全球气候模态统一预测模型UniCM",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247897349&idx=3&sn=5c778ae0801953d9b307cb1582ec4cd1&chksm=e8da6677dfadef61ba0167aa604792532c5bfac36c7e512d7da287c339cc381e7ad2227bde84#rd",
+    "publishTime": 1781409600,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGHgsFxrUAl3mIb2BrgCopMDpx8pMOSEMPCqhzR9xNBfx8GGibmw2WribmN9NeeEGmFPEzS9huRXrU385YA4fp8kOIdw9KZIlFjiao/0?wx_fmt=jpeg",
+    "digest": "首次实现七类气候模态统一建模",
     "author": "",
     "feedId": "MzIzNjc1NzUzMw=="
   },
@@ -196,46 +236,6 @@
     "publishTime": 1781278534,
     "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGEO5PZgblZDhQ3rgesmtTOBKaTX6ZZyzUNbcE050zLmnCoVzXxM1NfHA4AjdUhWZiciarxzgfOnCn35Sic9kAWre6qYCFhwxVyBCw/0?wx_fmt=jpeg",
     "digest": "不动拓扑也能优化多智能体",
-    "author": "",
-    "feedId": "MzIzNjc1NzUzMw=="
-  },
-  {
-    "id": "2247896929_1",
-    "title": "3D创作迎来ChatGPT时刻：Meshy发布全球首个3D AI Agent",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247896929&idx=1&sn=af60a68d34fb2d8d3060aa8148bf83e5&chksm=e8da7813dfadf105d44a10bc0bb20c9d14ed2533b347f38cb9c65d826999597dd84207ced784#rd",
-    "publishTime": 1781150400,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGH29BDEsCqfINDS0OUsiaEGA2BtFwBBoC1QKs1amUD6icxkmkaTNxm2qjcL66zWpHpia5A4Kia4r27rcqV9PZ8mOIK6yX8IHOBkLsY/0?wx_fmt=jpeg",
-    "digest": "让3D模型变为可复用资产",
-    "author": "",
-    "feedId": "MzIzNjc1NzUzMw=="
-  },
-  {
-    "id": "2247896929_2",
-    "title": "Mythos阴影里谷歌悄悄发模型，速度暴涨4倍",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247896929&idx=2&sn=588705bddb905f19a9792a684f13b53a&chksm=e8da7813dfadf105a995bc018b555bcd5fb9ca577f7633ab53480e8e0844be93ab3500d8361d#rd",
-    "publishTime": 1781150400,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGG6cq77ib80CkQqPrWV328K7q09UHGgEA3RVeodY4tSnicicib57YrjNibDUhxFbzjK4rw7iawTz2N7jWKQwFnYyfpPLjhicMoWCfz1x8/0?wx_fmt=jpeg",
-    "digest": "用扩散模型生成文本",
-    "author": "",
-    "feedId": "MzIzNjc1NzUzMw=="
-  },
-  {
-    "id": "2247896929_3",
-    "title": "指令遵循媲美Seedance 2.0！复旦腾讯联合提出Baton，多说话人场景M-WER暴降76%",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247896929&idx=3&sn=3bf0f092b291e86ae6f9621b63f4267c&chksm=e8da7813dfadf105b6a05755fad1f59b2ce24e248c02462d9979ccbb2b375e8a745f5652d832#rd",
-    "publishTime": 1781150400,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGHmgibEfBEn5M4yrRQWibYyRQbVd43cnNibB50em21YbFMkJE0uJVlDFoReD4lRNZxh4b0M2ibdeZjicBicJ1Mkk2fH3zr462EronqGg/0?wx_fmt=jpeg",
-    "digest": "视频和音频终于对齐了",
-    "author": "",
-    "feedId": "MzIzNjc1NzUzMw=="
-  },
-  {
-    "id": "2247896768_1",
-    "title": "抖音征召天下「AI视频英才」！创作者们，这次是真能吃上AI红利了…",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247896768&idx=1&sn=1fb68c681dc5e2f5fe3288b6e9ec164a&chksm=e8da79b2dfadf0a43f95b30958b5f85b50c6d6900f85ec64c3da1d9ba3a51af0f47d1c82a9f5#rd",
-    "publishTime": 1781085980,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGFicdEe7TC1PtAQtp7J1tO6BwMNFCnyicoicpnlhxdQmWwXS4JooIXp1tl9LNxKGCXFe5CO9R7yvodicewOWZkUBrHq2y0XaBfZxnI/0?wx_fmt=jpeg",
-    "digest": "400万找会讲故事的人",
     "author": "",
     "feedId": "MzIzNjc1NzUzMw=="
   }

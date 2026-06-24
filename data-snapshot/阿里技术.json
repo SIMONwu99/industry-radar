@@ -1,5 +1,15 @@
 [
   {
+    "id": "2247509844_1",
+    "title": "阿里开源 Open Code Review：一周揽下 5k star，更专业的代码评审 CLI",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247509844&idx=1&sn=a26fe2b44bd7b281619ef09013d7f355&chksm=cfa6b7b7f8d13ea1f482fcd97190ca29530a558f1fec7cf20753e1cc108dcdc9c7d12165af85#rd",
+    "publishTime": 1782263190,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/kN3t5R6pdz4QLnkBgxRmgw24ib9Yo17oZuNC6l2V9v7fP9uYuXvM2pFiarrtqpqL5tShKuRFe8uXv325xrkicODkf1Ikibzfb1LbnujCatyhdtI/0?wx_fmt=jpeg",
+    "digest": "一款 AI 驱动的代码评审 CLI 工具",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
     "id": "2247509838_1",
     "title": "HappyHorse 1.1来了，现已登陆千问云、百炼",
     "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247509838&idx=1&sn=0cc367fe6ad5f4efcaf331d66b08c8e2&chksm=cfa6b7adf8d13ebbdf94036f05a1fb615dffe04c97bb4a0c3d33287e05e2fc256716cedc9b7e#rd",
@@ -36,16 +46,6 @@
     "publishTime": 1781258093,
     "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/kN3t5R6pdz6y873eohmU7vF5hHWsCbFDuibFUOu3gEWGHZyia1Tiaic28cibDsUicKTpuhpag0oOknHJuiaFibhZItI5pmH3ZR7j9ga817vgVI5KwRk/0?wx_fmt=jpeg",
     "digest": "当 Al 输出的价值稳定超过 Token 成本之后，瓶颈从模型能力转移到了人的精力。",
-    "author": "",
-    "feedId": "Mzg4NTczNzg2OA=="
-  },
-  {
-    "id": "2247509774_1",
-    "title": "AI 不缺智商缺纪律：一场 Harness 工程化实践",
-    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247509774&idx=1&sn=02c8d0506c7d6ebc8fd58669160f1db3&chksm=cfa6b7edf8d13efb3317ba22ffb089aee8377ae0fa7187163944df9c8536a52d2a219145fda1#rd",
-    "publishTime": 1781094231,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/kN3t5R6pdz6LX89DUobWcUPUx0Gia6g5zU82Nrv05gwuWwkJV1gEEPAx1icwLznuWzKOyecuHTG8MLQC1ENl2Beibiau6uUMuxicY5AKd3ARxxC4/0?wx_fmt=jpeg",
-    "digest": "如何让模型稳定地执行端到端交付全链路，本文给出一些参考。",
     "author": "",
     "feedId": "Mzg4NTczNzg2OA=="
   }

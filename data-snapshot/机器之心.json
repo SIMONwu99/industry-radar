@@ -1,5 +1,35 @@
 [
   {
+    "id": "2651040859_1",
+    "title": "从预测到干预，Aether AI为什么押注因果世界模型？",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651040859&idx=1&sn=a7702a5e0b414f9945b83d1ccccd925a&chksm=84e66825b391e133298fbf6324ccdd1092049972fd9209faf0d2360c55ca647483b74f409015#rd",
+    "publishTime": 1782270000,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqEWDczia8t5udbC6SRym0jMl0sHf5zcB7uic1RZHsGvodtUMJmaKM6Izfcto7ibnq0BIdmQsh3JBh2XjDxxyZLzicHbjU8hwT8BhEY/0?wx_fmt=jpeg",
+    "digest": "因果，可能是机器人走进现实世界的门票。",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
+    "id": "2651040859_2",
+    "title": "端侧跑大模型，现在也太简单了",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651040859&idx=2&sn=43a32b10d7d5638a408019deacbe4ed2&chksm=84e66825b391e133cd1123b373202ebff376989a5ee77e6ff34411f38b495f330574009e87b0#rd",
+    "publishTime": 1782270000,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqHicWpC0qPPNGQmj3Trib9sldk7ArafVKlqzyzm59kkIMl0sib4AeOEMFJtjnCOkDZicgJdFXG4R6sSqRiboufNM5GnSdQfp5ric2ZLQ/0?wx_fmt=jpeg",
+    "digest": "机器之心编译最近，我们都在关注旗舰级大模型的进步，其实本地运行的 AI 模型也迎来了重要的分水岭。",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
+    "id": "2651040859_3",
+    "title": "直接从像素到单词：这个原生大模型统一单图、多图、视频和空间智能",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651040859&idx=3&sn=51a0515062826e0b809ca8b2b68896b5&chksm=84e66825b391e133893ecdfc4e3e50a4482884f3e7845f11d160a059b3a5b6f3e1581ec93fe9#rd",
+    "publishTime": 1782270000,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqH8KCyxRhE9Zy95XFxVvBaWamkBEU1fp8x0sQX6cINFbGkTgnTKiabtLf2gPZRTrXm6S87HYAcmGrlqC9mbF4vTXbBY8zsTpbZ4/0?wx_fmt=jpeg",
+    "digest": "完全摆脱视觉编码器的原生视觉语言模型不仅可行，而且在规模化之后已经具备与顶尖模块化系统竞争的实力。",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
     "id": "2651040687_1",
     "title": "生物学的EDA时刻来了！",
     "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651040687&idx=1&sn=2c73f012b6de7e93f6cae1ec97cbda76&chksm=84e66fd1b391e6c73b27c837061b13b9324af96dad78143bde5cb56076e21fddf760c90d73b4#rd",
@@ -90,12 +120,32 @@
     "feedId": "MzA3MzI4MjgzMw=="
   },
   {
-    "id": "2651040231_1",
-    "title": "Fable 5「重现」模型选择器，Anthropic最危险的时刻过去了吗？",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651040231&idx=1&sn=f6652f1fbdbc53d6d849ff2b9143b055&chksm=84e66d99b391e48f3e79e41371658685d42e69ecd49113bdc067212d7d9ef6351786d5b882ed#rd",
-    "publishTime": 1782016069,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqFzu28KGOJpl2MTSIkILecccPPOLicRxGbBodnP2MzLXdHxbnnAceSNxB4Ut6ypFxMI5bwYGp4dTXAzkXPgJoZEU5DV5RYuYZiaI/0?wx_fmt=jpeg",
-    "digest": "重新现身、美国政府改口，更多信号正在出现……",
+    "id": "2651039317_1",
+    "title": "年薪300万的前沿部署工程师，要被「录屏教学」替代了",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651039317&idx=1&sn=ff1030e264f225d00961bdf7989761ee&chksm=84e6622bb391eb3d7429e698b5174a2db2cbe710a51d5e87ae06ee71a1467008a0b487aeab1a#rd",
+    "publishTime": 1781580782,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqEIR5EvwcibE7Y0066HFbbv40zveTDyfHrQQWibk3bwdslzJmJdAV0MEcvhaUuCX11wm1JqBummMVC28mQb8JrYx1TveRCUwtBpw/0?wx_fmt=jpeg",
+    "digest": "不会写Prompt？普通人怎么教会AI操作电脑",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
+    "id": "2651039317_2",
+    "title": "Anthropic又摊上事了，夸大使用额度，被用户起诉",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651039317&idx=2&sn=781638a58ee5e23aff2527caa9f4e657&chksm=84e6622bb391eb3dd932e880c2e6095cd72620e644abc5f937e95d34838357be1b3c60cc5ea8#rd",
+    "publishTime": 1781580782,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqEFrruh1fezqiaw3DEX1U1M6SceWTqLias4zSO8icib3nEZz7ib6SsEoIklIsYy6qEjY79qwN9gGQ42JaSqE5sMviapiay19vDtUy79ib4/0?wx_fmt=jpeg",
+    "digest": "你的 token 够用吗？",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
+    "id": "2651039317_3",
+    "title": "视觉latent reasoning为什么不稳？这篇论文从特征空间找到了关键缺口",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651039317&idx=3&sn=ebe0a5f022e945b5e64e7c29e9b913da&chksm=84e6622bb391eb3db497ccf46ddc6567950ee9d629939b7eb86b0e53fb200f7379d3fb7f3785#rd",
+    "publishTime": 1781580782,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqElAHJ5HFicralYCNlnavoibYliaDiaq8sALlbMoAuuPbdJibxicibYGgCJLfvmeQ4GdCWa05RoG1ICBZWYTAOEnXmKQyEUCtZV9Unyqs/0?wx_fmt=jpeg",
+    "digest": "GAP 让视觉 latent token 变得可读、可控、可用于推理。",
     "author": "",
     "feedId": "MzA3MzI4MjgzMw=="
   },
@@ -210,72 +260,32 @@
     "feedId": "MzA3MzI4MjgzMw=="
   },
   {
-    "id": "2651038459_1",
-    "title": "斩获15个顶级零日漏洞：0G Lab联合新国立，北大和北邮团队构建的共识协议debug智能体框架",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651038459&idx=1&sn=5135bb68ee4470d665e36e42e01dd80c&chksm=84e66685b391ef93957db1ebee840fefe115b710d285769ee8252d4960f70deeeea8b1f72d4e#rd",
-    "publishTime": 1781152200,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqHEmstfV5eAofjh8fPtq88gE0PlwtKoVdQeVeIGUDGjic2GYYDMiaicLKhUq1vsC2vxXKWr9s75ZzcxCgtbOsl6bdjEZUjAjqRhl8/0?wx_fmt=jpeg",
-    "digest": "一套可落地的工业级解法。",
+    "id": "2651037518_1",
+    "title": "视频AI卷向5分钟：全量开源，一次生成，正式告别「盲盒抽卡」",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651037518&idx=1&sn=24f77464cb1d0d46ac80c9c5e9911f96&chksm=84e65b30b391d2260cae866fb91ea0acc733acf0a0a7849309132f12073c59d45de8d9020ec1#rd",
+    "publishTime": 1780718400,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqH9CBibLUkskBThOSut1Z1rFqicJ2nQSXZAic5wAMEbfoOjdHOx8H4a3ztiaYZsGoR25dZpFib3aiaUj2JU7iaXicJYPYicRH8Hu3xPLRicc/0?wx_fmt=jpeg",
+    "digest": "京东搅局AI长视频。",
     "author": "",
     "feedId": "MzA3MzI4MjgzMw=="
   },
   {
-    "id": "2651038459_2",
-    "title": "谷歌开源26B文本扩散MoE，劈柴：生成速度像赛马一样快",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651038459&idx=2&sn=2f131b7dd31fb1cdacbf16bcb3f312a7&chksm=84e66685b391ef932c2360c0c12f3f91b25b1462f8fa46471d60b8fb85156cdc57fc0f480c48#rd",
-    "publishTime": 1781152200,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqFlibwTF7NLtbyX1ym3Yk8Cdic2kkI2cjUQkent0aibwIW0jSoLGa9nCbEBD1fho5YT2LGk5GF7icib4LGjRh9lXDLiaDibUS9JY7yLsA/0?wx_fmt=jpeg",
-    "digest": "用扩散模型改写文本推理",
+    "id": "2651037518_2",
+    "title": "DeepSeek V4做数学证明，500倍成本优势：智能体系统刷新多项纪录",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651037518&idx=2&sn=2d6012bcb8a495b818fce4458626480d&chksm=84e65b30b391d2265c4a8cee5825ccbb456951a668586c944888b72f0698f3f43c8f3267498a#rd",
+    "publishTime": 1780718400,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqHFu1IhnzOttODicayV1fDiaibibsaOHgC9fic5eHZxPzEUJSRYPqic45OylT4EhlYIVNljicyLgdSmaok6XiccHuCDxR1wHV88Fibh90T0/0?wx_fmt=jpeg",
+    "digest": "普林斯顿大学团队出品。",
     "author": "",
     "feedId": "MzA3MzI4MjgzMw=="
   },
   {
-    "id": "2651038459_3",
-    "title": "ACL 2026 Oral｜语义推理如鲠在喉：大模型被「短语」难住了",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651038459&idx=3&sn=2fc7962e868aa2d07d46ad1dda53560d&chksm=84e66685b391ef9303d7fdbf1a7901f6a95c02ff80f6c5f1aa0d86cfec90d81f5b25b6944c48#rd",
-    "publishTime": 1781152200,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqH2N71v8xEX2DYu1z2vvFyr2nvOSeV2KkTqR22mOZyvtdrUFmqL2NScrQmZzflw04xrzN1WhLCrM6OickhXibmJsMEvGA1Zdbf4g/0?wx_fmt=jpeg",
-    "digest": "语言模型真的理解（短语）语义吗？",
-    "author": "",
-    "feedId": "MzA3MzI4MjgzMw=="
-  },
-  {
-    "id": "2651037190_1",
-    "title": "进家大战已经打响，第一个跑出来的不是人形",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651037190&idx=1&sn=2caac8a67974cf40e6577a707b4b0e3d&chksm=84e65a78b391d36e641c0d1c420fefb3da3ef0f4809a8117e182edb077bb7aacbace950fcaec#rd",
-    "publishTime": 1780632428,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqGdn2X4A73a8zP8wicEW4KOmcRSo70OVFPwzLdABrfl4TBMmGpdmI6Bxibz0qnJ36SHSXdXsSaFkpVHRfick66ZzvIaVW7T7QUtP4/0?wx_fmt=jpeg",
-    "digest": "让上万个家庭主动掏钱买机器人，他们做对了什么？",
-    "author": "",
-    "feedId": "MzA3MzI4MjgzMw=="
-  },
-  {
-    "id": "2651037190_2",
-    "title": "模型也需要「睡觉」？CMU新论文让LLM在梦中「巩固记忆」",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651037190&idx=2&sn=b5976fc929c8c0c135d11c99e0ea1ace&chksm=84e65a78b391d36e69e4193eb3c4bdcfb43c8fee771e572fe51f8c000fb52be66bde3e4d071e#rd",
-    "publishTime": 1780632428,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqGaDZOZ1zwCvfw8DCFeVVdPr9OKQsY4pEpWj3E8eSQV2sjcLDrrJ2icqkRKiaMicKAtSpHHaU0bvryvsGGrVoiaxX2xWOPGFGY4Moc/0?wx_fmt=jpeg",
-    "digest": "睡得越久，推理越强？",
-    "author": "",
-    "feedId": "MzA3MzI4MjgzMw=="
-  },
-  {
-    "id": "2651037190_3",
-    "title": "刺破成功率幻象，直面具身智能的「真灵巧」，机器人精细操作评测新范式来了！",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651037190&idx=3&sn=53e0adcbf4b30f3515ff236734530c0c&chksm=84e65a78b391d36e341fbfe650ce1ea354881196ff7c5da6209a4e8c6a04880c2ce966a39824#rd",
-    "publishTime": 1780632428,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqE2PxL0HXialsCpY6o51dOfpjYw155oYg3BRt3uh5PO1iaCBZiclCaofC9Xibs0A0jQN2IEnROmxg4LpjZBBAVN2QMkjm5KUx1StDY/0?wx_fmt=jpeg",
-    "digest": "从 “是否成功” 到 “为何失败”，重新定义机器人精细操作评测范式",
-    "author": "",
-    "feedId": "MzA3MzI4MjgzMw=="
-  },
-  {
-    "id": "2651037142_1",
-    "title": "当办公室都在咕咕嘎嘎……打字，正在变成一种古老的技艺",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651037142&idx=1&sn=b38c9fbfcf9b3430112938e540e3d153&chksm=84e659a8b391d0be45bfccdd529e40235caeb911f42411263a3142bf2ac5907e9a62788fa893#rd",
-    "publishTime": 1780566687,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqFGsHBkzY0iaXGKSpAQ2fhF90OlzsOq6jX5waKcHas6B7ic0V9fnLbSEBBdKibNib1zJVfNosGMwUckKd0onruDYWk564NMC235YBU/0?wx_fmt=jpeg",
-    "digest": "硅谷开始喃喃低语……",
+    "id": "2651037518_3",
+    "title": "大晓机器人联合南洋理工打通Physical AI全链路！PhysX-Omni补齐物理AI基建",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651037518&idx=3&sn=59f355e1dc3f88caf44be217a4474af5&chksm=84e65b30b391d2263fa9d06868bd07cb53728da35ca0247fb5d740be5068431d1648855b2711#rd",
+    "publishTime": 1780718400,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqFpSsUBswE5FJEW3vNkgspOQVUajAHHHA42zWCcSKZhJ6LpZZbayhGVm6soRicZs3mkOoY0AODA6AlvLKCMVfRDADgIAdE59KHU/0?wx_fmt=jpeg",
+    "digest": "首次实现对刚体、可形变物体以及关节物体的统一建模，能够直接生成具备丰富物理属性、可用于真实仿真环境的高质量 3D 资产。",
     "author": "",
     "feedId": "MzA3MzI4MjgzMw=="
   }

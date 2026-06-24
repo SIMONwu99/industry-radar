@@ -1,5 +1,15 @@
 [
   {
+    "id": "2247495506_1",
+    "title": "AICon上海2026｜小红书质效：Agent 基建的规模化落地路径",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247495506&idx=1&sn=594cc33fcc72592c34cf9233b009befb&chksm=cfe44da5f893c4b3dd173e3b2c62cde43664ad501894876414cd610a4ee5cb023dc90772c0e5#rd",
+    "publishTime": 1782295140,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/P9Hs04VFGRnVhCHByRfAq7tfXvSPEvOu7TBjFewNE9yJAKGOk2ZHicRdjV6HYPlmWrb1ZmSKEGlKS9iaHQpRIsAbQF7NRE15OjU5zvDoSEEKI/0?wx_fmt=jpeg",
+    "digest": "AICon 上海 2026 小红书质效团队两场分享预告",
+    "author": "",
+    "feedId": "Mzg4OTc2MzczNg=="
+  },
+  {
     "id": "2247495498_1",
     "title": "小红书QEcon分享回顾：Agent 驱动的服务端端到端测试",
     "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247495498&idx=1&sn=4b09ccf844ed91df1ba7209bbc0303d6&chksm=cfe44dbdf893c4ab8492373a2a8800f32ecbe543a82060e66598da702c7db01f4dc95c02c2da#rd",
@@ -36,16 +46,6 @@
     "publishTime": 1779184740,
     "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/P9Hs04VFGRkQsCCDvQ9pY6ACibUsukE2BfbnqGiaF3pIrKcCF6xic30Qqibd3hEQXgyo8aWv3MGHZF5kEpTMwB6qphmLZlW6VcrJicfsmlxLCmQ8/0?wx_fmt=jpeg",
     "digest": "小红书技术团队五场分享预告！",
-    "author": "",
-    "feedId": "Mzg4OTc2MzczNg=="
-  },
-  {
-    "id": "2247495272_1",
-    "title": "小红书引擎架构团队ICDE 2026新成果：CCD感知编排突破多核CPU向量搜索性能天花板",
-    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247495272&idx=1&sn=2668ecaeb4fd0d7c4d03b875c0c65277&chksm=cfe44c9ff893c589ba77eeec98594a07ef8b72593d18d5e91b1ce50031c20276a547131c0e73#rd",
-    "publishTime": 1779098400,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/P9Hs04VFGRmxBJuxIvdA0IwXJmWDFnv3vxKfRI7rCHseT3GCAh72MqFG1LCfey62rJHDf8Lia51Lf2gPPdwRRInjS8NVVZnjaXSbicGIa0bSQ/0?wx_fmt=jpeg",
-    "digest": "面向多核CPU的CCD级负载感知和线程编排向量检索框架",
     "author": "",
     "feedId": "Mzg4OTc2MzczNg=="
   }
