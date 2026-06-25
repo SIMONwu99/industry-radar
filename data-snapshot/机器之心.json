@@ -1,5 +1,35 @@
 [
   {
+    "id": "2651041184_1",
+    "title": "读博最后一年转方向，拿到OpenAI offer：我的面试之路充满「意外」",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651041184&idx=1&sn=2bf86752239a03ec60378620bb7554b9&chksm=84e669deb391e0c886ee475354bd41a46ac2eecde9e2296f8ba9524ae0474f30b44c520a58dd#rd",
+    "publishTime": 1782380000,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqFkEsDkuQQOKicjU3QiaS0ruJxYLiaUDcWsjLpOb71mB3onRsRoYiau2ttfwKsT1X6568JmFcZ8SY1ticNNuWqnFFU44ibzCqPYymamI/0?wx_fmt=jpeg",
+    "digest": "感受：全是意外。",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
+    "id": "2651041184_2",
+    "title": "Fable 5要回来了？「怪人」Dario Amodei被撤下谈判桌",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651041184&idx=2&sn=59d67a2ec7b2d2ac04d9189534a946b6&chksm=84e669deb391e0c865b22843f9936e44a87471f13fe7c7ac4f643bee946a33931ae473d759c6#rd",
+    "publishTime": 1782380000,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqGpex6iaX5noaMKBV3epI2zg4Tic81cWyNEO1nBJJibTdTYLiaOMdH62N5RicKFLLqqcGXL0qmicsTrGadthb8eygsLNAqFBVQAF0wiaM/0?wx_fmt=jpeg",
+    "digest": "Claude Code 已经在为 Fable 5 回归做准备……",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
+    "id": "2651041184_3",
+    "title": "从「找视频」到「产视频」：快手RaG推动推荐系统迈向完全生成时代",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651041184&idx=3&sn=6acf1bdd5b66fe4b491017767aef08a2&chksm=84e669deb391e0c8326d29aa8e09be0aacfd6ed376c2d5561ea678d0d63d9ab5bd4809e84051#rd",
+    "publishTime": 1782380000,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqGuOQv3YdFlgd3vtcYUrfMPYicKfpSDFTZOOWeYJfjFZP59nZLdQ8sKXVxBwI6dJZ56LvBcOas5njaC7SZU2Jec3T7jkZqD6yxg/0?wx_fmt=jpeg",
+    "digest": "RaG 开始回答的是用户想看的内容应该长什么样。",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
     "id": "2651040859_1",
     "title": "从预测到干预，Aether AI为什么押注因果世界模型？",
     "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651040859&idx=1&sn=a7702a5e0b414f9945b83d1ccccd925a&chksm=84e66825b391e133298fbf6324ccdd1092049972fd9209faf0d2360c55ca647483b74f409015#rd",
@@ -110,12 +140,32 @@
     "feedId": "MzA3MzI4MjgzMw=="
   },
   {
-    "id": "2651040232_1",
-    "title": "Fable 5「重现」模型选择器！",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651040232&idx=1&sn=a2033dfdebbf9c06c861a146d4709a72&chksm=84e66d96b391e480ece24c13a2902bee2110210fd44b3742cc5f62b87c153185015d604be86e#rd",
-    "publishTime": 1782017194,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqFzu28KGOJpl2MTSIkILecccPPOLicRxGbBodnP2MzLXdHxbnnAceSNxB4Ut6ypFxMI5bwYGp4dTXAzkXPgJoZEU5DV5RYuYZiaI/0?wx_fmt=jpeg",
-    "digest": "史上最强模型即将回归？",
+    "id": "2651039784_1",
+    "title": "堆了一仓库GPU，却生产不出专业智能？九章云极用AI工厂给出解答",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651039784&idx=1&sn=bd3bcf35cd77ab17a83b1e40032ff8cc&chksm=84e66c56b391e5406d38c1432c9079ce1b84b8fa237c9289d7e6eb5a0298294fd61a7bf8c5ee#rd",
+    "publishTime": 1781690426,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqEwGLcMfBnJy3xToria8kMGW7eQibPtfRwtL18tupOByicknGQgsR2WV09j75GhqPYoacn5SYEhJYTzOWpm2gb04oRyLlwgppD2bc/0?wx_fmt=jpeg",
+    "digest": "蒸汽机之后是流水线，大模型之后是 AI 工厂",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
+    "id": "2651039784_2",
+    "title": "DeepMind：Transformer存在拓扑缺陷，思维链治标不治本",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651039784&idx=2&sn=3e73223b9ccb5e65d4a3db36190e233b&chksm=84e66c56b391e540b0893759fbf295ff7f165f57d4150998f9a6c1d0310e7a42965431d038c0#rd",
+    "publishTime": 1781690426,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqGLyoIDg4PMhyasqNqdYsWlLIeIOuYNZ9UEfs7oZ87LFfiabmT4qfVCoaPDutFXWH5uqMsgW2MwEyeAVfKj2w7Y4SSvK462ykr0/0?wx_fmt=jpeg",
+    "digest": "解决方案或许在于「循环」。",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
+    "id": "2651039784_3",
+    "title": "ACL 2026 Main｜混合推理模型也会「钻空子」：南大移动团队提出TNT，破解「假装不思考」骗奖励",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651039784&idx=3&sn=e324a77817d9313ea92e5b09fbe6b900&chksm=84e66c56b391e5408a47b4ff543c69e02396db7de3a8053465dae16cd8f974105d8ed1288179#rd",
+    "publishTime": 1781690426,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqGRAS075XGtTD0pZibLUVMkga2ezQmicJP0obOST52xysIqH9Moqtm0H9w1UQl0jRCtiaKfvbBloIycsGVnJR8QhSuT0FnQrPgecE/0?wx_fmt=jpeg",
+    "digest": "仅在奖励层面引入一个动态token上限，便将奖励欺骗概率压制在10%以内。",
     "author": "",
     "feedId": "MzA3MzI4MjgzMw=="
   },
@@ -230,62 +280,22 @@
     "feedId": "MzA3MzI4MjgzMw=="
   },
   {
-    "id": "2651038804_1",
-    "title": "入围CVPR 2026最佳论文决选，ViT³用「测试时训练」突破Transformer复杂度瓶颈",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651038804&idx=1&sn=d2bab50f9d5db279727d50646d23ff9b&chksm=84e6602ab391e93c1de51a4f80d09556a0703157573344be7fdaece903dd132921854d033600#rd",
-    "publishTime": 1781254260,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqEibRPDv7gnnMA9LARG8j8rVcd78z7BTCJUM6loE6ZHENIkGO4qichWDKrsoWDbNJm7LdryJmK0KrcWVwZtx6nzQuPj6F2nZArib8/0?wx_fmt=jpeg",
-    "digest": "一张高清图6084个token，ViT³跑快4.6倍、显存不到十分之一。",
+    "id": "2651037576_1",
+    "title": "连续入选ICRA最佳论文，RoboScience机器科学如何突破具身智能泛化瓶颈？",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651037576&idx=1&sn=40ad053f2557643fc9abd2b5fa1ef594&chksm=84e65bf6b391d2e013f4dd0c9f30a0e241004819331461e41336828f9d2d8cb1b6eb36c77893#rd",
+    "publishTime": 1780803000,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqHczv4VQBZ0zuPzgjCIAx7PtPb2BH8yfvldvBYpdlo7MDWIFZ9rNbt43Kwf4zktoF5F1tcG3KyE2zHb6VDMv6sGtWCZROlBI50/0?wx_fmt=jpeg",
+    "digest": "打通具身智能从「学术顶尖」走向「规模化落地」的关键链路。",
     "author": "",
     "feedId": "MzA3MzI4MjgzMw=="
   },
   {
-    "id": "2651038804_2",
-    "title": "5秒攻破，仅需1次对话：Fable 5最强安全机制被华人团队破解",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651038804&idx=2&sn=e7cfc446d6b3d44fd7a3384da026471e&chksm=84e6602ab391e93cfbc4d7824a4079f199efbcd819e8a7dba83be60052803f079399369a0136#rd",
-    "publishTime": 1781254260,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqHWTPs14XHWRGgrfFicSH9RTUwfJCiaX8iaFL8Cta8TZXWicClKYJpLNqvtOkbHUtiaoCTrm1hoHsAQ34EIyT2CfSV9A9WDrBibuv1K0/0?wx_fmt=jpeg",
-    "digest": "不到 5 秒就能破解。",
-    "author": "",
-    "feedId": "MzA3MzI4MjgzMw=="
-  },
-  {
-    "id": "2651038804_3",
-    "title": "RSS 2026 | 别再让机器人看错重点，GuidedVLA给动作解码器装上可控可解释的注意力专家",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651038804&idx=3&sn=83dbed4ed25f6197c61d69a07f72ad88&chksm=84e6602ab391e93c7a8d1cbbb56d9c9b2fb935dab8fa5b372ca7a7ca981fd4c94ed8d2740e75#rd",
-    "publishTime": 1781254260,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqEjpkRstcyNVpIYL68UYSVU4JYbkk6XskUKF7niaaiaU5AqxYrqW74U1ORAUAJlIlX0dKHu3EG7JtO14GicJFfTM9KIZ9ibV3FFIeI/0?wx_fmt=jpeg",
-    "digest": "让VLA不只是变大，也要变得更可控、更可解释。",
-    "author": "",
-    "feedId": "MzA3MzI4MjgzMw=="
-  },
-  {
-    "id": "2651037518_1",
-    "title": "视频AI卷向5分钟：全量开源，一次生成，正式告别「盲盒抽卡」",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651037518&idx=1&sn=24f77464cb1d0d46ac80c9c5e9911f96&chksm=84e65b30b391d2260cae866fb91ea0acc733acf0a0a7849309132f12073c59d45de8d9020ec1#rd",
-    "publishTime": 1780718400,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqH9CBibLUkskBThOSut1Z1rFqicJ2nQSXZAic5wAMEbfoOjdHOx8H4a3ztiaYZsGoR25dZpFib3aiaUj2JU7iaXicJYPYicRH8Hu3xPLRicc/0?wx_fmt=jpeg",
-    "digest": "京东搅局AI长视频。",
-    "author": "",
-    "feedId": "MzA3MzI4MjgzMw=="
-  },
-  {
-    "id": "2651037518_2",
-    "title": "DeepSeek V4做数学证明，500倍成本优势：智能体系统刷新多项纪录",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651037518&idx=2&sn=2d6012bcb8a495b818fce4458626480d&chksm=84e65b30b391d2265c4a8cee5825ccbb456951a668586c944888b72f0698f3f43c8f3267498a#rd",
-    "publishTime": 1780718400,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqHFu1IhnzOttODicayV1fDiaibibsaOHgC9fic5eHZxPzEUJSRYPqic45OylT4EhlYIVNljicyLgdSmaok6XiccHuCDxR1wHV88Fibh90T0/0?wx_fmt=jpeg",
-    "digest": "普林斯顿大学团队出品。",
-    "author": "",
-    "feedId": "MzA3MzI4MjgzMw=="
-  },
-  {
-    "id": "2651037518_3",
-    "title": "大晓机器人联合南洋理工打通Physical AI全链路！PhysX-Omni补齐物理AI基建",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651037518&idx=3&sn=59f355e1dc3f88caf44be217a4474af5&chksm=84e65b30b391d2263fa9d06868bd07cb53728da35ca0247fb5d740be5068431d1648855b2711#rd",
-    "publishTime": 1780718400,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqFpSsUBswE5FJEW3vNkgspOQVUajAHHHA42zWCcSKZhJ6LpZZbayhGVm6soRicZs3mkOoY0AODA6AlvLKCMVfRDADgIAdE59KHU/0?wx_fmt=jpeg",
-    "digest": "首次实现对刚体、可形变物体以及关节物体的统一建模，能够直接生成具备丰富物理属性、可用于真实仿真环境的高质量 3D 资产。",
+    "id": "2651037576_2",
+    "title": "AI真能学会心算？隐式思维链首次得到理论证明，Stuart Russell参与",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651037576&idx=2&sn=8fe5a722058d772b225ca70a6170e5a8&chksm=84e65bf6b391d2e01d69c17e313b400e349ae2d9e355e332b5356c6702063145f5225b91df01#rd",
+    "publishTime": 1780803000,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqFicTu5e3X5zf616naQSq3LDGMGxQLuVxjYgDwqibWMw1txBgpIh4l4EeuNTGrj4UBjpenIdlbtJPcDAZBSZ7HOKgXTeJaXtYdKI/0?wx_fmt=jpeg",
+    "digest": "UC Berkeley用数学证明了隐式思维链的可行性",
     "author": "",
     "feedId": "MzA3MzI4MjgzMw=="
   }

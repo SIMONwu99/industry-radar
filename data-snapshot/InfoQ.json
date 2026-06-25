@@ -1,5 +1,45 @@
 [
   {
+    "id": "2651287713_1",
+    "title": "最大开源第一视角数据集 EgoLive 来了，名校站台、近百家机构争相申请",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287713&idx=1&sn=af89a53852b088b81919a360bc49fa07&chksm=bdba88f28acd01e4223fd31f01e796de7b02c96df169e0bea214f9560c58ca4a428bb5fd177c#rd",
+    "publishTime": 1782376598,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjX2AWljSkMJwO7buicKmdf0ADfu6FajhFOPl6yh4k3tIznrmEHc9v5DeJHgmibGiaEZL1yDxNiaKSaM9mqHHuC4ic2aIlvicPAMMticg/0?wx_fmt=jpeg",
+    "digest": "具身智能的竞争，正在转向第一视角数据。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651287713_2",
+    "title": "AICon 深圳 2026 启动｜Agent 时代，哪些方向正在成为行业关键变量？",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287713&idx=2&sn=da4a12a6db5bdbc5d977077b914b2a58&chksm=bdba88f28acd01e4120eaae5db9a7edbe8acba08f6ab52a9c5f73a8a5f5224ea941a3fb2c8ae#rd",
+    "publishTime": 1782376598,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNiaG0Gia4CIg66FAa6P7SNzDjqeyPKRV2VFMZuwmk5Ay4eICflPfYZHTHpXGgMiaI9GMGyIDjVJJq8bBCbMQoGG3S1ceRfKPfzWdg/0?wx_fmt=jpeg",
+    "digest": "过去两年，AI 行业经历了从“大模型能力竞赛”到“AI 应用落地竞赛”的快速转变。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651287713_3",
+    "title": "内核级的真相：为什么 eBPF 正在取代基于用户空间的 Agent 成为安全可观测性的首选",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287713&idx=3&sn=7e2457fe3e33f8e4dd4b682b10fc5d0b&chksm=bdba88f28acd01e4c979104cd0275b94811afcbed36bc9cc487c7a41a3d278bb7fc63be4d0c9#rd",
+    "publishTime": 1782376598,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNiattRdHNdKWEN3qR8fHia9J7KNtgeTS4Gzib3mT7YFvPJibPnoQMg1iaPNL6zfXgQPmRvm5bogcY5gfBpbDPtOIhSB8Wt2LUmmohvI/0?wx_fmt=jpeg",
+    "digest": "相较于传统基于用户空间的Agent，eBPF正在成为安全可观测性的优选方案。它将探针直接挂接到Linux内核的系统调用接口上，因此即便在容器层被攻陷时仍能提供一致的可见性。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651287713_4",
+    "title": "优步通过实时信号与 Listwise 排序改进餐厅推荐",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287713&idx=4&sn=cef122370bc0b1ea2f9434e9f7ed7301&chksm=bdba88f28acd01e4eae2a58412d0697bd1560e4c65d68335d6068f907580ae6ad6d6faa07755#rd",
+    "publishTime": 1782376598,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNgWu9Rq942iaq7IMZ3nRtBWswfq3BmhwTovicIUm5D7DyrJPQwzrQs0JjX8aiblZRno3nKyN6a63odvtzN5qlAaUr417Mcw7XSGww/0?wx_fmt=jpeg",
+    "digest": "优步升级了其Uber Eats首页推荐系统，引入近实时的用户序列特征与生成式推荐（Generative Recommender）模型。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
     "id": "2651287639_1",
     "title": "AI可以用任何手段、写任何东西，但你得是个“中年老登”",
     "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287639&idx=1&sn=08140f6d5bd0137872f8a8bda5e55e12&chksm=bdba88048acd0112a008a29d8dc82f891250b970221b83ddcc9c9aa17fe40a6f2a8379878f60#rd",
@@ -180,42 +220,42 @@
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651287414_1",
-    "title": "Meta 几周内毁掉二十年工程文化，给所有“AI 优先”公司上了一课",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287414&idx=1&sn=0698ca38841365ad7953fee2c4f757c5&chksm=bdba97258acd1e33e4a85149b9cf9ea8695c506b174d2e3267cca293f9af98f9f510f5e0e693#rd",
-    "publishTime": 1781921700,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNhVHvHibNZdkCnZ8c8JmU7XUtlNkJ1XW6XiaDq8uWBq0icEbFVibJ9nk38K3FHyaorAh8wb3nrZQtFliclLVleibiavmJG2Xeo8QtDdq0/0?wx_fmt=jpeg",
-    "digest": "每一个在搞“AI优先”的管理者，都欠自己一个Meta复盘",
+    "id": "2651287045_1",
+    "title": "Claude背后全是大厂老兵！Anthropic工程团队1680人画像曝光：谷歌系、12年经验、本硕为主",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287045&idx=1&sn=956afee706b85a59bd62561432c3da8b&chksm=bdba96568acd1f405c443ab0757cac4efb879aa7bb0efb57f91dc4846f01c1fa4ab6042e6abb#rd",
+    "publishTime": 1781510597,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNgfD6NibFYqHic8FskKicZMsHdXdYO1lsicdrXxmu2Ylnxfhib3Z78cOIXXVAFibic7ZKnWyian9QeYoLWU4EUFuUsrpmoibbcbFIh7fzls/0?wx_fmt=jpeg",
+    "digest": "撑起 Claude 的，是一群十多年经验的大厂工程师",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651287414_2",
-    "title": "让开关自我消亡：AI 赋能的 Feature Flag 全生命周期治理",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287414&idx=2&sn=5a7312b2c3ae13679a5975d36427cca7&chksm=bdba97258acd1e338a9069d101ea8d12d4bb5642dbc884b2f2c0c6c5df855d75e954a5c1fb1d#rd",
-    "publishTime": 1781921700,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNjMpVBmjn7wtFXTaAOgJb7jzaYwbd7VySejbvrbxZ1tVGq6Ch5Xacoor8icO5SRvfB7QDzs7Elicwp2t4dMdXYBgBOj2qPUlPXxU/0?wx_fmt=jpeg",
-    "digest": "最好的治理，是治理本身被遗忘；最好的系统，是系统自己照顾自己。",
+    "id": "2651287045_2",
+    "title": "复杂业务场景下 RCA Agent 的探索实践",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287045&idx=2&sn=345eb14ef7066506bdce1ffd2b36ff0b&chksm=bdba96568acd1f40867de13bffe4124a20daea27cfbb8844ab0fb045af5d8a088f3af4cb1124#rd",
+    "publishTime": 1781510597,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNialaJgnzG4a6uU5FibGAK2jed1uaCPibfDDQsZELdo06tcfv7eAn0iamIvv6QtSAq9DYoHxBcPhQYNfTqI3h3dvXavgnHY68zWEib0/0?wx_fmt=jpeg",
+    "digest": "“拿着旧地图，找不到新大陆。”",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651287414_3",
-    "title": "昆仑万维天工 3.1 来了：上线设计画布与多智能体工作流，强化复杂项目交付能力",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287414&idx=3&sn=863d7fd7646c838bcfe120be49c3e2a8&chksm=bdba97258acd1e3378e2444b7147240f7a445995b4585ac602d08dfd16b974991c8e0ba55a64#rd",
-    "publishTime": 1781921700,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjK8N9hdNO0gSSKStPOyWTDmficAVRhy7DtvgeqJ21GFNj9AWnpaF5pTEWduAkFblv5ziaxaKXrKxgMiaibg8unibczdCWWt7SoCTa0/0?wx_fmt=jpeg",
-    "digest": "“从单次生成向持续交付场景延伸。”",
+    "id": "2651287045_3",
+    "title": "打破向量检索的局限：RAG 混合检索实践",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287045&idx=3&sn=3ef34c6d533c121c8a2d534ad320bf99&chksm=bdba96568acd1f4023d863633591b902af50e8844e1addecd01a1d085bcb543c76e03f4fadad#rd",
+    "publishTime": 1781510597,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjzjVIzqummGUianRbBHicHT5icaMf6NUK2zo4guib4R1Hon4dUgZfhia64Sqgz5mW2H7dRPK43cRuboRokoXQtDZRwpM5AOJCfqI04/0?wx_fmt=jpeg",
+    "digest": "本文分析了纯向量检索架构 RAG 流程存在的局限性，并介绍了内部全量检索应用如何借助倒数排名融合（RRF） 整合 BM25 与向量检索结果来优化检索方案。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651287414_4",
-    "title": "Pinecone 推出 OneLake 集成方案，让 AI 智能体直连企业数据",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287414&idx=4&sn=f5ddeb5ac4a79184f636ed4f578e16ae&chksm=bdba97258acd1e334f8b06966c0b8455138a5bca30095174f35ee10089ef2bfdde99fd073003#rd",
-    "publishTime": 1781921700,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNgab9UhrFRj7x5oMvWhpoUe7eBBVyObJOUdDelFDrBfWiaHhkdwLAZoZDUXWpG5hBr2Vy9DdqGYJ6oYuXu7UqCUwZVFH7xS5W0I/0?wx_fmt=jpeg",
-    "digest": "Pinecone宣布旗下Nexus知识引擎与微软OneLake达成全新集成，旨在从根本上改变企业AI智能体调取企业数据并开展推理运算的方式。",
+    "id": "2651287045_4",
+    "title": "TypeORM 历经近十年发展终于迎来 1.0 版本，标志着项目维护工作重启",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287045&idx=4&sn=86dafa88d51a50d2f4f337c13e639c24&chksm=bdba96568acd1f402286b06983a3507d56725702bd6f42a3d80a4e17d8dcd5b29ea0c3abc575#rd",
+    "publishTime": 1781510597,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNiaZibMt6vzoiaMLDDLkMnkiciatUnneaOIiagqdkPYR2FdxzoVAhVn4iaibNHbvRnKHicBlfMyvesHXicRmwz1EQMWc2ib2DXu8NX338MBss/0?wx_fmt=jpeg",
+    "digest": "TypeORM 历经近十年发展终于迎来 1.0 版本，标志着项目维护工作的重启。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
@@ -256,46 +296,6 @@
     "publishTime": 1781328600,
     "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjFaE45rQdHqicnHDE9yBjOwdpSvaBMf0aGoO0w6lmN6Xeic0uSttzbqAMjRXzvUy60a8aTlcjIV0Dq9plsyMr1QIh8wtuzYyAug/0?wx_fmt=jpeg",
     "digest": "Harness Engineering，这个词最近在开发者圈子里引发了激烈讨论",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651286939_2",
-    "title": "OpenAI 秘密递表！三巨头一起“抢钱”：AI 史上最贵一轮融资要来了",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286939&idx=2&sn=a72aed1686b7568356047e3caccd3a3e&chksm=bdba95c88acd1cde38b63ffec499b4308211692d2a1ef873ffc822231272e7129fedb567cf01#rd",
-    "publishTime": 1781328600,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjxmIXiaEQyUuicuG0fibvdDibhUlGCEYkycRP4IuuQmJJLw1sdGkLqgSg4o2gxUNiamOqER1tL52xxyzL9GuKwVSwUT4dYjI8JCmJ4/0?wx_fmt=jpeg",
-    "digest": "近日，OpenAI 已向美国证券交易委员会（SEC）秘密提交了 IPO（首次公开募股）申请。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651286939_3",
-    "title": "Arm 神经技术与虚幻引擎 MegaLights 首登移动端，手游画质跨入电影时代",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286939&idx=3&sn=aa541a2c4db0abd507b0dca9a708d0bc&chksm=bdba95c88acd1cdec2e23a7481e2d6c2285ccd15db0daf6802a35da5fe9232448d30e99d3ce1#rd",
-    "publishTime": 1781328600,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNhJdYapToiaQZYEgCAR3VRhiawSia7qD4uAiadHjsbBdOH8265bzVmMvibIcUrDZCvrnyzRVWO7u8KgV5Hic9Egz30LeVFviaTeZ4iaicjE/0?wx_fmt=jpeg",
-    "digest": "未来移动 GPU 的一个重要发展方向——从单纯提升图形算力，转向图形计算与神经计算协同工作。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651286939_4",
-    "title": "Zero 1.0 发布，Rocicorp Web 同步引擎迎来首个稳定版",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286939&idx=4&sn=0152b51992e4690840e069f65cab254f&chksm=bdba95c88acd1cdebf0d8d72d43e98360c3580a2da666c7d3a65a0573073187b1222997e1432#rd",
-    "publishTime": 1781328600,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNiajuM7Ymw1A1pOibr7SqgegaG7vJeyVCAWcWuj6VVlCAic07N1QeZoAGeEAOADiblWJ8PokXgOicTibddmdMfj1DpXNNvLrrInW5skc/0?wx_fmt=jpeg",
-    "digest": "Rocicorp 推出通用Web同步引擎Zero 1.0首个稳定版，已全面支持Zero API并将持续维护，后续破坏性变更会极少且影响有限。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651286878_1",
-    "title": "Snowflake 迈向 Agentic Enterprise 的关键一跃",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286878&idx=1&sn=6c3c80b949ef61c1a39c3db8238b2a37&chksm=bdba950d8acd1c1bd5563b90d8d5134262040328611b516f3a6e221bc20bd8fa8d537523aa1e#rd",
-    "publishTime": 1781239086,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNj943V3cCcFibTcfJl3Qgyp8gRq4kjbhXQfspA78z8no9kcR2f2ibRLLS4m6Nporg6icXcOfkg4dRXeCumavI5xicSEyaGfZ0brRN4/0?wx_fmt=jpeg",
-    "digest": "最好的 Agent 平台，必须建立在最好的数据平台之上。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   }
