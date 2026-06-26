@@ -1,5 +1,15 @@
 [
   {
+    "id": "2649802370_1",
+    "title": "腾讯混元AI Infra如何优化Hy3 Preview：一次大模型推理性能提升的技术拆解",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802370&idx=1&sn=933bed02fa58d278084e12946d3fa8ce&chksm=becc55f989bbdcefea9252ab9df7313e12f40c1be4625c81e4abe73f1e4748be38c7d3668097#rd",
+    "publishTime": 1782466560,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/KVER9adz905w9BuUXrAicj6gpIyNy7sGAibAIkQwO8LXQ9xibZP5PcP1nJicrjWPTQpYuX7U5FQp93p2G5loL9rbKhVP6iaPJhxeSI0nMOPB9yf4/0?wx_fmt=jpeg",
+    "digest": "极致性能优化实践",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
     "id": "2649802369_1",
     "title": "鹅厂员工当年高考都考了多少分？",
     "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802369&idx=1&sn=15cfdd4bef27d2bc08bf0af8d44eac5b&chksm=becc55fa89bbdcec6a877197d71f82d90dc5a3557e31ac9f02c15cf28cff7cc4c3a7ac592069#rd",
@@ -46,16 +56,6 @@
     "publishTime": 1782120107,
     "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/KVER9adz906NjWbW9fb7bSyM329L0VtXtibAaEsAzl5aAMf0Mj5A9obCPqicVC6yVZrIJQky0yfR91DWicOlLCkjvumZfNZklmvBXNrmI5CAWA/0?wx_fmt=jpeg",
     "digest": "AI 编程第三次革命",
-    "author": "",
-    "feedId": "MjM5ODYwMjI2MA=="
-  },
-  {
-    "id": "2649802116_1",
-    "title": "你的 Harness 工作流真的在进步吗？我们用一场考试撕掉了遮羞布",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802116&idx=1&sn=8886f8c0078cc85a39ac97fa2deff22a&chksm=becc56ff89bbdfe9b7a885ed28d514e550bb280ec17f0d259bbbe0c576c4a1b5e87541a340d3#rd",
-    "publishTime": 1781777949,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/KVER9adz906yLicFicu38vURmYibn0aoFY0z3QeEuk0iax3gwD67K3OiclCLQUaypAm7iaHV9GtulAnGJUl7wRlvvyIAeCEwen9BdicCw4HHUPx4mk/0?wx_fmt=jpeg",
-    "digest": "一套可量化的工作流评估体系",
     "author": "",
     "feedId": "MjM5ODYwMjI2MA=="
   }

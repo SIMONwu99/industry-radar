@@ -1,5 +1,55 @@
 [
   {
+    "id": "2651287750_1",
+    "title": "当 Agent 成为新的核心云用户：阿里云重新定义“用云范式”",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287750&idx=1&sn=c3a68d79efafa0eaaea40f001bee6fff&chksm=bdba88958acd0183d1cddace8e2008c26eb9d052b8dc73bc00f71084539786865b7e619b01c9#rd",
+    "publishTime": 1782453921,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNj6SpibpBfVFYqicnLZ3YUJNnWh1ibCo3d1Xldcg60mkrrT24NXF9zCHoPGicw1APase5FzmP04KoSGWB2Uz0jnGDGW0CCsJ9H2wlM/0?wx_fmt=jpeg",
+    "digest": "云 Skills 门户背后，是云开放标准的入口之争",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651287750_2",
+    "title": "AI 时代的新可观测性：不只看系统崩没崩，还要看模型有没有胡说",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287750&idx=2&sn=ec6bb28a614ba65e87800b8ac9c4f85a&chksm=bdba88958acd0183528035a190e4bb76d5d7bf342ebd37ba935cc56d6df52832db2c9bfe3b9f#rd",
+    "publishTime": 1782453921,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNgPrcTUYk2mjjHbpWUl6Egqa3BFUjuiajpqC8HsOrqIhlFvIr4mjUga0xm5FbxdDa5CpmfsAVZ1toFAwFvI4L15ksACAb87NjbI/0?wx_fmt=jpeg",
+    "digest": "没人真的想“观察”，大家要的是“理解”。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651287750_3",
+    "title": "Angular 官方的智能体 Skills 助力 AI 编程工具生成现代化的 Angular 代码",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287750&idx=3&sn=9e5cefcd8712bc30a9c4f6ffc5013d8f&chksm=bdba88958acd01838d7cde5d494ed15259476f08cd0846f7b66c649f202aa5238c1678576647#rd",
+    "publishTime": 1782453921,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNjrVansLeNBWTvad7VX1aMrc7ah4Nxy6bEmZicgSRnnRaqiax2A8eceibSy15icia2icBlefo13st9QwBiblVn4ZLESddGY0gwiaNJmPSI/0?wx_fmt=jpeg",
+    "digest": "谷歌的Angular团队发布了名为angular/skills的代码仓库，聚焦于智能体Skills，目标是提升AI编程智能体生成符合现代化Angular约定的代码的能力。该仓库包含用于生成代码和搭建应用脚手架的Skills集合，提供最新上下",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651287750_4",
+    "title": "Netflix 如何实时绘制数千个微服务的拓扑图",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287750&idx=4&sn=906ce0c3bec57a2c7afa8433a67e6340&chksm=bdba88958acd01839af95d57e059981f66ea91823510bbbc3e08cbd4810074cb1d883ca70ed6#rd",
+    "publishTime": 1782453921,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNiackmEWr0uxkOPHoC7sPibMyCx9sfibbCoK5wKhDibAQUiaE2icyhSAYI1Ll8lubQ56G8miazPndNlaEcjX4mGPCAZF0zXoiayVpauW74/0?wx_fmt=jpeg",
+    "digest": "Netflix公开介绍了其内部系统Service Topology。该系统为数千个微服务创建并更新实时的依赖图，帮助工程师了解服务连接关系并更快定位问题。系统将三类不同来源的数据合并为单一的、可查询的图，并随着流量模式变化近实时更新。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651287750_5",
+    "title": "从 Vibe Coding 到需求托管交付 Agent，菜鸟 AI 研发效能实践｜AICon 上海",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287750&idx=5&sn=5542d9530dfff831c9101a20aec01be4&chksm=bdba88958acd0183976951341b7b74727b5b70ef862e35c525d6982cc3db0d24aa098adb9f62#rd",
+    "publishTime": 1782453921,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNhZwWQibMYlN6JfAK9xgxsH9glL5bLmCHwfdbAlUaAUtNvumC4GcticCnm7O8Du4xAvOtx7pFpyTO1usZFYC8glqzkibzCUljDbvw/0?wx_fmt=jpeg",
+    "digest": "本次分享将完整呈现从工具采用到工作流重构的实践路径，以及过程中踩过的坑",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
     "id": "2651287713_1",
     "title": "最大开源第一视角数据集 EgoLive 来了，名校站台、近百家机构争相申请",
     "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287713&idx=1&sn=af89a53852b088b81919a360bc49fa07&chksm=bdba88f28acd01e4223fd31f01e796de7b02c96df169e0bea214f9560c58ca4a428bb5fd177c#rd",
@@ -180,42 +230,42 @@
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651287454_1",
-    "title": "吴恩达戳破AI幻象：炒作过头了，未来公司是10人小队＋Agent重做数据架构",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287454&idx=1&sn=9de7ef2850b77e5f02b4864387d74121&chksm=bdba97cd8acd1edbc0991b7f92039b011cc25f3588ee5836fd39ff4e3470f226bf6be19e46ca#rd",
-    "publishTime": 1782008100,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/lYDricib2fsm41xWsOeyQTT1uFmCkvSR5y7yIFbaBsc9PyutIxhLCxASM6BoNH5YoLCAX3icHspr94ic8neKIYkLf41gsa0ehB2I5a0cBia7icSF4/0?wx_fmt=jpeg",
-    "digest": "近期，在 LangChain 举办的智能体大会 Interrupt 上，吴恩达与 LangChain 创始人 Harrison Chase 进行了一场关于 AI Agent 的对谈。",
+    "id": "2651287211_1",
+    "title": "Redis 之父为 DeepSeek 抱不平：美国 AI 圈又为“蒸馏”吵起来了",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287211&idx=1&sn=5db63e2f8d84a6ab3b0e48f3538615ad&chksm=bdba96f88acd1feefa257f6affc8f9b14ce75b121c42236411d87ecb1fcd66c48544599d360e#rd",
+    "publishTime": 1781600291,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNjmjHxib5PCkxey8Eypav1XCq0hJFZkabSAsLnjpW4QNZaxibNQvLT4kTcv2MKk1fo9aENjP4k4GibHcvXTKM1SCpMMCA1VwQAibTE/0?wx_fmt=jpeg",
+    "digest": "Redis 之父七条推文反驳 DeepSeek“蒸馏”指控",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651287454_2",
-    "title": "三家公司一周内出手，编码 Agent 进入团队基础设施时代",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287454&idx=2&sn=6f1f4b51b7abfce5ebed02aae073ba0a&chksm=bdba97cd8acd1edb8f4729a8ba26796abe70deea26d06f3482e3909bbf688ed6eeaeafdd1d94#rd",
-    "publishTime": 1782008100,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNhpXXrB8AQibDlHlWicA7NwWYt5icuOeQI5hohjJicBKuMJicFiaxlIaanFummyR53q7mXibgJju92EWtCcvf6zkxHDK1QkOlvcu710S0/0?wx_fmt=jpeg",
-    "digest": "在6月的第一周，有三家供应商将编码代理推向了单开发者循环之外。正文",
+    "id": "2651287211_2",
+    "title": "对话谢国：从 Flutter 到 KMP，跨平台框架正在从“代码复用工具”走向“生态连接器”",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287211&idx=2&sn=fcaa7341cea51495b49051b2fe9313d9&chksm=bdba96f88acd1fee2a24d345706e3ee6915484d33e9b700879a1b32af906f56455d254620b57#rd",
+    "publishTime": 1781600291,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNhlhOwiaPzKF0RrvURX06TNc26eiaUQ4GQpwpxia5aNX6399Mu1VQnT6cB1ORhmGwK2yiaDrdhk8Yswzwedv9iaKZk542nnN65wmEJU/0?wx_fmt=jpeg",
+    "digest": "跨平台框架正演变为“生态连接器”，未来可能走向“原生UI + 共享逻辑 + AI协同”",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651287454_3",
-    "title": "同属 Oracle，OpenJDK 与 GraalVM 对 AI 代码贡献态度相反",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287454&idx=3&sn=3dae4af33d734de7bd9a1049a142929c&chksm=bdba97cd8acd1edbda6ff9b707d1bc445ca9ea86896419205492b4d1b8a75a4ba51c6e6b0239#rd",
-    "publishTime": 1782008100,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjCwiarH8hw1KhxfUNexnkoIR1lT9O6j0HeyasuiaiaJhzkF9lIX3d3vIiaOMw5rByKZtyuFMCsGfVpRW1y4YucURFC0Os60wmhwJw/0?wx_fmt=jpeg",
-    "digest": "Oracle 的 OpenJDK 禁止生成式 AI 贡献，而 Oracle 的 GraalVM 允许这类贡献。",
+    "id": "2651287211_3",
+    "title": "普通人创作千万播放量爆款视频不是梦！从字节走出的产品人，做了一款 AIGC 视频神器",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287211&idx=3&sn=0fc9ebd344cbb5ebbba44bcc7ed91dfb&chksm=bdba96f88acd1fee96c55536647d67f3cee6023777c6ba3834c949ee6c3ae1e33a7b07c9bd97#rd",
+    "publishTime": 1781600291,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNj6GF8yf8oX4ccIRONDKbicSny6ulkelgwFv12icb7a1mSOZeJeQicZxsRC9dkDIYabZlMQIlTjIBsW4a75pNCOtINUYHEEZ6ZYc8/0?wx_fmt=jpeg",
+    "digest": "“过去制作一条AI短片至少要耗时一周以上，如今借助OiiOii，8分钟的成片仅需1-2天即可高效完成。”",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651287454_4",
-    "title": "Pinterest 利用内容指纹技术，在数百万个域名中实现 URL 去重",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287454&idx=4&sn=512d58d35a8b44a094f4707e64d1b0e5&chksm=bdba97cd8acd1edb4f332eb24ffcd6551c1ccee09877f8b15d65b43134abcb5c68a30503114f#rd",
-    "publishTime": 1782008100,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNiafknwvQ0PpGqXiaXleKknUyZy7SMs19pYria426bCcvrYhAWADNBoQRhJSEtkWticyvs85gBVbGqWUSguChd1sjOibemf5ed6xLA8/0?wx_fmt=jpeg",
-    "digest": "Pinterest 工程师开发了一套名为“最小重要查询参数集”（MIQPS）的 URL 标准化系统，旨在优化其大规模数据采集管道中的内容去重处理。",
+    "id": "2651287211_4",
+    "title": "导致 Spark on Kubernetes 发生 OOM 故障的两个配置错误",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287211&idx=4&sn=d4decd7c33c7b67b4efdf80bb0910f6d&chksm=bdba96f88acd1feea1da4cb83f0240ec7c6e58b68626424e24e4cd77923cb8a85a95757f2762#rd",
+    "publishTime": 1781600291,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNgtK1E5OIYjELvic4atNibwlYuoibfNo0CEgFNCnKg2S5XdZibibNybPzSia3waCQicZwwiatWnkCWcq1tOibxB26oxrl4pNYOwicWS0p1jQ/0?wx_fmt=jpeg",
+    "digest": "在将几个 Spark 批处理管道从本地基础设施迁移到 Azure Kubernetes Service (AKS) 后不久，我们发现其中一个比较大的作业反复出现执行器内存不足 (OOM) 故障。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
@@ -246,56 +296,6 @@
     "publishTime": 1781510597,
     "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjzjVIzqummGUianRbBHicHT5icaMf6NUK2zo4guib4R1Hon4dUgZfhia64Sqgz5mW2H7dRPK43cRuboRokoXQtDZRwpM5AOJCfqI04/0?wx_fmt=jpeg",
     "digest": "本文分析了纯向量检索架构 RAG 流程存在的局限性，并介绍了内部全量检索应用如何借助倒数排名融合（RRF） 整合 BM25 与向量检索结果来优化检索方案。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651287045_4",
-    "title": "TypeORM 历经近十年发展终于迎来 1.0 版本，标志着项目维护工作重启",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287045&idx=4&sn=86dafa88d51a50d2f4f337c13e639c24&chksm=bdba96568acd1f402286b06983a3507d56725702bd6f42a3d80a4e17d8dcd5b29ea0c3abc575#rd",
-    "publishTime": 1781510597,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNiaZibMt6vzoiaMLDDLkMnkiciatUnneaOIiagqdkPYR2FdxzoVAhVn4iaibNHbvRnKHicBlfMyvesHXicRmwz1EQMWc2ib2DXu8NX338MBss/0?wx_fmt=jpeg",
-    "digest": "TypeORM 历经近十年发展终于迎来 1.0 版本，标志着项目维护工作的重启。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651286966_2",
-    "title": "自主智能体遇阻：数据库成最大挑战",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286966&idx=2&sn=66c6a43ee91dca691395c664568f0407&chksm=bdba95e58acd1cf366386cc18708e4f67f1d58543be0762ca4d709cd04b31cc3e856f9c69f55#rd",
-    "publishTime": 1781403300,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNhgno0SWibNicKZtcvMZkziaauurjO2UhicXnpZVwuKLP6vtc151UGFrq0WLiaxFh9KX4Zz8wiatQocEp9vMff33WcW3pazWKp6Btiaes/0?wx_fmt=jpeg",
-    "digest": "随着大语言模型从单纯的聊天机器人逐步进化为具备推理、规划与行动能力的自主智能体，它们已经能够自主编排复杂的应用栈。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651286966_3",
-    "title": "AI 驱动的网络钓鱼：技术演变与实施方式",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286966&idx=3&sn=c581788f8e8e12501f59854e6846725c&chksm=bdba95e58acd1cf33f9d1668e4fd05f0e24cd9955ae9fecc46703cebbe01e5952053291ee22d#rd",
-    "publishTime": 1781403300,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjkpnE7ZvySLn7wTXMsvEP6mXvia6ibnvwSrPZLFmaOqAu04xJ0Sibc56EeNibiaQ97JuicYfd9icMBmHaAwbGSEHh9sULdcOL0OzdK8E/0?wx_fmt=jpeg",
-    "digest": "本文分析了AI推动网络钓鱼向自动化、规模化演变的过程，阐述其在钓鱼全流程中的作用，并介绍了融合技术、流程与人员意识的分层防御策略。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651286966_4",
-    "title": "Uber 如何通过批处理实现单账户每秒 30+ 次更新",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286966&idx=4&sn=f895b338df56a0a3bce75d7b866eeaec&chksm=bdba95e58acd1cf371f00b59b99f3bae524e9e82d242ea05ad1bb6f995d95cfffff14caf1ff6#rd",
-    "publishTime": 1781403300,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNhlMpzJfkc3EhROWmMeDFGuEfhfUHOy7pCtiaic7EywNsKOKibsJ8HiaowFI6HFbRTrR0rsAv2spAUnDZlolhkaPJ16saOPBPTSsas/0?wx_fmt=jpeg",
-    "digest": "Uber 近日介绍了一套高吞吐量账本处理系统，用于解决其分布式账务基础设施中单个账户持续遭遇高并发写入的问题。这类问题通常出现在大量更新请求集中落到同一个账户上的场景中。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651286939_1",
-    "title": "严禁手写代码、一天烧不完 10 亿 Token 就是失职：OpenAI 工程师揭秘“零人类编码”的激进实践",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286939&idx=1&sn=4c7b1d2d31e85c97537dbdf4f421bebb&chksm=bdba95c88acd1cde61812ca1caf7d2223fcee5b75709adcbafa0160774efce7f9323b4326297#rd",
-    "publishTime": 1781328600,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjFaE45rQdHqicnHDE9yBjOwdpSvaBMf0aGoO0w6lmN6Xeic0uSttzbqAMjRXzvUy60a8aTlcjIV0Dq9plsyMr1QIh8wtuzYyAug/0?wx_fmt=jpeg",
-    "digest": "Harness Engineering，这个词最近在开发者圈子里引发了激烈讨论",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   }
