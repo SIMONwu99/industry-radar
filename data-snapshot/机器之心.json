@@ -1,5 +1,35 @@
 [
   {
+    "id": "2651041465_1",
+    "title": "大神Karpathy用Claude的方式，原来是这样的？",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651041465&idx=1&sn=a391dbb9edb976be96eed9e3e08395ae&chksm=84e66ac7b391e3d14d27239ae07528b794f45568ff8a5db35307716fae5ccb39b5039779868b#rd",
+    "publishTime": 1782534600,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqHJics4gpDicnqHqnrL11jZGEyuic85Lz7gpVmlUXhBwZRTEoYXRXnlbgqGQ1CFlDiaR0M0DDwupWLvcUz5UFfSv12ADlX0lSKRQks/0?wx_fmt=jpeg",
+    "digest": "有了它，Claude终于不再和我对着干。",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
+    "id": "2651041465_2",
+    "title": "陈天奇新书上线：面向ML系统的现代GPU编程",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651041465&idx=2&sn=45feef7c979b51b234c0357077ac4f7b&chksm=84e66ac7b391e3d17a31c199d5793c1f7f4eb52434f97fa76be7cf98ea5a01247209dcc77b4b#rd",
+    "publishTime": 1782534600,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqFIpUVOy5KR8BbnJl5uIuibWrj2JibgU6V0IVaAXJ8zQ5fbX946ibG9gib4KIK8n6QsdflDicJoUne8hFlNUTAbY0lyPC1ha7RwUzXg/0?wx_fmt=jpeg",
+    "digest": "学习学习！",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
+    "id": "2651041465_3",
+    "title": "ECCV 2026 | 视频生成模型真的会「推理」吗？303道题全面揭示世界模型的推理短板",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651041465&idx=3&sn=729dd9680448f8b94858d11d019b3a10&chksm=84e66ac7b391e3d187b55a286c82aeb95179c33cb8ce808015612d6dc41789d737217ba1cd08#rd",
+    "publishTime": 1782534600,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqH1MSWgCex6vxqp7A8QbQfCUpqQ2D82xQrq0thNceGHzCDicsnagiawkWncOLLGlefPFV7Lhhh5p1gpZjYxicL38y3blFeneByCGA/0?wx_fmt=jpeg",
+    "digest": "视频模型不懂推理、更听不懂提示。",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
     "id": "2651041320_1",
     "title": "国内首张防爆资质、全球首个加油大脑方案，他们凭什么拿下两个「第一」",
     "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651041320&idx=1&sn=7ea8d0ceeecd9f9887356d08b93a8c7f&chksm=84e66a56b391e340d6fae089f17b18bcdef3f2c8b586807932cb60d67521eb5c1854b7443242#rd",
@@ -120,32 +150,32 @@
     "feedId": "MzA3MzI4MjgzMw=="
   },
   {
-    "id": "2651040283_1",
-    "title": "AI for Computing迎来破局者，国产黑马智子芯元两个月融了两轮！",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651040283&idx=1&sn=93595b00f573595ad5eeb730d79a4868&chksm=84e66e65b391e773fa671658a6d7dbafd77481d41030036ba8cf9995c18ac6e62722652d7606#rd",
-    "publishTime": 1782102643,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqHH7DuQBvjCjUfPqOlYsMicvz2DwrMEicWsY8YmaibR3BeNDGYpwuHZlvpiaJDiaDmgZ8ibSvaQKazZSPzRRSRLp0YO6BwxC5vMLgf8c/0?wx_fmt=jpeg",
-    "digest": "AI开始接管计算系统优化。",
+    "id": "2651040113_1",
+    "title": "Claude Code史诗级更新，突破终端，把工作实时变成网页看板",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651040113&idx=1&sn=65f4eb89a20d986bd4a0f3e8a8f337d7&chksm=84e66d0fb391e41936a3aefdd7837a61a20f1211ab53487bf72aa5b94591215521d13da1c2c7#rd",
+    "publishTime": 1781844300,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqFUzDicgiaduJoHj45GQbvich5neiaLiak2XuWXX9o2ia2BAMaQbpa3PMiaM2vBiaXDdySQgsvGH3YMl0FPiaEoiatKL8ViaebNHicDs07oyjM/0?wx_fmt=jpeg",
+    "digest": "实用与美学",
     "author": "",
     "feedId": "MzA3MzI4MjgzMw=="
   },
   {
-    "id": "2651040283_2",
-    "title": "何恺明团队新作：删掉VAE和私有数据后，文生图竟然更强了",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651040283&idx=2&sn=6a21a2fa2fc1a5341f29921b6d41106a&chksm=84e66e65b391e77357bdd9faba9ef58ea37916b0762436d84adb382fc8612f5c920c012684cc#rd",
-    "publishTime": 1782102643,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqEgNVKjS6OxV0VEnVFwF94zXBlJRkf26ibdg9ob5HCJw7hlNsXl8Dmria1kTBczpvtGRJeA6BtZBdkJJH5nc2OvS1SmbpK2aoViaI/0?wx_fmt=jpeg",
-    "digest": "删繁就简",
+    "id": "2651040113_2",
+    "title": "GLM-5.2全球免费6小时，马斯克点赞，HuggingFace掏钱",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651040113&idx=2&sn=ab7df9774cba0f0bbebd41cc7feaeddb&chksm=84e66d0fb391e419f46ff3c0b7580f74222e25156b4a10a247b609088e2fadb57b3462f57e48#rd",
+    "publishTime": 1781844300,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqHUHYG251nKOvoicjPnEibdpL3KN1gQAOy81tiay9Sg3tYfrjvuw5nJ3MJTBeHGR3ewVS9xK4ETjhjKpxryrFphiaNUtRxvkvDEYH4/0?wx_fmt=jpeg",
+    "digest": "中国大模型，跻身模型御三家",
     "author": "",
     "feedId": "MzA3MzI4MjgzMw=="
   },
   {
-    "id": "2651040283_3",
-    "title": "不靠专家出题，8万条人类终端录像，炼成首个真实CLI工作流基准TerminalWorld",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651040283&idx=3&sn=cddc55f3b8a0283bc7807be994d492b8&chksm=84e66e65b391e7737abf4ad743182386150f59fbb07696bca4df7cb1cde37f98ab56070f98df#rd",
-    "publishTime": 1782102643,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqHqiaP9R1SUryM0XdrZJe8qNrtVHeGbX0qycDCbN053zJSrnqh9M1GEnezMFVjl828SarPGj3ia0zBxvJAW9iaRklv36w9l9aDxw8/0?wx_fmt=jpeg",
-    "digest": "让测评，跟着真实世界一起长",
+    "id": "2651040113_3",
+    "title": "ICML 2026｜Agent通讯的「运营商」哪家强？UIUC团队发布ProtocolBench",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651040113&idx=3&sn=42ee260b5226f6e16e1aeb8480b8cfc4&chksm=84e66d0fb391e419b74050819463f3a4ed1f13945ee89110861deb07bd8b6f5df5d8148a8795#rd",
+    "publishTime": 1781844300,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqEgiavXE2GzpMlkGoI7cEkWJdUN0HBiatcAo3IIjNlWUicvtwiaO4wqAy7Hq5KyUtF6TQM8bmqEwAppLNPKZFKywbuFPz1WvIWqyG0/0?wx_fmt=jpeg",
+    "digest": "为多智能体通信协议的评测立下新标杆",
     "author": "",
     "feedId": "MzA3MzI4MjgzMw=="
   },
@@ -266,36 +296,6 @@
     "publishTime": 1781517304,
     "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqE60sPicwwMAialfulr95aMvANCGl8sF1jTqoZyAImAmibRxCLcAt7JCKb6Tiak7zNkpic4Yd137Onxk4aQg0xg8zuPQ0picmfJ0Tp1Y/0?wx_fmt=jpeg",
     "digest": "KIVI：面向知识密集型场景的视频生成任务与评测基准。",
-    "author": "",
-    "feedId": "MzA3MzI4MjgzMw=="
-  },
-  {
-    "id": "2651038961_1",
-    "title": "Fable 5被特朗普禁止幕后黑手曝光？Karpathy可能也用不了了",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651038961&idx=1&sn=b49409abeb35035bb799b1b0417cd7b1&chksm=84e6608fb391e9993345f7a09bbb5bb44ca9af3bdf87f1ddbf2c1184b7a46db372be4da9025b#rd",
-    "publishTime": 1781405415,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqFibQxp0bcQwnDcDSIjzoYiczsWPuOSAg4wKOQlEaAkuTtJQHY0qMfaWYwAN1C5rXKEviaccTHuBBY2ysj7s7BXoicNPxW1RpwFvAc/0?wx_fmt=jpeg",
-    "digest": "谁是赢家？",
-    "author": "",
-    "feedId": "MzA3MzI4MjgzMw=="
-  },
-  {
-    "id": "2651038961_2",
-    "title": "CVPR 2026 | GaussianDWM：用3D高斯表示统一自动驾驶场景理解与多模态生成",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651038961&idx=2&sn=6cec715df102f8b6c3869339d4bd4ac1&chksm=84e6608fb391e999c68c0ea31ed29e430932d04ef8e802442d4578626f762b3e54b23d1376bf#rd",
-    "publishTime": 1781405415,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqGAuichqdFBlUGhZLUEUiaE1Y98FLEpQSeCy8JCqichYJHeddGgjKzic5xUQWWicfrSSJ9Rr4zamrY3px47AFfXcfSZDhweUvLp92Ns/0?wx_fmt=jpeg",
-    "digest": "在统一的 3D 场景表示中同时支持理解任务和生成任务。",
-    "author": "",
-    "feedId": "MzA3MzI4MjgzMw=="
-  },
-  {
-    "id": "2651037653_1",
-    "title": "阿里RTPurboV2：原生Transformer再次崛起，百步训练实现10倍稀疏注意",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651037653&idx=1&sn=9a9352fb7a5ce8b8e51baea10016f3fa&chksm=84e65babb391d2bda7b1b2bf668ea0f94e88e8080af41a448b9bdaeaedef9800d07e0e279814#rd",
-    "publishTime": 1780884363,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqEgwtZXtB6qU7ASiclpZZCtezQwkwQooT3GSXSqVIUwjHev9z4gOtpjgC75rq2iccdhicSChbCicNCNOgcDyWeVL2OB89KJ6AugAbw/0?wx_fmt=jpeg",
-    "digest": "“Full Attention 正在被遗忘”",
     "author": "",
     "feedId": "MzA3MzI4MjgzMw=="
   }

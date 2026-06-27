@@ -1,5 +1,35 @@
 [
   {
+    "id": "2247900018_1",
+    "title": "CVPR 2026最热方向，被一家杭州团队率先跑进了端侧！",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247900018&idx=1&sn=7e8f294ec74e92aad8a0e58ccbe69736&chksm=e8da6c00dfade516f4dd43b4c6c547cf9496258d681e6c943cd689107aa4c5fdb0813adad37c#rd",
+    "publishTime": 1782539482,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGG5ibpIrEKZUpRKVbvG8NOibGjPUqpKgOVtuJ4UCr5c8N7yBZyD2EHlbXgjJtQrE9J3akEcvKwwnfoZWfibsLJpJQK20Vufg1dPwk/0?wx_fmt=jpeg",
+    "digest": "VLM-R1之后再次出手！全球首个端侧流式多模态来了！",
+    "author": "",
+    "feedId": "MzIzNjc1NzUzMw=="
+  },
+  {
+    "id": "2247900018_2",
+    "title": "长链路手机AI训练总崩盘？vivo全新半在线RL，仅15k轨迹稳定收敛",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247900018&idx=2&sn=f772bbfc95bceba9de159cef625102db&chksm=e8da6c00dfade516f9278ff03d89ab687d386fcc1eb9fef634ee2f6c04993b3cbe2a4ed4aaa5#rd",
+    "publishTime": 1782539482,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGH2LTnCrzLkMt2JVmeUryiafmiaV3764S3JZeoomJkG9plzInIjWAdEF9tHjaibErJptBTCTTZgaVmL4sR095Io5D1AfhoS8oTIAQ/0?wx_fmt=jpeg",
+    "digest": "vivo SOLAR-RL：半在线强化学习破解长程GUI智能体训练难题",
+    "author": "",
+    "feedId": "MzIzNjc1NzUzMw=="
+  },
+  {
+    "id": "2247900018_3",
+    "title": "量子位编辑作者招聘",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247900018&idx=3&sn=76e462f4e4039341cb6d5e769b1e4fde&chksm=e8da6c00dfade5164998cd1c4c4b12be2ab81fc30f11a7c404b182cf9aa424dc229dedfbb9b1#rd",
+    "publishTime": 1782539482,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/YicUhk5aAGtBwsQQg50rdDIFHPibz5pbVfnv0oOoRSQ2KmEYBSJRibeXrJnIU1euj0icCf6pXdduQdCbnRJy3b7u7Q/0?wx_fmt=jpeg",
+    "digest": "3个岗位（含实习），不设边界",
+    "author": "",
+    "feedId": "MzIzNjc1NzUzMw=="
+  },
+  {
     "id": "2247899865_1",
     "title": "从需求到设计到代码，一个软件全搞定！TRAE Work Design实测来了",
     "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247899865&idx=1&sn=083a5e912e6380c40a428f80d93d18f6&chksm=e8da6dabdfade4bd92556691027531eb41844219b43b4f8f4c6dccf302afcb12109e383a9952#rd",
@@ -26,16 +56,6 @@
     "publishTime": 1782448500,
     "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGHAp39FxrFtIWUlnl2NUgoiat2W4vAu3bj2MgkV6xSueXqaExsuFuRlk3icHeSy1jcic0YLsgMTtibJjAEaicAF8IGzLcvunubibT2UM/0?wx_fmt=jpeg",
     "digest": "置信解码：无训练、即插即用的选择策略",
-    "author": "",
-    "feedId": "MzIzNjc1NzUzMw=="
-  },
-  {
-    "id": "2247899865_4",
-    "title": "量子位编辑作者招聘",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247899865&idx=4&sn=6d0aa0ad9d4a5afd24111797beefda48&chksm=e8da6dabdfade4bd0f37643fa22756ff83955923e39e2782b58c97f750eba5973f3815c9b831#rd",
-    "publishTime": 1782448500,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/YicUhk5aAGtBwsQQg50rdDIFHPibz5pbVfnv0oOoRSQ2KmEYBSJRibeXrJnIU1euj0icCf6pXdduQdCbnRJy3b7u7Q/0?wx_fmt=jpeg",
-    "digest": "3个岗位（含实习），不设边界",
     "author": "",
     "feedId": "MzIzNjc1NzUzMw=="
   },
@@ -140,22 +160,42 @@
     "feedId": "MzIzNjc1NzUzMw=="
   },
   {
-    "id": "2247898679_1",
-    "title": "DeepSeek缺Agent人才缺疯了！负责人各种贴广告",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247898679&idx=1&sn=7e13093476268ed660ab89bfa7edc32f&chksm=e8da6145dfade8539ac1b2f961435a56d9e7af64255ce7d889f9261822ed3a542ec75ec736b4#rd",
-    "publishTime": 1782102007,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGH2CDujPfl2XSc4dekcAO8IRWnloEwOGUVfL3IavNQz3Bb1reibAncX0bldkDqAr0JIyn1obdKEwbF4rgWzBqn24G6mjYXpgPzU/0?wx_fmt=jpeg",
-    "digest": "崔添翼：Harness部门，上人！！",
+    "id": "2247898050_1",
+    "title": "刚刚，北京建了一座AI工厂：目标10万P算力，日产10万亿Token！",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247898050&idx=1&sn=a66f4f9669c0a4728994d09bdaf85ddb&chksm=e8da64b0dfadeda6e30bb7b31f73b9c79a8cab069c1c23e985774d8ecfbee5412675040b16ed#rd",
+    "publishTime": 1781690992,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGEsxVOhcYVicTupVZkpEHuOb72naGVKUf8oicAhHo3w9k1ibjeTs3cpWWwOG8KuQzMzmRibMeTucBUdgjEnLXVjoTuJyMQccs2KMtU/0?wx_fmt=jpeg",
+    "digest": "计划1000倍综合降本",
     "author": "",
     "feedId": "MzIzNjc1NzUzMw=="
   },
   {
-    "id": "2247898679_2",
-    "title": "可口可乐的世界杯TVC，居然是prompt生成的",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247898679&idx=2&sn=e96945636564471e6768d18d303fa48b&chksm=e8da6145dfade853df83623df41625952c07affed6a9db8c08b06a277726ec6581402efe1175#rd",
-    "publishTime": 1782102007,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGH7WZichEG37PsBmLclMBtFBYA5AfWOb7yvZbBcyxDcF8joM6cdKibRUh49j8LfYnkiaYgmzsbLx7gmBp3649ruAJy4plI8XVlUaU/0?wx_fmt=jpeg",
-    "digest": "24小时在线、2秒回话，陪你聊球",
+    "id": "2247898050_2",
+    "title": "AI转型最大的门槛，不是技术，是人",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247898050&idx=2&sn=c57e8d4c2630c5e433488b9d65cd6a05&chksm=e8da64b0dfadeda60b5c79f03e4b6305e6610711c1d3e10eb0b1859c85be2f64c302b8b56bb0#rd",
+    "publishTime": 1781690992,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGHGUmO4kicibwicRRT1faReyz8czGWhDIQtGHTn03pVUdGNQCbHOtbIKibblk45MVZFHFHUqueH0vhA8ibfeas6Wub6faqu2yMT1Zqw/0?wx_fmt=jpeg",
+    "digest": "不主动改变，就只能等着被改变",
+    "author": "",
+    "feedId": "MzIzNjc1NzUzMw=="
+  },
+  {
+    "id": "2247898050_3",
+    "title": "星海图创始人高继扬：具身智能三层技术路线，没有捷径可走",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247898050&idx=3&sn=080af08a487c17184d4405fa41c54ced&chksm=e8da64b0dfadeda6aeb80af02e5e8ae0f1d1babb360fb6cb7f0925edde263b5da82a068fbc14#rd",
+    "publishTime": 1781690992,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGHglD7fIOI5ZsJpXaicOKeoWWqtBaIeI3kACmqhy37H0lnpNQJqj54qm2BfRGgcpHXoRTEscNV5WMYE6qvlStKUDSejmUicZ6Gp8/0?wx_fmt=jpeg",
+    "digest": "数据+投资，星海图开始拼生态了",
+    "author": "",
+    "feedId": "MzIzNjc1NzUzMw=="
+  },
+  {
+    "id": "2247898050_4",
+    "title": "腾讯混元最新开源：一套RL框架打通多个模态，庞天宇团队新作",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247898050&idx=4&sn=031ff938f8a26f84c99ccc8316c22eff&chksm=e8da64b0dfadeda639b29329cbaa8ec44b92b9f6eba93d80c1a50adde0904f2e47fb1d5cf60a#rd",
+    "publishTime": 1781690992,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGE2e82lu3nw10UibLKqOeCGMZsd7nHZLYfGNWWQckFTzugrgDJD51ic4ADI76Afl3MVZSBwLR6REZQ5kNZrf3NLYAiakeEicEnztibY/0?wx_fmt=jpeg",
+    "digest": "开箱即用，视频图文全适配",
     "author": "",
     "feedId": "MzIzNjc1NzUzMw=="
   },
@@ -206,46 +246,6 @@
     "publishTime": 1781494635,
     "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGGu1EbLic3n4VUDLVzE2ghQO8EMjDEficQo94ywLZgCicKF4flCnLOvAFKcib7U6IW2tREOib4Tz0Re6WpJJSc6PbDHDhlBvsALl73c/0?wx_fmt=jpeg",
     "digest": "硅基生命体，长在汽车上",
-    "author": "",
-    "feedId": "MzIzNjc1NzUzMw=="
-  },
-  {
-    "id": "2247897515_2",
-    "title": "低成本复刻Fable 5的路子找到了：OrcaRouter多模型组队，性能反超",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247897515&idx=2&sn=cad860b40c09e2f7815622d9c0273312&chksm=e8da66d9dfadefcf33e7fdb596dbf34b5dc48960e41d820d6d0095d16ed39f95cc1e73d6e9d7#rd",
-    "publishTime": 1781494635,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGHA9ulqnIea82usbct6Er4yAnnRiaVkWBJqoIjbDHic8nF70BCPoUeVfaaicoTEOBP7gTtPLzCEic8trMjxtEiclsV0oECP3cdhu0Rw/0?wx_fmt=jpeg",
-    "digest": "原来最强AI不是一个AI",
-    "author": "",
-    "feedId": "MzIzNjc1NzUzMw=="
-  },
-  {
-    "id": "2247897515_3",
-    "title": "把真实GitHub仓库转化为可执行终端轨迹！TerminalTraj入选ICML 2026",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247897515&idx=3&sn=0b1c82237b47dd14c6c74f2bfabe8e1c&chksm=e8da66d9dfadefcf16c4a9e07ab007af4ebcc2c065cb9ea55b0d386ad98a9f532ba6d3bfe72c#rd",
-    "publishTime": 1781494635,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGHHwP2ibXIranjcaMaShTrvKHzhugATeLVtAAYsjUsPYASyB3dGqWpZib8bUNTSEo67w098euq7qhZKeInZBkk1TrnCtMZ4sB9p0/0?wx_fmt=jpeg",
-    "digest": "32K环境×50K轨迹",
-    "author": "",
-    "feedId": "MzIzNjc1NzUzMw=="
-  },
-  {
-    "id": "2247897349_1",
-    "title": "Agent时代，华为云开始重新造地基了",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247897349&idx=1&sn=28447d634d3e27883ce00d1099701268&chksm=e8da6677dfadef6178967557726b9b1fceb96c030e0359bc4c9c5bc0927ad91816bb3056e1b8#rd",
-    "publishTime": 1781409600,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGF8WAk0Z2gNicTXShWaiclOcyEicUUGuuiayBmL8icYo31rcemaZicdEklyhOTcAnytw8j4KTOZoctSqSuOxR6CwF46cMOdbGmlT7Zmo/0?wx_fmt=jpeg",
-    "digest": "Agentic新基建",
-    "author": "",
-    "feedId": "MzIzNjc1NzUzMw=="
-  },
-  {
-    "id": "2247897349_2",
-    "title": "KV Cache终于不用无脑全留了！百度&复旦用「投资回报率」重新分配缓存｜ICML 2026",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247897349&idx=2&sn=14ceeec45a2f6803e40bc7b029964120&chksm=e8da6677dfadef611e37c6a895364482f0ed922a0a24325a648cab7480a9db3cf4b61635a142#rd",
-    "publishTime": 1781409600,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGHAbGXtpngZqyrOdq180t1s7xlCo7ERiacklZAAOfUcZCbt7qFMWylTgEzVvNR6cGlPk8GneJEyhHNl1SGnSQtcG2XsCNDYwSicE/0?wx_fmt=jpeg",
-    "digest": "80% KV Cache压缩，性能损失仅0.52%",
     "author": "",
     "feedId": "MzIzNjc1NzUzMw=="
   }
