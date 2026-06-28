@@ -1,5 +1,25 @@
 [
   {
+    "id": "2651041546_1",
+    "title": "一句「你确定吗」，大模型集体暴露「讨好型人格」？",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651041546&idx=1&sn=28835d62e4b63024c3e54591f4658885&chksm=84e66b74b391e26288784c7533b42680452e209e2f6b7de9716c544b5a746eec2424d9c98dc7#rd",
+    "publishTime": 1782640800,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqHFiafL29kcibJNBicpyQoZ4uWC4kcnJ4kQVudXVQ4MWOInpKmvasGsGAVcLzE6bPcibsJiaGOzbqxDaLQ0MzrdpxaY7DHa7AwsenD0/0?wx_fmt=jpeg",
+    "digest": "强如AI，也遭不住再三的质疑和追问……",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
+    "id": "2651041546_2",
+    "title": "Dwarkesh Patel：下一代AI，可能是干活干出来的",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651041546&idx=2&sn=fedc77937dafe2bff30de5b1d8d47e40&chksm=84e66b74b391e2622fe2705d6d20db3f35685261a164ac701af536a6a098971b92c858cfd776#rd",
+    "publishTime": 1782640800,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqHoDPjEBn92ELz1ibwiarg8Ue5m0bNqhZX2VbOibPleQWrBLA4Jkl52AquxDdDMBra6LuHIWAQLq33OW6823wRRKnCvYZoMlHsByM/0?wx_fmt=jpeg",
+    "digest": "不只训练一次，而是边用边学。",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
     "id": "2651041465_1",
     "title": "大神Karpathy用Claude的方式，原来是这样的？",
     "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651041465&idx=1&sn=a391dbb9edb976be96eed9e3e08395ae&chksm=84e66ac7b391e3d14d27239ae07528b794f45568ff8a5db35307716fae5ccb39b5039779868b#rd",
@@ -120,32 +140,22 @@
     "feedId": "MzA3MzI4MjgzMw=="
   },
   {
-    "id": "2651040687_1",
-    "title": "生物学的EDA时刻来了！",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651040687&idx=1&sn=2c73f012b6de7e93f6cae1ec97cbda76&chksm=84e66fd1b391e6c73b27c837061b13b9324af96dad78143bde5cb56076e21fddf760c90d73b4#rd",
-    "publishTime": 1782199129,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqG68KRg5BYVsialza7iayz4wkhU4bkic1jEQmianMwhxcHlpWoHoQMSpFDTtHg4HoXUFQ8GKo1TKHImribibUQ4kg5uM0Dj1jab7JBcg/0?wx_fmt=jpeg",
-    "digest": "深度拆解恩和科技 BPL 语言与底层验证架构",
+    "id": "2651040185_1",
+    "title": "谷歌：我手握最多诺奖得主，为啥就留不住他们？",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651040185&idx=1&sn=b6b423222924587bc75c0b837aae2192&chksm=84e66dc7b391e4d1daca3964eb64b10bac9533d0ef2ea7db20498a90850c7f34211cd25c1a3f#rd",
+    "publishTime": 1781928876,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqGibV7lZv4RRHpOLhu81Rb9kKcKrOSWWKU5SsKC94Kmx7TXfUfhwzOfozSy22dhHhrPk8SVOasJCb91h3gbfTMiaTr6pU3eIiclzs/0?wx_fmt=jpeg",
+    "digest": "谷歌三天连失Transformer 大神、诺奖得主。",
     "author": "",
     "feedId": "MzA3MzI4MjgzMw=="
   },
   {
-    "id": "2651040687_2",
-    "title": "百度开源无限OCR，跑通长程解析，核心作者YY疑是来自DeepSeek",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651040687&idx=2&sn=11f7171bdd0d0f945fccf4d07599b020&chksm=84e66fd1b391e6c77f184c79afc2e226ebd3c1718662567eb42ccdf2b57a51bd7cf32d286316#rd",
-    "publishTime": 1782199129,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqEeMVJbEwU6icUxfARqz5mcpOeHXXG7PyKPvFctLSXUyongvVzGA2l7X6Ldsj5hGQna8DZ0TYXHicmHQRSTic96MrwQgfM1bFcbcE/0?wx_fmt=jpeg",
-    "digest": "百度 OCR 新模型拿下 SOTA：一次前向推理解析数十页文档",
-    "author": "",
-    "feedId": "MzA3MzI4MjgzMw=="
-  },
-  {
-    "id": "2651040687_3",
-    "title": "真机强化学习如何保证安全性？清华团队提出安全探索均衡机制",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651040687&idx=3&sn=6fc0e69567a4d42d3090874b5a26aef8&chksm=84e66fd1b391e6c740085be6a7ca7798655739d018c623598e9cfe35cf89d01af4a66ad27534#rd",
-    "publishTime": 1782199129,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqHVvLKKrib3U64TCEb9NeUxrvaDWsQMrs1kPfgogF6y6sdr5HEhs1Tb7hPfJzOgffPtVDnmgXfuD39vDwbmY3OQ7pmzuxLxdCao/0?wx_fmt=jpeg",
-    "digest": "让智能体在零约束违反的前提下逐步扩展可行区域。",
+    "id": "2651040185_2",
+    "title": "沿着何恺明团队「漂移模型」再走一步：奖励只需排名，单步文生图偏好优化提速3.51倍",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651040185&idx=2&sn=287321a45f59600797b57be39fcadfeb&chksm=84e66dc7b391e4d132c5e1901819485ecc44764d56ba9f7ee4f127c5d11b09370d63cfc54e45#rd",
+    "publishTime": 1781928876,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqEVjfbksicOHcxfFa1O481HcsOsuFV0gNCUniaic4e6TzpErTcib4TUIkNYic7GEVlwx2KlW6jRAeicCU14ViaoOmubK6p2kBAicgzglZc/0?wx_fmt=jpeg",
+    "digest": "DrPO 将漂移模型中的漂移场估计引入单步文生图模型的强化学习后训练。",
     "author": "",
     "feedId": "MzA3MzI4MjgzMw=="
   },
@@ -270,32 +280,22 @@
     "feedId": "MzA3MzI4MjgzMw=="
   },
   {
-    "id": "2651039196_1",
-    "title": "腾讯Robotics X开源HyVLA-0.5：基于亚毫米级指套UMI与真机强化，摆脱繁重遥操",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651039196&idx=1&sn=cf807f51fc0efaffb4bf9996f743493d&chksm=84e661a2b391e8b46eb603daf842562199d96402a29da1e3dd34f9c4d8ca3a46617f059e39dd#rd",
-    "publishTime": 1781517304,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqFibKDMbib3cj4gPsXG5XhGbTt0BY6A0t7kGK5HW5MlPibGibaOU5Pe3QicyeiazQaduBfa2GEVnvh1Fo5gQsE5UCGKbSpGtBX2zspoc/0?wx_fmt=jpeg",
-    "digest": "机器人离真实干活更近一步。",
+    "id": "2651038220_1",
+    "title": "能自动干活的AI浏览器，永久免费，来自美团",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651038220&idx=1&sn=b28fde9ad9069776c607d93405b3cd0b&chksm=84e66672b391ef64873e70a26eade52919b2457ba6bc18298f39d2929f0b04d968d4a24ecfa3#rd",
+    "publishTime": 1781063345,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqHFLZwibmNpz8ianCJsicPa46D8kqHGezbrGtZdmbaciaCiccibYewuHH5Mpqjqwqlz27MpJ1xwZ4icx5ZUoxYNez1yMW1bEWfdcJszwA/0?wx_fmt=jpeg",
+    "digest": "浏览器替你跑流程！",
     "author": "",
     "feedId": "MzA3MzI4MjgzMw=="
   },
   {
-    "id": "2651039196_2",
-    "title": "用国产GPU训练AI给自己写内核，摩尔线程刷榜硬核基准",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651039196&idx=2&sn=f13e155230d90bbd87c8680cc29b1e4a&chksm=84e661a2b391e8b4957e2dc6332f39eac676e4f6bf327a0808595ba0cbd79d1356a322f99c0c#rd",
-    "publishTime": 1781517304,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqHFuwAicjDAQAwKXN7E4cOGP6vBoDOxjvfRkic2k6LdXcg0KeX4u18dM320pOibBK2E8MY1f8ACQdQGzyKMKcL6wwaFflicJ9ozFEA/0?wx_fmt=jpeg",
-    "digest": "首个国产GPU训练的代码大模型。",
-    "author": "",
-    "feedId": "MzA3MzI4MjgzMw=="
-  },
-  {
-    "id": "2651039196_3",
-    "title": "1080条提示词、7款模型大比拼：视频生成离「好看、好用又准确」还差多少？",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651039196&idx=3&sn=a8c0079c0c8998cbed22222b8cd884e8&chksm=84e661a2b391e8b4dd7e1b76ce37554b392fcebf0706182f409af7399310a834bf7592553b19#rd",
-    "publishTime": 1781517304,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqE60sPicwwMAialfulr95aMvANCGl8sF1jTqoZyAImAmibRxCLcAt7JCKb6Tiak7zNkpic4Yd137Onxk4aQg0xg8zuPQ0picmfJ0Tp1Y/0?wx_fmt=jpeg",
-    "digest": "KIVI：面向知识密集型场景的视频生成任务与评测基准。",
+    "id": "2651038220_2",
+    "title": "SwarmFlow来了！openJiuwen开创蜂群可控协同新范式",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651038220&idx=2&sn=63760476eb94ffe5f957ebc4e77870f7&chksm=84e66672b391ef64a685a1cf3d0a9b5e81a53eb03d0a92912d278a55b066e64ff5c0b52e941f#rd",
+    "publishTime": 1781063345,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqG2gQib57fSMLLaSZzWD7iczVOueCwxqwqfKXUSeXkro1ls0uxtaNjeoX7MdxLD1IpnMup4Ciba5E4YzZfZiaaalKcmoBkCicwibR9rg/0?wx_fmt=jpeg",
+    "digest": "把编排交给系统，智能留给 Agent",
     "author": "",
     "feedId": "MzA3MzI4MjgzMw=="
   }
