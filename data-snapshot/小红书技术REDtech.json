@@ -1,5 +1,15 @@
 [
   {
+    "id": "2247495539_1",
+    "title": "让 KV Cache「按头分家」：小红书 RedKnot 如何重做长文本推理新引擎",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247495539&idx=1&sn=c0238f5aa0c757841d8509f9e620ab34&chksm=cfe44d84f893c4928d1bbe8ef1c650dbb5de88a267e4654ce7a75895e6a488b5febf3512630d#rd",
+    "publishTime": 1782730805,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/P9Hs04VFGRm3U1QkaMRbtRKWHM80M9Rk3mxu5WWMnRjyIUfyWQbXryV9SG69HU1WELBY2z7qNOGj3iccCYSWu6EsQUXFuMgqKuRcOu9N68Jg/0?wx_fmt=jpeg",
+    "digest": "LLM推理引擎从KV Cache一体化走向多头解耦",
+    "author": "",
+    "feedId": "Mzg4OTc2MzczNg=="
+  },
+  {
     "id": "2247495506_1",
     "title": "AICon上海2026｜小红书质效：Agent 基建的规模化落地路径",
     "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247495506&idx=1&sn=594cc33fcc72592c34cf9233b009befb&chksm=cfe44da5f893c4b3dd173e3b2c62cde43664ad501894876414cd610a4ee5cb023dc90772c0e5#rd",
@@ -36,16 +46,6 @@
     "publishTime": 1779876000,
     "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/P9Hs04VFGRkl2ic8vRS9fAhokbVzicd87dtd9Zs7SMbiaw65BLH46bzgPHbtsaQ9DibfNsJd39T3iazlmaG2stic61T0IQibwvJYxX0nZyZ3h3nloA/0?wx_fmt=jpeg",
     "digest": "从RedProcess到DES",
-    "author": "",
-    "feedId": "Mzg4OTc2MzczNg=="
-  },
-  {
-    "id": "2247495280_1",
-    "title": "QECon深圳2026｜小红书技术专场：Agent驱动的研发效率工程探索与实践",
-    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247495280&idx=1&sn=6729fb20336016bb5fcd4a7fd806484d&chksm=cfe44c87f893c5919a3bc97a2769c36560b32c2d4c38436899e69d8fe1fce4b3ca401f5f9849#rd",
-    "publishTime": 1779184740,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/P9Hs04VFGRkQsCCDvQ9pY6ACibUsukE2BfbnqGiaF3pIrKcCF6xic30Qqibd3hEQXgyo8aWv3MGHZF5kEpTMwB6qphmLZlW6VcrJicfsmlxLCmQ8/0?wx_fmt=jpeg",
-    "digest": "小红书技术团队五场分享预告！",
     "author": "",
     "feedId": "Mzg4OTc2MzczNg=="
   }

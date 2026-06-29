@@ -1,5 +1,15 @@
 [
   {
+    "id": "2649802377_1",
+    "title": "开启Harness Engineering探索之旅",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802377&idx=1&sn=ac71d992c0feeea2d7611a2e1cc6f9dc&chksm=becc55f289bbdce421bc0306e1dec9ecdaed15f0c8316d043f7845aaa5bcb8bf2a3117dbf8f1#rd",
+    "publishTime": 1782725760,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/KVER9adz90626sjIWc4PZhyeC3xI7IYTVgKY73LM0BJa9ZRu7SoFicsAK9ZGOMlgyX4bXmvBZxBicSlfUJiaWlE2Qq47iagN5ZJiabovnChkyOsY/0?wx_fmt=jpeg",
+    "digest": "从AI写得快到干得稳",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
     "id": "2649802370_1",
     "title": "腾讯混元AI Infra如何优化Hy3 Preview：一次大模型推理性能提升的技术拆解",
     "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802370&idx=1&sn=933bed02fa58d278084e12946d3fa8ce&chksm=becc55f989bbdcefea9252ab9df7313e12f40c1be4625c81e4abe73f1e4748be38c7d3668097#rd",
@@ -46,16 +56,6 @@
     "publishTime": 1782211444,
     "cover": "",
     "digest": "",
-    "author": "",
-    "feedId": "MjM5ODYwMjI2MA=="
-  },
-  {
-    "id": "2649802117_1",
-    "title": "Loop Engineering 实践指南：在 Code Buddy 中构建自主循环系统",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802117&idx=1&sn=a91a32e0b00305c1a30f4a6684c3c6b2&chksm=becc56fe89bbdfe82b6c712ac76e7a59992d93972396a45afff84f7e1987a5cff4a0ee08cc8c#rd",
-    "publishTime": 1782120107,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/KVER9adz906NjWbW9fb7bSyM329L0VtXtibAaEsAzl5aAMf0Mj5A9obCPqicVC6yVZrIJQky0yfR91DWicOlLCkjvumZfNZklmvBXNrmI5CAWA/0?wx_fmt=jpeg",
-    "digest": "AI 编程第三次革命",
     "author": "",
     "feedId": "MjM5ODYwMjI2MA=="
   }

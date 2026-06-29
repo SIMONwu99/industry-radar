@@ -1,5 +1,45 @@
 [
   {
+    "id": "2651287872_1",
+    "title": "InfoQ 增长太快，需要更多碳基同事",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287872&idx=1&sn=e93c96286a36c52671cd3fb3076e0dfc&chksm=bdba89138acd0005bd18766f9dd7b9537883f338931814ee0111313e557fe0b972741e5623ec#rd",
+    "publishTime": 1782712800,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNhE9MKx2MH78uR4wAFn9VLatHWw5iaI8rzI8EyfDQcI1PfPX9uDsZZzGa1DRsOmPyVZHHCWw5H320JdOZXZgKJxKh4m9q0yJCWE/0?wx_fmt=jpeg",
+    "digest": "过去很多年，InfoQ 做的是一件很清晰的事：连接技术人与技术世界。我们报道技术趋势，记录产业变化，组织技术",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651287872_2",
+    "title": "2026 AICon 上海站收官：模型热“退烧”，场景战“开打”，AI 公司得学会自己“挣钱养家”",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287872&idx=2&sn=605a745178ffbe69b073d4d5a586f993&chksm=bdba89138acd0005fbf2adc1a36c1694e17aba2443341f64ad09f73f2ec39d5ca021d07dec1b#rd",
+    "publishTime": 1782712800,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNhomK6ACFeX9ebFqVuBYXN9BicicebaGOHj7icvoGicsK1icu7icFMP0PialLBwd6adNXkO365whXZGkEJicPibsXPfXvDJLd38zpy5loj0/0?wx_fmt=jpeg",
+    "digest": "搞学术的、干产业的都来了，70+嘉宾聊的都是大模型落地的真问题",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651287872_3",
+    "title": "不下班、不摸鱼，晓途机器狗已在上海“开工”：7×24 小时自主巡逻执勤",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287872&idx=3&sn=cf9d4a5d9988b12022b067396bfc10cf&chksm=bdba89138acd000577e68f140fc6a2a3a1c3be02f0178b6d09800e4e826137aee757ce593172#rd",
+    "publishTime": 1782712800,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNhnCFIB5gX4YhfqIqYLiantCdibR4IxcPTjA2JlUCOZrm2ArlHLM0bmbn6ImauchktLYdnZ9gxDLt2XTkkibCnJH9kC1ljdPBqAEI/0?wx_fmt=jpeg",
+    "digest": "近日，应用大晓机器人开放场景自主作业解决方案的晓途智能机器狗正式进驻上海西岸片区，全面投入常态化实地无人巡逻执勤工作。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651287872_4",
+    "title": "Spring 近期新闻：Boot、Security、Integration、Modulith 发布增量版本及 Spring AI 2.0 正式发布",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287872&idx=4&sn=f87166e97cb4c22e885255f29c1e4bf4&chksm=bdba89138acd00059da405cb62b2c7674ca2583e1bc1d50bacdb0412daf514a91718919f431c#rd",
+    "publishTime": 1782712800,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNhKCaI1b1sh6BpbS6OqzrN5UlH0wib0h7kWWNMSOibG2ssOPicuDCgCFlHficwibicW79tQfqFbicBLVJAq4MicLkk4u09nnaHehypQtx8/0?wx_fmt=jpeg",
+    "digest": "在 2026 年 6 月 8 日这一周，Spring 生态系统呈现出一片繁忙景象，其中包括以下组件的增量版本发布：Spring Boot、Spring AMQP 和 Spring Vault，以及 Spring AI 2.0 和 Sprin",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
     "id": "2651287792_1",
     "title": "不靠低价抢客户，月之暗面Kimi出海，凭什么硬刚海外AI“御三家”？",
     "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287792&idx=1&sn=384e97f0986ff40d16072a05bfcd4743&chksm=bdba88a38acd01b5c65c4778fb5300dacc6ef913b816ab42aad51758dc71194ac1b6cb844009#rd",
@@ -170,42 +210,42 @@
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651287639_1",
-    "title": "AI可以用任何手段、写任何东西，但你得是个“中年老登”",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287639&idx=1&sn=08140f6d5bd0137872f8a8bda5e55e12&chksm=bdba88048acd0112a008a29d8dc82f891250b970221b83ddcc9c9aa17fe40a6f2a8379878f60#rd",
-    "publishTime": 1782271521,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNhNwFxIAAesEXT2Td0q5NxEwklw9Re5AuQ4ibkiafiaicEpiaS5jbkicT7lT471gC63w5siakwJQGApFolJu1DR7mkxggjecglQknuEPM/0?wx_fmt=jpeg",
-    "digest": "“我现在陷入到一种巨大的虚无主义里，AI 什么都能写。”",
+    "id": "2651287382_1",
+    "title": "智谱创始人唐杰隔空对话马斯克：赶超Claude Fable 5不用等到2027年",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287382&idx=1&sn=4c7bc1d0a9bac7578c701e46cc92a585&chksm=bdba97058acd1e139b90b02460bee91f19a68c60145cd164b551a2da414abaecca0fd71b08cc#rd",
+    "publishTime": 1781834400,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjdGeHDGK2RGXsJojvNmNyfWoEE4ZD5jUzRhr3qeY2QqjECicpNHsicrzDuHeCBDLPlicu1sUDeacmSEoScVrBRqa6uvaKgrjhiaYA/0?wx_fmt=jpeg",
+    "digest": "昨晚，马斯克和智谱创始人兼首席科学家唐杰在 X 上来了一次隔空对话。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651287639_2",
-    "title": "对话蚂蚁吴伟：训推一体池化调度，如何把GPU用到极限",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287639&idx=2&sn=e7ba685b72669645851d105c1910bc24&chksm=bdba88048acd0112d0f2feaa3e176b9793a8a9893178b7eb8a45775a9aa052843ff3b1c59e82#rd",
-    "publishTime": 1782271521,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNjRhdYWMUwIBabjaPMT0ggb2zibqxu9VFBYyqhTYOdUyiciaBBrVQUoxibCojviaZPsuIllkcEibzOwoZrT5oEjXffp2tJZhVZNG56iaI/0?wx_fmt=jpeg",
-    "digest": "打通训推潮汐壁垒，池化调度榨干 GPU 每寸算力。",
+    "id": "2651287382_2",
+    "title": "硅谷大厂，员工人均月花 5 万养 AI",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287382&idx=2&sn=f01398b31e1eea9bf7788dd303021391&chksm=bdba97058acd1e13af8b83616c63528d0759a19d75f429a8e1e223aacdaaab09b0b24747a53e#rd",
+    "publishTime": 1781834400,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNg9Dy3pTYYgibLYibDIUYvXibVibKY6lr7OT3VwrtbAiaezpFm92r3Hs7YU9RQTpcv4dnISSMtiajBtJJWMLBSNdXaroxRKI6NIicZdu8/0?wx_fmt=jpeg",
+    "digest": "最积极采用AI的公司，每月每位员工在AI工具上花费7500美元，约合50807元人民币。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651287639_3",
-    "title": "AI 大模型热潮的第三年，这场直播给出了 4 个值得参考的判断 | 极客时间企业版",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287639&idx=3&sn=27a38ab673396cf17e4b0df5190432d3&chksm=bdba88048acd0112f54737229edcc098f79ca07540619451d029fadfbd9ab8cb9ad86b32ffc0#rd",
-    "publishTime": 1782271521,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNgPzTM0YzuEg7K0OJ1MZPu6XS7h63q8qJ7qNvWicHicibYNESkd6OT9nDibT1Wvhj2LKdINuicCLPJ7cqf4lB2dEn9icj1oGwYlZiaic5U/0?wx_fmt=jpeg",
-    "digest": "当大模型的热潮进入第三年，企业最关心的问题已经从\"要不要做 AI\"变成了\"怎么把 AI 做进组织里\"。",
+    "id": "2651287382_3",
+    "title": "前 OpenAI 高管清华演讲：比失业更可怕的，是 AI 时代我们不知道“我是谁”",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287382&idx=3&sn=398e68a3015912d710355e5deb6b5dd7&chksm=bdba97058acd1e133fc3edba12b1243c6cca1ff5be4f1dfe085b0e1b871fd001c5d1b88dfadb#rd",
+    "publishTime": 1781834400,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNh6FJgZicEjeI3gLRNdjCxNGJSl7XBSpuZibNIcvo1wUjWwl4ibspoZEicvBsLkQmLkOKnaSJRUKvWEBtBMiaRMEg7d0mqaH1StlfwQ/0?wx_fmt=jpeg",
+    "digest": "当智能变得足够便宜、足够普及之后，AI 将如何重塑社会、产业与个体生活。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651287639_4",
-    "title": "Slack 淘汰 SSH：700+ EMR 作业迁移至基于 REST 的调度架构",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287639&idx=4&sn=c4be36752b8771fee12c280885f567bf&chksm=bdba88048acd011259f2df15d24c905770554c58a2f83dc72d3645b910d408a4908594002080#rd",
-    "publishTime": 1782271521,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNh6nWq5vSuy5unFlibpR32qVSlMJBKeuDqcUuGSokx2w9sC8R82Cc8uFK5dM7pPoeYicTic5dHySOmBr7K2qkNiaj4PpXbweKZ6q8o/0?wx_fmt=jpeg",
-    "digest": "Slack 近期完成了一项大规模数据平台改造：将其 Amazon EMR 数据处理流程中的 SSH 作业执行模式全面替换为基于 REST API 的统一调度架构。此次改造彻底移除了对生产集群的直接 SSH 访问，并将 700 多个 Airf",
+    "id": "2651287382_4",
+    "title": "Lyft 借助地图智能技术缓解封闭式小区接驾难题",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287382&idx=4&sn=c2e21c4970b7003fdb75d02bd22065fe&chksm=bdba97058acd1e13ba637419acff2a4235355831b85042aa0a10c3e381d5f2399d9e506846da#rd",
+    "publishTime": 1781834400,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNh5hhuvMPpibMP6rYZrUOqcg0LXSYUR38HGJhWQTc9Z5ibyJJyyU4Lo7LEchKK8nGTSaHMUCDlC8ujwYVAg8NYT2v2OpS6Cib53Zc/0?wx_fmt=jpeg",
+    "digest": "Lyft 推出新的接驾方案，解决封闭式小区约 25% 至 30% 订单存在的路线、门禁对接难题。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
@@ -256,46 +296,6 @@
     "publishTime": 1781678123,
     "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNiaNRtT7cO2tnJhXJbDLIGBoib8s4Zx6zVbzmsc3GuW9Nibb2ibqSjEfI8FDicD2SWd2xE92Q2SVMeR6P5dib58Eia2oaicVWVkbSOib9u0/0?wx_fmt=jpeg",
     "digest": "今天，Cursor 在 Compile 大会上发布了几个产品“期货”",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651287250_2",
-    "title": "大模型已经够聪明了，为什么 95% 的 AI 项目还是跑不出 ROI？",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287250&idx=2&sn=19868c946a3e659e044b63c949111a71&chksm=bdba96818acd1f972f1e8826c547a90015ed06d3b8d625027ab04e6520e8e837224f74d7cd32#rd",
-    "publishTime": 1781678123,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNgvbE2Qvb6cMze7aCvTGWvtlNGZUEr2tH3hXC5xcorIicPoeqj3s62PricUs1oxez4icGiaMmPgE6XQxGbibYGxPX3J7rpXHiaG5zFiaQ/0?wx_fmt=jpeg",
-    "digest": "模型能力突飞猛进，企业 AI 投入成本与日俱增，但然后呢？",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651287250_3",
-    "title": "AI 企业 Day 0 出海，如何少走技术弯路？",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287250&idx=3&sn=4fecbfc4b1fa7c38c3338cf0b46465a0&chksm=bdba96818acd1f973bb1c4c55c454353efb141ba98c009f9649dd0777c27f95e94f15a1d71bf#rd",
-    "publishTime": 1781678123,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNgGGdD7kkaOWEjGPxx3zg2SbGrOvCL2OkdqW7EZ3YyjflRTd2fYx5J6xrnX9hCGaYjpxJA0YlgOhpsAn2BibqPkhop5z0pHdF8k/0?wx_fmt=jpeg",
-    "digest": "起跑线的差距，不是后期优化能弥补的",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651287250_4",
-    "title": "Java 近期新闻：JDK 27 进入收尾阶段、JDK 28 专家组、GlassFish、Infinispan、Kotlin",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287250&idx=4&sn=08da2adafc5bf75994ae973e6a30464e&chksm=bdba96818acd1f9783136d65d56b57f268cea8dde67827011751042058856c36a8b754a74361#rd",
-    "publishTime": 1781678123,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNja1quYezdgNenc1xOJpEuTPZOXHQVySrKOAeSoSvCZiaySZvflibHvYKBOC8vFLkTxxHhWj5TRTpQoYrj18wqFECSiadDGPSHLzA/0?wx_fmt=jpeg",
-    "digest": "本文为 Java 近期新闻，内容涉及：JDK 27 进入收尾阶段、JDK 28 专家组、GlassFish、Infinispan、Kotlin。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651287250_5",
-    "title": "生成式推荐引擎升级，快手在线参数服务器性能与时延深度优化实践｜AICon 上海",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287250&idx=5&sn=9686035f79985eea3336a95b6baae8b9&chksm=bdba96818acd1f97fc79165d3a2e2096ac28cb86d175aa32ad8dab28fd247df697babf0d26a2#rd",
-    "publishTime": 1781678123,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNhtdXL3NCKuJByxzr7GCz0D2RiasHyNj4aQnYPYQOcq05FfwBCkDnrwntPhkTJf6cR1pEIb5RoELB8eCIfrAyxvlpPzNYlsjiaJs/0?wx_fmt=jpeg",
-    "digest": "随着模型规模的持续扩张以及在线请求量的爆炸式增长，传统在线 ParameterServer 逐渐暴露出性能短板。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   }
