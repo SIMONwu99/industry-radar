@@ -1,5 +1,15 @@
 [
   {
+    "id": "2247485752_1",
+    "title": "国产芯片上跑出的万亿参数模型，美团 LongCat-2.0 正式发布",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzYyMTA0NTc5NQ==&mid=2247485752&idx=1&sn=121389006455818a6331af4745ba0317&chksm=ffea7874c89df1624f3fe7d5a7e89f8c3d6aad35cbbd79ea463c642999d513f430971a09e95f#rd",
+    "publishTime": 1782786771,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/JhVy5CXYiaoiawaZz9FqYGVAlGFp733EoXEd9rc4jRsJiaMXLYiaHUempnPOXudRL5Gp2WpGQdvaRVRjwV4FicntHdKICjkdvpP6nQbEpmzJ4oCg/0?wx_fmt=jpeg",
+    "digest": "今天，美团正式发布新一代万亿参数大模型LongCat-2.0，并将对外开源。",
+    "author": "",
+    "feedId": "MzYyMTA0NTc5NQ=="
+  },
+  {
     "id": "2247485659_1",
     "title": "从“静态看图”到“动态探索”：MineExplorer揭示顶级多模态大模型被忽视的能力断层",
     "link": "http://mp.weixin.qq.com/s?__biz=MzYyMTA0NTc5NQ==&mid=2247485659&idx=1&sn=0641b592766cc206d9cf6a6e17e29d20&chksm=ffea7997c89df081e3009ab4c2aef6cc31f9674de3b66a98a4a4cb5fe4eabd67b41fea9bce41#rd",
@@ -36,16 +46,6 @@
     "publishTime": 1779933600,
     "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/JhVy5CXYiaogZOWwyIIwYHQicgfLo3PTdiciaDHhGKYovyI2o8ib4wgtCXly5qwS9LVWfVe9RS4DwVknczd4M0Q6lIM496jRWc1ama47FibZtAI3E/0?wx_fmt=jpeg",
     "digest": "首个覆盖导航、动作、编辑、视角切换的世界模型基准",
-    "author": "",
-    "feedId": "MzYyMTA0NTc5NQ=="
-  },
-  {
-    "id": "2247485399_1",
-    "title": "从高拟真到真可用，LongCat-Video-Avatar 1.5 正式开源",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzYyMTA0NTc5NQ==&mid=2247485399&idx=1&sn=05d5f2bc84895b057d2ad1c4a60cc144&chksm=ffea769bc89dff8dcb95b73b8a35516b9058e9deb32a829bf4c07c3afdcae8550c2a248e6047#rd",
-    "publishTime": 1779417359,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/JhVy5CXYiaohXciaRHKz42HqwZVlJhPsMhU2rCVqRwzFruQsGuN5MGkZhu4rvdyMUpj7HQ1XortKiagML4U9kkOPCJiahD6ibiaiaajVF2Sep5sOiaY/0?wx_fmt=jpeg",
-    "digest": "从彩排室的完美演练，走向千人千面的真实舞台",
     "author": "",
     "feedId": "MzYyMTA0NTc5NQ=="
   }
