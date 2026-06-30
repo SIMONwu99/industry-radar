@@ -1,5 +1,45 @@
 [
   {
+    "id": "2651287952_1",
+    "title": "前后端一起消失：AI Coding正在改写大厂工程师分工",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287952&idx=1&sn=7dc2116ca7d1a1d81a18ceda631cb2b5&chksm=bdba89c38acd00d5e6f859845dbfa29c7b55ac5b2f73f1e809a3a81fc0d80561cf998fad4f22#rd",
+    "publishTime": 1782815329,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNggRMMCW7KFMFPzBKVQuZtibEOiaJhYXDgHl9vkd53DticiccWYpw0jmX8niaAaVDiaLU0lwKpaBoib30CHteupKdh3R4a8qP5F9NCvNA/0?wx_fmt=jpeg",
+    "digest": "大厂研发组织正在出现新的调整信号。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651287952_2",
+    "title": "当设计师和PM都开始写代码，产品构建方式又要变天了？",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287952&idx=2&sn=808cebb74cd85f2e0f261e8eb184bb30&chksm=bdba89c38acd00d5018d89d48bcd1bdae8a6bc484948a99e4b82d2fa0e2f25b30c998ae11b51#rd",
+    "publishTime": 1782815329,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNia6MfCZL7nicBM8xUByFxxibZHasL0YS0lgpu760ME9jOvE7FhJ0I34sSibic7hSEMIk2TJ6HoaD3yaMlP9h7jWib0MUMrib5DMzUatk/0?wx_fmt=jpeg",
+    "digest": "真正伟大的产品，往往都有一个极小、但异常强大的核心。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651287952_3",
+    "title": "OpenAI 和 Anthropic “杀”红了眼，谷歌成为最大受害者",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287952&idx=3&sn=2f4d1823ad29cbf81f15ac67c700fc62&chksm=bdba89c38acd00d5f8207004ac92e4bf5a2170eda4e0214f4589cad53aa26ca8ceb7184fae36#rd",
+    "publishTime": 1782815329,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/lYDricib2fsm4nuT4IqmIwfT2bb0nfGTtbw9pyGf9ukZumledDSQ0AkxBknZYzrrKBxbY0RxiaX1Ap9iapFq82LpdJibwHkGicWmeh42LmMB1SOUo/0?wx_fmt=jpeg",
+    "digest": "6 月的 AI 人才市场，谷歌再次站到了风口上。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651287952_4",
+    "title": "Xcode 27 扩展代理集成，全面改版用户界面，并引入了 DeviceHub",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287952&idx=4&sn=d47af6126c69a8197f3101df2250956f&chksm=bdba89c38acd00d5522b0f7294a4b132d9cac5b560125691113a52917394f20d29d3f5784143#rd",
+    "publishTime": 1782815329,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNgQ4dRUXicB9evA6bb4s1Pg5KiaIJ9cnmAvibdQOvmUaibOy33SoeFiaeTPyHORHwGk900jbc1j7N87wMt8Q0f9He3F4oKGwPpXWVbc/0?wx_fmt=jpeg",
+    "digest": "在 2026 年的 WWDC 大会上，苹果推出了 Xcode 27，旨在使用户能够轻松地借助编码代理启动任务、对新项目构想进行迭代，并自定义工作区。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
     "id": "2651287872_1",
     "title": "InfoQ 增长太快，需要更多碳基同事",
     "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287872&idx=1&sn=e93c96286a36c52671cd3fb3076e0dfc&chksm=bdba89138acd0005bd18766f9dd7b9537883f338931814ee0111313e557fe0b972741e5623ec#rd",
@@ -170,42 +210,42 @@
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651287713_1",
-    "title": "最大开源第一视角数据集 EgoLive 来了，名校站台、近百家机构争相申请",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287713&idx=1&sn=af89a53852b088b81919a360bc49fa07&chksm=bdba88f28acd01e4223fd31f01e796de7b02c96df169e0bea214f9560c58ca4a428bb5fd177c#rd",
-    "publishTime": 1782376598,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjX2AWljSkMJwO7buicKmdf0ADfu6FajhFOPl6yh4k3tIznrmEHc9v5DeJHgmibGiaEZL1yDxNiaKSaM9mqHHuC4ic2aIlvicPAMMticg/0?wx_fmt=jpeg",
-    "digest": "具身智能的竞争，正在转向第一视角数据。",
+    "id": "2651287414_1",
+    "title": "Meta 几周内毁掉二十年工程文化，给所有“AI 优先”公司上了一课",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287414&idx=1&sn=0698ca38841365ad7953fee2c4f757c5&chksm=bdba97258acd1e33e4a85149b9cf9ea8695c506b174d2e3267cca293f9af98f9f510f5e0e693#rd",
+    "publishTime": 1781921700,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNhVHvHibNZdkCnZ8c8JmU7XUtlNkJ1XW6XiaDq8uWBq0icEbFVibJ9nk38K3FHyaorAh8wb3nrZQtFliclLVleibiavmJG2Xeo8QtDdq0/0?wx_fmt=jpeg",
+    "digest": "每一个在搞“AI优先”的管理者，都欠自己一个Meta复盘",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651287713_2",
-    "title": "AICon 深圳 2026 启动｜Agent 时代，哪些方向正在成为行业关键变量？",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287713&idx=2&sn=da4a12a6db5bdbc5d977077b914b2a58&chksm=bdba88f28acd01e4120eaae5db9a7edbe8acba08f6ab52a9c5f73a8a5f5224ea941a3fb2c8ae#rd",
-    "publishTime": 1782376598,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNiaG0Gia4CIg66FAa6P7SNzDjqeyPKRV2VFMZuwmk5Ay4eICflPfYZHTHpXGgMiaI9GMGyIDjVJJq8bBCbMQoGG3S1ceRfKPfzWdg/0?wx_fmt=jpeg",
-    "digest": "过去两年，AI 行业经历了从“大模型能力竞赛”到“AI 应用落地竞赛”的快速转变。",
+    "id": "2651287414_2",
+    "title": "让开关自我消亡：AI 赋能的 Feature Flag 全生命周期治理",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287414&idx=2&sn=5a7312b2c3ae13679a5975d36427cca7&chksm=bdba97258acd1e338a9069d101ea8d12d4bb5642dbc884b2f2c0c6c5df855d75e954a5c1fb1d#rd",
+    "publishTime": 1781921700,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNjMpVBmjn7wtFXTaAOgJb7jzaYwbd7VySejbvrbxZ1tVGq6Ch5Xacoor8icO5SRvfB7QDzs7Elicwp2t4dMdXYBgBOj2qPUlPXxU/0?wx_fmt=jpeg",
+    "digest": "最好的治理，是治理本身被遗忘；最好的系统，是系统自己照顾自己。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651287713_3",
-    "title": "内核级的真相：为什么 eBPF 正在取代基于用户空间的 Agent 成为安全可观测性的首选",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287713&idx=3&sn=7e2457fe3e33f8e4dd4b682b10fc5d0b&chksm=bdba88f28acd01e4c979104cd0275b94811afcbed36bc9cc487c7a41a3d278bb7fc63be4d0c9#rd",
-    "publishTime": 1782376598,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNiattRdHNdKWEN3qR8fHia9J7KNtgeTS4Gzib3mT7YFvPJibPnoQMg1iaPNL6zfXgQPmRvm5bogcY5gfBpbDPtOIhSB8Wt2LUmmohvI/0?wx_fmt=jpeg",
-    "digest": "相较于传统基于用户空间的Agent，eBPF正在成为安全可观测性的优选方案。它将探针直接挂接到Linux内核的系统调用接口上，因此即便在容器层被攻陷时仍能提供一致的可见性。",
+    "id": "2651287414_3",
+    "title": "昆仑万维天工 3.1 来了：上线设计画布与多智能体工作流，强化复杂项目交付能力",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287414&idx=3&sn=863d7fd7646c838bcfe120be49c3e2a8&chksm=bdba97258acd1e3378e2444b7147240f7a445995b4585ac602d08dfd16b974991c8e0ba55a64#rd",
+    "publishTime": 1781921700,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjK8N9hdNO0gSSKStPOyWTDmficAVRhy7DtvgeqJ21GFNj9AWnpaF5pTEWduAkFblv5ziaxaKXrKxgMiaibg8unibczdCWWt7SoCTa0/0?wx_fmt=jpeg",
+    "digest": "“从单次生成向持续交付场景延伸。”",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651287713_4",
-    "title": "优步通过实时信号与 Listwise 排序改进餐厅推荐",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287713&idx=4&sn=cef122370bc0b1ea2f9434e9f7ed7301&chksm=bdba88f28acd01e4eae2a58412d0697bd1560e4c65d68335d6068f907580ae6ad6d6faa07755#rd",
-    "publishTime": 1782376598,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNgWu9Rq942iaq7IMZ3nRtBWswfq3BmhwTovicIUm5D7DyrJPQwzrQs0JjX8aiblZRno3nKyN6a63odvtzN5qlAaUr417Mcw7XSGww/0?wx_fmt=jpeg",
-    "digest": "优步升级了其Uber Eats首页推荐系统，引入近实时的用户序列特征与生成式推荐（Generative Recommender）模型。",
+    "id": "2651287414_4",
+    "title": "Pinecone 推出 OneLake 集成方案，让 AI 智能体直连企业数据",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287414&idx=4&sn=f5ddeb5ac4a79184f636ed4f578e16ae&chksm=bdba97258acd1e334f8b06966c0b8455138a5bca30095174f35ee10089ef2bfdde99fd073003#rd",
+    "publishTime": 1781921700,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNgab9UhrFRj7x5oMvWhpoUe7eBBVyObJOUdDelFDrBfWiaHhkdwLAZoZDUXWpG5hBr2Vy9DdqGYJ6oYuXu7UqCUwZVFH7xS5W0I/0?wx_fmt=jpeg",
+    "digest": "Pinecone宣布旗下Nexus知识引擎与微软OneLake达成全新集成，旨在从根本上改变企业AI智能体调取企业数据并开展推理运算的方式。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
@@ -256,46 +296,6 @@
     "publishTime": 1781762400,
     "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNgKbxgH6wbFVUy7pJ48dd35icibjvE6JlwTsfgeUNp8grlw0rJiaLEmxbCTvev0C5r0rRHaPcrVYEHt2NTibBPjv9k6zZHajCyOvkA/0?wx_fmt=jpeg",
     "digest": "时代需要智能生产力的突破",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651287343_2",
-    "title": "AI 时代，实时入湖正在告别 ETL：从 Kafka 到 Iceberg 的架构减法",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287343&idx=2&sn=97526ae2ed89d3c24496bf4c3ae6c398&chksm=bdba977c8acd1e6a3ccf5dd242f11ae4dcd49ce02735c4fcc092c658ffef2a9747d3634f02ff#rd",
-    "publishTime": 1781762400,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNialCdz9PNAhD1OmlNZw8ySicFJgibQRNGfuHy2s3x1aLw9Nn8HL8ic62t2vgNRbP90w7DIR6Liblw3XE77IBZphgYBspoSFMjlhJ1c/0?wx_fmt=jpeg",
-    "digest": "在 AI 驱动的数据应用场景中，企业越来越需要一套同时支撑实时消费、历史沉淀与多引擎复用的数据底座。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651287343_3",
-    "title": "Pinterest 利用内容指纹技术，在数百万个域名中实现 URL 去重",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287343&idx=3&sn=cf2b9d46fbfa9bc1db48c8b8e798a346&chksm=bdba977c8acd1e6aa793d7da79ce763c5e4344fe076e79be657a81f44edd4e07bdab07d65cd3#rd",
-    "publishTime": 1781762400,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNgQUV7Dwhbr9x5u4pS2J0B0wcmYiboEzQt34KBRZrhzZDfNpNcx2J5YB8MQzQChbzRia11SonyjsSeI3qCkDZ97RSnMbycXVgatI/0?wx_fmt=jpeg",
-    "digest": "Pinterest 工程师开发了一套名为“最小重要查询参数集”（MIQPS）的 URL 标准化系统，旨在优化其大规模数据采集管道中的内容去重处理。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651287343_4",
-    "title": "AI Agent 沙箱的网络安全：从流量隔离到智能治理｜AICon 上海",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287343&idx=4&sn=c5639884dacee3ed50e7ab04bc68d237&chksm=bdba977c8acd1e6ab0108626a0c7d15d46d8efd0c41168f8b86d38596892f5dbe9e3186131d0#rd",
-    "publishTime": 1781762400,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNiaMoj6nWSve7WiaEjMr03elrQwhP0ypVqicJbEicg7S6egWQoPGIPHEyxcNQ7Go0gta4jxPh5msV6R0GowxZ9v4guMwnKdfkXa19U/0?wx_fmt=jpeg",
-    "digest": "本演讲以阿里云 ACK 在生产环境的实践为主线分三个层次展开",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651287250_1",
-    "title": "Cursor 1.5T新模型放弃Kimi基座！600亿美元股票换Cursor，马斯克第一刀砍向微软GitHub",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287250&idx=1&sn=ec24ac0033677dc7c4df6fda2ebdf1be&chksm=bdba96818acd1f971e1758a2c55e5f92e69c65c376ed804f1f2a2aee6938e2a56e05dd28b0de#rd",
-    "publishTime": 1781678123,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNiaNRtT7cO2tnJhXJbDLIGBoib8s4Zx6zVbzmsc3GuW9Nibb2ibqSjEfI8FDicD2SWd2xE92Q2SVMeR6P5dib58Eia2oaicVWVkbSOib9u0/0?wx_fmt=jpeg",
-    "digest": "今天，Cursor 在 Compile 大会上发布了几个产品“期货”",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   }
