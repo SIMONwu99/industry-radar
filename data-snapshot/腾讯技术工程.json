@@ -1,5 +1,15 @@
 [
   {
+    "id": "2649802390_1",
+    "title": "五块钱如何花三天...\n\n\n\n\n\nhorsley，一位腾讯应用开发高级工程师\n\n从token 焦虑到系统化治理，horsley这次想分享的不是几个省 token 小技巧，而是额度收紧后，团队怎样更稳定、更可持续地使用 Agent。\n\n要真正管住 Token 成本，不能只靠临时节流，关键是先把这四件事看清楚：\n\n\n一，真正的问题是浪费不可见\n很多 token 不是花在难题上，而是花在黑盒里的绕路上。尤其在 IDE vibe 里，外部只看到结果，却看不到 agent 有没有选错模型、反复读旧上下文、工具失败后重试，或因为环境问题绕远路。\n\n所以第一步不是让每个人更克制，而是先把浪费看清楚。\n\n常见的四类浪费：\n（1）任务和模型不匹配：低复杂度任务也默认上顶级模型。\n（2）上下文越来越厚：长对话里旧信息、工具输出、历史判断不断累积。\n（3）工具和 MCP 太吵：日志、测试、命令输出里大量噪音被原样塞进上下文。\n（4）失败反复重来：依赖缺失、参数错误、工具失败导致 agent 一轮轮尝试。\n\n这些单次看都不大，但每天反复发生，就会成为账单上的大头。\n\n\n二，值得花和该治理要分开\n复杂设计、关键判断、疑难排障、探索新 workflow，这些 token 花得值，因为它们换来真实进展。\n真正该治理的是模型错配、上下文膨胀、工具噪音和失败重试这些低质量消耗。\n\n\n三，个人经验&平台能力\n现在很多节省方式都靠个人经验：谁知道该用便宜模型，谁记得哪个 prompt 稳，谁的机器工具链更顺。但换个人、换机器、换一轮会话，经验就容易归零。团队不能长期靠个人自觉控成本。\n\n长期看，省 token 应该从个人技巧变成系统能力。平台至少要做到：过程可见，能看到 tool call、失败重试和 token 花费位置；经验可沉淀，记录任务适合什么模型、prompt、skill；实验可回放，在同一状态下比较不同方案；环境可统一，减少本地差异带来的绕路。\n\n\n四，两个启发\ncaveman 说明输出也是上下文，少寒暄、少复述、结论优先，可以减少后续语言垃圾。\nRTK 说明工具输出不该原样喂给模型，而应先过滤、聚合、截断和去重。\n它们共同证明：真正有效的 token 优化，不靠人临场克制，而要做进 workflow。\n\n\n最后共识\n先把不同浪费拆开看，再承认只靠个人兜底不可持续，最后再把可观测、经验沉淀、模型分层和工具治理做成平台能力。这样，Token 成本管理才不是一场临时省钱运动，而是一次真正的工程化治理。\n\n五块钱未必能花三天，但至少要让每一块钱花得更明白。",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802390&idx=1&sn=509449770a62d5427b3154525c1a9445&chksm=becc55ed89bbdcfb5cf1b845d02eead7fe8722e6dcbaa5aa45ac463f6cd7d063f72d510fa52e#rd",
+    "publishTime": 1782899616,
+    "cover": "",
+    "digest": "",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
     "id": "2649802388_1",
     "title": "AI+ Kuikly：7.5小时落地三端「多模态聊天 App」实战",
     "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802388&idx=1&sn=de0a692908a858fefb435599a9476a42&chksm=becc55ef89bbdcf97e84f4ff1c65636c487aa86a90845b8ecde60bb1fd8592c6e5c81d924ff5#rd",
@@ -36,26 +46,6 @@
     "publishTime": 1782387302,
     "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/KVER9adz907U0RGibEEmngoefzCE98NOTribmCqyhHibpTNyaMZoiaCzVxOldPBPA74cmLD5rRQscUycfFz6xupoaSe3ACnGbw7k5jYS9yFd5RY/0?wx_fmt=jpeg",
     "digest": "没考高考？666分？",
-    "author": "",
-    "feedId": "MjM5ODYwMjI2MA=="
-  },
-  {
-    "id": "2649802248_1",
-    "title": "从0到1带你速通 Marvis马维斯",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802248&idx=1&sn=5091aa9c4be79a49c871a5503386135f&chksm=becc557389bbdc6543b86542db2d72ad9e393deca73d157441ba96a766fd4cf54aa9c71bd718#rd",
-    "publishTime": 1782303572,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/KVER9adz907tBGPddnkVK9nZnHHzvhwGFSoNeicJbmxhTAZUL05jwsB3InMIeenS5Y0ibXpuFfroSh1BvGibolwpNL7qDrJS6FaUetdaMpUXKM/0?wx_fmt=jpeg",
-    "digest": "能力强大的Agent产品层出不穷，但对普通用户来说，门槛也是真的高。",
-    "author": "",
-    "feedId": "MjM5ODYwMjI2MA=="
-  },
-  {
-    "id": "2649802248_2",
-    "title": "2026腾讯犀牛鸟开源人才培养计划正式开启",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802248&idx=2&sn=192920746656c75f76d8fc634989642c&chksm=becc557389bbdc652a1d57342b8c7cde4281bf6f304b4f02e7677f3bbed5a21dabbe45e7c0a4#rd",
-    "publishTime": 1782303572,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/KVER9adz906nehQfE12pShMK1sXRuhz2R8b4npVzK7Ro2yzj96YICftPZkTm8uc7EoHA7By6hVINJqxcS5CN1AWpEuVkc39tLcvOossiaa6k/0?wx_fmt=jpeg",
-    "digest": "2026腾讯犀牛鸟开源人才培养计划正式开启",
     "author": "",
     "feedId": "MjM5ODYwMjI2MA=="
   }
