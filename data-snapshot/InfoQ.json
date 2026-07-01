@@ -1,5 +1,35 @@
 [
   {
+    "id": "2651287997_1",
+    "title": "Anthropic 突发 Sonnet 5，但大家更期待 Fable 5 和 Mythos 5 明天解禁",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287997&idx=1&sn=2018bb5ce80b8e438de9037bb7b6d3e4&chksm=bdba89ee8acd00f8dd67356a2d600767234b0d7ad398a657d101e9a5a8611f5a0c7348661389#rd",
+    "publishTime": 1782871074,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNhwVzFsmMSxJTE93P1YDFW1ent7HhrCxFSLQibaO4JkOlUmUic2OP8poTVGZalehiambPOP4sxicibltGMVBbDxje9qWLGdQEa3af3w/0?wx_fmt=jpeg",
+    "digest": "Anthropic最近有点忙。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651287997_2",
+    "title": "Cursor、OpenClaw 同时出手，“口袋编程”时代来了：程序员只用“动嘴”！",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287997&idx=2&sn=84d37c62f39fa391283c44f01ff49770&chksm=bdba89ee8acd00f84c47029b63c1e88b1ec4a8fd40f4ba31f4fb5128016f28d431690995f5f9#rd",
+    "publishTime": 1782871074,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNhz7llU1Myfqmw5X6cBKKddShV8Sqib6StaoWKXPhnkibMhwYml3zMtibZS17RoVNAEVq8a6JW33Sah8iaGFjcf1zJlEFB5IsbLO1w/0?wx_fmt=jpeg",
+    "digest": "在完成了 SpaceX 600 亿美元收购案之后，Cursor 并没有放慢脚步，而是将其生态从桌面端扩展至移动端。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651287997_3",
+    "title": "SFT「不完全学习」之后，研究的下一个前沿在哪？ACL 2026 腾讯混元论文未来方向展望",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287997&idx=3&sn=4d9940443794a702d201fb2f9f8dfb52&chksm=bdba89ee8acd00f81fdb236a9d86392ae2bd373efde2e3f56c16e5b7ca18885b988c3ae8f335#rd",
+    "publishTime": 1782871074,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNiaszSvXDDWh0EuiaBib8Kt3BrX5iccMeRIW6RBfY3icMSuY2m7Aib23EVV6cOkREBKWjZpY7KfIzJlt6NQbMIFeUUzJt6PqOI8Pa610/0?wx_fmt=jpeg",
+    "digest": "本文从不完全学习现象（ILP，Incomplete Learning Phenomenon）出发，展望 SFT 领域的未来研究方向",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
     "id": "2651287952_1",
     "title": "前后端一起消失：AI Coding正在改写大厂工程师分工",
     "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287952&idx=1&sn=7dc2116ca7d1a1d81a18ceda631cb2b5&chksm=bdba89c38acd00d5e6f859845dbfa29c7b55ac5b2f73f1e809a3a81fc0d80561cf998fad4f22#rd",
@@ -160,52 +190,42 @@
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651287750_1",
-    "title": "当 Agent 成为新的核心云用户：阿里云重新定义“用云范式”",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287750&idx=1&sn=c3a68d79efafa0eaaea40f001bee6fff&chksm=bdba88958acd0183d1cddace8e2008c26eb9d052b8dc73bc00f71084539786865b7e619b01c9#rd",
-    "publishTime": 1782453921,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNj6SpibpBfVFYqicnLZ3YUJNnWh1ibCo3d1Xldcg60mkrrT24NXF9zCHoPGicw1APase5FzmP04KoSGWB2Uz0jnGDGW0CCsJ9H2wlM/0?wx_fmt=jpeg",
-    "digest": "云 Skills 门户背后，是云开放标准的入口之争",
+    "id": "2651287454_1",
+    "title": "吴恩达戳破AI幻象：炒作过头了，未来公司是10人小队＋Agent重做数据架构",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287454&idx=1&sn=9de7ef2850b77e5f02b4864387d74121&chksm=bdba97cd8acd1edbc0991b7f92039b011cc25f3588ee5836fd39ff4e3470f226bf6be19e46ca#rd",
+    "publishTime": 1782008100,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/lYDricib2fsm41xWsOeyQTT1uFmCkvSR5y7yIFbaBsc9PyutIxhLCxASM6BoNH5YoLCAX3icHspr94ic8neKIYkLf41gsa0ehB2I5a0cBia7icSF4/0?wx_fmt=jpeg",
+    "digest": "近期，在 LangChain 举办的智能体大会 Interrupt 上，吴恩达与 LangChain 创始人 Harrison Chase 进行了一场关于 AI Agent 的对谈。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651287750_2",
-    "title": "AI 时代的新可观测性：不只看系统崩没崩，还要看模型有没有胡说",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287750&idx=2&sn=ec6bb28a614ba65e87800b8ac9c4f85a&chksm=bdba88958acd0183528035a190e4bb76d5d7bf342ebd37ba935cc56d6df52832db2c9bfe3b9f#rd",
-    "publishTime": 1782453921,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNgPrcTUYk2mjjHbpWUl6Egqa3BFUjuiajpqC8HsOrqIhlFvIr4mjUga0xm5FbxdDa5CpmfsAVZ1toFAwFvI4L15ksACAb87NjbI/0?wx_fmt=jpeg",
-    "digest": "没人真的想“观察”，大家要的是“理解”。",
+    "id": "2651287454_2",
+    "title": "三家公司一周内出手，编码 Agent 进入团队基础设施时代",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287454&idx=2&sn=6f1f4b51b7abfce5ebed02aae073ba0a&chksm=bdba97cd8acd1edb8f4729a8ba26796abe70deea26d06f3482e3909bbf688ed6eeaeafdd1d94#rd",
+    "publishTime": 1782008100,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNhpXXrB8AQibDlHlWicA7NwWYt5icuOeQI5hohjJicBKuMJicFiaxlIaanFummyR53q7mXibgJju92EWtCcvf6zkxHDK1QkOlvcu710S0/0?wx_fmt=jpeg",
+    "digest": "在6月的第一周，有三家供应商将编码代理推向了单开发者循环之外。正文",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651287750_3",
-    "title": "Angular 官方的智能体 Skills 助力 AI 编程工具生成现代化的 Angular 代码",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287750&idx=3&sn=9e5cefcd8712bc30a9c4f6ffc5013d8f&chksm=bdba88958acd01838d7cde5d494ed15259476f08cd0846f7b66c649f202aa5238c1678576647#rd",
-    "publishTime": 1782453921,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNjrVansLeNBWTvad7VX1aMrc7ah4Nxy6bEmZicgSRnnRaqiax2A8eceibSy15icia2icBlefo13st9QwBiblVn4ZLESddGY0gwiaNJmPSI/0?wx_fmt=jpeg",
-    "digest": "谷歌的Angular团队发布了名为angular/skills的代码仓库，聚焦于智能体Skills，目标是提升AI编程智能体生成符合现代化Angular约定的代码的能力。该仓库包含用于生成代码和搭建应用脚手架的Skills集合，提供最新上下",
+    "id": "2651287454_3",
+    "title": "同属 Oracle，OpenJDK 与 GraalVM 对 AI 代码贡献态度相反",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287454&idx=3&sn=3dae4af33d734de7bd9a1049a142929c&chksm=bdba97cd8acd1edbda6ff9b707d1bc445ca9ea86896419205492b4d1b8a75a4ba51c6e6b0239#rd",
+    "publishTime": 1782008100,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjCwiarH8hw1KhxfUNexnkoIR1lT9O6j0HeyasuiaiaJhzkF9lIX3d3vIiaOMw5rByKZtyuFMCsGfVpRW1y4YucURFC0Os60wmhwJw/0?wx_fmt=jpeg",
+    "digest": "Oracle 的 OpenJDK 禁止生成式 AI 贡献，而 Oracle 的 GraalVM 允许这类贡献。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651287750_4",
-    "title": "Netflix 如何实时绘制数千个微服务的拓扑图",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287750&idx=4&sn=906ce0c3bec57a2c7afa8433a67e6340&chksm=bdba88958acd01839af95d57e059981f66ea91823510bbbc3e08cbd4810074cb1d883ca70ed6#rd",
-    "publishTime": 1782453921,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNiackmEWr0uxkOPHoC7sPibMyCx9sfibbCoK5wKhDibAQUiaE2icyhSAYI1Ll8lubQ56G8miazPndNlaEcjX4mGPCAZF0zXoiayVpauW74/0?wx_fmt=jpeg",
-    "digest": "Netflix公开介绍了其内部系统Service Topology。该系统为数千个微服务创建并更新实时的依赖图，帮助工程师了解服务连接关系并更快定位问题。系统将三类不同来源的数据合并为单一的、可查询的图，并随着流量模式变化近实时更新。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651287750_5",
-    "title": "从 Vibe Coding 到需求托管交付 Agent，菜鸟 AI 研发效能实践｜AICon 上海",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287750&idx=5&sn=5542d9530dfff831c9101a20aec01be4&chksm=bdba88958acd0183976951341b7b74727b5b70ef862e35c525d6982cc3db0d24aa098adb9f62#rd",
-    "publishTime": 1782453921,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNhZwWQibMYlN6JfAK9xgxsH9glL5bLmCHwfdbAlUaAUtNvumC4GcticCnm7O8Du4xAvOtx7pFpyTO1usZFYC8glqzkibzCUljDbvw/0?wx_fmt=jpeg",
-    "digest": "本次分享将完整呈现从工具采用到工作流重构的实践路径，以及过程中踩过的坑",
+    "id": "2651287454_4",
+    "title": "Pinterest 利用内容指纹技术，在数百万个域名中实现 URL 去重",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287454&idx=4&sn=512d58d35a8b44a094f4707e64d1b0e5&chksm=bdba97cd8acd1edb4f332eb24ffcd6551c1ccee09877f8b15d65b43134abcb5c68a30503114f#rd",
+    "publishTime": 1782008100,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNiafknwvQ0PpGqXiaXleKknUyZy7SMs19pYria426bCcvrYhAWADNBoQRhJSEtkWticyvs85gBVbGqWUSguChd1sjOibemf5ed6xLA8/0?wx_fmt=jpeg",
+    "digest": "Pinterest 工程师开发了一套名为“最小重要查询参数集”（MIQPS）的 URL 标准化系统，旨在优化其大规模数据采集管道中的内容去重处理。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
@@ -276,26 +296,6 @@
     "publishTime": 1781834400,
     "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNh6FJgZicEjeI3gLRNdjCxNGJSl7XBSpuZibNIcvo1wUjWwl4ibspoZEicvBsLkQmLkOKnaSJRUKvWEBtBMiaRMEg7d0mqaH1StlfwQ/0?wx_fmt=jpeg",
     "digest": "当智能变得足够便宜、足够普及之后，AI 将如何重塑社会、产业与个体生活。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651287382_4",
-    "title": "Lyft 借助地图智能技术缓解封闭式小区接驾难题",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287382&idx=4&sn=c2e21c4970b7003fdb75d02bd22065fe&chksm=bdba97058acd1e13ba637419acff2a4235355831b85042aa0a10c3e381d5f2399d9e506846da#rd",
-    "publishTime": 1781834400,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNh5hhuvMPpibMP6rYZrUOqcg0LXSYUR38HGJhWQTc9Z5ibyJJyyU4Lo7LEchKK8nGTSaHMUCDlC8ujwYVAg8NYT2v2OpS6Cib53Zc/0?wx_fmt=jpeg",
-    "digest": "Lyft 推出新的接驾方案，解决封闭式小区约 25% 至 30% 订单存在的路线、门禁对接难题。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651287343_1",
-    "title": "当 Token 成为商品，AI 基础设施会怎么变化？",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287343&idx=1&sn=e2b3ae44c168110fd4ab3b1f861646b1&chksm=bdba977c8acd1e6a95f9425d036ef46b34f03b1350495dd5be46ddf8a85d5eca55efd23cfcf7#rd",
-    "publishTime": 1781762400,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNgKbxgH6wbFVUy7pJ48dd35icibjvE6JlwTsfgeUNp8grlw0rJiaLEmxbCTvev0C5r0rRHaPcrVYEHt2NTibBPjv9k6zZHajCyOvkA/0?wx_fmt=jpeg",
-    "digest": "时代需要智能生产力的突破",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   }

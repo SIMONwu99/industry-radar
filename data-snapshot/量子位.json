@@ -1,5 +1,45 @@
 [
   {
+    "id": "2247901046_1",
+    "title": "OceanBase湖库一体，重新定义AI数据库",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247901046&idx=1&sn=b39e71eb4ed8d2cfcdecabe43eb783ee&chksm=e8da6804dfade112f5a9d220e9ea017caada0e476801ede0e791d672d8033f581e58d742ed7d#rd",
+    "publishTime": 1782885168,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGGayhuiaABPGRAapaScpB4tefOadyriaDVPfuerZkdHkicg9CaaYxf1jDH6liaqFBX2lc7AdTpiasmvia10ys2eicoIYoIRO3CF3F0zJs/0?wx_fmt=jpeg",
+    "digest": "一套技术栈实现离在线统一",
+    "author": "",
+    "feedId": "MzIzNjc1NzUzMw=="
+  },
+  {
+    "id": "2247901046_2",
+    "title": "Loop世界模型论文登顶Hugging Face，来自中国一家初创，周鸿祎陆奇都投了",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247901046&idx=2&sn=da7bf1ec203f115bc3c7ead358b109aa&chksm=e8da6804dfade112048d76394540f337d27817c96252271a35f45a7a2b9a8d82f96cbe0be301#rd",
+    "publishTime": 1782885168,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGFCdeRTNAMkHWLiaKQotDZOkm2hibpWuDkZXYJonB7ZSZZqGr1uWvvEEwXMo7QXg6NlegQHxgbTtQCFlmIJ9bOYfNUDKD6kUGCe0/0?wx_fmt=jpeg",
+    "digest": "重写AI如何反复推演世界",
+    "author": "",
+    "feedId": "MzIzNjc1NzUzMw=="
+  },
+  {
+    "id": "2247901046_3",
+    "title": "冷门新语言AI写不动？IEEE论文：从零到及格线，MoonBit给出完整训练路线",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247901046&idx=3&sn=f81efbdae1fa6cca391a9c4389820598&chksm=e8da6804dfade1124bdebb162289b5507bb2b88a8884965e34e1bfe656db731c0d89d86a079f#rd",
+    "publishTime": 1782885168,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGFghZqs9YO6mggvyuQmrykHc7xZoM4Mx14ZxA3TTz7w8bAX22H4rlqibz89UnVmQMLBXibme8VtTm7cQv4iaCQWfRcIQtq4509PGA/0?wx_fmt=jpeg",
+    "digest": "AI时代的新编程语言，如何被模型学习和理解？",
+    "author": "",
+    "feedId": "MzIzNjc1NzUzMw=="
+  },
+  {
+    "id": "2247901046_4",
+    "title": "量子位编辑作者招聘",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247901046&idx=4&sn=46433445fd2caf7883e5e576e55dec20&chksm=e8da6804dfade1124832ac80e4cb4a092f262fe17ef7e847a98d96fa9bbe76ac189cb5f251ef#rd",
+    "publishTime": 1782885168,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/YicUhk5aAGtBwsQQg50rdDIFHPibz5pbVfnv0oOoRSQ2KmEYBSJRibeXrJnIU1euj0icCf6pXdduQdCbnRJy3b7u7Q/0?wx_fmt=jpeg",
+    "digest": "3个岗位（含实习），不设边界",
+    "author": "",
+    "feedId": "MzIzNjc1NzUzMw=="
+  },
+  {
     "id": "2247900769_1",
     "title": "24小时直播，只靠一张照片？虎牙实时多模态数字人VAM 1.0率先突围行业三堵墙",
     "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247900769&idx=1&sn=2a765059e660fffa4d5f87c92e5c8343&chksm=e8da6913dfade005eebc339c9078c7b873e3c5e71804d02f7a1678d2372a4ab48a2e55a9e78c#rd",
@@ -16,16 +56,6 @@
     "publishTime": 1782797561,
     "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGFIBWJ1XaEvhhbUEWLuLk0l8onLhFaLzuxJy0bpXN9nqFjwbBxC7jx4xEY8Hiay29NzByG8bEMm0ljd4AUiavyib3ib1g02KRGHia0M/0?wx_fmt=jpeg",
     "digest": "“内存荒”的局面还将持续",
-    "author": "",
-    "feedId": "MzIzNjc1NzUzMw=="
-  },
-  {
-    "id": "2247900769_3",
-    "title": "量子位编辑作者招聘",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247900769&idx=3&sn=8e6c5568f3095226fd075c7c30c8f68f&chksm=e8da6913dfade005ba971eb3917875476972508fc2dd4607f48d50df8e51d3477ed45ba89299#rd",
-    "publishTime": 1782797561,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/YicUhk5aAGtBwsQQg50rdDIFHPibz5pbVfnv0oOoRSQ2KmEYBSJRibeXrJnIU1euj0icCf6pXdduQdCbnRJy3b7u7Q/0?wx_fmt=jpeg",
-    "digest": "3个岗位（含实习），不设边界",
     "author": "",
     "feedId": "MzIzNjc1NzUzMw=="
   },
@@ -90,32 +120,32 @@
     "feedId": "MzIzNjc1NzUzMw=="
   },
   {
-    "id": "2247899865_1",
-    "title": "从需求到设计到代码，一个软件全搞定！TRAE Work Design实测来了",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247899865&idx=1&sn=083a5e912e6380c40a428f80d93d18f6&chksm=e8da6dabdfade4bd92556691027531eb41844219b43b4f8f4c6dccf302afcb12109e383a9952#rd",
-    "publishTime": 1782448500,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGH27nRvBtF5Ruf3vC5c4gBfiag96Vpqd7WxJ0SYo9bibWby9aicqmBZEvntOyaicefMnQxur5A3VwyPxxtct7JT3U2ZUM1BI9zNW4E/0?wx_fmt=jpeg",
-    "digest": "精准识别设计系统",
+    "id": "2247898574_1",
+    "title": "具身赛道现状素描：脑子灵，模型好，不是百亿，就是独角",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247898574&idx=1&sn=6ede0b426e915786f55b39231903cd4a&chksm=e8da62bcdfadebaa78469801fef0245134ac58de3a11473f4fe5fd0d4e3df9199ad353ac544e#rd",
+    "publishTime": 1782021600,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGFvlBaM3YH9ia5Y3R6dibziazzqpTiafTTeWgYicdTkaYnAsRQVguWb7Puba1semYP4WiaR6n9ZKHOHFFUBABFm0hR9mXxAicZ0uAAYnE/0?wx_fmt=jpeg",
+    "digest": "如果不做具身大脑、没有世界模型，我劝你谨慎机器人创业",
     "author": "",
     "feedId": "MzIzNjc1NzUzMw=="
   },
   {
-    "id": "2247899865_2",
-    "title": "DeepSeek你怎么连HR都缺啊？！",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247899865&idx=2&sn=2b0d2607ead8596c6276d6d76007a995&chksm=e8da6dabdfade4bd1d8de3d4da2ded03214705837d50fec3c8bc97968c2e937286852f3bb19a#rd",
-    "publishTime": 1782448500,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGH5Ng4p0DrEmpo4Dk0K5eVkPicpAjjrhSbicVXLpj88HwKb2zKO04erOFdvQkyZMCWbktPFP6t4mIK9YyfZXK4gm2f6qjtEbLoRk/0?wx_fmt=jpeg",
-    "digest": "30+岗位同时招人",
+    "id": "2247898574_2",
+    "title": "同样算力质量更高，西湖大学把扩散缓存做成了“离线搜索题”",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247898574&idx=2&sn=f39ee0adf2d3a234c81d2e87599abb9e&chksm=e8da62bcdfadebaa600483514f889afdd69e1a75e8a0c663d944c7a94c3e2d733fc4167e08c1#rd",
+    "publishTime": 1782021600,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGHArpuvdoUILE4UdhXARyX9oC4oGlUriadficHRsAHaqNG06WlibyrFicqP61PBAF7BHhM8goXGMWgIzDDekjfS5tsSvsj2WptibzaI/0?wx_fmt=jpeg",
+    "digest": "既严格卡住推理成本，也能保住最终生成质量",
     "author": "",
     "feedId": "MzIzNjc1NzUzMw=="
   },
   {
-    "id": "2247899865_3",
-    "title": "大模型最后一层竟是推理累赘？绕开对齐税，奥数准确率暴涨 22.4%！",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247899865&idx=3&sn=a411b58582421e0f71d8260bdb141e58&chksm=e8da6dabdfade4bd4c4c94174dcb5a10ec686163d3fa06baf8359035212d50fae26ddbf8210c#rd",
-    "publishTime": 1782448500,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGHAp39FxrFtIWUlnl2NUgoiat2W4vAu3bj2MgkV6xSueXqaExsuFuRlk3icHeSy1jcic0YLsgMTtibJjAEaicAF8IGzLcvunubibT2UM/0?wx_fmt=jpeg",
-    "digest": "置信解码：无训练、即插即用的选择策略",
+    "id": "2247898574_3",
+    "title": "量子位招聘丨汽车及机器人方向",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247898574&idx=3&sn=1e5ca0d8beb84f84fdf1741385b5fa40&chksm=e8da62bcdfadebaa319fd2a8f77ca0b30841dacb66fa7b2f300c8fe0ef9ff1b3ca207adb985b#rd",
+    "publishTime": 1782021600,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGEyKdViaZHb5joeQ7jWUcjZUERfD6FjiczskKVOHaR8QsIjpmWrr6ZWYChObTmD6cwWbjs3ErvV3giadhqic2WAOsibwtSKcfgnEQgY/0?wx_fmt=jpeg",
+    "digest": "文字作者和视频编导，要的就是你！",
     "author": "",
     "feedId": "MzIzNjc1NzUzMw=="
   },
@@ -186,46 +216,6 @@
     "publishTime": 1781781605,
     "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGFiabOq5q9EEvCP9CCDKyOiaI0Gp896OSicWn3oatYRmG8BCSQVia6mtRQMaK9XSYTVlKSibpWeHiaWJtrrtVVic1OZKBapzPu1vJuCYQ/0?wx_fmt=jpeg",
     "digest": "一边泡澡，另一边全身影像检查果就出来了",
-    "author": "",
-    "feedId": "MzIzNjc1NzUzMw=="
-  },
-  {
-    "id": "2247898354_4",
-    "title": "量子位招聘丨汽车及机器人方向",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247898354&idx=4&sn=ba70b7e828283ee3657acb352fa80569&chksm=e8da6380dfadea96903ff6f1806f9fac198ebccdc74533c599aff147e2a6732569711dcdb209#rd",
-    "publishTime": 1781781605,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGEyKdViaZHb5joeQ7jWUcjZUERfD6FjiczskKVOHaR8QsIjpmWrr6ZWYChObTmD6cwWbjs3ErvV3giadhqic2WAOsibwtSKcfgnEQgY/0?wx_fmt=jpeg",
-    "digest": "文字作者和视频编导，要的就是你！",
-    "author": "",
-    "feedId": "MzIzNjc1NzUzMw=="
-  },
-  {
-    "id": "2247898050_1",
-    "title": "刚刚，北京建了一座AI工厂：目标10万P算力，日产10万亿Token！",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247898050&idx=1&sn=a66f4f9669c0a4728994d09bdaf85ddb&chksm=e8da64b0dfadeda6e30bb7b31f73b9c79a8cab069c1c23e985774d8ecfbee5412675040b16ed#rd",
-    "publishTime": 1781690992,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGEsxVOhcYVicTupVZkpEHuOb72naGVKUf8oicAhHo3w9k1ibjeTs3cpWWwOG8KuQzMzmRibMeTucBUdgjEnLXVjoTuJyMQccs2KMtU/0?wx_fmt=jpeg",
-    "digest": "计划1000倍综合降本",
-    "author": "",
-    "feedId": "MzIzNjc1NzUzMw=="
-  },
-  {
-    "id": "2247898050_2",
-    "title": "AI转型最大的门槛，不是技术，是人",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247898050&idx=2&sn=c57e8d4c2630c5e433488b9d65cd6a05&chksm=e8da64b0dfadeda60b5c79f03e4b6305e6610711c1d3e10eb0b1859c85be2f64c302b8b56bb0#rd",
-    "publishTime": 1781690992,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGHGUmO4kicibwicRRT1faReyz8czGWhDIQtGHTn03pVUdGNQCbHOtbIKibblk45MVZFHFHUqueH0vhA8ibfeas6Wub6faqu2yMT1Zqw/0?wx_fmt=jpeg",
-    "digest": "不主动改变，就只能等着被改变",
-    "author": "",
-    "feedId": "MzIzNjc1NzUzMw=="
-  },
-  {
-    "id": "2247898050_3",
-    "title": "星海图创始人高继扬：具身智能三层技术路线，没有捷径可走",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247898050&idx=3&sn=080af08a487c17184d4405fa41c54ced&chksm=e8da64b0dfadeda6aeb80af02e5e8ae0f1d1babb360fb6cb7f0925edde263b5da82a068fbc14#rd",
-    "publishTime": 1781690992,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGHglD7fIOI5ZsJpXaicOKeoWWqtBaIeI3kACmqhy37H0lnpNQJqj54qm2BfRGgcpHXoRTEscNV5WMYE6qvlStKUDSejmUicZ6Gp8/0?wx_fmt=jpeg",
-    "digest": "数据+投资，星海图开始拼生态了",
     "author": "",
     "feedId": "MzIzNjc1NzUzMw=="
   }

@@ -1,5 +1,35 @@
 [
   {
+    "id": "2651042107_1",
+    "title": "飞书让表格变成「AI同事」加入群聊，不打开表就能用表",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651042107&idx=1&sn=3e8c78829980da74c9ff711576eef040&chksm=84e67545b391fc53be3a86dae8939682b44e2f62ee30afb3fb0c60b41ad364d59eb850422e08#rd",
+    "publishTime": 1782878335,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqEcs03UlLticFxia3SfVu2vLzanw7D1ob4mNpsfXHsZUpjoT9Ee94LZFmID81n9n1vLiaUMRmviclW98I6P8vu4fohliaGflK0vKGbM/0?wx_fmt=jpeg",
+    "digest": "跟团队的新同事交个朋友……",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
+    "id": "2651042107_2",
+    "title": "邢波再出手：上次「骂」完世界模型，这次轮到智能体了",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651042107&idx=2&sn=455937649735c225e976b085ef82100c&chksm=84e67545b391fc53393bc77ade1f78ca2e444ca6986684a9ebd810b945f2b587f7ed6fd78238#rd",
+    "publishTime": 1782878335,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqEBEkKwBS4ZGFXoiaeRdQr0zTqfN8S5rv5AX2U7PYS2bPFIsPhqeFjibbJ7qicE5CPxyVQuPxYYvu1MjMojtpNoq2srDmxNGWTaGM/0?wx_fmt=jpeg",
+    "digest": "邢波团队拆解五大软肋后，开出了智能体的「药方」：GIC 架构",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
+    "id": "2651042107_3",
+    "title": "一句话生图要过时了？开源图像生成Agent进化出「工具编排」",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651042107&idx=3&sn=35f6528ab089fe866de6e2e8911ddf1f&chksm=84e67545b391fc535629867e21ecfbc411998bc5d881417547e8fc888cb23df0bbe64de40c2c#rd",
+    "publishTime": 1782878335,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqEiccopWZiauZZwctGTaEibXSczMGGLheaPDbsUfBEmG15FfNBjVYvXKeyv575vISV4DUCpmngTrOOud20Jk0icJ0mda3zbMYzkDGY/0?wx_fmt=jpeg",
+    "digest": "先搜索、再找参考、最后作画",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
     "id": "2651041957_1",
     "title": "AI圈刚开始谈Loop Engineering，两位95后博士已经盯上了人类闭环数据",
     "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651041957&idx=1&sn=91d804b8879796e62c292d1a51a83f19&chksm=84e674dbb391fdcd96ec727cc09810e4a56e7d47a6cb872f9cdb3ae0ded81af2959eafc7165b#rd",
@@ -110,32 +140,22 @@
     "feedId": "MzA3MzI4MjgzMw=="
   },
   {
-    "id": "2651041320_1",
-    "title": "国内首张防爆资质、全球首个加油大脑方案，他们凭什么拿下两个「第一」",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651041320&idx=1&sn=7ea8d0ceeecd9f9887356d08b93a8c7f&chksm=84e66a56b391e340d6fae089f17b18bcdef3f2c8b586807932cb60d67521eb5c1854b7443242#rd",
-    "publishTime": 1782444600,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqHvpslCok3kaEIZGyMnc3O0CPupyFYk9ibCYrbp24UiaNbQAibkE3TH5q2Vc4ITE4M2StotGARYNicPLgdRHiahrWGRkvyCaYPib2HWs/0?wx_fmt=jpeg",
-    "digest": "全球首款搭载大脑系统的防爆机器人，已经开始干活了",
+    "id": "2651040234_1",
+    "title": "「机器学习之父」Jordan：Hinton等「思想领袖们」正在伤害年轻一代",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651040234&idx=1&sn=b9d20058d84b417a596123a0c7e0ce4d&chksm=84e66d94b391e4824928b06674fb12df89de6c8463ec2cb2905d309f954ec43b0979f2b33f33#rd",
+    "publishTime": 1782025426,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqEY0JeeEawLUib1JFItN4ib3j3a4YgqR1wLCcUg9TfAX4eibfxQzxB5ibLApNgTrUe8KlXVyjFOkS7RCO2OdNdHkIC1mXKYepsDWlc/0?wx_fmt=jpeg",
+    "digest": "AGI 是公关术语，把 AI 说成「理解」是在讲科幻。",
     "author": "",
     "feedId": "MzA3MzI4MjgzMw=="
   },
   {
-    "id": "2651041320_2",
-    "title": "本周六，围观学习ACL 2026论文分享会，最后报名了",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651041320&idx=2&sn=f713a7c4f44eb5e6599d7ed667d97a37&chksm=84e66a56b391e340c64071a184779633d2d9b19aad601375e740255815dc37bd2c7e7daec43d#rd",
-    "publishTime": 1782444600,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqG1LWNDwPExclibqK56HcTrMHkubmdeG3UtUvibQ7n0FZeWZqoJA1eVQKBkIOzJ4Tcs3tRLU14oUFVc5b14mH1swpKWno1ubxIf4/0?wx_fmt=jpeg",
-    "digest": "6月27日，北京不见不散！",
-    "author": "",
-    "feedId": "MzA3MzI4MjgzMw=="
-  },
-  {
-    "id": "2651041320_3",
-    "title": "单目3DGS迎来突破：影石开源UniSHARP实现全相机适配",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651041320&idx=3&sn=0274c73463d62d8925d7c0271950e117&chksm=84e66a56b391e3401257e8057d97c12c612ea7d839dba9ec11a8d7fd7e338892e18bbf0d6558#rd",
-    "publishTime": 1782444600,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqGYqibicQXSL24z9xqUfXkgibkJqY1BtPKSI2CoeFtVVdDck0HiaIlnvgQf9cZEIKK4jkkXoDkiaHDM6lmzL6Z2Wufnsn9qMnJ12ibQk/0?wx_fmt=jpeg",
-    "digest": "首个统一平面透视、广角、鱼眼与 360° 全景相机的单目 3DGS 模型",
+    "id": "2651040234_2",
+    "title": "靠零食和黑客松，能重振Meta士气吗？",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651040234&idx=2&sn=1efae613482a41c6b0722999d581576b&chksm=84e66d94b391e4827f5d4ed7537effe4e32f6a4fad00b1b774656c7b86558900040aff1b7244#rd",
+    "publishTime": 1782025426,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqG6A2JRImVTEeiaLMltp5XDhZEM7SGCEWJWLTnyqS0Lp2QuAibz7Pvpvjffria2Am411bhfticlBj9umI3gQPBxia98nibWBLDErhaibk/0?wx_fmt=jpeg",
+    "digest": "信任一旦被打碎，并不会靠几句承诺就自动修复。",
     "author": "",
     "feedId": "MzA3MzI4MjgzMw=="
   },
@@ -146,16 +166,6 @@
     "publishTime": 1782017194,
     "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqFzu28KGOJpl2MTSIkILecccPPOLicRxGbBodnP2MzLXdHxbnnAceSNxB4Ut6ypFxMI5bwYGp4dTXAzkXPgJoZEU5DV5RYuYZiaI/0?wx_fmt=jpeg",
     "digest": "史上最强模型即将回归？",
-    "author": "",
-    "feedId": "MzA3MzI4MjgzMw=="
-  },
-  {
-    "id": "2651040232_2",
-    "title": "靠零食和黑客松，能重振Meta士气吗？",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651040232&idx=2&sn=ebbb4d9700e4f8d1dab5d71063c5c1ad&chksm=84e66d96b391e480e42cc8735c80a1b1616341b5cc5309a7d6b1f6f23239d517ace94cd9bcd0#rd",
-    "publishTime": 1782017194,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqG6A2JRImVTEeiaLMltp5XDhZEM7SGCEWJWLTnyqS0Lp2QuAibz7Pvpvjffria2Am411bhfticlBj9umI3gQPBxia98nibWBLDErhaibk/0?wx_fmt=jpeg",
-    "digest": "信任一旦被打碎，并不会靠几句承诺就自动修复。",
     "author": "",
     "feedId": "MzA3MzI4MjgzMw=="
   },
@@ -220,32 +230,32 @@
     "feedId": "MzA3MzI4MjgzMw=="
   },
   {
-    "id": "2651040002_1",
-    "title": "人形机器人不再「走走停停」：Current Robotics发布全身灵巧操作模型Curr-0",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651040002&idx=1&sn=2350f75c30770f5657c2911aed4ef022&chksm=84e66d7cb391e46ad75abfa950bf5b04f61654415e93a6575b6578f61e8d1bba07e9c2d531af#rd",
-    "publishTime": 1781773800,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqERwUQ6ghDtDMib20UnEe219iaH6ribeicXCuH3NauCMfPjqrFbPkIQ6MZXTlTZzwpDLxTLyYrHMd2aFO6dNibs6qgyv5tMMiaQhsEQY/0?wx_fmt=jpeg",
-    "digest": "21,000 小时真实人类行为数据。",
+    "id": "2651038907_1",
+    "title": "突发！美国政府禁止外国人使用Claude Fable 5",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651038907&idx=1&sn=8dfc10a1f0a20c1c83604d0edecad083&chksm=84e660c5b391e9d355fca9d0364b7eb99375b6d126c578584a4cd92d5316cba6c5697f837ee0#rd",
+    "publishTime": 1781316610,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqE7XgoqMVZT1HKwzdUDW4ia1BLN4PKAF1LT4kPwnMmm4GulNaVTAhDicWmWPH1qY2SLP0g7CC7XibHQ5Aeh948yNECeiclbCjgg6S4/0?wx_fmt=jpeg",
+    "digest": "「非美全禁」！",
     "author": "",
     "feedId": "MzA3MzI4MjgzMw=="
   },
   {
-    "id": "2651040002_2",
-    "title": "PPT之外，AI之内｜2026WAIC机器之心特别企划栏目",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651040002&idx=2&sn=9601ca3d48a44f348b9fc2cd8b2ae4ce&chksm=84e66d7cb391e46a945ac1ee7246a35a9ebf1a0a50fd87e47d9150b3da701eeb5ff4ed5ccb25#rd",
-    "publishTime": 1781773800,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqFT06abHTncUfvft8eIltAMWvhmTehW1Yun8uTTuiaSefaiazY2mQxbbrR7TE9iaLGyN1KKehTuew9icHojpLy9BF6zUcOLeqdBO6I/0?wx_fmt=jpeg",
-    "digest": "打开传播新窗口",
+    "id": "2651038907_2",
+    "title": "交白卷也排第一？Fable 5二百题全部拒答，却登顶最严AI编程基准",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651038907&idx=2&sn=3c8f95cc00db3d09ad7f2900f8af66ac&chksm=84e660c5b391e9d3261831fd92a0b8ef1e2fc17e9fd1d2c34cc0b57063e78508f6771112240a#rd",
+    "publishTime": 1781316610,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqGnQmibiaPNcSQ0JImHDvfJkqCvWicvwhDzLXnKFnBVvldeYOVtbSqI0VwgXyb7OO5MvrZPq87wzeagXUyRt31Dic3Tv5ic2Nib1bfDs/0?wx_fmt=jpeg",
+    "digest": "好比高考白卷上清华",
     "author": "",
     "feedId": "MzA3MzI4MjgzMw=="
   },
   {
-    "id": "2651040002_3",
-    "title": "ICML 2026 Oral | 为3D空间智能数据构建全自动数据飞轮，Holi-Spatial打造400万级空间多模态数据集",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651040002&idx=3&sn=2070ed6854a7789a6b7b3edbcac2515c&chksm=84e66d7cb391e46a5723a78d4918c760699bca37be54f21e1c4c0410eedb5b9eefdfe7967f02#rd",
-    "publishTime": 1781773800,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqHJkNkmNqQv695axzLXNICiaOq1SdLqtOsd95g5bfZjsKsXxIh8o7AHSvE3dTN3YI5VJokUj3SGPWD0BicDCuOJzN8S9tUyMfbpk/0?wx_fmt=jpeg",
-    "digest": "一个全自动空间数据构建框架。",
+    "id": "2651038907_3",
+    "title": "ICML 2026｜一句无关问题也能劫持Agent，港科大&复旦提出首个语义缓存键碰撞攻击",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651038907&idx=3&sn=af7eb97ac8ab4c0576566b52fef58151&chksm=84e660c5b391e9d33f1ba8ac1b2e79928dfe1dfe974cb16b76a10d6dfbc46ee6714b7fd87e71#rd",
+    "publishTime": 1781316610,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqGVQLnpQtbeojdxCmzNdA8dBZQjNOCuBWMSDllxrlaMRY8Av02Hw8aP8j7oYfic2fuJ9gUgH8SMDg3LPokiaSJkDxJ8uUXwekahQ/0?wx_fmt=jpeg",
+    "digest": "LLM缓存竟成「后门」？",
     "author": "",
     "feedId": "MzA3MzI4MjgzMw=="
   },
@@ -266,26 +276,6 @@
     "publishTime": 1781254260,
     "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqHWTPs14XHWRGgrfFicSH9RTUwfJCiaX8iaFL8Cta8TZXWicClKYJpLNqvtOkbHUtiaoCTrm1hoHsAQ34EIyT2CfSV9A9WDrBibuv1K0/0?wx_fmt=jpeg",
     "digest": "不到 5 秒就能破解。",
-    "author": "",
-    "feedId": "MzA3MzI4MjgzMw=="
-  },
-  {
-    "id": "2651038804_3",
-    "title": "RSS 2026 | 别再让机器人看错重点，GuidedVLA给动作解码器装上可控可解释的注意力专家",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651038804&idx=3&sn=83dbed4ed25f6197c61d69a07f72ad88&chksm=84e6602ab391e93c7a8d1cbbb56d9c9b2fb935dab8fa5b372ca7a7ca981fd4c94ed8d2740e75#rd",
-    "publishTime": 1781254260,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqEjpkRstcyNVpIYL68UYSVU4JYbkk6XskUKF7niaaiaU5AqxYrqW74U1ORAUAJlIlX0dKHu3EG7JtO14GicJFfTM9KIZ9ibV3FFIeI/0?wx_fmt=jpeg",
-    "digest": "让VLA不只是变大，也要变得更可控、更可解释。",
-    "author": "",
-    "feedId": "MzA3MzI4MjgzMw=="
-  },
-  {
-    "id": "2651038459_1",
-    "title": "斩获15个顶级零日漏洞：0G Lab联合新国立，北大和北邮团队构建的共识协议debug智能体框架",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651038459&idx=1&sn=5135bb68ee4470d665e36e42e01dd80c&chksm=84e66685b391ef93957db1ebee840fefe115b710d285769ee8252d4960f70deeeea8b1f72d4e#rd",
-    "publishTime": 1781152200,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqHEmstfV5eAofjh8fPtq88gE0PlwtKoVdQeVeIGUDGjic2GYYDMiaicLKhUq1vsC2vxXKWr9s75ZzcxCgtbOsl6bdjEZUjAjqRhl8/0?wx_fmt=jpeg",
-    "digest": "一套可落地的工业级解法。",
     "author": "",
     "feedId": "MzA3MzI4MjgzMw=="
   }

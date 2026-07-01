@@ -1,5 +1,15 @@
 [
   {
+    "id": "2651782957_1",
+    "title": "美团 LongCat-2.0 正式发布：在国产算力集群上完成全流程训练与推理的万亿参数模型",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651782957&idx=1&sn=2fc04d07a71f97ca4bd367d6a8dcc4de&chksm=bd1226608a65af763b1b5133a379fb592439a98d9fd94ca72d4487cb5a8ab132353cdbd8e217#rd",
+    "publishTime": 1782872640,
+    "cover": "http://mmecoa.qpic.cn/mmecoa_jpg/V95GN2mm0Dyiagxk5XSkiatVGdD6IsPPyttOqsARSiaaOJ5Hn7jvV1Fb296aW04ibSG6HGJz7xwq0LqiaytianMzC04UYfTw5MOGneg9SIAY3Yc0s/0?wx_fmt=jpeg",
+    "digest": "美团正式发布新一代万亿参数大模型LongCat-2.0，并将对外开源。",
+    "author": "",
+    "feedId": "MjM5NjQ5MTI5OA=="
+  },
+  {
     "id": "2651782940_1",
     "title": "美团 LongCat 开源 VitaBench 2.0：长期动态智能体基准新标杆",
     "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651782940&idx=1&sn=cdcc1d5ef4abbde9dcd8db011243127d&chksm=bd1226518a65af4737c04e90bc3287a218dcac98e84f043039b09eb757f3ac6e40e92d4cf862#rd",
@@ -86,6 +96,36 @@
     "publishTime": 1780626240,
     "cover": "http://mmecoa.qpic.cn/sz_mmecoa_jpg/V95GN2mm0DwsmR6AxGF9PYkXIbkK0Soa0kfPtL4WWQibgQuiahXgjTWU4EWj2sLK3oibS2My4PhKKp9fhHqfSjeV38O3Hia2sdffKf56bcYoaIA/0?wx_fmt=jpeg",
     "digest": "6月11日 周四下午，线上直播！",
+    "author": "",
+    "feedId": "MjM5NjQ5MTI5OA=="
+  },
+  {
+    "id": "2651782526_1",
+    "title": "清华美团数字生活研究院五周年，一场科技与美好生活的双向奔赴",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651782526&idx=1&sn=ebbe054ccd2922ff1ce26c54c3007269&chksm=bd1224338a65ad25c708df06bab020a5a000448acb7ce0ce128354352f1a0b3e73bbf21316d2#rd",
+    "publishTime": 1776945480,
+    "cover": "http://mmecoa.qpic.cn/mmecoa_jpg/V95GN2mm0Dw5giboAjAhUUKuRzr5gRGr4ibpqds5VU6GC4ddon9U5TTsM09tCf3E6y6cdicPmn7KNJrwwjqAQr4hK5Avg9McZPssDnjR2sibodE/0?wx_fmt=jpeg",
+    "digest": "五载同行，数字生活，步履不停",
+    "author": "",
+    "feedId": "MjM5NjQ5MTI5OA=="
+  },
+  {
+    "id": "2651782526_2",
+    "title": "LARYBench 发布：定义具身动作表征 ImageNet，首次度量从人类视频学习的泛化表征",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651782526&idx=2&sn=b65922b008289d429050a655ce8d62a0&chksm=bd1224338a65ad259be6d0751d43ad02bb5b29c0d5d8f9d5e4081aaaab07e049f5dce6e8f451#rd",
+    "publishTime": 1776945480,
+    "cover": "http://mmecoa.qpic.cn/mmecoa_jpg/V95GN2mm0DxSRlRrpqrLqkgX4vW1ZyhvQsV1lUgW5Tt5p528DJq714gjBnicghufTg3HHqkp0uSp66OAMflSH3SBXxicLSkmAzap7l5r59U1Q/0?wx_fmt=jpeg",
+    "digest": "一个指引从大规模的视觉数据学习到通用的隐式动作表征的系统化评测基准",
+    "author": "",
+    "feedId": "MjM5NjQ5MTI5OA=="
+  },
+  {
+    "id": "2651782526_3",
+    "title": "30万+元奖金池！美团校园 AI Hackathon 大赛等你来战",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651782526&idx=3&sn=e240fa4aed4aefbcf5c974d1f41aeebb&chksm=bd1224338a65ad25eeff81b8eb04dee14be3474e27caaaeebcef09021ac22383486aca8d618e#rd",
+    "publishTime": 1776945480,
+    "cover": "http://mmecoa.qpic.cn/mmecoa_jpg/V95GN2mm0DxdtIeZXMeOlrdnQUsJQQ88iagb71QcODtwjgteAomLiam8H7y1tLf9tJOeXcOKdrxD12pucic8sFibExibX8rNvcaYS7atBQMb45UY/0?wx_fmt=jpeg",
+    "digest": "奖池30万+直通实习offer！让科技融入烟火，用AI定义未来！",
     "author": "",
     "feedId": "MjM5NjQ5MTI5OA=="
   },
@@ -180,12 +220,12 @@
     "feedId": "MjM5NjQ5MTI5OA=="
   },
   {
-    "id": "2651782375_1",
-    "title": "美团 BI 在指标平台和分析引擎上的探索和实践",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651782375&idx=1&sn=9fa8942b14abb27fb85b9fe2ca0ae957&chksm=bd1225aa8a65acbc8dd92055467bc159e8ae8ff4986ab21e7aeafec4a5c7f26bde044e5fc9ed#rd",
-    "publishTime": 1773921480,
-    "cover": "http://mmecoa.qpic.cn/mmecoa_jpg/V95GN2mm0Dz8BIwGLPr3ufKa2z6QxzzbhtAQH2jXngeyOSRibHVE2mtsnbh4fnGPWM6boQ0HlxEmeaks6KTO4uicuic68Td7iaOFX99Q8ic3u13s/0?wx_fmt=jpeg",
-    "digest": "本文介绍了以指标平台为核心的新一代 BI 架构，通过自动语义和增强计算两种核心能力的建设，部分解决了传统BI平台在个性化数据集驱动下产生的数据口径混乱、查询性能差等问题。",
+    "id": "2651782172_1",
+    "title": "互动有奖 | 美团技术年货加更，活动沉淀来啦！",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651782172&idx=1&sn=bd821367fc1f3475739c43302a62cb9c&chksm=bd1225518a65ac47256b2bc61bf2774a13b882deb044544d2810687907d5a2ef12a8f714a218#rd",
+    "publishTime": 1770206280,
+    "cover": "http://mmecoa.qpic.cn/sz_mmecoa_jpg/hEx03cFgUsWws4BM3Hvw3QNe80uOI7l49RMP1stO5Cmwv60Q2Nmr5h2DJdlw01zUcoibUz0WC34tRibmiaiaBictZkw/0?wx_fmt=jpeg",
+    "digest": "参与互动赢新年大礼包（实物礼盒）~",
     "author": "",
     "feedId": "MjM5NjQ5MTI5OA=="
   },
@@ -246,16 +286,6 @@
     "publishTime": 1767873480,
     "cover": "http://mmecoa.qpic.cn/sz_mmecoa_jpg/hEx03cFgUsUNghaGI9tHJ5A85sOAJmkIo55zKWPBWAib8sDvZcrhfibJ1kQib0UexO3gRJibo24WUS2QUqYlmzr0uQ/0?wx_fmt=jpeg",
     "digest": "1月22日（周四）14:00-16:10 线上直播",
-    "author": "",
-    "feedId": "MjM5NjQ5MTI5OA=="
-  },
-  {
-    "id": "2651782032_3",
-    "title": "报名｜AAAI 2026美团学术论文精选及分享会",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651782032&idx=3&sn=42d641ecd4d771bd0caaf1fdef4dc49f&chksm=bd1222dd8a65abcb11bafb95cc81f21a4e73934f2c3b721d7c61d106179874dfb15af1564072#rd",
-    "publishTime": 1767873480,
-    "cover": "http://mmecoa.qpic.cn/sz_mmecoa_jpg/hEx03cFgUsUNghaGI9tHJ5A85sOAJmkI7xaUUR6rwySco20babME1LK4kNB8GxcolgP5LzbRibbViafVg6XYbFXg/0?wx_fmt=jpeg",
-    "digest": "论文分享会将于01月15日（周四）下午线上直播",
     "author": "",
     "feedId": "MjM5NjQ5MTI5OA=="
   }
