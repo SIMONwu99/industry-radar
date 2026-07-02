@@ -1,5 +1,45 @@
 [
   {
+    "id": "2651288050_1",
+    "title": "用户太蠢不配用 Fable？被Anthropic的回应气笑了：最贵的模型，最憋屈的体验",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288050&idx=1&sn=2ef786c33c2f838a5558ce06a6f5bba7&chksm=bdba89a18acd00b74bed1754bf0f1ab29756dd7611cdbe3e5ff88a17ef4f5bb45c3e313b770f#rd",
+    "publishTime": 1782977206,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNiaReIr7zzbayc94VV6KTzXMSpf8yJGBXHZJackXsRm8aDGmSAdubFT8pEmZ3RubWwcq0H5E2unZccybdqqGx1fbStxajx4JkBo/0?wx_fmt=jpeg",
+    "digest": "Fable 5 有拯救到因拉透了的 Sonnet 5 而口碑下滑的 Anthropic 吗？",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651288050_2",
+    "title": "从 AI 取数到智能分析：企业级数据 Agent 的多阶段演进与工程化落地",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288050&idx=2&sn=363896139a6bb2219da9631235944147&chksm=bdba89a18acd00b79d597073d4693f2f33d5511c09ea26fd4a4dfb1c2512c16a7dc225e00c72#rd",
+    "publishTime": 1782977206,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNiaPMNJwvpTiaMMuGuFJcsfWOllwdXXlLWaXExn3VycV1hhuxmh3LEGMx82j8nE0ckJ67hViaicBD17pGibvm6ItfFYAXgxsG6tH91E/0?wx_fmt=jpeg",
+    "digest": "将取数工具雕琢为支持个性化与场景化智能分析的可靠生产力工具。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651288050_3",
+    "title": "Agent 狂欢热潮下的冷思考：为什么规模化落地总是陷入僵局？",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288050&idx=3&sn=08d797b455ebe6cfa6d18405e265f9bb&chksm=bdba89a18acd00b7e5dc1e52e8b5909f50a9ef24ac7492c07fda5399f52c73ac47b388728cce#rd",
+    "publishTime": 1782977206,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjgq7Mxk6uFPS3oW497odGJClOz8670LHA9m0Q15J1psk3Ch3euQQAUcKq6O8wsCoOqY5unuibyQV7xib9mAJt2tUOlMCvqag4rs/0?wx_fmt=jpeg",
+    "digest": "作者 | 凌敏\t2026 年的技术会议，已经很难避开 Agent。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651288050_4",
+    "title": "大模型推理也能“智能调度”：让奖励模型按需分配算力的动态路由机制 | ACL 2026",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288050&idx=4&sn=54e639a553692668a61464bd6d2864b7&chksm=bdba89a18acd00b713ed0a3a502f8d5971fcaaefcb6ba41dc7e30e47fa5da1aed73f21507ca0#rd",
+    "publishTime": 1782977206,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNhibYEnnFWqAWhSngkDxLe30ZBg1WIBuodFHVMibgFibsV34Nb3YssP7KeMSxpr8Kiagic2QQysQwfYCvBBibDdNaWyyZTk1C7eib3oDQ/0?wx_fmt=jpeg",
+    "digest": "生成式奖励模型（GRM）通过思维链（CoT）显著提升了奖励信号的质量，但其“一刀切”的推理策略让简单样本和复杂样本消耗同等计算资源，导致显著的算力浪费。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
     "id": "2651287997_1",
     "title": "Anthropic 突发 Sonnet 5，但大家更期待 Fable 5 和 Mythos 5 明天解禁",
     "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287997&idx=1&sn=2018bb5ce80b8e438de9037bb7b6d3e4&chksm=bdba89ee8acd00f8dd67356a2d600767234b0d7ad398a657d101e9a5a8611f5a0c7348661389#rd",
@@ -150,42 +190,52 @@
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651287774_1",
-    "title": "GPT-5.6首发，比Fable 5便宜一半！深度评估者“开麦”吐槽：能力测试中疯狂作弊",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287774&idx=1&sn=9955b792b6e2a5ac8fe5021d1f3cc529&chksm=bdba888d8acd019be85b776d5bfcfc17ae015ec6aa8903deb141ad3eebdf392005859ee379c0#rd",
-    "publishTime": 1782531662,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNjLRBMGGBjA17KWCHLgMhAkm9bhybwOdPTWO2O9bKviaegmVJf6j4hfpPYJtrbib89D3fBIbBf8Hic8ib0Hw0bIxdce9aLQFSicIADQ/0?wx_fmt=jpeg",
-    "digest": "在 OpenAI 应特朗普政府要求分阶段发布下一代模型的消息传出不到 24 小时后，GPT-5.6 便正式发布。",
+    "id": "2651287490_1",
+    "title": "MOSS 全模态技术体系全解析：统一离散化建模、推理优化与情境数据构建路径",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287490&idx=1&sn=5bbce67700d93c8c3ece905011bd64a7&chksm=bdba97918acd1e875844c418739c04b075e55a7879f64a7ba375b5fb365df9c6e79f14734382#rd",
+    "publishTime": 1782104033,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNglejF3tPVviaGX0nPYNa8DBy4hAJgWciaH7oxgQ9ecmibOYOsjibJzwbgLcXlicT8Q2xArL5iav0v35g9kpOJY6BwAXJzNnAxZfMwbo/0?wx_fmt=jpeg",
+    "digest": "大模型正从 “文本优先” 向 “情境智能” 发生范式转移",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651287774_2",
-    "title": "全公司“围观”私聊与绩效，Meta 紧急叫停用员工训练 AI：士气崩了，员工怒骂高管“狗屎”",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287774&idx=2&sn=07d4be0867b436de115058e053560dd8&chksm=bdba888d8acd019be6af9ce63a025206a04077241983bda800875a83565b9844a32c2404a8f6#rd",
-    "publishTime": 1782531662,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNhz5TFPFCbiaZjLUmgg3PJ9SFv4JIb03yMFKVd0HWDGQA0wNG5bBgzx0E3HK3a7icwRLLburJXZfSto0g09cstu1vic6qFplGSJQw/0?wx_fmt=jpeg",
-    "digest": "刚刚，Meta叫停了一项争议巨大的员工监控项目。",
+    "id": "2651287490_2",
+    "title": "这家Agent 公司从 Claude 切到 DeepSeek v4：一年省下数百万美元，迁移工作量却是预期的 100 倍",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287490&idx=2&sn=cde599d579c02a1339cc36f183039487&chksm=bdba97918acd1e872ab6de459d47489acdb5f59045f0c54e8c8eb754c01c347585cead6f1a3c#rd",
+    "publishTime": 1782104033,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNiaOQJhHoyQtLmXW5WEgRAaOrk9twEo95GuFwdDYflVbyarYibicA7mmcbuibDPpSqZzqERbO9awWCr6jDpSWxTkbTCMWZDiazn4j4k/0?wx_fmt=jpeg",
+    "digest": "初创公司 Lindy 将其全部 AI 代理流量从 Anthropic 转移到了 DeepSeek v4，每年可以节省数百万美元的推理成本。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651287774_3",
-    "title": "为什么大量企业 Agent 死在原型阶段？亚马逊云科技储瑞松：Agent 工程是关键",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287774&idx=3&sn=4952be70eae9510d0ecbc0ddcc192e42&chksm=bdba888d8acd019b2dd16665d990e9acbd414b28a5a68080d03fee398294a23cbad814d0a777#rd",
-    "publishTime": 1782531662,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNiaTnEt5sXveL8gMVzXr7Rsg1P850R3jvYAQBLTOiceLD6QKg4sMt6Oicee4bCPqxMKgib4dmiayVT58icEEv5OqbOdA4WKickKNISMSI/0?wx_fmt=jpeg",
-    "digest": "大模型“大脑”，Harness“身体”？",
+    "id": "2651287490_3",
+    "title": "Gemma 4 12B 通过无编码器架构实现设备端多模态主动工作流",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287490&idx=3&sn=f06146e3f8420e3c4175eab95514c426&chksm=bdba97918acd1e8775b40ac627178c31b5506ebc4e9ae2c11605653f88c7b3465c34dbb8ec8a#rd",
+    "publishTime": 1782104033,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjhNmR2szKP2HEBTv8ia1akv29l3HCicuicU3adpqs9Bia5v72Cyl5ibhiax1s6X5qTXibrfRYgrvEFIWcEzgFCicQ7bzZ3nq6gBM8EQ0U/0?wx_fmt=jpeg",
+    "digest": "谷歌表示，Gemma 4 12B 旨在“将具有自主性的多模态智能直接带入到你的笔记本电脑”。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651287774_4",
-    "title": "Dropbox 发布 Nova：用于大规模运行 AI 编程智能体的内部平台",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287774&idx=4&sn=4ca9529b841104052c728b71fc16a592&chksm=bdba888d8acd019b9e97b4eae675a86bf44f5597c0b189daf5b60c17d0d02027042a1fce1bdb#rd",
-    "publishTime": 1782531662,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNhCZscrRbnjyXjK7iaTQ06ss6cOibF1yaIRwSibic8HibXdhR028JA9N8FdicBjAEZrcQ9aK2qIyJTUlZQHiapKJCPcCXVX5V3VgKnmUA/0?wx_fmt=jpeg",
-    "digest": "Dropbox发布Nova，这是一款内部平台，目标是在公司的工程工作流中编排和运维AI编程智能体。",
+    "id": "2651287490_4",
+    "title": "Vercel Labs 开源 Zero-Native：一个基于 Zig 的跨平台原生应用框架",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287490&idx=4&sn=93eb12b4bdea16b6ec153670a165bd4d&chksm=bdba97918acd1e87dd37ca58d9c3f80dd065199bf5577a1d46fd9d57a31934ef687715151fc8#rd",
+    "publishTime": 1782104033,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNhM6PYiceS2XM4Tq406hIzMuSvqF2sG1hCGFdG2YnXDABd2LcRibicZUGxHIMos6D95ZwAOMsiaozrfnTgVjKYPibzTFricISu2S9Sxg/0?wx_fmt=jpeg",
+    "digest": "近日，Vercel Labs 开源了 zero-native。该框架绕过了 Electron 运行时，转而采用操作系统原生的 WebView，并声称能够以极低的开销构建出更小、更高效的原生应用。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651287490_5",
+    "title": "阿里云智能集团高级技术专家刘少伟已确认出席 AICon 上海站，并分享如何构建企业 Agent 的自动化行动架构",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287490&idx=5&sn=dfb8839b5f12eee2e70bdb8197f02908&chksm=bdba97918acd1e87b907ba64efaaf234079f0403a2ba118390ec3275353ec3e2a6557c605289#rd",
+    "publishTime": 1782104033,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNiawibCsvp2lK7MbicGxGiblwefogbHYRBZKaRaMmx1sibRVfBpKrx8eRP8Fv5fiaX1iaUeZECKvGvSCnD7ZiaUAG65o79ksMgj4NNVo0Q/0?wx_fmt=jpeg",
+    "digest": "深入探讨 Agent 从原型到量产的工程挑战、数据与记忆的基础设施底座、安全可信的落地保障，以及大模型推理优化、智算架构升级等关键命题。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
@@ -246,56 +296,6 @@
     "publishTime": 1781921700,
     "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNjMpVBmjn7wtFXTaAOgJb7jzaYwbd7VySejbvrbxZ1tVGq6Ch5Xacoor8icO5SRvfB7QDzs7Elicwp2t4dMdXYBgBOj2qPUlPXxU/0?wx_fmt=jpeg",
     "digest": "最好的治理，是治理本身被遗忘；最好的系统，是系统自己照顾自己。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651287414_3",
-    "title": "昆仑万维天工 3.1 来了：上线设计画布与多智能体工作流，强化复杂项目交付能力",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287414&idx=3&sn=863d7fd7646c838bcfe120be49c3e2a8&chksm=bdba97258acd1e3378e2444b7147240f7a445995b4585ac602d08dfd16b974991c8e0ba55a64#rd",
-    "publishTime": 1781921700,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjK8N9hdNO0gSSKStPOyWTDmficAVRhy7DtvgeqJ21GFNj9AWnpaF5pTEWduAkFblv5ziaxaKXrKxgMiaibg8unibczdCWWt7SoCTa0/0?wx_fmt=jpeg",
-    "digest": "“从单次生成向持续交付场景延伸。”",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651287414_4",
-    "title": "Pinecone 推出 OneLake 集成方案，让 AI 智能体直连企业数据",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287414&idx=4&sn=f5ddeb5ac4a79184f636ed4f578e16ae&chksm=bdba97258acd1e334f8b06966c0b8455138a5bca30095174f35ee10089ef2bfdde99fd073003#rd",
-    "publishTime": 1781921700,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNgab9UhrFRj7x5oMvWhpoUe7eBBVyObJOUdDelFDrBfWiaHhkdwLAZoZDUXWpG5hBr2Vy9DdqGYJ6oYuXu7UqCUwZVFH7xS5W0I/0?wx_fmt=jpeg",
-    "digest": "Pinecone宣布旗下Nexus知识引擎与微软OneLake达成全新集成，旨在从根本上改变企业AI智能体调取企业数据并开展推理运算的方式。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651287382_1",
-    "title": "智谱创始人唐杰隔空对话马斯克：赶超Claude Fable 5不用等到2027年",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287382&idx=1&sn=4c7bc1d0a9bac7578c701e46cc92a585&chksm=bdba97058acd1e139b90b02460bee91f19a68c60145cd164b551a2da414abaecca0fd71b08cc#rd",
-    "publishTime": 1781834400,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjdGeHDGK2RGXsJojvNmNyfWoEE4ZD5jUzRhr3qeY2QqjECicpNHsicrzDuHeCBDLPlicu1sUDeacmSEoScVrBRqa6uvaKgrjhiaYA/0?wx_fmt=jpeg",
-    "digest": "昨晚，马斯克和智谱创始人兼首席科学家唐杰在 X 上来了一次隔空对话。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651287382_2",
-    "title": "硅谷大厂，员工人均月花 5 万养 AI",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287382&idx=2&sn=f01398b31e1eea9bf7788dd303021391&chksm=bdba97058acd1e13af8b83616c63528d0759a19d75f429a8e1e223aacdaaab09b0b24747a53e#rd",
-    "publishTime": 1781834400,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNg9Dy3pTYYgibLYibDIUYvXibVibKY6lr7OT3VwrtbAiaezpFm92r3Hs7YU9RQTpcv4dnISSMtiajBtJJWMLBSNdXaroxRKI6NIicZdu8/0?wx_fmt=jpeg",
-    "digest": "最积极采用AI的公司，每月每位员工在AI工具上花费7500美元，约合50807元人民币。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651287382_3",
-    "title": "前 OpenAI 高管清华演讲：比失业更可怕的，是 AI 时代我们不知道“我是谁”",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287382&idx=3&sn=398e68a3015912d710355e5deb6b5dd7&chksm=bdba97058acd1e133fc3edba12b1243c6cca1ff5be4f1dfe085b0e1b871fd001c5d1b88dfadb#rd",
-    "publishTime": 1781834400,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNh6FJgZicEjeI3gLRNdjCxNGJSl7XBSpuZibNIcvo1wUjWwl4ibspoZEicvBsLkQmLkOKnaSJRUKvWEBtBMiaRMEg7d0mqaH1StlfwQ/0?wx_fmt=jpeg",
-    "digest": "当智能变得足够便宜、足够普及之后，AI 将如何重塑社会、产业与个体生活。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   }
