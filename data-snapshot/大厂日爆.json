@@ -1,5 +1,15 @@
 [
   {
+    "id": "2247489138_1",
+    "title": "今日大厂员工事：美团限用豆包大模型；鹅厂token机制更新；百度朱广翔晋升；字节外包偷零食；蚂蚁网商组织架构大调整；QClaw张舒昱离职",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIyMzM3NDY5Ng==&mid=2247489138&idx=1&sn=e89be5ae91df9610dc83a753d8a316a7&chksm=e81e6a75df69e363ff87c701e159010a102534092d9aab3773c602e257ddd1a3cd2a852ec779#rd",
+    "publishTime": 1782963602,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/MABFN5xh55zwLziabHWIIzPAGhykibymvkjGzAZ7WYBMLX8nDEUdia6hKES40wqbaGwNDXWfp1CEXveD0lbLQ3ibanjUyUUJrnpzjFkqW8Agtm0/0?wx_fmt=jpeg",
+    "digest": "一、美团美团内部开始限制使用豆包大模型了，本周发布通知，所有业务团队需自查并规划迁移至longcat、deep",
+    "author": "",
+    "feedId": "MzIyMzM3NDY5Ng=="
+  },
+  {
     "id": "2247489134_1",
     "title": "今日大厂员工事：字节发布全员信，要求leader深入一线；小红书内部启动达尔文项目；美团Keemart前后端合并；蚂蚁网商全体测试转研发",
     "link": "http://mp.weixin.qq.com/s?__biz=MzIyMzM3NDY5Ng==&mid=2247489134&idx=1&sn=2f067032217aeaf19bf3378764a704ce&chksm=e81e6a69df69e37fcf02a665a2c322ca7ca4c2f252cc76d16ebbb1aa6943bab48ee6b47f758c#rd",
@@ -46,16 +56,6 @@
     "publishTime": 1782220976,
     "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/MABFN5xh55yXIboB0ic6SmNRTKSLF3q2RJ13WKVsVWYOVaOuic2iaPE38OUEqKiaNplRMZPF10hwFL3IWwhvMaLGiaic5H5A6eCmZ5K8xFEmSTsoQ/0?wx_fmt=jpeg",
     "digest": "刚刚，MiniMax又给员工增发一波大额股权激励。AI 圈烧钱抢人这事儿大家都看麻了，最近不少公司都在勒紧裤腰带，MiniMax反而把员工长期激励继续往前推。",
-    "author": "",
-    "feedId": "MzIyMzM3NDY5Ng=="
-  },
-  {
-    "id": "2247489109_1",
-    "title": "刚刚，携程宣布给所有男员工20天假期",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIyMzM3NDY5Ng==&mid=2247489109&idx=1&sn=c276015e2ea00b08998856255de747fa&chksm=e81e6a52df69e344c565bcfba64a4176688806b66b370ed5933fb6a46526bdce25070fe9194c#rd",
-    "publishTime": 1781749873,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/MABFN5xh55zWu6W4XLaxY3yxjOb5xOsWc01rHPxjPUxicZR80at8LWxrPGH2jJmp1nibiaXSK3YaoN3Iibe5EIn5OwXK5DqDHGp2UgDKdTTOz14/0?wx_fmt=jpeg",
-    "digest": "刚刚，携程宣布升级员工生育福利，所有男性员工可享受保底20天带薪陪产假。",
     "author": "",
     "feedId": "MzIyMzM3NDY5Ng=="
   }

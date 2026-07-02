@@ -1,5 +1,35 @@
 [
   {
+    "id": "2651042220_1",
+    "title": "一个开源平台，编织起了Agent「互联网」",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651042220&idx=1&sn=abd8c6b9a044bb89d7b97dc07334e4d7&chksm=84e675d2b391fcc4b038f43a44b7902c4ca427cfa2504cbb5ce78dcf4ef2ec58668e6149a2b1#rd",
+    "publishTime": 1782963784,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqFf5hyUObVbUG4qDOySuZo2icY2G4hlxe8CzGqI8SdjgMkiaemawM9Uecmqr1rCPCDqpplM92NquEMXtXxURD9LYbib0t5kr8cs48/0?wx_fmt=jpeg",
+    "digest": "「Agents do. Humans decide. That’s Octo.」",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
+    "id": "2651042220_2",
+    "title": "跨会话不再「失忆」：openJiuwen社区开源 AutoGenetic Memory，让Agent记忆自主生长",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651042220&idx=2&sn=fceb791df79a5697dd8e246b89ec8427&chksm=84e675d2b391fcc453ab55c83d9c3c86e77d3789179df6fc5a0d94fa9d1449b936363b50cf86#rd",
+    "publishTime": 1782963784,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqFJibnOjfBNKKo219dEkscsACibiaFY0iaH3mIfqc0PYdQEqzic63jQcPuJdjzAlzdolrFudvJSsZpK5YVjokxAicAafkQBMtRjicRghc/0?wx_fmt=jpeg",
+    "digest": "把每一条记忆都当作一段会自主生长的基因片段来对待",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
+    "id": "2651042220_3",
+    "title": "ICML26 | 浙江理工大学马啸讲师和南京大学李武军教授课题组联合提出EMCES：为强化学习合成更有价值的样本",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651042220&idx=3&sn=d316c24a606d00c0f49b751c04066a87&chksm=84e675d2b391fcc425c2db0547f6b60b9ef8a044e6fd994d4848bf89f0c7c0277d0f26c310d2#rd",
+    "publishTime": 1782963784,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqHrDBS0enc6KKaBnQJ1hwXHDAsW519vgOLEXFWeZGGb0Aa4KHdVpYTaRwiaPsbwjCkebajFCfypWzFQyaZyK1uvV8ziabmYbtRR0/0?wx_fmt=jpeg",
+    "digest": "进一步提升下游强化学习算法的表现",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
     "id": "2651042107_1",
     "title": "飞书让表格变成「AI同事」加入群聊，不打开表就能用表",
     "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651042107&idx=1&sn=3e8c78829980da74c9ff711576eef040&chksm=84e67545b391fc53be3a86dae8939682b44e2f62ee30afb3fb0c60b41ad364d59eb850422e08#rd",
@@ -110,32 +140,32 @@
     "feedId": "MzA3MzI4MjgzMw=="
   },
   {
-    "id": "2651041465_1",
-    "title": "大神Karpathy用Claude的方式，原来是这样的？",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651041465&idx=1&sn=a391dbb9edb976be96eed9e3e08395ae&chksm=84e66ac7b391e3d14d27239ae07528b794f45568ff8a5db35307716fae5ccb39b5039779868b#rd",
-    "publishTime": 1782534600,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqHJics4gpDicnqHqnrL11jZGEyuic85Lz7gpVmlUXhBwZRTEoYXRXnlbgqGQ1CFlDiaR0M0DDwupWLvcUz5UFfSv12ADlX0lSKRQks/0?wx_fmt=jpeg",
-    "digest": "有了它，Claude终于不再和我对着干。",
+    "id": "2651040283_1",
+    "title": "AI for Computing迎来破局者，国产黑马智子芯元两个月融了两轮！",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651040283&idx=1&sn=93595b00f573595ad5eeb730d79a4868&chksm=84e66e65b391e773fa671658a6d7dbafd77481d41030036ba8cf9995c18ac6e62722652d7606#rd",
+    "publishTime": 1782102643,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqHH7DuQBvjCjUfPqOlYsMicvz2DwrMEicWsY8YmaibR3BeNDGYpwuHZlvpiaJDiaDmgZ8ibSvaQKazZSPzRRSRLp0YO6BwxC5vMLgf8c/0?wx_fmt=jpeg",
+    "digest": "AI开始接管计算系统优化。",
     "author": "",
     "feedId": "MzA3MzI4MjgzMw=="
   },
   {
-    "id": "2651041465_2",
-    "title": "陈天奇新书上线：面向ML系统的现代GPU编程",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651041465&idx=2&sn=45feef7c979b51b234c0357077ac4f7b&chksm=84e66ac7b391e3d17a31c199d5793c1f7f4eb52434f97fa76be7cf98ea5a01247209dcc77b4b#rd",
-    "publishTime": 1782534600,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqFIpUVOy5KR8BbnJl5uIuibWrj2JibgU6V0IVaAXJ8zQ5fbX946ibG9gib4KIK8n6QsdflDicJoUne8hFlNUTAbY0lyPC1ha7RwUzXg/0?wx_fmt=jpeg",
-    "digest": "学习学习！",
+    "id": "2651040283_2",
+    "title": "何恺明团队新作：删掉VAE和私有数据后，文生图竟然更强了",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651040283&idx=2&sn=6a21a2fa2fc1a5341f29921b6d41106a&chksm=84e66e65b391e77357bdd9faba9ef58ea37916b0762436d84adb382fc8612f5c920c012684cc#rd",
+    "publishTime": 1782102643,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqEgNVKjS6OxV0VEnVFwF94zXBlJRkf26ibdg9ob5HCJw7hlNsXl8Dmria1kTBczpvtGRJeA6BtZBdkJJH5nc2OvS1SmbpK2aoViaI/0?wx_fmt=jpeg",
+    "digest": "删繁就简",
     "author": "",
     "feedId": "MzA3MzI4MjgzMw=="
   },
   {
-    "id": "2651041465_3",
-    "title": "ECCV 2026 | 视频生成模型真的会「推理」吗？303道题全面揭示世界模型的推理短板",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651041465&idx=3&sn=729dd9680448f8b94858d11d019b3a10&chksm=84e66ac7b391e3d187b55a286c82aeb95179c33cb8ce808015612d6dc41789d737217ba1cd08#rd",
-    "publishTime": 1782534600,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqH1MSWgCex6vxqp7A8QbQfCUpqQ2D82xQrq0thNceGHzCDicsnagiawkWncOLLGlefPFV7Lhhh5p1gpZjYxicL38y3blFeneByCGA/0?wx_fmt=jpeg",
-    "digest": "视频模型不懂推理、更听不懂提示。",
+    "id": "2651040283_3",
+    "title": "不靠专家出题，8万条人类终端录像，炼成首个真实CLI工作流基准TerminalWorld",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651040283&idx=3&sn=cddc55f3b8a0283bc7807be994d492b8&chksm=84e66e65b391e7737abf4ad743182386150f59fbb07696bca4df7cb1cde37f98ab56070f98df#rd",
+    "publishTime": 1782102643,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqHqiaP9R1SUryM0XdrZJe8qNrtVHeGbX0qycDCbN053zJSrnqh9M1GEnezMFVjl828SarPGj3ia0zBxvJAW9iaRklv36w9l9aDxw8/0?wx_fmt=jpeg",
+    "digest": "让测评，跟着真实世界一起长",
     "author": "",
     "feedId": "MzA3MzI4MjgzMw=="
   },
@@ -200,32 +230,22 @@
     "feedId": "MzA3MzI4MjgzMw=="
   },
   {
-    "id": "2651040113_1",
-    "title": "Claude Code史诗级更新，突破终端，把工作实时变成网页看板",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651040113&idx=1&sn=65f4eb89a20d986bd4a0f3e8a8f337d7&chksm=84e66d0fb391e41936a3aefdd7837a61a20f1211ab53487bf72aa5b94591215521d13da1c2c7#rd",
-    "publishTime": 1781844300,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqFUzDicgiaduJoHj45GQbvich5neiaLiak2XuWXX9o2ia2BAMaQbpa3PMiaM2vBiaXDdySQgsvGH3YMl0FPiaEoiatKL8ViaebNHicDs07oyjM/0?wx_fmt=jpeg",
-    "digest": "实用与美学",
+    "id": "2651038961_1",
+    "title": "Fable 5被特朗普禁止幕后黑手曝光？Karpathy可能也用不了了",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651038961&idx=1&sn=b49409abeb35035bb799b1b0417cd7b1&chksm=84e6608fb391e9993345f7a09bbb5bb44ca9af3bdf87f1ddbf2c1184b7a46db372be4da9025b#rd",
+    "publishTime": 1781405415,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqFibQxp0bcQwnDcDSIjzoYiczsWPuOSAg4wKOQlEaAkuTtJQHY0qMfaWYwAN1C5rXKEviaccTHuBBY2ysj7s7BXoicNPxW1RpwFvAc/0?wx_fmt=jpeg",
+    "digest": "谁是赢家？",
     "author": "",
     "feedId": "MzA3MzI4MjgzMw=="
   },
   {
-    "id": "2651040113_2",
-    "title": "GLM-5.2全球免费6小时，马斯克点赞，HuggingFace掏钱",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651040113&idx=2&sn=ab7df9774cba0f0bbebd41cc7feaeddb&chksm=84e66d0fb391e419f46ff3c0b7580f74222e25156b4a10a247b609088e2fadb57b3462f57e48#rd",
-    "publishTime": 1781844300,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqHUHYG251nKOvoicjPnEibdpL3KN1gQAOy81tiay9Sg3tYfrjvuw5nJ3MJTBeHGR3ewVS9xK4ETjhjKpxryrFphiaNUtRxvkvDEYH4/0?wx_fmt=jpeg",
-    "digest": "中国大模型，跻身模型御三家",
-    "author": "",
-    "feedId": "MzA3MzI4MjgzMw=="
-  },
-  {
-    "id": "2651040113_3",
-    "title": "ICML 2026｜Agent通讯的「运营商」哪家强？UIUC团队发布ProtocolBench",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651040113&idx=3&sn=42ee260b5226f6e16e1aeb8480b8cfc4&chksm=84e66d0fb391e419b74050819463f3a4ed1f13945ee89110861deb07bd8b6f5df5d8148a8795#rd",
-    "publishTime": 1781844300,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqEgiavXE2GzpMlkGoI7cEkWJdUN0HBiatcAo3IIjNlWUicvtwiaO4wqAy7Hq5KyUtF6TQM8bmqEwAppLNPKZFKywbuFPz1WvIWqyG0/0?wx_fmt=jpeg",
-    "digest": "为多智能体通信协议的评测立下新标杆",
+    "id": "2651038961_2",
+    "title": "CVPR 2026 | GaussianDWM：用3D高斯表示统一自动驾驶场景理解与多模态生成",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651038961&idx=2&sn=6cec715df102f8b6c3869339d4bd4ac1&chksm=84e6608fb391e999c68c0ea31ed29e430932d04ef8e802442d4578626f762b3e54b23d1376bf#rd",
+    "publishTime": 1781405415,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqGAuichqdFBlUGhZLUEUiaE1Y98FLEpQSeCy8JCqichYJHeddGgjKzic5xUQWWicfrSSJ9Rr4zamrY3px47AFfXcfSZDhweUvLp92Ns/0?wx_fmt=jpeg",
+    "digest": "在统一的 3D 场景表示中同时支持理解任务和生成任务。",
     "author": "",
     "feedId": "MzA3MzI4MjgzMw=="
   },
@@ -256,26 +276,6 @@
     "publishTime": 1781316610,
     "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqGVQLnpQtbeojdxCmzNdA8dBZQjNOCuBWMSDllxrlaMRY8Av02Hw8aP8j7oYfic2fuJ9gUgH8SMDg3LPokiaSJkDxJ8uUXwekahQ/0?wx_fmt=jpeg",
     "digest": "LLM缓存竟成「后门」？",
-    "author": "",
-    "feedId": "MzA3MzI4MjgzMw=="
-  },
-  {
-    "id": "2651038804_1",
-    "title": "入围CVPR 2026最佳论文决选，ViT³用「测试时训练」突破Transformer复杂度瓶颈",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651038804&idx=1&sn=d2bab50f9d5db279727d50646d23ff9b&chksm=84e6602ab391e93c1de51a4f80d09556a0703157573344be7fdaece903dd132921854d033600#rd",
-    "publishTime": 1781254260,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqEibRPDv7gnnMA9LARG8j8rVcd78z7BTCJUM6loE6ZHENIkGO4qichWDKrsoWDbNJm7LdryJmK0KrcWVwZtx6nzQuPj6F2nZArib8/0?wx_fmt=jpeg",
-    "digest": "一张高清图6084个token，ViT³跑快4.6倍、显存不到十分之一。",
-    "author": "",
-    "feedId": "MzA3MzI4MjgzMw=="
-  },
-  {
-    "id": "2651038804_2",
-    "title": "5秒攻破，仅需1次对话：Fable 5最强安全机制被华人团队破解",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651038804&idx=2&sn=e7cfc446d6b3d44fd7a3384da026471e&chksm=84e6602ab391e93cfbc4d7824a4079f199efbcd819e8a7dba83be60052803f079399369a0136#rd",
-    "publishTime": 1781254260,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqHWTPs14XHWRGgrfFicSH9RTUwfJCiaX8iaFL8Cta8TZXWicClKYJpLNqvtOkbHUtiaoCTrm1hoHsAQ34EIyT2CfSV9A9WDrBibuv1K0/0?wx_fmt=jpeg",
-    "digest": "不到 5 秒就能破解。",
     "author": "",
     "feedId": "MzA3MzI4MjgzMw=="
   }
