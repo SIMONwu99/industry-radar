@@ -1,5 +1,55 @@
 [
   {
+    "id": "2247901276_1",
+    "title": "全球首个英伟达含量为0的万亿模型，成了海外开发者的抢手货",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247901276&idx=1&sn=6cb78a4c78221af1f866b557a5e965b3&chksm=e8da172edfad9e38a3b18f2d6b86af81cbdd2e892a2be0e7ff5cfc152d4d88c893b17da56a4f#rd",
+    "publishTime": 1782986181,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGEK77uwdSBxFW4Y1A1Bibj8bPSxEibVmdb0ia5UDecZhVVDoBfKmgTsP2mKiaicBv8KBzWYp7q5kfmQqRTS9ibia8ojU1lqj5NHKicspvU/0?wx_fmt=jpeg",
+    "digest": "霸榜OpenRouter的Owl Alpha",
+    "author": "",
+    "feedId": "MzIzNjc1NzUzMw=="
+  },
+  {
+    "id": "2247901276_2",
+    "title": "世界模型的新用途：不做选手，去当裁判",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247901276&idx=2&sn=fc5b49add766719e48201686a1be8a94&chksm=e8da172edfad9e38c82f00819864c9097c987537170b4517e741587723100b15d533c5ab6a24#rd",
+    "publishTime": 1782986181,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGHh33l3yHJ0xA5upm0CLcPPUllRmGUVtnoqJBC4S56M3BiaMQ1LBmHoobrNmWJdms7qIE3BoaxnsWv8kPnjhBN0FnXL6EgZJ1Gg/0?wx_fmt=jpeg",
+    "digest": "想做最有公信力的benchmark之一。",
+    "author": "",
+    "feedId": "MzIzNjc1NzUzMw=="
+  },
+  {
+    "id": "2247901276_3",
+    "title": "招募｜量子位RSS'26专题策划",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247901276&idx=3&sn=d5e4963007e4946cb413253f0143cb1e&chksm=e8da172edfad9e38a0f3b4ca52413657fcca116f6b00ee81de3012ed270d241c52f837791a13#rd",
+    "publishTime": 1782986181,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGHwWiczZ1CSMtDRdOtCTF4R7W7gkib3QdIWwMIKXV4NkiabIyw3KtA2UVCBjGviagYu3n5qC3vliaSG004fVvueibjAFxBHDH7reubCo/0?wx_fmt=jpeg",
+    "digest": "7月13-17日，澳大利亚悉尼",
+    "author": "",
+    "feedId": "MzIzNjc1NzUzMw=="
+  },
+  {
+    "id": "2247901276_4",
+    "title": "强化学习没作用？人大DelTA精准识别关键token，推理正确率大幅上升",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247901276&idx=4&sn=1a793f76bb77e2c068d2403b1c220d2a&chksm=e8da172edfad9e3802bdea883d8efffc625a5b6541870e359f431aa17eeef275bdbbcfd6c853#rd",
+    "publishTime": 1782986181,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGHD5cp0quObx47IRcazQ12w7iclxaPFph0DxevSc8MOlra5OicJqAknJCUwxXicJjbGXqw3CxGhASLSiaVguKM5tweFfvzuvjWRHjs/0?wx_fmt=jpeg",
+    "digest": "DelTA判别式Token信用分配，解决正负样本梯度混淆难题",
+    "author": "",
+    "feedId": "MzIzNjc1NzUzMw=="
+  },
+  {
+    "id": "2247901276_5",
+    "title": "量子位编辑作者招聘",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247901276&idx=5&sn=9209040581f891a089c8f79361cef58f&chksm=e8da172edfad9e38af3665f15ded56687037971b7a6a0e00bbeb7422fbfd182604eecdc8a16c#rd",
+    "publishTime": 1782986181,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/YicUhk5aAGtBwsQQg50rdDIFHPibz5pbVfnv0oOoRSQ2KmEYBSJRibeXrJnIU1euj0icCf6pXdduQdCbnRJy3b7u7Q/0?wx_fmt=jpeg",
+    "digest": "3个岗位（含实习），不设边界",
+    "author": "",
+    "feedId": "MzIzNjc1NzUzMw=="
+  },
+  {
     "id": "2247901046_1",
     "title": "OceanBase湖库一体，重新定义AI数据库",
     "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247901046&idx=1&sn=b39e71eb4ed8d2cfcdecabe43eb783ee&chksm=e8da6804dfade112f5a9d220e9ea017caada0e476801ede0e791d672d8033f581e58d742ed7d#rd",
@@ -26,16 +76,6 @@
     "publishTime": 1782885168,
     "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGFghZqs9YO6mggvyuQmrykHc7xZoM4Mx14ZxA3TTz7w8bAX22H4rlqibz89UnVmQMLBXibme8VtTm7cQv4iaCQWfRcIQtq4509PGA/0?wx_fmt=jpeg",
     "digest": "AI时代的新编程语言，如何被模型学习和理解？",
-    "author": "",
-    "feedId": "MzIzNjc1NzUzMw=="
-  },
-  {
-    "id": "2247901046_4",
-    "title": "量子位编辑作者招聘",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247901046&idx=4&sn=46433445fd2caf7883e5e576e55dec20&chksm=e8da6804dfade1124832ac80e4cb4a092f262fe17ef7e847a98d96fa9bbe76ac189cb5f251ef#rd",
-    "publishTime": 1782885168,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/YicUhk5aAGtBwsQQg50rdDIFHPibz5pbVfnv0oOoRSQ2KmEYBSJRibeXrJnIU1euj0icCf6pXdduQdCbnRJy3b7u7Q/0?wx_fmt=jpeg",
-    "digest": "3个岗位（含实习），不设边界",
     "author": "",
     "feedId": "MzIzNjc1NzUzMw=="
   },
@@ -100,22 +140,22 @@
     "feedId": "MzIzNjc1NzUzMw=="
   },
   {
-    "id": "2247900018_1",
-    "title": "CVPR 2026最热方向，被一家杭州团队率先跑进了端侧！",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247900018&idx=1&sn=7e8f294ec74e92aad8a0e58ccbe69736&chksm=e8da6c00dfade516f4dd43b4c6c547cf9496258d681e6c943cd689107aa4c5fdb0813adad37c#rd",
-    "publishTime": 1782539482,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGG5ibpIrEKZUpRKVbvG8NOibGjPUqpKgOVtuJ4UCr5c8N7yBZyD2EHlbXgjJtQrE9J3akEcvKwwnfoZWfibsLJpJQK20Vufg1dPwk/0?wx_fmt=jpeg",
-    "digest": "VLM-R1之后再次出手！全球首个端侧流式多模态来了！",
+    "id": "2247898679_1",
+    "title": "DeepSeek缺Agent人才缺疯了！负责人各种贴广告",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247898679&idx=1&sn=7e13093476268ed660ab89bfa7edc32f&chksm=e8da6145dfade8539ac1b2f961435a56d9e7af64255ce7d889f9261822ed3a542ec75ec736b4#rd",
+    "publishTime": 1782102007,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGH2CDujPfl2XSc4dekcAO8IRWnloEwOGUVfL3IavNQz3Bb1reibAncX0bldkDqAr0JIyn1obdKEwbF4rgWzBqn24G6mjYXpgPzU/0?wx_fmt=jpeg",
+    "digest": "崔添翼：Harness部门，上人！！",
     "author": "",
     "feedId": "MzIzNjc1NzUzMw=="
   },
   {
-    "id": "2247900018_2",
-    "title": "长链路手机AI训练总崩盘？vivo全新半在线RL，仅15k轨迹稳定收敛",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247900018&idx=2&sn=f772bbfc95bceba9de159cef625102db&chksm=e8da6c00dfade516f9278ff03d89ab687d386fcc1eb9fef634ee2f6c04993b3cbe2a4ed4aaa5#rd",
-    "publishTime": 1782539482,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGH2LTnCrzLkMt2JVmeUryiafmiaV3764S3JZeoomJkG9plzInIjWAdEF9tHjaibErJptBTCTTZgaVmL4sR095Io5D1AfhoS8oTIAQ/0?wx_fmt=jpeg",
-    "digest": "vivo SOLAR-RL：半在线强化学习破解长程GUI智能体训练难题",
+    "id": "2247898679_2",
+    "title": "可口可乐的世界杯TVC，居然是prompt生成的",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247898679&idx=2&sn=e96945636564471e6768d18d303fa48b&chksm=e8da6145dfade853df83623df41625952c07affed6a9db8c08b06a277726ec6581402efe1175#rd",
+    "publishTime": 1782102007,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGH7WZichEG37PsBmLclMBtFBYA5AfWOb7yvZbBcyxDcF8joM6cdKibRUh49j8LfYnkiaYgmzsbLx7gmBp3649ruAJy4plI8XVlUaU/0?wx_fmt=jpeg",
+    "digest": "24小时在线、2秒回话，陪你聊球",
     "author": "",
     "feedId": "MzIzNjc1NzUzMw=="
   },
@@ -196,26 +236,6 @@
     "publishTime": 1781847000,
     "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGHCnTGpBwdibUWIodBVfF3FhRibKx6sKphFia44iatmgx0S1C71EfyxMqMuCoq1eHdCuNn1LeESyL4qbbV6UQcyKAGyqr3FVFeW83M/0?wx_fmt=jpeg",
     "digest": "开源圈美滋滋",
-    "author": "",
-    "feedId": "MzIzNjc1NzUzMw=="
-  },
-  {
-    "id": "2247898354_1",
-    "title": "AI看病成为医患新包袱？补上「多轮追问」，通用AI才迈得过医疗关",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247898354&idx=1&sn=b06a7a37d4509957c76dafa8e063b594&chksm=e8da6380dfadea96db943daa4fac8d84779f366dbcfb05c910e69d1a5d3c1c5bd7f0a97186d7#rd",
-    "publishTime": 1781781605,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGEVn3fNFld3JAVSKRyLzxicKXvcwRWVQsVwBtoj12q0FkzAyQeYC0iaso9ibb7Zvmvlf9apR3UlIRibNx0nbakYq1DwfCMte8l6RCU/0?wx_fmt=jpeg",
-    "digest": "当医疗增强大模型开始进入普通家庭",
-    "author": "",
-    "feedId": "MzIzNjc1NzUzMw=="
-  },
-  {
-    "id": "2247898354_2",
-    "title": "Midjourney新副业曝光：50万个传感器藏进浴池，60秒生成你的3D身体地图",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247898354&idx=2&sn=f842f4fd953b066992ed4f5808c6c8d0&chksm=e8da6380dfadea96eff104c54cdbed95f07a88a128f7390bd394e3fa72b6e3e136dbcca00c91#rd",
-    "publishTime": 1781781605,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGFiabOq5q9EEvCP9CCDKyOiaI0Gp896OSicWn3oatYRmG8BCSQVia6mtRQMaK9XSYTVlKSibpWeHiaWJtrrtVVic1OZKBapzPu1vJuCYQ/0?wx_fmt=jpeg",
-    "digest": "一边泡澡，另一边全身影像检查果就出来了",
     "author": "",
     "feedId": "MzIzNjc1NzUzMw=="
   }
