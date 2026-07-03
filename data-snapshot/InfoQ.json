@@ -1,5 +1,45 @@
 [
   {
+    "id": "2651288121_1",
+    "title": "Claude Code 80%的提示词说删就删，Anthropic用Fable 5打了个样：AI行业的“降本”才刚刚开始",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288121&idx=1&sn=e8477b5f1810a572645319eb69c1f514&chksm=bdba8a6a8acd037ccc38536e395ad407ee98ebff9a15bbeeb1c754e5a02970e8019d69e088df#rd",
+    "publishTime": 1783068777,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNhpPMMrdicF5FaeclyxE3cUt53aP57qY21WtjIawgXg76rRJ4uceL7lcLmX534Rz1F3An1ficTLwMPfVQXiaA8ial2gksPlO4YNng8/0?wx_fmt=jpeg",
+    "digest": "“Fable 5 这个价格远高于中国程序员一天工资。写代码一天烧几百万 token 已经很节约了，然后一看账单几千 rmb。”",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651288121_2",
+    "title": "让 AI 真正“懂时间”：QC-MHM 时序知识图谱问答的全新突破 | AAAI",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288121&idx=2&sn=4e4edd8f11251b2f5fccda096158663c&chksm=bdba8a6a8acd037cc34c0a60492d1388d0142453fe7759569f38523acf5ba2ee0c735dcc9706#rd",
+    "publishTime": 1783068777,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNhd2nhSNCjgiawWVh6GhaDECBgoJJoibFPe0XQ3f7cWib22XQ3aQocumUxn6SNdlXJSjcabueOm1lLKZsh4J5Q88gbP1uyfl0vYLU/0?wx_fmt=jpeg",
+    "digest": "要让模型真正“懂时间”，不能只靠喂数据，而是要把时间信息“显式建模”到表示学习与推理路径中。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651288121_3",
+    "title": "从 Coding 到 Anything，Agent 正在重写工作流",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288121&idx=3&sn=3f844f2619a595b4f67ef1216ea3bfec&chksm=bdba8a6a8acd037c0f2190f94e1e6c051bb893e3aaa8fe809ecc093c93c16979ec33d49f8dc5#rd",
+    "publishTime": 1783068777,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNgOonKGQJibpnVV2M5uQhnsRHRwu76WvSs2dGiaKaXsq365sloH5icjWLJZDn33ibNkzWjiaOPU2LKKCrRqzhkCULmeNXDxSlavqiaA4/0?wx_fmt=jpeg",
+    "digest": "AI Coding 的演进，已经走到一个新的临界点。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651288121_4",
+    "title": "Agent 上岗之后，企业如何治理硅基团队？",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288121&idx=4&sn=6cde937c10c9223b0d2b735376865105&chksm=bdba8a6a8acd037cbddf6d0acb1a5afe21281432b5e3454fde8c1acd142d04f866f59c91dd3f#rd",
+    "publishTime": 1783068777,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNhKKne1F3XXnUcFQFohfKw8BCMiawDBLVibMb7T6hKicKm8uomVdLjq8EIPAgIWHholXib455GnCCvhC3BhXXGIaMQiaQCiagqPPaVib0/0?wx_fmt=jpeg",
+    "digest": "硅基团队治理仍在探索阶段，不同企业对 Harness的理解各不相同，但共识是 AI 的价值不会自动转化为组织效率。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
     "id": "2651288050_1",
     "title": "用户太蠢不配用 Fable？被Anthropic的回应气笑了：最贵的模型，最憋屈的体验",
     "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288050&idx=1&sn=2ef786c33c2f838a5558ce06a6f5bba7&chksm=bdba89a18acd00b74bed1754bf0f1ab29756dd7611cdbe3e5ff88a17ef4f5bb45c3e313b770f#rd",
@@ -150,42 +190,42 @@
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651287792_1",
-    "title": "不靠低价抢客户，月之暗面Kimi出海，凭什么硬刚海外AI“御三家”？",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287792&idx=1&sn=384e97f0986ff40d16072a05bfcd4743&chksm=bdba88a38acd01b5c65c4778fb5300dacc6ef913b816ab42aad51758dc71194ac1b6cb844009#rd",
-    "publishTime": 1782612900,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNhC8XfiaHB5kibxhDbjukYfOCkiaQLmrWicuAsCkicb5fXic5vRcfhNGx7pFIqMKwZpicTkvAjUpMOGHDJG0FBEwTH0xIGWHasL8RVVE4/0?wx_fmt=jpeg",
-    "digest": "月之暗面 Kimi 正在 C 端爆款产品之外，加速布局 B 端模型服务和全球化市场。",
+    "id": "2651287603_1",
+    "title": "人人都是 Builder 的时代，企业的真正挑战是“怎么管”？",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287603&idx=1&sn=01ea72d3a308f0b8583909f81913a56e&chksm=bdba88608acd0176602bb85a82a6fb121d37aa071023ec183d20fe4b23e8f7a2b9d315cafe8e#rd",
+    "publishTime": 1782219310,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNgDNBY4qoUEIQib7m6Fy67rECjALs9vWuibHpMHgwFYChMWhic9XDnsH4ucQvZ6iaOpibmK2Ys7qHqaevU432BDkVlOL5VwE03Ixzfw/0?wx_fmt=jpeg",
+    "digest": "造 Agent 的门槛，正在低到人人都能上手。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651287792_2",
-    "title": "代码是写给未来的讯息",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287792&idx=2&sn=effafafbeb9ec7639393cbc60dd43007&chksm=bdba88a38acd01b5d7bf1c10d0c472aa08d53c01ceca5a7b557433661cbf3e5f993893a37178#rd",
-    "publishTime": 1782612900,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNgluafugxNoTExpgM5R67JE4n2xa1O1lEOicOr2Dr39HXJubHckpDhVpMfqr7MCUe8CP2PeAXMXLjqZVfsPSRrZOoV4Uf73Nkbs/0?wx_fmt=jpeg",
-    "digest": "代码是工程师之间沟通的载体，而不只是给机器执行的指令。",
+    "id": "2651287603_2",
+    "title": "Dashboard 和 Alert 走到尽头，可观测性正在被 AI 接管",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287603&idx=2&sn=f6c2230d2726894419aeed93dfd5ef2d&chksm=bdba88608acd01769a6cbbf7b0a45af3f9578638cf6209ec056fbcc6a71fad14e116cfc8fdd8#rd",
+    "publishTime": 1782219310,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNjko8Qh0NMTbCWcchKXicCN6ViaUiaARUevibE2k7veQE97aOgA9dhSIwj39JicnPadW2g0HXJFTXxRNhT0mNUq5wJtOHygiaqfIhaRs/0?wx_fmt=jpeg",
+    "digest": "没人真的想“观察”，大家要的是“理解”。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651287792_3",
-    "title": "ArrowJS 发布 1.0 版，转型为“代理时代”的首个 UI 框架",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287792&idx=3&sn=f833d536c3460d19338751a61f848116&chksm=bdba88a38acd01b5a3dffc6084382c54f8a2426f589360a63b04c951e9c2af9c9dd1426fca9c#rd",
-    "publishTime": 1782612900,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNgJ2Su4uKDPJadZ19UNiay5AumzEMqtHUazG1DwichIBEnzCoGssibpEjh641TJ9O3bOuAWW2d8aiaxib0xNaOvXTkYpFBPLBqNtFr8/0?wx_fmt=jpeg",
-    "digest": "轻量级响应式 UI 库 ArrowJS 发布 1.0 版本，并被重新定位为“代理时代”的首个 UI 框架。",
+    "id": "2651287603_3",
+    "title": "数据库到底该怎么选？TDSQL 用一套内核给出了三个答案",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287603&idx=3&sn=a40f03ed52fdaec9fe8725a23bd4e7e4&chksm=bdba88608acd0176ce0d9aa84349cc04548e59d073850b3f6d1d940a5cfad8a1b83289311960#rd",
+    "publishTime": 1782219310,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNj815azWkWrLcickib8lZ8VR26eTqb6O66Pdjcad56g5j2Rxhica0otcE9icPnwhicnz0hug1d5JJTYAdw9HTqsGDRGB2jyLSKKYWNc/0?wx_fmt=jpeg",
+    "digest": "过去几年，企业对数据库的需求分化越来越明显。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651287792_4",
-    "title": "谷歌推出 Colab CLI：面向开发者、自动化与 AI 智能体的命令行工具",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287792&idx=4&sn=d86386d058bb0b305e89f778df900e08&chksm=bdba88a38acd01b5000bc96f060d05ccfd7ec39b7f7d92dcbc3cb0ff205f4fb1378303327270#rd",
-    "publishTime": 1782612900,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNhIhM0atZnexZdFQe7ibSLn6amcJ0Xy4d0wYqDCxwEzN9Jdfq9aHgwYHWS6ibtQBr8DibfILbW0TsNdcklvhrwmSEJUkknvwYoeibM/0?wx_fmt=jpeg",
-    "digest": "谷歌发布Google Colab CLI，这是一款允许开发者和AI智能体在本地终端直接与远程Colab运行时交互的命令行工具。",
+    "id": "2651287603_5",
+    "title": "从唤醒到陪伴：多模态 Agent 如何重构手机交互范式｜AICon 上海",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287603&idx=5&sn=2d53a40e939de6419ee3bd24820f5a40&chksm=bdba88608acd01764eef8134e14fc8f6345a4be8d89bc78053d496ab4d5f082eedbb857a4429#rd",
+    "publishTime": 1782219310,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjQtK3rbIXuRygSTnKWClL6F75tk5PJtJ6aEZXiaNzIvdGvTEJneRmwicRdEhoy7KD6clI2tX2XibtxoppYQiaWXKFbosnPRQmiayOo/0?wx_fmt=jpeg",
+    "digest": "本次分享介绍的系统，以手机屏幕时序视频流为输入，构建了一个具备持续感知、个性化记忆与主动执行能力的多模态伴随 Agent。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
@@ -256,46 +296,6 @@
     "publishTime": 1782008100,
     "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNhpXXrB8AQibDlHlWicA7NwWYt5icuOeQI5hohjJicBKuMJicFiaxlIaanFummyR53q7mXibgJju92EWtCcvf6zkxHDK1QkOlvcu710S0/0?wx_fmt=jpeg",
     "digest": "在6月的第一周，有三家供应商将编码代理推向了单开发者循环之外。正文",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651287454_3",
-    "title": "同属 Oracle，OpenJDK 与 GraalVM 对 AI 代码贡献态度相反",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287454&idx=3&sn=3dae4af33d734de7bd9a1049a142929c&chksm=bdba97cd8acd1edbda6ff9b707d1bc445ca9ea86896419205492b4d1b8a75a4ba51c6e6b0239#rd",
-    "publishTime": 1782008100,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjCwiarH8hw1KhxfUNexnkoIR1lT9O6j0HeyasuiaiaJhzkF9lIX3d3vIiaOMw5rByKZtyuFMCsGfVpRW1y4YucURFC0Os60wmhwJw/0?wx_fmt=jpeg",
-    "digest": "Oracle 的 OpenJDK 禁止生成式 AI 贡献，而 Oracle 的 GraalVM 允许这类贡献。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651287454_4",
-    "title": "Pinterest 利用内容指纹技术，在数百万个域名中实现 URL 去重",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287454&idx=4&sn=512d58d35a8b44a094f4707e64d1b0e5&chksm=bdba97cd8acd1edb4f332eb24ffcd6551c1ccee09877f8b15d65b43134abcb5c68a30503114f#rd",
-    "publishTime": 1782008100,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNiafknwvQ0PpGqXiaXleKknUyZy7SMs19pYria426bCcvrYhAWADNBoQRhJSEtkWticyvs85gBVbGqWUSguChd1sjOibemf5ed6xLA8/0?wx_fmt=jpeg",
-    "digest": "Pinterest 工程师开发了一套名为“最小重要查询参数集”（MIQPS）的 URL 标准化系统，旨在优化其大规模数据采集管道中的内容去重处理。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651287414_1",
-    "title": "Meta 几周内毁掉二十年工程文化，给所有“AI 优先”公司上了一课",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287414&idx=1&sn=0698ca38841365ad7953fee2c4f757c5&chksm=bdba97258acd1e33e4a85149b9cf9ea8695c506b174d2e3267cca293f9af98f9f510f5e0e693#rd",
-    "publishTime": 1781921700,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNhVHvHibNZdkCnZ8c8JmU7XUtlNkJ1XW6XiaDq8uWBq0icEbFVibJ9nk38K3FHyaorAh8wb3nrZQtFliclLVleibiavmJG2Xeo8QtDdq0/0?wx_fmt=jpeg",
-    "digest": "每一个在搞“AI优先”的管理者，都欠自己一个Meta复盘",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651287414_2",
-    "title": "让开关自我消亡：AI 赋能的 Feature Flag 全生命周期治理",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287414&idx=2&sn=5a7312b2c3ae13679a5975d36427cca7&chksm=bdba97258acd1e338a9069d101ea8d12d4bb5642dbc884b2f2c0c6c5df855d75e954a5c1fb1d#rd",
-    "publishTime": 1781921700,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNjMpVBmjn7wtFXTaAOgJb7jzaYwbd7VySejbvrbxZ1tVGq6Ch5Xacoor8icO5SRvfB7QDzs7Elicwp2t4dMdXYBgBOj2qPUlPXxU/0?wx_fmt=jpeg",
-    "digest": "最好的治理，是治理本身被遗忘；最好的系统，是系统自己照顾自己。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   }
