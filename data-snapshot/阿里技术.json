@@ -1,5 +1,15 @@
 [
   {
+    "id": "2247509914_1",
+    "title": "为什么大模型的缓存命中率能到 90%？",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247509914&idx=1&sn=504b17755ea40067d8e4f460a367cbb4&chksm=cfa6b779f8d13e6fbab16c678a667a4a720b914387559e641000917af56db06540cb0f69dfb1#rd",
+    "publishTime": 1783077527,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/kN3t5R6pdz6ydLnPn5ficruPEhB3XmzKnkJicnKa8yTI1R6cYggHXibLSkzUTfJsFIGQibKd6KrsQxDvLdaxUVzIW1ibfYK1qOLz0WORPJ9U9e3Q/0?wx_fmt=jpeg",
+    "digest": "从 KV Cache 到 Prefix Caching：原理、技术方向，以及它在当前最先进模型上的落地。",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
     "id": "2247509900_1",
     "title": "Agent 评测：方法论与体系设计",
     "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247509900&idx=1&sn=557d016ca3f5fa287840dbb2a18cf499&chksm=cfa6b76ff8d13e79d5aa7aa438b25402eb6b7fb37e75369c16f4cd6ee0a8f7fd6ccc79d60d58#rd",
@@ -36,16 +46,6 @@
     "publishTime": 1782209594,
     "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/kN3t5R6pdz6ZiacR9zpicRnOUj1jk6ShF0G7y1haFqD1IW8GFjFpVUncEexqEqbg9q0z8W5KHKunLdAQR7PaKdEULebpQzZmZNz3F7lHgl5Kw/0?wx_fmt=jpeg",
     "digest": "围绕动态表现力、主体一致性、指令遵循、视觉呈现质量、音频表达能力等维度进行了系统升级",
-    "author": "",
-    "feedId": "Mzg4NTczNzg2OA=="
-  },
-  {
-    "id": "2247509834_1",
-    "title": "Loop Engineering 概念解析、思考与实践",
-    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247509834&idx=1&sn=b514f1bc2616df514cb218a5bad28296&chksm=cfa6b7a9f8d13ebfe7a2958fa539f9dbec358f50d27a2d37b725c04fdcca3d2a122e37be512d#rd",
-    "publishTime": 1781778022,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/kN3t5R6pdz6S6teY5R5dMWu03E3xZObdUkdLWGb273g2NMJBibc9nrjLzHHcuuSuoXk8iadibA64E6UnlbmPXqwNVVqreOic2Pbemff46ZibnArE/0?wx_fmt=jpeg",
-    "digest": "技术探索过程中的一些心得与总结。",
     "author": "",
     "feedId": "Mzg4NTczNzg2OA=="
   }
