@@ -1,5 +1,45 @@
 [
   {
+    "id": "2651288183_1",
+    "title": "73% PR 由AI生成！Claude Code之父对话Spotify：2900名工程师每天部署4500次，坐地铁都能提交代码",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288183&idx=1&sn=3c4dd38388b0de0e020022c8db7747c0&chksm=bdba8a248acd03329732628841c83f58148586042325a35684c35faa48a6844121a054d05cb5#rd",
+    "publishTime": 1783142091,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNhDNKPuwoQI556ibuorgBEEkVabYvYLUQcVqIc03uP37yI9hbzz7LHEJ484QN1JW3cc4hRwSEBSmO21ujN1MycRibggQNbyeb5WQ/0?wx_fmt=jpeg",
+    "digest": "去年 9 月，Anthropic Claude Code 创始人 Boris Cherny 曾与 Spotify 工程副总裁 Niklas Gustavsson 谈到 AI 编程工具的未来。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651288183_2",
+    "title": "流形约束推理新思路！傅聪团队联合厦大提出ManCAR，自适应测试时计算带来46%排序增益",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288183&idx=2&sn=afde7d5c7b7f9bde7338eae452b79b43&chksm=bdba8a248acd03325d1a6ffa44e5ee4f54ad2354f10123eab6c72dcc3e499a42b5d5ff89bbea#rd",
+    "publishTime": 1783142091,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNg7mQzhs27feXfl3UEfWeMaicQeBtz4UKFJarlvPTYyTOjV94aqvZdHibawh8Q9BPWDtZ4ID2FrCB1LTeFJJoIdslSacRP0df3xM/0?wx_fmt=jpeg",
+    "digest": "过去几年，生成式推荐逐渐成为主流方向。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651288183_3",
+    "title": "首个面向 AI Infra 的运维智能体评测基准开源！基于近百亿条真实数据，考验 Agent 的问题解决能力",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288183&idx=3&sn=82d7a0f1aab4236746dd82d93e879e58&chksm=bdba8a248acd0332a8364b9c9b4443d52bf8660ab9dc78a5027aa3e82438d88b6909ae30b467#rd",
+    "publishTime": 1783142091,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNjRnqIYDENCOjBiaU2AVCNHcuZolCfe9DiaXNAArUg4jXNT9c8rMBrogohj4j5QJQBHYjI8aToc9Gs4flEedScibP29zPMGjWykEI/0?wx_fmt=jpeg",
+    "digest": "随着全球智能体加速落地，算力需求呈指数级爆发，以 GPU 为核心的 AI 基础设施正变得愈发关键。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651288183_4",
+    "title": "Google OpenRL 是一个用于大型语言模型（LLM）后训练微调的实验性自托管 API",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288183&idx=4&sn=364d550b259ee80960c2e3fe37a389e2&chksm=bdba8a248acd0332fbe7507b57c7926f1ef392e89f19e41260b00ebba83bfc9bf07e4a6cea41#rd",
+    "publishTime": 1783142091,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNhcFGJ2tHtzf4SbZQOwsbricFWjCmxkFVPqdqK6UnasWgFTzLtibth5VVnPr5FkBbGr1MTyhtUFxLAgutaZiaVQ7e6nKZnrDhPLFs/0?wx_fmt=jpeg",
+    "digest": "谷歌 GKE Labs 推出了开源项目 OpenRL，为在标准 Kubernetes 集群上对大型语言模型（LLM）进行后训练和微调提供一个自托管 API。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
     "id": "2651288121_1",
     "title": "Claude Code 80%的提示词说删就删，Anthropic用Fable 5打了个样：AI行业的“降本”才刚刚开始",
     "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288121&idx=1&sn=e8477b5f1810a572645319eb69c1f514&chksm=bdba8a6a8acd037ccc38536e395ad407ee98ebff9a15bbeeb1c754e5a02970e8019d69e088df#rd",
@@ -150,42 +190,42 @@
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651287872_1",
-    "title": "InfoQ 增长太快，需要更多碳基同事",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287872&idx=1&sn=e93c96286a36c52671cd3fb3076e0dfc&chksm=bdba89138acd0005bd18766f9dd7b9537883f338931814ee0111313e557fe0b972741e5623ec#rd",
-    "publishTime": 1782712800,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNhE9MKx2MH78uR4wAFn9VLatHWw5iaI8rzI8EyfDQcI1PfPX9uDsZZzGa1DRsOmPyVZHHCWw5H320JdOZXZgKJxKh4m9q0yJCWE/0?wx_fmt=jpeg",
-    "digest": "过去很多年，InfoQ 做的是一件很清晰的事：连接技术人与技术世界。我们报道技术趋势，记录产业变化，组织技术",
+    "id": "2651287639_1",
+    "title": "AI可以用任何手段、写任何东西，但你得是个“中年老登”",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287639&idx=1&sn=08140f6d5bd0137872f8a8bda5e55e12&chksm=bdba88048acd0112a008a29d8dc82f891250b970221b83ddcc9c9aa17fe40a6f2a8379878f60#rd",
+    "publishTime": 1782271521,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNhNwFxIAAesEXT2Td0q5NxEwklw9Re5AuQ4ibkiafiaicEpiaS5jbkicT7lT471gC63w5siakwJQGApFolJu1DR7mkxggjecglQknuEPM/0?wx_fmt=jpeg",
+    "digest": "“我现在陷入到一种巨大的虚无主义里，AI 什么都能写。”",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651287872_2",
-    "title": "2026 AICon 上海站收官：模型热“退烧”，场景战“开打”，AI 公司得学会自己“挣钱养家”",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287872&idx=2&sn=605a745178ffbe69b073d4d5a586f993&chksm=bdba89138acd0005fbf2adc1a36c1694e17aba2443341f64ad09f73f2ec39d5ca021d07dec1b#rd",
-    "publishTime": 1782712800,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNhomK6ACFeX9ebFqVuBYXN9BicicebaGOHj7icvoGicsK1icu7icFMP0PialLBwd6adNXkO365whXZGkEJicPibsXPfXvDJLd38zpy5loj0/0?wx_fmt=jpeg",
-    "digest": "搞学术的、干产业的都来了，70+嘉宾聊的都是大模型落地的真问题",
+    "id": "2651287639_2",
+    "title": "对话蚂蚁吴伟：训推一体池化调度，如何把GPU用到极限",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287639&idx=2&sn=e7ba685b72669645851d105c1910bc24&chksm=bdba88048acd0112d0f2feaa3e176b9793a8a9893178b7eb8a45775a9aa052843ff3b1c59e82#rd",
+    "publishTime": 1782271521,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNjRhdYWMUwIBabjaPMT0ggb2zibqxu9VFBYyqhTYOdUyiciaBBrVQUoxibCojviaZPsuIllkcEibzOwoZrT5oEjXffp2tJZhVZNG56iaI/0?wx_fmt=jpeg",
+    "digest": "打通训推潮汐壁垒，池化调度榨干 GPU 每寸算力。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651287872_3",
-    "title": "不下班、不摸鱼，晓途机器狗已在上海“开工”：7×24 小时自主巡逻执勤",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287872&idx=3&sn=cf9d4a5d9988b12022b067396bfc10cf&chksm=bdba89138acd000577e68f140fc6a2a3a1c3be02f0178b6d09800e4e826137aee757ce593172#rd",
-    "publishTime": 1782712800,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNhnCFIB5gX4YhfqIqYLiantCdibR4IxcPTjA2JlUCOZrm2ArlHLM0bmbn6ImauchktLYdnZ9gxDLt2XTkkibCnJH9kC1ljdPBqAEI/0?wx_fmt=jpeg",
-    "digest": "近日，应用大晓机器人开放场景自主作业解决方案的晓途智能机器狗正式进驻上海西岸片区，全面投入常态化实地无人巡逻执勤工作。",
+    "id": "2651287639_3",
+    "title": "AI 大模型热潮的第三年，这场直播给出了 4 个值得参考的判断 | 极客时间企业版",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287639&idx=3&sn=27a38ab673396cf17e4b0df5190432d3&chksm=bdba88048acd0112f54737229edcc098f79ca07540619451d029fadfbd9ab8cb9ad86b32ffc0#rd",
+    "publishTime": 1782271521,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNgPzTM0YzuEg7K0OJ1MZPu6XS7h63q8qJ7qNvWicHicibYNESkd6OT9nDibT1Wvhj2LKdINuicCLPJ7cqf4lB2dEn9icj1oGwYlZiaic5U/0?wx_fmt=jpeg",
+    "digest": "当大模型的热潮进入第三年，企业最关心的问题已经从\"要不要做 AI\"变成了\"怎么把 AI 做进组织里\"。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651287872_4",
-    "title": "Spring 近期新闻：Boot、Security、Integration、Modulith 发布增量版本及 Spring AI 2.0 正式发布",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287872&idx=4&sn=f87166e97cb4c22e885255f29c1e4bf4&chksm=bdba89138acd00059da405cb62b2c7674ca2583e1bc1d50bacdb0412daf514a91718919f431c#rd",
-    "publishTime": 1782712800,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNhKCaI1b1sh6BpbS6OqzrN5UlH0wib0h7kWWNMSOibG2ssOPicuDCgCFlHficwibicW79tQfqFbicBLVJAq4MicLkk4u09nnaHehypQtx8/0?wx_fmt=jpeg",
-    "digest": "在 2026 年 6 月 8 日这一周，Spring 生态系统呈现出一片繁忙景象，其中包括以下组件的增量版本发布：Spring Boot、Spring AMQP 和 Spring Vault，以及 Spring AI 2.0 和 Sprin",
+    "id": "2651287639_4",
+    "title": "Slack 淘汰 SSH：700+ EMR 作业迁移至基于 REST 的调度架构",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287639&idx=4&sn=c4be36752b8771fee12c280885f567bf&chksm=bdba88048acd011259f2df15d24c905770554c58a2f83dc72d3645b910d408a4908594002080#rd",
+    "publishTime": 1782271521,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNh6nWq5vSuy5unFlibpR32qVSlMJBKeuDqcUuGSokx2w9sC8R82Cc8uFK5dM7pPoeYicTic5dHySOmBr7K2qkNiaj4PpXbweKZ6q8o/0?wx_fmt=jpeg",
+    "digest": "Slack 近期完成了一项大规模数据平台改造：将其 Amazon EMR 数据处理流程中的 SSH 作业执行模式全面替换为基于 REST API 的统一调度架构。此次改造彻底移除了对生产集群的直接 SSH 访问，并将 700 多个 Airf",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
@@ -256,46 +296,6 @@
     "publishTime": 1782104033,
     "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjhNmR2szKP2HEBTv8ia1akv29l3HCicuicU3adpqs9Bia5v72Cyl5ibhiax1s6X5qTXibrfRYgrvEFIWcEzgFCicQ7bzZ3nq6gBM8EQ0U/0?wx_fmt=jpeg",
     "digest": "谷歌表示，Gemma 4 12B 旨在“将具有自主性的多模态智能直接带入到你的笔记本电脑”。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651287490_4",
-    "title": "Vercel Labs 开源 Zero-Native：一个基于 Zig 的跨平台原生应用框架",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287490&idx=4&sn=93eb12b4bdea16b6ec153670a165bd4d&chksm=bdba97918acd1e87dd37ca58d9c3f80dd065199bf5577a1d46fd9d57a31934ef687715151fc8#rd",
-    "publishTime": 1782104033,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNhM6PYiceS2XM4Tq406hIzMuSvqF2sG1hCGFdG2YnXDABd2LcRibicZUGxHIMos6D95ZwAOMsiaozrfnTgVjKYPibzTFricISu2S9Sxg/0?wx_fmt=jpeg",
-    "digest": "近日，Vercel Labs 开源了 zero-native。该框架绕过了 Electron 运行时，转而采用操作系统原生的 WebView，并声称能够以极低的开销构建出更小、更高效的原生应用。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651287490_5",
-    "title": "阿里云智能集团高级技术专家刘少伟已确认出席 AICon 上海站，并分享如何构建企业 Agent 的自动化行动架构",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287490&idx=5&sn=dfb8839b5f12eee2e70bdb8197f02908&chksm=bdba97918acd1e87b907ba64efaaf234079f0403a2ba118390ec3275353ec3e2a6557c605289#rd",
-    "publishTime": 1782104033,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNiawibCsvp2lK7MbicGxGiblwefogbHYRBZKaRaMmx1sibRVfBpKrx8eRP8Fv5fiaX1iaUeZECKvGvSCnD7ZiaUAG65o79ksMgj4NNVo0Q/0?wx_fmt=jpeg",
-    "digest": "深入探讨 Agent 从原型到量产的工程挑战、数据与记忆的基础设施底座、安全可信的落地保障，以及大模型推理优化、智算架构升级等关键命题。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651287454_1",
-    "title": "吴恩达戳破AI幻象：炒作过头了，未来公司是10人小队＋Agent重做数据架构",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287454&idx=1&sn=9de7ef2850b77e5f02b4864387d74121&chksm=bdba97cd8acd1edbc0991b7f92039b011cc25f3588ee5836fd39ff4e3470f226bf6be19e46ca#rd",
-    "publishTime": 1782008100,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/lYDricib2fsm41xWsOeyQTT1uFmCkvSR5y7yIFbaBsc9PyutIxhLCxASM6BoNH5YoLCAX3icHspr94ic8neKIYkLf41gsa0ehB2I5a0cBia7icSF4/0?wx_fmt=jpeg",
-    "digest": "近期，在 LangChain 举办的智能体大会 Interrupt 上，吴恩达与 LangChain 创始人 Harrison Chase 进行了一场关于 AI Agent 的对谈。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651287454_2",
-    "title": "三家公司一周内出手，编码 Agent 进入团队基础设施时代",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287454&idx=2&sn=6f1f4b51b7abfce5ebed02aae073ba0a&chksm=bdba97cd8acd1edb8f4729a8ba26796abe70deea26d06f3482e3909bbf688ed6eeaeafdd1d94#rd",
-    "publishTime": 1782008100,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNhpXXrB8AQibDlHlWicA7NwWYt5icuOeQI5hohjJicBKuMJicFiaxlIaanFummyR53q7mXibgJju92EWtCcvf6zkxHDK1QkOlvcu710S0/0?wx_fmt=jpeg",
-    "digest": "在6月的第一周，有三家供应商将编码代理推向了单开发者循环之外。正文",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   }
