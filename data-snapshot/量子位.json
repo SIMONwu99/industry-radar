@@ -1,5 +1,35 @@
 [
   {
+    "id": "2247901585_1",
+    "title": "别争了！香农老婆，才是世界上第一个大语言模型",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247901585&idx=1&sn=08715ca9adad247fb22e80f37e2bc0c7&chksm=e8da16e3dfad9ff56b5c1ae2368e30e604d62aed5201740bdac73831d4c0627e6d089fbbcb74#rd",
+    "publishTime": 1783222320,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGEx8jdMQLJefpqsTXIGSib2MW562iampjUq5TbMoKDHaicMVnmIQ9IP9etO4880RwamicEvUG6ZRDtndmWCicdYWdWcpI6Q73TQEdO4/0?wx_fmt=jpeg",
+    "digest": "70年前，香农就拥有了端侧私人定制大语言模型",
+    "author": "",
+    "feedId": "MzIzNjc1NzUzMw=="
+  },
+  {
+    "id": "2247901585_2",
+    "title": "大模型训练省钱秘籍：清华POPO一招组级回放，把浪费的算力全部捡回来",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247901585&idx=2&sn=811227ebeb19563e0aa9182293ddd925&chksm=e8da16e3dfad9ff5e0dc1b5711a237d358c700a64dcca4bbce965b62ac3d05c9af588fc59c21#rd",
+    "publishTime": 1783222320,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGGibHxzQbyIIzUAXC9Bey5aGJVynvQ53CMQQUYoUB7v7BVE36UKjy38xACOI7EZWdtlru3saoaCNZqw0ozoAUwpeT1TJrClpiccE/0?wx_fmt=jpeg",
+    "digest": "大模型做强化学习后训练，最贵的是什么？",
+    "author": "",
+    "feedId": "MzIzNjc1NzUzMw=="
+  },
+  {
+    "id": "2247901585_3",
+    "title": "量子位编辑作者招聘",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247901585&idx=3&sn=293c0a16c466b4ff24c4334f83a5a8bf&chksm=e8da16e3dfad9ff53b33ed80762cc181b3800bf9837483f0c10e15987fc7c7db66db5f25d497#rd",
+    "publishTime": 1783222320,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/YicUhk5aAGtBwsQQg50rdDIFHPibz5pbVfnv0oOoRSQ2KmEYBSJRibeXrJnIU1euj0icCf6pXdduQdCbnRJy3b7u7Q/0?wx_fmt=jpeg",
+    "digest": "3个岗位（含实习），不设边界",
+    "author": "",
+    "feedId": "MzIzNjc1NzUzMw=="
+  },
+  {
     "id": "2247901556_1",
     "title": "王嘉尔设计！影目INMO×WHL的AI眼镜凭啥引爆大众消费场？",
     "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247901556&idx=1&sn=92213a6dc1701316ed27a8bd54cf3bac&chksm=e8da1606dfad9f10ce081159d16bf3d0fe7a4e6c5c70565aac7d2cbc59376c94726082067fc9#rd",
@@ -16,16 +46,6 @@
     "publishTime": 1783137600,
     "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGH8sibMhmS6BW4AUkaia73W3tMbbq2z3NWGaE4olXUZrD2qj8No1zvoq32vkwgt2IicU7WibTlL1icfMuroZSzA9Sj2P8UFDukibz2pc/0?wx_fmt=jpeg",
     "digest": "脚本、素材、配音、字幕、剪辑一全包",
-    "author": "",
-    "feedId": "MzIzNjc1NzUzMw=="
-  },
-  {
-    "id": "2247901556_3",
-    "title": "量子位编辑作者招聘",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247901556&idx=3&sn=b48292c7c668a7a9ac68fd0ad282ad1f&chksm=e8da1606dfad9f10f9857a69c4f6316c005fafca4c3e2f34606e9f4b5b8260fa21986bd89a16#rd",
-    "publishTime": 1783137600,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/YicUhk5aAGtBwsQQg50rdDIFHPibz5pbVfnv0oOoRSQ2KmEYBSJRibeXrJnIU1euj0icCf6pXdduQdCbnRJy3b7u7Q/0?wx_fmt=jpeg",
-    "digest": "3个岗位（含实习），不设边界",
     "author": "",
     "feedId": "MzIzNjc1NzUzMw=="
   },
@@ -130,22 +150,42 @@
     "feedId": "MzIzNjc1NzUzMw=="
   },
   {
-    "id": "2247900769_1",
-    "title": "24小时直播，只靠一张照片？虎牙实时多模态数字人VAM 1.0率先突围行业三堵墙",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247900769&idx=1&sn=2a765059e660fffa4d5f87c92e5c8343&chksm=e8da6913dfade005eebc339c9078c7b873e3c5e71804d02f7a1678d2372a4ab48a2e55a9e78c#rd",
-    "publishTime": 1782797561,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGFNetwTtsCYDCrLL7oPn1ZznDwdO9bjt0mh3Cr3YkbOicw3ic2nKtqDCDiaia0bUdicUYDmZDskxoLqoR36om4AH4VOmNr1vibsYhzBs/0?wx_fmt=jpeg",
-    "digest": "能聊天、能唱跳、能陪你玩游戏",
+    "id": "2247899692_1",
+    "title": "4秒出百万面！突破千万面精度+12K高清贴图，手握数亿的3D生成公司下一局怎么打？",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247899692&idx=1&sn=db5bd690757d90946537877ca180d2da&chksm=e8da6d5edfade4481a381527d0fd8fa4b7bf9c2a22363c3e40bfbf0281706af065e55245b73b#rd",
+    "publishTime": 1782366318,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGGs9pSPkrQHibwMD1805mVOvbGVG6lWMcFxEpjcSnuzmC3jmltUoVsTfAISqU1wy5HPMg4m8HaBMKaziagR5fibF3VgMnI8yhaA2o/0?wx_fmt=jpeg",
+    "digest": "3D生成领域的Anthropic",
     "author": "",
     "feedId": "MzIzNjc1NzUzMw=="
   },
   {
-    "id": "2247900769_2",
-    "title": "美光三星海力士遭集体诉讼！郭明錤：27年都买不到便宜内存",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247900769&idx=2&sn=101a12ff36f03f9361649b196e89cd21&chksm=e8da6913dfade005a3c791d0afe6fb4c98b1da21871dcae9a6453e990ec690e4fdfc0522cdb6#rd",
-    "publishTime": 1782797561,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGFIBWJ1XaEvhhbUEWLuLk0l8onLhFaLzuxJy0bpXN9nqFjwbBxC7jx4xEY8Hiay29NzByG8bEMm0ljd4AUiavyib3ib1g02KRGHia0M/0?wx_fmt=jpeg",
-    "digest": "“内存荒”的局面还将持续",
+    "id": "2247899692_2",
+    "title": "跟Claude谈个恋爱怎么了？Nature最新研究：真能给人聊傻了",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247899692&idx=2&sn=0a7f73e1559acc292a3cdd7fc172b133&chksm=e8da6d5edfade44801e52119a3747f9b284195c8b45fe435ca14227aa97f99fef63a33e15f1a#rd",
+    "publishTime": 1782366318,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGFw9AqysZSK0icB3lsbOBia7SfxVoQhbvflpG2Caq0QOCWbicnBH10uMvUweJrticB4iawiaiaskZ6a8ibckHLA2nhkBbFtticic3iaPquDwY/0?wx_fmt=jpeg",
+    "digest": "别把AI当老公，容易聊出精神病",
+    "author": "",
+    "feedId": "MzIzNjc1NzUzMw=="
+  },
+  {
+    "id": "2247899692_3",
+    "title": "扩散模型自引导新范式：直接交换token就能变强！ | CVPR‘26 Oral",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247899692&idx=3&sn=b5e6dfc4cc875126545ad9a446b83164&chksm=e8da6d5edfade448deb375b358566d970ee573ef3a1f88ac48f5315cfc906dc6037686b9787c#rd",
+    "publishTime": 1782366318,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGFpsqW5DVG4VmDeETvfCZ1WQYBavNe1iaCKf7VgpEianWapx21CAODdZlSh5PZUc1YFPARK3vupHhjaXaWFAau9V0H55mB89qw3I/0?wx_fmt=jpeg",
+    "digest": "扩散模型又被玩出新花样了。",
+    "author": "",
+    "feedId": "MzIzNjc1NzUzMw=="
+  },
+  {
+    "id": "2247899692_4",
+    "title": "量子位招聘丨汽车及机器人方向",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247899692&idx=4&sn=a8567a7bcdbb021cc52a513e0d452104&chksm=e8da6d5edfade44836feb282aff6b2d6eea3b016eb250e65843e288c6964572c675fa7c96516#rd",
+    "publishTime": 1782366318,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGEyKdViaZHb5joeQ7jWUcjZUERfD6FjiczskKVOHaR8QsIjpmWrr6ZWYChObTmD6cwWbjs3ErvV3giadhqic2WAOsibwtSKcfgnEQgY/0?wx_fmt=jpeg",
+    "digest": "文字作者和视频编导，要的就是你！",
     "author": "",
     "feedId": "MzIzNjc1NzUzMw=="
   },
@@ -206,26 +246,6 @@
     "publishTime": 1782208261,
     "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGGZialMia1zfkAWWibYKCB54ZJ7qA8gQVNzUCtPG6dtF8tI8zIxA84zTnyWwSDB5za834Xl36HekfATCD5V8NzmW3OUIEIibFs65yk/0?wx_fmt=jpeg",
     "digest": "对着工厂说句话，机器人就开工了！",
-    "author": "",
-    "feedId": "MzIzNjc1NzUzMw=="
-  },
-  {
-    "id": "2247898679_1",
-    "title": "DeepSeek缺Agent人才缺疯了！负责人各种贴广告",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247898679&idx=1&sn=7e13093476268ed660ab89bfa7edc32f&chksm=e8da6145dfade8539ac1b2f961435a56d9e7af64255ce7d889f9261822ed3a542ec75ec736b4#rd",
-    "publishTime": 1782102007,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGH2CDujPfl2XSc4dekcAO8IRWnloEwOGUVfL3IavNQz3Bb1reibAncX0bldkDqAr0JIyn1obdKEwbF4rgWzBqn24G6mjYXpgPzU/0?wx_fmt=jpeg",
-    "digest": "崔添翼：Harness部门，上人！！",
-    "author": "",
-    "feedId": "MzIzNjc1NzUzMw=="
-  },
-  {
-    "id": "2247898679_2",
-    "title": "可口可乐的世界杯TVC，居然是prompt生成的",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247898679&idx=2&sn=e96945636564471e6768d18d303fa48b&chksm=e8da6145dfade853df83623df41625952c07affed6a9db8c08b06a277726ec6581402efe1175#rd",
-    "publishTime": 1782102007,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGH7WZichEG37PsBmLclMBtFBYA5AfWOb7yvZbBcyxDcF8joM6cdKibRUh49j8LfYnkiaYgmzsbLx7gmBp3649ruAJy4plI8XVlUaU/0?wx_fmt=jpeg",
-    "digest": "24小时在线、2秒回话，陪你聊球",
     "author": "",
     "feedId": "MzIzNjc1NzUzMw=="
   }

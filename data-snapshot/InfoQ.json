@@ -1,5 +1,45 @@
 [
   {
+    "id": "2651288214_1",
+    "title": "“我一行代码都没读就发布了”，被OpenAI收购后，uv工具创始人开始反思AI编程",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288214&idx=1&sn=92c6627c79a1a24872e8c6445b226bc0&chksm=bdba8ac58acd03d370b67516c8f21db90359b4d18ab5831a29cd3f90f8e578cefdd1ad1a552c#rd",
+    "publishTime": 1783218008,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNgZ2w7tvibkibaDAMukhdpoicicL5YdU1nC9OblcGC2V3PKxGogb9sT06565Pu0Uzq2lc8AHibnWTJ5aIS86VFZFQpIkzaR75RG2fI0/0?wx_fmt=jpeg",
+    "digest": "“坚持原则，别信标准答案。”",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651288214_2",
+    "title": "《吾辈如神》：AI 增强创造力的10条法则 | 赠书福利",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288214&idx=2&sn=ae5fb78494239c426582c84ebe890c47&chksm=bdba8ac58acd03d3c0faf15bf31f6e72c26b87982546928e8b5f1749dd909a8398948c49084a#rd",
+    "publishTime": 1783218008,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNjWoic3LfSiaXX8nRANm87nQ0m45THtwwQXYgHRM1Mt15jZa26WDTtlKERZwiao3O6ovSy9rMxlibwvhf4bUrokaOvia01P9f99UicfM/0?wx_fmt=jpeg",
+    "digest": "引言：这是一个前所未有的技术神迹时代。AI 全速迭代、基因技术突破极限、长寿科技落地普及、万物智能互联，如今的人类，早已手握改写世界、堪比神明的力量。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651288214_3",
+    "title": "Anthropic 负责人：HTML 比 MD 更利于人类跟进智能体协作流程",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288214&idx=3&sn=8d6290ce13d688bbeb81c89e9b12a966&chksm=bdba8ac58acd03d3ab9be55e93418665795f2177504e79aedeed0171ace59cb55d8be8b725f7#rd",
+    "publishTime": 1783218008,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNiaKwKicewpfADwOqnibHXwNFYiaYPOMCmUgkJWWxv1wkFpjF2gSCPuYKOBsFUjwYIErm9SpZxLU6YhtBJ0jybRu80qMniaiaicEdDMNc/0?wx_fmt=jpeg",
+    "digest": "Claude Code 团队工程负责人 Thariq Shihipar 发文指出，相比默认的 Markdown，HTML 更强的可视化与交互能力可大幅提升人和 AI 智能体的协作效率。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651288214_4",
+    "title": "AI 正在向软件生命周期的上游延伸：从代码审查到产品需求文档（PRD）治理",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288214&idx=4&sn=e6643efd9b6db5f0de88bbe9eca96611&chksm=bdba8ac58acd03d384c61a08be328962ffe6fb412a36b8f98ac89df9ce58b74b933381f934d2#rd",
+    "publishTime": 1783218008,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNiaXSWSg1lmqZOIZNYAFgkYAZYoNOUzACMp1icFAbYkVUz5D046f2IJMSwTLzmZ3OydU6qpVppxibaicJ62uoDVYg47u3UAW2c1LAY/0?wx_fmt=jpeg",
+    "digest": "大型科技公司正在将 AI 的应用范围从代码生成和代码审查扩展到软件开发生命周期的更早期阶段，包括产品需求验证和系统设计输入。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
     "id": "2651288183_1",
     "title": "73% PR 由AI生成！Claude Code之父对话Spotify：2900名工程师每天部署4500次，坐地铁都能提交代码",
     "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288183&idx=1&sn=3c4dd38388b0de0e020022c8db7747c0&chksm=bdba8a248acd03329732628841c83f58148586042325a35684c35faa48a6844121a054d05cb5#rd",
@@ -150,42 +190,42 @@
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651287952_1",
-    "title": "前后端一起消失：AI Coding正在改写大厂工程师分工",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287952&idx=1&sn=7dc2116ca7d1a1d81a18ceda631cb2b5&chksm=bdba89c38acd00d5e6f859845dbfa29c7b55ac5b2f73f1e809a3a81fc0d80561cf998fad4f22#rd",
-    "publishTime": 1782815329,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNggRMMCW7KFMFPzBKVQuZtibEOiaJhYXDgHl9vkd53DticiccWYpw0jmX8niaAaVDiaLU0lwKpaBoib30CHteupKdh3R4a8qP5F9NCvNA/0?wx_fmt=jpeg",
-    "digest": "大厂研发组织正在出现新的调整信号。",
+    "id": "2651287713_1",
+    "title": "最大开源第一视角数据集 EgoLive 来了，名校站台、近百家机构争相申请",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287713&idx=1&sn=af89a53852b088b81919a360bc49fa07&chksm=bdba88f28acd01e4223fd31f01e796de7b02c96df169e0bea214f9560c58ca4a428bb5fd177c#rd",
+    "publishTime": 1782376598,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjX2AWljSkMJwO7buicKmdf0ADfu6FajhFOPl6yh4k3tIznrmEHc9v5DeJHgmibGiaEZL1yDxNiaKSaM9mqHHuC4ic2aIlvicPAMMticg/0?wx_fmt=jpeg",
+    "digest": "具身智能的竞争，正在转向第一视角数据。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651287952_2",
-    "title": "当设计师和PM都开始写代码，产品构建方式又要变天了？",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287952&idx=2&sn=808cebb74cd85f2e0f261e8eb184bb30&chksm=bdba89c38acd00d5018d89d48bcd1bdae8a6bc484948a99e4b82d2fa0e2f25b30c998ae11b51#rd",
-    "publishTime": 1782815329,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNia6MfCZL7nicBM8xUByFxxibZHasL0YS0lgpu760ME9jOvE7FhJ0I34sSibic7hSEMIk2TJ6HoaD3yaMlP9h7jWib0MUMrib5DMzUatk/0?wx_fmt=jpeg",
-    "digest": "真正伟大的产品，往往都有一个极小、但异常强大的核心。",
+    "id": "2651287713_2",
+    "title": "AICon 深圳 2026 启动｜Agent 时代，哪些方向正在成为行业关键变量？",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287713&idx=2&sn=da4a12a6db5bdbc5d977077b914b2a58&chksm=bdba88f28acd01e4120eaae5db9a7edbe8acba08f6ab52a9c5f73a8a5f5224ea941a3fb2c8ae#rd",
+    "publishTime": 1782376598,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNiaG0Gia4CIg66FAa6P7SNzDjqeyPKRV2VFMZuwmk5Ay4eICflPfYZHTHpXGgMiaI9GMGyIDjVJJq8bBCbMQoGG3S1ceRfKPfzWdg/0?wx_fmt=jpeg",
+    "digest": "过去两年，AI 行业经历了从“大模型能力竞赛”到“AI 应用落地竞赛”的快速转变。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651287952_3",
-    "title": "OpenAI 和 Anthropic “杀”红了眼，谷歌成为最大受害者",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287952&idx=3&sn=2f4d1823ad29cbf81f15ac67c700fc62&chksm=bdba89c38acd00d5f8207004ac92e4bf5a2170eda4e0214f4589cad53aa26ca8ceb7184fae36#rd",
-    "publishTime": 1782815329,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/lYDricib2fsm4nuT4IqmIwfT2bb0nfGTtbw9pyGf9ukZumledDSQ0AkxBknZYzrrKBxbY0RxiaX1Ap9iapFq82LpdJibwHkGicWmeh42LmMB1SOUo/0?wx_fmt=jpeg",
-    "digest": "6 月的 AI 人才市场，谷歌再次站到了风口上。",
+    "id": "2651287713_3",
+    "title": "内核级的真相：为什么 eBPF 正在取代基于用户空间的 Agent 成为安全可观测性的首选",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287713&idx=3&sn=7e2457fe3e33f8e4dd4b682b10fc5d0b&chksm=bdba88f28acd01e4c979104cd0275b94811afcbed36bc9cc487c7a41a3d278bb7fc63be4d0c9#rd",
+    "publishTime": 1782376598,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNiattRdHNdKWEN3qR8fHia9J7KNtgeTS4Gzib3mT7YFvPJibPnoQMg1iaPNL6zfXgQPmRvm5bogcY5gfBpbDPtOIhSB8Wt2LUmmohvI/0?wx_fmt=jpeg",
+    "digest": "相较于传统基于用户空间的Agent，eBPF正在成为安全可观测性的优选方案。它将探针直接挂接到Linux内核的系统调用接口上，因此即便在容器层被攻陷时仍能提供一致的可见性。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651287952_4",
-    "title": "Xcode 27 扩展代理集成，全面改版用户界面，并引入了 DeviceHub",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287952&idx=4&sn=d47af6126c69a8197f3101df2250956f&chksm=bdba89c38acd00d5522b0f7294a4b132d9cac5b560125691113a52917394f20d29d3f5784143#rd",
-    "publishTime": 1782815329,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNgQ4dRUXicB9evA6bb4s1Pg5KiaIJ9cnmAvibdQOvmUaibOy33SoeFiaeTPyHORHwGk900jbc1j7N87wMt8Q0f9He3F4oKGwPpXWVbc/0?wx_fmt=jpeg",
-    "digest": "在 2026 年的 WWDC 大会上，苹果推出了 Xcode 27，旨在使用户能够轻松地借助编码代理启动任务、对新项目构想进行迭代，并自定义工作区。",
+    "id": "2651287713_4",
+    "title": "优步通过实时信号与 Listwise 排序改进餐厅推荐",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287713&idx=4&sn=cef122370bc0b1ea2f9434e9f7ed7301&chksm=bdba88f28acd01e4eae2a58412d0697bd1560e4c65d68335d6068f907580ae6ad6d6faa07755#rd",
+    "publishTime": 1782376598,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNgWu9Rq942iaq7IMZ3nRtBWswfq3BmhwTovicIUm5D7DyrJPQwzrQs0JjX8aiblZRno3nKyN6a63odvtzN5qlAaUr417Mcw7XSGww/0?wx_fmt=jpeg",
+    "digest": "优步升级了其Uber Eats首页推荐系统，引入近实时的用户序列特征与生成式推荐（Generative Recommender）模型。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
@@ -256,46 +296,6 @@
     "publishTime": 1782219310,
     "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNj815azWkWrLcickib8lZ8VR26eTqb6O66Pdjcad56g5j2Rxhica0otcE9icPnwhicnz0hug1d5JJTYAdw9HTqsGDRGB2jyLSKKYWNc/0?wx_fmt=jpeg",
     "digest": "过去几年，企业对数据库的需求分化越来越明显。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651287603_5",
-    "title": "从唤醒到陪伴：多模态 Agent 如何重构手机交互范式｜AICon 上海",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287603&idx=5&sn=2d53a40e939de6419ee3bd24820f5a40&chksm=bdba88608acd01764eef8134e14fc8f6345a4be8d89bc78053d496ab4d5f082eedbb857a4429#rd",
-    "publishTime": 1782219310,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjQtK3rbIXuRygSTnKWClL6F75tk5PJtJ6aEZXiaNzIvdGvTEJneRmwicRdEhoy7KD6clI2tX2XibtxoppYQiaWXKFbosnPRQmiayOo/0?wx_fmt=jpeg",
-    "digest": "本次分享介绍的系统，以手机屏幕时序视频流为输入，构建了一个具备持续感知、个性化记忆与主动执行能力的多模态伴随 Agent。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651287490_1",
-    "title": "MOSS 全模态技术体系全解析：统一离散化建模、推理优化与情境数据构建路径",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287490&idx=1&sn=5bbce67700d93c8c3ece905011bd64a7&chksm=bdba97918acd1e875844c418739c04b075e55a7879f64a7ba375b5fb365df9c6e79f14734382#rd",
-    "publishTime": 1782104033,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNglejF3tPVviaGX0nPYNa8DBy4hAJgWciaH7oxgQ9ecmibOYOsjibJzwbgLcXlicT8Q2xArL5iav0v35g9kpOJY6BwAXJzNnAxZfMwbo/0?wx_fmt=jpeg",
-    "digest": "大模型正从 “文本优先” 向 “情境智能” 发生范式转移",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651287490_2",
-    "title": "这家Agent 公司从 Claude 切到 DeepSeek v4：一年省下数百万美元，迁移工作量却是预期的 100 倍",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287490&idx=2&sn=cde599d579c02a1339cc36f183039487&chksm=bdba97918acd1e872ab6de459d47489acdb5f59045f0c54e8c8eb754c01c347585cead6f1a3c#rd",
-    "publishTime": 1782104033,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNiaOQJhHoyQtLmXW5WEgRAaOrk9twEo95GuFwdDYflVbyarYibicA7mmcbuibDPpSqZzqERbO9awWCr6jDpSWxTkbTCMWZDiazn4j4k/0?wx_fmt=jpeg",
-    "digest": "初创公司 Lindy 将其全部 AI 代理流量从 Anthropic 转移到了 DeepSeek v4，每年可以节省数百万美元的推理成本。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651287490_3",
-    "title": "Gemma 4 12B 通过无编码器架构实现设备端多模态主动工作流",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287490&idx=3&sn=f06146e3f8420e3c4175eab95514c426&chksm=bdba97918acd1e8775b40ac627178c31b5506ebc4e9ae2c11605653f88c7b3465c34dbb8ec8a#rd",
-    "publishTime": 1782104033,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjhNmR2szKP2HEBTv8ia1akv29l3HCicuicU3adpqs9Bia5v72Cyl5ibhiax1s6X5qTXibrfRYgrvEFIWcEzgFCicQ7bzZ3nq6gBM8EQ0U/0?wx_fmt=jpeg",
-    "digest": "谷歌表示，Gemma 4 12B 旨在“将具有自主性的多模态智能直接带入到你的笔记本电脑”。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   }
