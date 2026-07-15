@@ -1,5 +1,15 @@
 [
   {
+    "id": "2649802628_1",
+    "title": "上线后差点“挤爆”服务器，Marvis凭什么让用户追着6只小马“上班”？",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802628&idx=1&sn=e187a512c344ea924c370abb91b8962f&chksm=becc54ff89bbdde904cfe078817ab4c907b61647f87b9162e2d13ebbdd92f3c35e50a1579f0a#rd",
+    "publishTime": 1784113800,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/KVER9adz904HPovANDicyH3n1wribdOngljjMyOujD0LMof3MU10NhJ6t6vsic7wtIIf2XATiaF3mZicAiaHTIiaicncUO5VOQ3RwHFoMYOpBJBEKFo/0?wx_fmt=jpeg",
+    "digest": "5月20日23点58分，Marvis 上线。22号上午，用户量激增，官方紧急扩容",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
     "id": "2649802581_1",
     "title": "腾讯Ray团队实践：K8s + Ray如何支撑超大规模AI Workload",
     "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802581&idx=1&sn=6853e0881c8ef7e87dac7baf5ad82d22&chksm=becc542e89bbdd38c2244bb25beae0285cd3a7b227dd86e934cd5d94b4718d3d14504b098956#rd",
@@ -36,16 +46,6 @@
     "publishTime": 1783503323,
     "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/KVER9adz904HBoedWiccVA0nia5VDFA58tibjOJ68ibo4nasp3skJlqfAa62DLMeZzUEiaQlRCIicoia6bCqXcDhrMGiaxbIFQMNlnIrhru3HpGQO2k/0?wx_fmt=jpeg",
     "digest": "更重要的是让 AI 的每一分注意力都用在刀刃上",
-    "author": "",
-    "feedId": "MjM5ODYwMjI2MA=="
-  },
-  {
-    "id": "2649802486_1",
-    "title": "从Vibe Coding到Harness—— 一套大仓AI工程化实战",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802486&idx=1&sn=1d3872e7495a2a69857e9dcb5eb9c625&chksm=becc558d89bbdc9b4a73663fac9ba11c81a5c6423ef742fc331c24882c890d4f02c1b7953f06#rd",
-    "publishTime": 1783417140,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/KVER9adz906zibCK7ibnolEYiadVQhfAd8icOVz68S2ic9gOPAg7cCLyWqJTVzicxGYNcZckU7eCptDIH4yeRjWCm5A5UcCdtwO830BpwYRibHj7xs/0?wx_fmt=jpeg",
-    "digest": "不讲理念，侧重实战",
     "author": "",
     "feedId": "MjM5ODYwMjI2MA=="
   }

@@ -1,5 +1,55 @@
 [
   {
+    "id": "2651288872_1",
+    "title": "“我现在干得还行，但劝你别进来！”AI 蜜月期要结束了：打工人变成“快乐的行尸走肉”",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288872&idx=1&sn=996fdd641760c8025a97a1ef664afc06&chksm=bdba8d7b8acd046d8ba14017b0c4c129905dc3ecf43e30d1de784b71c3d81845d02e405d6a1b#rd",
+    "publishTime": 1784107863,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNias67fSEibJVVrq80LqUBHpdK57NOdAwsRibMMt7C8ZLia5zkQ22rZWZGmwVZgntEBoK3Jia3ypusAHRcx8sGt0KQPnA1BOZ4mStao/0?wx_fmt=jpeg",
+    "digest": "一半的人认为 AI 让自己进入了职业生涯的最佳阶段",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651288872_2",
+    "title": "WAIC 最热闹的时刻，我们帮你筛掉噪音",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288872&idx=2&sn=f0c93fcda445044e79e56f6ae7ac93c1&chksm=bdba8d7b8acd046d160b1f6697ed8063679c69e16ccb5b6dd5763c6d7990b1e843f2413c434a#rd",
+    "publishTime": 1784107863,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNiarPH4bUSlulMfV71DTghhlwm0vxYGbicq3DLVVKKUrzMaibqE3JDS1dDFWy7e8hbvkRXTEKibohuBGRkPiaZBgq8iaaB8xwTEDiaohM/0?wx_fmt=jpeg",
+    "digest": "不替你下结论，只陪你把问题问对。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651288872_3",
+    "title": "红帽决定聚焦中国企业的“多模型、多 GPU、多云”选择权",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288872&idx=3&sn=d322f8aff996c1dd75674eec081ba2cc&chksm=bdba8d7b8acd046d5bd8311ecff3ebe93affcfeb86d7c03e12d10b121ad268307c79ddf9c473#rd",
+    "publishTime": 1784107863,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNj5h9Be0Pwfnryna5KT3volWoBtsQzXibme3734hpJuLze9duL03CaFkZP3EaVbDvWMGQKO9akYvVVmVxc9rViaKibQMgJLYblQmo/0?wx_fmt=jpeg",
+    "digest": "“一个企业最大的挑战不在于它是否选错了模型，而是它失去了选择模型的能力。”",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651288872_4",
+    "title": "HubSpot 如何将语义搜索扩展至 200 亿个向量",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288872&idx=4&sn=31de2950c372d828efab2010f670e013&chksm=bdba8d7b8acd046d02ec55a0dea1e9c2697afb5c17de3b43337f142120f3bcbe43e363a2ec9d#rd",
+    "publishTime": 1784107863,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNgvel9vhgosPldibz0nm10NqBBsXMQSeCRWdkFaeOKzBsbBxN8pAqy7ibFCTRmBmCBNEytLdb2rZUZgU7lrtfQdSEB08d6LnvHXs/0?wx_fmt=jpeg",
+    "digest": "SaaS 软件供应商 HubSpot 详细介绍了其语义搜索平台如何从概念验证发展成为一项内部服务。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651288872_5",
+    "title": "Harness Engineering：构建可靠 Agent | 直播预告",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288872&idx=5&sn=375ce07b4084762a071fcb837fed0915&chksm=bdba8d7b8acd046d13f74009c4d901d97a3b5251e4e3450d22d7c006ff5cedfe062f9416b9ae#rd",
+    "publishTime": 1784107863,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNgBlvyUgU0WKhYU74QHrZJFPIwpOPFGQ5MowqF63ORHR16RqHRF8OfQCjQy5NqCHiby5AYnl91ibVfEicL6vjw6ms8GlAHUPBw0Gw/0?wx_fmt=jpeg",
+    "digest": "大模型让 Agent 具备了推理和执行能力，但真正进入复杂业务场景，还需要一套围绕上下文、执行、验证和反馈构建",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
     "id": "2651288799_1",
     "title": "当数据库的两端，都不再是人",
     "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288799&idx=1&sn=2a41e0a493219efd29bef8684f5699ff&chksm=bdba8c8c8acd059ad0eb22e68fd94c074642b6ed938f0a14f36fcf3615de2bb568294edf98c3#rd",
@@ -160,42 +210,42 @@
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651288550_1",
-    "title": "GPT-5.6三档模型全面围剿Claude Fable 5，“超级应用”ChatGPT Work上位",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288550&idx=1&sn=da6ff8aa74fd310880f671310e638b1c&chksm=bdba8bb58acd02a3d45e0fdf2be25eeb76be97e7c913b038b95f68e5d0f3559a64ad820f7d25#rd",
-    "publishTime": 1783646402,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNhGFN8mfIp3KCpsqwKvhsfunlzujAgHTVyaEE7LTtMlQEPjWSnLNKGVOVFjSWdFwic4AufTCozwg7oj6PFuneOtcHnm8ib3qZvfs/0?wx_fmt=jpeg",
-    "digest": "Altman紧急澄清：不会取代Coedx",
+    "id": "2651288214_1",
+    "title": "“我一行代码都没读就发布了”，被OpenAI收购后，uv工具创始人开始反思AI编程",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288214&idx=1&sn=92c6627c79a1a24872e8c6445b226bc0&chksm=bdba8ac58acd03d370b67516c8f21db90359b4d18ab5831a29cd3f90f8e578cefdd1ad1a552c#rd",
+    "publishTime": 1783218008,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNgZ2w7tvibkibaDAMukhdpoicicL5YdU1nC9OblcGC2V3PKxGogb9sT06565Pu0Uzq2lc8AHibnWTJ5aIS86VFZFQpIkzaR75RG2fI0/0?wx_fmt=jpeg",
+    "digest": "“坚持原则，别信标准答案。”",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651288550_2",
-    "title": "AI推理成本首次算清：GPU利用率不到52%，千万别自建！",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288550&idx=2&sn=6e3fcaccd7bf67bc024fc49a30b333c1&chksm=bdba8bb58acd02a3d417d36fbbd24a883792d70ad447b2101a51a56b2134279259bdf927cd8c#rd",
-    "publishTime": 1783646402,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNiatwNHJKNOm15MAWVB2bjuC3R1k78MAicUCJmA7zzHibo51juvNP4LNbS8eJwxKBsrdNLQCCmibDg0XMIfGjWZZy9fyBMu7vKC1vs/0?wx_fmt=jpeg",
-    "digest": "本文揭示了一个被忽略的行业真相：API 厂商的定价策略利用了客户无法精确计算利用",
+    "id": "2651288214_2",
+    "title": "《吾辈如神》：AI 增强创造力的10条法则 | 赠书福利",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288214&idx=2&sn=ae5fb78494239c426582c84ebe890c47&chksm=bdba8ac58acd03d3c0faf15bf31f6e72c26b87982546928e8b5f1749dd909a8398948c49084a#rd",
+    "publishTime": 1783218008,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNjWoic3LfSiaXX8nRANm87nQ0m45THtwwQXYgHRM1Mt15jZa26WDTtlKERZwiao3O6ovSy9rMxlibwvhf4bUrokaOvia01P9f99UicfM/0?wx_fmt=jpeg",
+    "digest": "引言：这是一个前所未有的技术神迹时代。AI 全速迭代、基因技术突破极限、长寿科技落地普及、万物智能互联，如今的人类，早已手握改写世界、堪比神明的力量。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651288550_3",
-    "title": "虚拟座谈会：机器时代的安全——专家解读 AI 威胁的演变",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288550&idx=3&sn=102742e2278b752fe4d87411b4e9e40d&chksm=bdba8bb58acd02a31e7726c26fe4eec5e94d4c9d03834844de51dfbe9e4425160b28f05ad895#rd",
-    "publishTime": 1783646402,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNjISEK06vHUqkvYAdBegDuv1NBypPEib9icAzMeNPUujX6jMnvQWxticuwMNK1vCACeVm1iciaFM8iaVSCHMicf0uOXWokgiazajcwfia28/0?wx_fmt=jpeg",
-    "digest": "本次虚拟座谈会汇聚了业界顶尖的实践者，共同探讨 AI 威胁的演变趋势。他们还将审视传统安全方法的局限性，以及抵御未来攻击所需的关键技能。",
+    "id": "2651288214_3",
+    "title": "Anthropic 负责人：HTML 比 MD 更利于人类跟进智能体协作流程",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288214&idx=3&sn=8d6290ce13d688bbeb81c89e9b12a966&chksm=bdba8ac58acd03d3ab9be55e93418665795f2177504e79aedeed0171ace59cb55d8be8b725f7#rd",
+    "publishTime": 1783218008,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNiaKwKicewpfADwOqnibHXwNFYiaYPOMCmUgkJWWxv1wkFpjF2gSCPuYKOBsFUjwYIErm9SpZxLU6YhtBJ0jybRu80qMniaiaicEdDMNc/0?wx_fmt=jpeg",
+    "digest": "Claude Code 团队工程负责人 Thariq Shihipar 发文指出，相比默认的 Markdown，HTML 更强的可视化与交互能力可大幅提升人和 AI 智能体的协作效率。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651288550_4",
-    "title": "动态分区拆分：Netflix 大幅削减 Cassandra 读取延迟至毫秒级",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288550&idx=4&sn=a4f3949d18c31b3712a5eabd01fe65b0&chksm=bdba8bb58acd02a3f9a169bcab4da2b1c943e947de2735ffc181df157d3b1d099e1312df3d35#rd",
-    "publishTime": 1783646402,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNg7aL1MAxgkfKFiapbC0z19E89hxwAqaP8ibicgIXHcLzDicVFTzjSSmyb9bpfZzJvJ4E7GKCgz8TwIcaeJyRsAnq5dPfL8xFItVAw/0?wx_fmt=jpeg",
-    "digest": "Netflix 推出基于元数据的 Cassandra 动态分区拆分方案，自动拆分时序场景下的超大宽分区并分发读请求。",
+    "id": "2651288214_4",
+    "title": "AI 正在向软件生命周期的上游延伸：从代码审查到产品需求文档（PRD）治理",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288214&idx=4&sn=e6643efd9b6db5f0de88bbe9eca96611&chksm=bdba8ac58acd03d384c61a08be328962ffe6fb412a36b8f98ac89df9ce58b74b933381f934d2#rd",
+    "publishTime": 1783218008,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNiaXSWSg1lmqZOIZNYAFgkYAZYoNOUzACMp1icFAbYkVUz5D046f2IJMSwTLzmZ3OydU6qpVppxibaicJ62uoDVYg47u3UAW2c1LAY/0?wx_fmt=jpeg",
+    "digest": "大型科技公司正在将 AI 的应用范围从代码生成和代码审查扩展到软件开发生命周期的更早期阶段，包括产品需求验证和系统设计输入。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
@@ -246,56 +296,6 @@
     "publishTime": 1783068777,
     "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNhpPMMrdicF5FaeclyxE3cUt53aP57qY21WtjIawgXg76rRJ4uceL7lcLmX534Rz1F3An1ficTLwMPfVQXiaA8ial2gksPlO4YNng8/0?wx_fmt=jpeg",
     "digest": "“Fable 5 这个价格远高于中国程序员一天工资。写代码一天烧几百万 token 已经很节约了，然后一看账单几千 rmb。”",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651288121_2",
-    "title": "让 AI 真正“懂时间”：QC-MHM 时序知识图谱问答的全新突破 | AAAI",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288121&idx=2&sn=4e4edd8f11251b2f5fccda096158663c&chksm=bdba8a6a8acd037cc34c0a60492d1388d0142453fe7759569f38523acf5ba2ee0c735dcc9706#rd",
-    "publishTime": 1783068777,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNhd2nhSNCjgiawWVh6GhaDECBgoJJoibFPe0XQ3f7cWib22XQ3aQocumUxn6SNdlXJSjcabueOm1lLKZsh4J5Q88gbP1uyfl0vYLU/0?wx_fmt=jpeg",
-    "digest": "要让模型真正“懂时间”，不能只靠喂数据，而是要把时间信息“显式建模”到表示学习与推理路径中。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651288121_3",
-    "title": "从 Coding 到 Anything，Agent 正在重写工作流",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288121&idx=3&sn=3f844f2619a595b4f67ef1216ea3bfec&chksm=bdba8a6a8acd037c0f2190f94e1e6c051bb893e3aaa8fe809ecc093c93c16979ec33d49f8dc5#rd",
-    "publishTime": 1783068777,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNgOonKGQJibpnVV2M5uQhnsRHRwu76WvSs2dGiaKaXsq365sloH5icjWLJZDn33ibNkzWjiaOPU2LKKCrRqzhkCULmeNXDxSlavqiaA4/0?wx_fmt=jpeg",
-    "digest": "AI Coding 的演进，已经走到一个新的临界点。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651288121_4",
-    "title": "Agent 上岗之后，企业如何治理硅基团队？",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288121&idx=4&sn=6cde937c10c9223b0d2b735376865105&chksm=bdba8a6a8acd037cbddf6d0acb1a5afe21281432b5e3454fde8c1acd142d04f866f59c91dd3f#rd",
-    "publishTime": 1783068777,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNhKKne1F3XXnUcFQFohfKw8BCMiawDBLVibMb7T6hKicKm8uomVdLjq8EIPAgIWHholXib455GnCCvhC3BhXXGIaMQiaQCiagqPPaVib0/0?wx_fmt=jpeg",
-    "digest": "硅基团队治理仍在探索阶段，不同企业对 Harness的理解各不相同，但共识是 AI 的价值不会自动转化为组织效率。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651288050_1",
-    "title": "用户太蠢不配用 Fable？被Anthropic的回应气笑了：最贵的模型，最憋屈的体验",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288050&idx=1&sn=2ef786c33c2f838a5558ce06a6f5bba7&chksm=bdba89a18acd00b74bed1754bf0f1ab29756dd7611cdbe3e5ff88a17ef4f5bb45c3e313b770f#rd",
-    "publishTime": 1782977206,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNiaReIr7zzbayc94VV6KTzXMSpf8yJGBXHZJackXsRm8aDGmSAdubFT8pEmZ3RubWwcq0H5E2unZccybdqqGx1fbStxajx4JkBo/0?wx_fmt=jpeg",
-    "digest": "Fable 5 有拯救到因拉透了的 Sonnet 5 而口碑下滑的 Anthropic 吗？",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651288050_2",
-    "title": "从 AI 取数到智能分析：企业级数据 Agent 的多阶段演进与工程化落地",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288050&idx=2&sn=363896139a6bb2219da9631235944147&chksm=bdba89a18acd00b79d597073d4693f2f33d5511c09ea26fd4a4dfb1c2512c16a7dc225e00c72#rd",
-    "publishTime": 1782977206,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNiaPMNJwvpTiaMMuGuFJcsfWOllwdXXlLWaXExn3VycV1hhuxmh3LEGMx82j8nE0ckJ67hViaicBD17pGibvm6ItfFYAXgxsG6tH91E/0?wx_fmt=jpeg",
-    "digest": "将取数工具雕琢为支持个性化与场景化智能分析的可靠生产力工具。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   }

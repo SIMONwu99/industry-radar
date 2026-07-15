@@ -1,5 +1,15 @@
 [
   {
+    "id": "2247510248_1",
+    "title": "阿里荣膺 ACL 2026 最佳资源论文 | HSCodeComp 揭开智能体「分层规则应用」的能力鸿沟",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247510248&idx=1&sn=bf7c5cc932df692cbf3ba61e3bfc973e&chksm=cfa6b80bf8d1311d92399b1f124a1f1d698c1bb9abc637d81e7ac949e5600bf3a01e7b073237#rd",
+    "publishTime": 1784110080,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/kN3t5R6pdz7dRWnBJ3Uu0WzXEN4EdsgVEJY2xicwcSmPZgn7oS4UicSeXDZMfnzG5EuO2ICc5yDhZPoSH1bs5licJdo9JOseTeDMvYuklqUHaU/0?wx_fmt=jpeg",
+    "digest": "HSCodeComp揭示了当前Agent的能力边界，也为构建真正可靠的专业AI系统提供了科学的评测标杆。",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
     "id": "2247510241_1",
     "title": "从 Coder 到 Designer ：电商团队数据研发的 Harness Engineering 实践",
     "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247510241&idx=1&sn=04d54633f1d91d27be6580eda8b503b2&chksm=cfa6b802f8d131147f271a1eb4778391028fb82e9755c9ead0b082b48fafd738bca1b4e1d571#rd",
@@ -56,26 +66,6 @@
     "publishTime": 1783591680,
     "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/kN3t5R6pdz6ib24C43pU4A2KPhsURer3x3OMIyicCG1AmXtvsHkvQ6AIgkptTOLFutpcMShd4EObD5cbNjovSujvWVI1FOXx3G2TaojPN0icE4/0?wx_fmt=jpeg",
     "digest": "针对企业智能体规模化落地两大难题",
-    "author": "",
-    "feedId": "Mzg4NTczNzg2OA=="
-  },
-  {
-    "id": "2247509988_1",
-    "title": "Harness 工程实践：如何让 Agent 完成自主迭代",
-    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247509988&idx=1&sn=077f18a5e969437efceb13f31d13bf73&chksm=cfa6b707f8d13e11ec76b038f6ee7dc02f3ec5b047f7a60860a3ba49ddc0e683250a3a8a98c5#rd",
-    "publishTime": 1783510584,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/kN3t5R6pdz6vlpS4GFBtibQXiabMj152YGSibAVvj8YyCZU8xaLqKmSPuyScB0hgicuBexGgvVTPt8cSUSicJCiaG3hRKkbunjfYzVTxTOvhHfvTE/0?wx_fmt=jpeg",
-    "digest": "我们需要对 Harness 工程有正确的认知",
-    "author": "",
-    "feedId": "Mzg4NTczNzg2OA=="
-  },
-  {
-    "id": "2247509988_2",
-    "title": "硬核少年技术节5.0抢鲜看！四大AI成果首发，报名即将截止",
-    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247509988&idx=2&sn=d9bf2c3466714c8c59fd844419f90d88&chksm=cfa6b707f8d13e117a52ddba892ce8fbc5f95251692f637b2656301d9f2cb18cf6d7087962c9#rd",
-    "publishTime": 1783510584,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/kN3t5R6pdz75jbiaZDNnqdMRIchBnhSlTu60icbh3JVxxfLu0x0PCeQWTC5TcLvOzib3IMjUtciaRib2cxYibcGlgicDuChFlJDwplyib4fe2CLWufw/0?wx_fmt=jpeg",
-    "digest": "7月20日至24日，硬核少年技术节5.0将在杭州和北京两地同步启幕。",
     "author": "",
     "feedId": "Mzg4NTczNzg2OA=="
   }

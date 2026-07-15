@@ -1,5 +1,15 @@
 [
   {
+    "id": "2247489185_1",
+    "title": "今日大厂员工事：蚂蚁全面禁用claude code；京东人均token 1亿变10亿；多多艺丰招租；Shein赴港上市；滴滴网约车分拆；百度MEG总监换人",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIyMzM3NDY5Ng==&mid=2247489185&idx=1&sn=102c1c7db50e3051990b93a7d121e375&chksm=e81e6aa6df69e3b080e1e37e0f6b18e98cb292ad3c60fc0433b4e6f08f16934da15a39ab8b56#rd",
+    "publishTime": 1784105770,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/MABFN5xh55xR52SEibby35GwOzkh9hEeCDib0zd6pkLGO2uvsggzYnm1Wiar2HJTaBJFboISFGgf9rkAIsQNxfwEUxIDJ0LAECSFohnSXVMFLU/0?wx_fmt=jpeg",
+    "digest": "一、蚂蚁1.蚂蚁本周通知，7月20日起将全面禁用原生claude code，内部给的理由是“存在干扰模型运行和",
+    "author": "",
+    "feedId": "MzIyMzM3NDY5Ng=="
+  },
+  {
     "id": "2247489176_1",
     "title": "今日大厂员工事：小红书开启全员黑客松，一等奖50万；MiniMax又发钱了；百度网盘外包转正编；京东酒旅组织架构调整；美团零售食杂X3调整",
     "link": "http://mp.weixin.qq.com/s?__biz=MzIyMzM3NDY5Ng==&mid=2247489176&idx=1&sn=0f151a6a36e4400670c6ee91c7e62626&chksm=e81e6a9fdf69e389a39d4769f87ab30fe6931090e9f730c9db6b192c09aa426694c9ad16cf1a#rd",
@@ -46,16 +56,6 @@
     "publishTime": 1783395516,
     "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/MABFN5xh55wicJo8Y5U0e6sK6BxcZzmk8BnSTiaSrwSzw70fJFHD0MQUdaLOCIhbzTrAfibub4LicNcNTSzEKyOIZvUKjwIf2QzIOK91r99kSibI/0?wx_fmt=jpeg",
     "digest": "一、京东1.京东零售迎来大调整，从上周开始所有c4、c5在组织架构上“管理者”的身份消失，所有人直接挂靠到c3",
-    "author": "",
-    "feedId": "MzIyMzM3NDY5Ng=="
-  },
-  {
-    "id": "2247489138_1",
-    "title": "今日大厂员工事：美团限用豆包大模型；鹅厂token机制更新；百度朱广翔晋升；字节外包偷零食；蚂蚁网商组织架构大调整；QClaw张舒昱离职",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIyMzM3NDY5Ng==&mid=2247489138&idx=1&sn=e89be5ae91df9610dc83a753d8a316a7&chksm=e81e6a75df69e363ff87c701e159010a102534092d9aab3773c602e257ddd1a3cd2a852ec779#rd",
-    "publishTime": 1782963602,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/MABFN5xh55zwLziabHWIIzPAGhykibymvkjGzAZ7WYBMLX8nDEUdia6hKES40wqbaGwNDXWfp1CEXveD0lbLQ3ibanjUyUUJrnpzjFkqW8Agtm0/0?wx_fmt=jpeg",
-    "digest": "一、美团美团内部开始限制使用豆包大模型了，本周发布通知，所有业务团队需自查并规划迁移至longcat、deep",
     "author": "",
     "feedId": "MzIyMzM3NDY5Ng=="
   }
