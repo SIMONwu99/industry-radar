@@ -1,5 +1,25 @@
 [
   {
+    "id": "2247495589_1",
+    "title": "小红书企业级 AI 个人助理——从 0 到全员覆盖",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247495589&idx=1&sn=1fcaaea018e3e0883982dd4b98767656&chksm=cfe44d52f893c44441b2cfeff14b34cd8bbd3cd1961d293c6544ba0699511f2d74a5699ff948#rd",
+    "publishTime": 1784023140,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/P9Hs04VFGRlrhVYvhrK2jib8eKSz4iauFJE9IhoNwrw1HlusUfEmWoHCfJVgwcVxstATJzR5yp6gfTOKD86nnwHpQicHQjX0hBvFNkuFNeXTNk/0?wx_fmt=jpeg",
+    "digest": "小红书QEcon分享回顾：企业级AI助理的全员部署之路",
+    "author": "",
+    "feedId": "Mzg4OTc2MzczNg=="
+  },
+  {
+    "id": "2247495562_1",
+    "title": "小红书发布大模型新架构 PIPO ，让模型一次「吞两个、吐两个」",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247495562&idx=1&sn=a43b49635496a320685c2479efef1b99&chksm=cfe44d7df893c46bdc4f7d6b5c77e2a2cd51c98ed812d34bd4a87b88ef67c86f5a960a72f400#rd",
+    "publishTime": 1783677540,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/P9Hs04VFGRnDVoaPSepIiaBjorAiaUw96tOYz0e1XSEAicaEpiak3kXkibeUnibW6teoGSm48KUCxTmdxXHWlibIFJjJblVB3ZHqLUiaPb0OPBp8B1I/0?wx_fmt=jpeg",
+    "digest": "大模型高效推理新架构",
+    "author": "",
+    "feedId": "Mzg4OTc2MzczNg=="
+  },
+  {
     "id": "2247495539_1",
     "title": "让 KV Cache「按头分家」：小红书 RedKnot 如何重做长文本推理新引擎",
     "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247495539&idx=1&sn=c0238f5aa0c757841d8509f9e620ab34&chksm=cfe44d84f893c4928d1bbe8ef1c650dbb5de88a267e4654ce7a75895e6a488b5febf3512630d#rd",
@@ -26,26 +46,6 @@
     "publishTime": 1782212488,
     "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/P9Hs04VFGRmOC8OiaduQnQ6S758NUv49paib7VgnCyxqpXT4k9CrQXpNeFZqpM7EEXpIibn4oWZw98GCska3adukZQ4sNVhibuH3oXz20Qusb50/0?wx_fmt=jpeg",
     "digest": "从流程编排到意图驱动，Agent 自主完成测试",
-    "author": "",
-    "feedId": "Mzg4OTc2MzczNg=="
-  },
-  {
-    "id": "2247495414_1",
-    "title": "小红书数据平台部 ICDE 2026 新成果：RedParrot 以语义缓存加速企业级自然语言数据分析",
-    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247495414&idx=1&sn=3f8e8207b3fee0149054a4260a69423a&chksm=cfe44c01f893c51742a1624fca1f2136d9db78e7fd00fed528ac507deea36dd3648826761d0d#rd",
-    "publishTime": 1781690340,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/P9Hs04VFGRmfCRQgalNUa9Wht3o8RBaoJeiaPWDL1wvYE0CsPUibq938o7CaX5ibnrym77KTmZ4W5mKu9yzuW2tLspYy5ePG1TVrorYASY00u4/0?wx_fmt=jpeg",
-    "digest": "近日，小红书数据平台部联合浙江大学在 ICDE 2026 发表论文《RedParrot: Accelerating NL-to-DSL for Business Analytics via Query Semantic Caching》",
-    "author": "",
-    "feedId": "Mzg4OTc2MzczNg=="
-  },
-  {
-    "id": "2247495297_1",
-    "title": "小红书多媒体任务调度系统的演进优化",
-    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247495297&idx=1&sn=735c23c396fc39d6fbe04ad9bb503d14&chksm=cfe44c76f893c5609b984f2e9cfb6fa96aa71dd27e40a475f1430f6f1b7ab5725275d3d8d45c#rd",
-    "publishTime": 1779876000,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/P9Hs04VFGRkl2ic8vRS9fAhokbVzicd87dtd9Zs7SMbiaw65BLH46bzgPHbtsaQ9DibfNsJd39T3iazlmaG2stic61T0IQibwvJYxX0nZyZ3h3nloA/0?wx_fmt=jpeg",
-    "digest": "从RedProcess到DES",
     "author": "",
     "feedId": "Mzg4OTc2MzczNg=="
   }

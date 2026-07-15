@@ -1,5 +1,15 @@
 [
   {
+    "id": "2247485782_1",
+    "title": "美团 LongCat-2.0 开源，同步开放国产卡推理代码",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzYyMTA0NTc5NQ==&mid=2247485782&idx=1&sn=598f33facfb837dfeccfa36302866a8c&chksm=ffea781ac89df10ce0b52247ae152382d645ea8e3e861409ee8c39f59cc1f90a19fd17483986#rd",
+    "publishTime": 1783303200,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/JhVy5CXYiaojUumGVuj0Cgk3hpm5pL7ppUyapVRib9D2nvRrkL9axayFrPXRgaicdZ8VnCcsic3EUy6oiciapc2Eq6jbgTsKNl0yKtAN6WqkI0PBQ/0?wx_fmt=jpeg",
+    "digest": "正式开源",
+    "author": "",
+    "feedId": "MzYyMTA0NTc5NQ=="
+  },
+  {
     "id": "2247485752_1",
     "title": "国产芯片上跑出的万亿参数模型，美团 LongCat-2.0 正式发布",
     "link": "http://mp.weixin.qq.com/s?__biz=MzYyMTA0NTc5NQ==&mid=2247485752&idx=1&sn=121389006455818a6331af4745ba0317&chksm=ffea7874c89df1624f3fe7d5a7e89f8c3d6aad35cbbd79ea463c642999d513f430971a09e95f#rd",
@@ -36,16 +46,6 @@
     "publishTime": 1780912245,
     "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/JhVy5CXYiaohjSgN1EfW5GpT5lusnz2iabmSEC22ibdLKeg4iayMwhD1Sux5H0YjW4LJAeB0NQXxjGWTLUT5P6x2dAic3bfwicjRic3OSHBkNiasibpQ/0?wx_fmt=jpeg",
     "digest": "首测GPT-5、Claude-Opus-4.6情商分数：长期陪伴为何是伪命题？",
-    "author": "",
-    "feedId": "MzYyMTA0NTc5NQ=="
-  },
-  {
-    "id": "2247485486_1",
-    "title": "从月球漫步到赛博都市，WBench测出了世界模型的边界",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzYyMTA0NTc5NQ==&mid=2247485486&idx=1&sn=ac7f786081eccca68fce106a88b6958e&chksm=ffea7962c89df074d42b5782ccb7b8b0676520f52cc3bb1cf5ed28251ea6beb3e54a1763923b#rd",
-    "publishTime": 1779933600,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/JhVy5CXYiaogZOWwyIIwYHQicgfLo3PTdiciaDHhGKYovyI2o8ib4wgtCXly5qwS9LVWfVe9RS4DwVknczd4M0Q6lIM496jRWc1ama47FibZtAI3E/0?wx_fmt=jpeg",
-    "digest": "首个覆盖导航、动作、编辑、视角切换的世界模型基准",
     "author": "",
     "feedId": "MzYyMTA0NTc5NQ=="
   }

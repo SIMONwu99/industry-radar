@@ -1,5 +1,25 @@
 [
   {
+    "id": "2651783022_1",
+    "title": "正式开源！美团 LongCat-2.0 同步开放国产卡推理代码",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651783022&idx=1&sn=9c28dd11a4d95d5eebbb097e0a1aace0&chksm=bd1226238a65af356eb3e9ab304b84b7a906f032d54abbe9fb0d9c4705d7ea2b833434a966c3#rd",
+    "publishTime": 1783598280,
+    "cover": "http://mmecoa.qpic.cn/mmecoa_jpg/V95GN2mm0DxAgmGtyic3JniavrhDcnTRibLQPjPiaFxJWw4KRYOZJBiaRWNeWeRfnlTlib1NVC8BsmgKDf94NzoWO3pI4a5WveN6jvzkpzxfjGWVw/0?wx_fmt=jpeg",
+    "digest": "正式开源！",
+    "author": "",
+    "feedId": "MjM5NjQ5MTI5OA=="
+  },
+  {
+    "id": "2651783022_2",
+    "title": "直播回放·含 ACL'26 杰出论文 | 美团 AI 顶会论文 32 篇精讲",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651783022&idx=2&sn=70a24a57f04f2b5246afba77d455df8e&chksm=bd1226238a65af356a45bbe4b9360c3f48e36ba358d44821eb7c0654f197d317aa50ade356f2#rd",
+    "publishTime": 1783598280,
+    "cover": "http://mmecoa.qpic.cn/sz_mmecoa_jpg/V95GN2mm0DxmF7S45t9BT18mb4Pv2Ip8Nxcep8Zlic3XhQFMsibJu3GBMOuJ5hkcEIdPT6dvuOWTJdwBgcU0PTwMI5fGn37QZXlAicA93RGp28/0?wx_fmt=jpeg",
+    "digest": "含大模型推理、智能体记忆与自进化、代码智能、多模态交互、超高清视频生成、本地生活搜索等方向",
+    "author": "",
+    "feedId": "MjM5NjQ5MTI5OA=="
+  },
+  {
     "id": "2651782957_1",
     "title": "美团 LongCat-2.0 正式发布：在国产算力集群上完成全流程训练与推理的万亿参数模型",
     "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651782957&idx=1&sn=2fc04d07a71f97ca4bd367d6a8dcc4de&chksm=bd1226608a65af763b1b5133a379fb592439a98d9fd94ca72d4487cb5a8ab132353cdbd8e217#rd",
@@ -66,226 +86,6 @@
     "publishTime": 1781179080,
     "cover": "http://mmecoa.qpic.cn/mmecoa_jpg/V95GN2mm0DyteWLKgiakJc0JicNuGHN2CKFMCEVjFibfpav2HBPsQDAl61DkebDgtaJBHQEB4JxPzjqBgOu9BmCnymicmFfING6TRCiaaudwWAls/0?wx_fmt=jpeg",
     "digest": "6月17日 周三下午，线上直播！",
-    "author": "",
-    "feedId": "MjM5NjQ5MTI5OA=="
-  },
-  {
-    "id": "2651782776_1",
-    "title": "美团LongCat大模型人才校招全球启动",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651782776&idx=1&sn=7d8d86a3f682ddefdaef2e28de4c0041&chksm=bd1227358a65ae239d32768514382403445e9a9bb0e15ffee83a40d5ef086917d386248cd0d2#rd",
-    "publishTime": 1780626240,
-    "cover": "http://mmecoa.qpic.cn/mmecoa_jpg/V95GN2mm0DyPREzRxbaZ0ZDuicOhbO7kcFrjdIkExOibHBRGFwYhtBrczXS5eHvicZoQkrDclBcdEHakIuib0HiaWZtNEewXMgJf1yfZ3mRcHoiaI/0?wx_fmt=jpeg",
-    "digest": "加入我们，一起构建从数字世界到物理世界的全球标杆AGI",
-    "author": "",
-    "feedId": "MjM5NjQ5MTI5OA=="
-  },
-  {
-    "id": "2651782776_2",
-    "title": "美团2027届北斗计划全球启动",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651782776&idx=2&sn=311538426bad314df172f14b522b1138&chksm=bd1227358a65ae23885f62e9c21b3453bd73221af63ae9287a8a31732ff7ba67015e83835fc2#rd",
-    "publishTime": 1780626240,
-    "cover": "http://mmecoa.qpic.cn/mmecoa_jpg/V95GN2mm0DzFuwLqJdbtaC4wEdMEgI7xVfMSEdZibcbybliczhd7E9OO5zFgSLB5iaStmndGo3chUbEd9RiaDuytrRm85HEj0ymrqIs7AOz1Mpw/0?wx_fmt=jpeg",
-    "digest": "我们热切地邀请大家和美团一起挑战前沿技术难题，打破科技发展的边界",
-    "author": "",
-    "feedId": "MjM5NjQ5MTI5OA=="
-  },
-  {
-    "id": "2651782776_3",
-    "title": "报名｜ACL'26 美团中稿精选：从能力评测到推理优化，构建生成新范式",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651782776&idx=3&sn=77c72b469a871b499a46fe06be73225f&chksm=bd1227358a65ae2302e696ecfb50194f39e15ee0d2093f7f76908d8b86a4b050994a0a05adcc#rd",
-    "publishTime": 1780626240,
-    "cover": "http://mmecoa.qpic.cn/sz_mmecoa_jpg/V95GN2mm0DwsmR6AxGF9PYkXIbkK0Soa0kfPtL4WWQibgQuiahXgjTWU4EWj2sLK3oibS2My4PhKKp9fhHqfSjeV38O3Hia2sdffKf56bcYoaIA/0?wx_fmt=jpeg",
-    "digest": "6月11日 周四下午，线上直播！",
-    "author": "",
-    "feedId": "MjM5NjQ5MTI5OA=="
-  },
-  {
-    "id": "2651782526_1",
-    "title": "清华美团数字生活研究院五周年，一场科技与美好生活的双向奔赴",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651782526&idx=1&sn=ebbe054ccd2922ff1ce26c54c3007269&chksm=bd1224338a65ad25c708df06bab020a5a000448acb7ce0ce128354352f1a0b3e73bbf21316d2#rd",
-    "publishTime": 1776945480,
-    "cover": "http://mmecoa.qpic.cn/mmecoa_jpg/V95GN2mm0Dw5giboAjAhUUKuRzr5gRGr4ibpqds5VU6GC4ddon9U5TTsM09tCf3E6y6cdicPmn7KNJrwwjqAQr4hK5Avg9McZPssDnjR2sibodE/0?wx_fmt=jpeg",
-    "digest": "五载同行，数字生活，步履不停",
-    "author": "",
-    "feedId": "MjM5NjQ5MTI5OA=="
-  },
-  {
-    "id": "2651782526_2",
-    "title": "LARYBench 发布：定义具身动作表征 ImageNet，首次度量从人类视频学习的泛化表征",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651782526&idx=2&sn=b65922b008289d429050a655ce8d62a0&chksm=bd1224338a65ad259be6d0751d43ad02bb5b29c0d5d8f9d5e4081aaaab07e049f5dce6e8f451#rd",
-    "publishTime": 1776945480,
-    "cover": "http://mmecoa.qpic.cn/mmecoa_jpg/V95GN2mm0DxSRlRrpqrLqkgX4vW1ZyhvQsV1lUgW5Tt5p528DJq714gjBnicghufTg3HHqkp0uSp66OAMflSH3SBXxicLSkmAzap7l5r59U1Q/0?wx_fmt=jpeg",
-    "digest": "一个指引从大规模的视觉数据学习到通用的隐式动作表征的系统化评测基准",
-    "author": "",
-    "feedId": "MjM5NjQ5MTI5OA=="
-  },
-  {
-    "id": "2651782526_3",
-    "title": "30万+元奖金池！美团校园 AI Hackathon 大赛等你来战",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651782526&idx=3&sn=e240fa4aed4aefbcf5c974d1f41aeebb&chksm=bd1224338a65ad25eeff81b8eb04dee14be3474e27caaaeebcef09021ac22383486aca8d618e#rd",
-    "publishTime": 1776945480,
-    "cover": "http://mmecoa.qpic.cn/mmecoa_jpg/V95GN2mm0DxdtIeZXMeOlrdnQUsJQQ88iagb71QcODtwjgteAomLiam8H7y1tLf9tJOeXcOKdrxD12pucic8sFibExibX8rNvcaYS7atBQMb45UY/0?wx_fmt=jpeg",
-    "digest": "奖池30万+直通实习offer！让科技融入烟火，用AI定义未来！",
-    "author": "",
-    "feedId": "MjM5NjQ5MTI5OA=="
-  },
-  {
-    "id": "2651782487_1",
-    "title": "2026 美团 LongCat 大模型 | 北斗实习计划",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651782487&idx=1&sn=dfce83cc7227922a2b8d6ce270efd9e5&chksm=bd12241a8a65ad0c48c5f63e56835c623a77c4c156850b6d4c1108944f250a6c3c1b475332fe#rd",
-    "publishTime": 1776340680,
-    "cover": "http://mmecoa.qpic.cn/sz_mmecoa_jpg/V95GN2mm0DzmfSqgiaTQMAeqDK9MLroRsTSW40zzicxMgjVnfS0rPkG9rrRoaQiccJKeKmBMQEfHKX8koUDb6sscj0BZMSgA7w9930x7ItUaXQ/0?wx_fmt=jpeg",
-    "digest": "加入美团，一起成长",
-    "author": "",
-    "feedId": "MjM5NjQ5MTI5OA=="
-  },
-  {
-    "id": "2651782487_2",
-    "title": "突破零样本TTS音色克隆上限：LongCat-AudioDiT 的声音克隆艺术",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651782487&idx=2&sn=991d57491cdf2364a9245cc301782044&chksm=bd12241a8a65ad0cdcc3dbf084a97910b36186d1f8933eeb9f4ef343d38ca98189a9d2861268#rd",
-    "publishTime": 1776340680,
-    "cover": "http://mmecoa.qpic.cn/sz_mmecoa_jpg/V95GN2mm0DyhqNloOcIqgMVPiaXVGcAL5VDeTv7FR0SWFAXicsaU7IIFZmzbGOoGekZk4FB4zYLQxNvcQibZAHGuHDhA2vFw0OBvRoucbxzQJw/0?wx_fmt=jpeg",
-    "digest": "能不能让 AI 直接学会声音本身的规律，跳过中间环节？",
-    "author": "",
-    "feedId": "MjM5NjQ5MTI5OA=="
-  },
-  {
-    "id": "2651782487_3",
-    "title": "MARS TALK 香港大学站｜具身智能的技术演进与商业化进程",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651782487&idx=3&sn=10a199d3b2153fb0c4d2e784e4d41d46&chksm=bd12241a8a65ad0ccff9b9d21b1adc907bc263b0f391ea4b98d2ded17e89f90d68e6eef3ac21#rd",
-    "publishTime": 1776340680,
-    "cover": "http://mmecoa.qpic.cn/mmecoa_jpg/V95GN2mm0Dz88ibkvH326ExFhicBp8U0l3GIOvSnc6eacB8mrcJWEndibLYz4B0Vz7icRicVTyUuT2csPlzPmTXCHqIXKy4ADoeBdZ5uKdtFC9IY/0?wx_fmt=jpeg",
-    "digest": "线上线下报名同步开启，点击预约解锁前沿观点，一同碰撞思想火花。",
-    "author": "",
-    "feedId": "MjM5NjQ5MTI5OA=="
-  },
-  {
-    "id": "2651782453_1",
-    "title": "2025-2026 | 美团科研合作优秀课题获得者名单公布",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651782453&idx=1&sn=aabdfef9c2bc3cc7469378ab0b25e973&chksm=bd1224788a65ad6e14a7ec574ce6f9e338535943c3c90be37a480a07094bc7d88cb43f7e2058#rd",
-    "publishTime": 1775735880,
-    "cover": "http://mmecoa.qpic.cn/mmecoa_jpg/V95GN2mm0DwtqQibeaCyVfEMI5zQHc9GZ8LKXRx2EPep1xZlZIEIBMfVa7yfibCpZgwo2b6BT3PxRXXokD3Q3QQCGvickb1EJolOIuxLymW0dM/0?wx_fmt=jpeg",
-    "digest": "最佳合作奖 2 项，卓越实践奖和卓越创新奖各 4 项。",
-    "author": "",
-    "feedId": "MjM5NjQ5MTI5OA=="
-  },
-  {
-    "id": "2651782453_3",
-    "title": "2026 美团科研合作课题 | 公开征集进行中",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651782453&idx=3&sn=7851037f25c5972076cdcb2e355005ac&chksm=bd1224788a65ad6e47f778a09600db13580282e573a2006aff90df3253f80d8ace055fd66f13#rd",
-    "publishTime": 1775735880,
-    "cover": "http://mmecoa.qpic.cn/mmecoa_jpg/V95GN2mm0DyU59ibxXuF15GYlKWMuFbowF2W3AYRt4qBdtaNPI6O8TQqG5wA0lQm5mNQlBKoK5z5I0zzN7icAkyptuBvbykmQVBJPl0DUgs1g/0?wx_fmt=jpeg",
-    "digest": "欢迎各位优秀学者申报",
-    "author": "",
-    "feedId": "MjM5NjQ5MTI5OA=="
-  },
-  {
-    "id": "2651782437_1",
-    "title": "美团发布原生多模态 LongCat-Next：当视觉和语音成为AI的母语",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651782437&idx=1&sn=42cd63e1238b0c841a4ef137049d018b&chksm=bd1224688a65ad7e232f184792986cb4d4fa22f41a59efd1705f2b42b8c9715224b01dbb6833#rd",
-    "publishTime": 1775131080,
-    "cover": "http://mmecoa.qpic.cn/mmecoa_jpg/V95GN2mm0Dz2oia5LRmwvIUgFvcwZ686Mxbia49RvMARqLBOib8j4fosY0raYHMoc4EWLwnHh1YWd0U7ard86maLXxQnnOQC6q1FJiaSOQWkkBs/0?wx_fmt=jpeg",
-    "digest": "一起构建真正能感知、理解并作用于真实世界的AI",
-    "author": "",
-    "feedId": "MjM5NjQ5MTI5OA=="
-  },
-  {
-    "id": "2651782437_2",
-    "title": "LongCat-Flash-Prover：AI 攻克数学定理证明，不仅要“算得对”，更要“证得严”",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651782437&idx=2&sn=d2cdd9b2ca84834eb5746bbcfdce139d&chksm=bd1224688a65ad7eb523af3e93142ad608ec2bd34768f7ea0ba43a05261c574e977ed109f261#rd",
-    "publishTime": 1775131080,
-    "cover": "http://mmecoa.qpic.cn/sz_mmecoa_jpg/V95GN2mm0DzXHXTCDriaHDLTBWD3mN2S2CCkdz0oJGoTNfXyOowEyGDpvXlvar6okDgic3tWJ5b4uwphXUR1rMHc5mwPSRBeRiblcoMuP9oKMw/0?wx_fmt=jpeg",
-    "digest": "AI 攻克数学定理证明",
-    "author": "",
-    "feedId": "MjM5NjQ5MTI5OA=="
-  },
-  {
-    "id": "2651782413_1",
-    "title": "2026 美团科研合作课题 | 公开征集启动",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651782413&idx=1&sn=060ff0526e84e1813875104a55c1f0c2&chksm=bd1224408a65ad56bdd2423de49a64f9765bcb054cdc3da98ba0d71834543a640573038310ec#rd",
-    "publishTime": 1774526280,
-    "cover": "http://mmecoa.qpic.cn/mmecoa_jpg/V95GN2mm0DyU59ibxXuF15GYlKWMuFbowF2W3AYRt4qBdtaNPI6O8TQqG5wA0lQm5mNQlBKoK5z5I0zzN7icAkyptuBvbykmQVBJPl0DUgs1g/0?wx_fmt=jpeg",
-    "digest": "",
-    "author": "",
-    "feedId": "MjM5NjQ5MTI5OA=="
-  },
-  {
-    "id": "2651782413_2",
-    "title": "报名｜ICLR 2026 美团学术论文精选及分享会（下）",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651782413&idx=2&sn=ae930bc2de3edc4fae60d6540e2e71ed&chksm=bd1224408a65ad565ea7d7848286542b0be6c700f5a36d76fc8bdf675910d962041f4fd3fa59#rd",
-    "publishTime": 1774526280,
-    "cover": "http://mmecoa.qpic.cn/sz_mmecoa_jpg/V95GN2mm0DyTbUkuicrR9OOSiafPeAtyiaa0dfhVsJZtJ3qrjcIgJAicWrJhicmMg7s42GAk4J1qia9va3Nw3A5MlUjrheED6iaaJbkU648vBGabrg/0?wx_fmt=jpeg",
-    "digest": "论文分享会将于 4 月 9 日（周四）下午线上直播~",
-    "author": "",
-    "feedId": "MjM5NjQ5MTI5OA=="
-  },
-  {
-    "id": "2651782172_1",
-    "title": "互动有奖 | 美团技术年货加更，活动沉淀来啦！",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651782172&idx=1&sn=bd821367fc1f3475739c43302a62cb9c&chksm=bd1225518a65ac47256b2bc61bf2774a13b882deb044544d2810687907d5a2ef12a8f714a218#rd",
-    "publishTime": 1770206280,
-    "cover": "http://mmecoa.qpic.cn/sz_mmecoa_jpg/hEx03cFgUsWws4BM3Hvw3QNe80uOI7l49RMP1stO5Cmwv60Q2Nmr5h2DJdlw01zUcoibUz0WC34tRibmiaiaBictZkw/0?wx_fmt=jpeg",
-    "digest": "参与互动赢新年大礼包（实物礼盒）~",
-    "author": "",
-    "feedId": "MjM5NjQ5MTI5OA=="
-  },
-  {
-    "id": "2651782134_1",
-    "title": "2025美团技术年货，「马」上到来 | 内含新春福利",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651782134&idx=1&sn=c1b0c82f9ddd9772dc4c33fbe779db23&chksm=bd1222bb8a65abada26cdc2ae0ae34d861af1efae769aedd21320a4d9130641ef2b41b8b4ba5#rd",
-    "publishTime": 1769687880,
-    "cover": "http://mmecoa.qpic.cn/sz_mmecoa_jpg/hEx03cFgUsWfwA8YMDkl3BUR2Kibza0msRvcDqhJlKbo7gicUsp6we62LnIJNr6V1IyLXSH9SeW2Sf2YGYmctmEQ/0?wx_fmt=jpeg",
-    "digest": "感谢伙伴们的并肩前行与坚定支持！祝大家新春快乐~ ~",
-    "author": "",
-    "feedId": "MjM5NjQ5MTI5OA=="
-  },
-  {
-    "id": "2651782134_2",
-    "title": "多维创新打造强泛化智能体模型，LongCat-Flash-Thinking-2601技术报告发布",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651782134&idx=2&sn=c24279b767c35afc1733cb7d1f73f3f3&chksm=bd1222bb8a65abad24ce83d89403500c07f2563a61ea495d0a273d3385c129e6e7ca7237c795#rd",
-    "publishTime": 1769687880,
-    "cover": "http://mmecoa.qpic.cn/sz_mmecoa_jpg/hEx03cFgUsW8KXOiaaJRYXsMF3CtNpicEOqf48TQPjRVf1bC36lRxte6z1S0RNoNKbI9fGMKDmHsAbuUxEcRToyg/0?wx_fmt=jpeg",
-    "digest": "深入解析 LongCat 如何通过多维度的创新打造强泛化的智能体模型",
-    "author": "",
-    "feedId": "MjM5NjQ5MTI5OA=="
-  },
-  {
-    "id": "2651782084_1",
-    "title": "美团EvoCUA刷新开源SOTA，会用电脑还会持续进化的智能体",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651782084&idx=1&sn=98560b56a5902e9b4c19421be46084e6&chksm=bd1222898a65ab9fd5894f3a4e218902fffb70e62e86b431bf6d8cb050fac049dafc91852cd5#rd",
-    "publishTime": 1769135040,
-    "cover": "http://mmecoa.qpic.cn/sz_mmecoa_jpg/hEx03cFgUsVxfF6ltFNej8JR7DiclLW156WNmYAuNlOXOgbnRV8j57CynZzmf6Jrf3LOZrS9ibFJz4hiapk0u6ltQ/0?wx_fmt=jpeg",
-    "digest": "EvoCUA致力于构建一种进化范式，让模型在大规模沙盒环境中，像生物进化一样，通过不断的试错，反思和修正，积累海量成功和失败经验，进而不断提升自身能力。",
-    "author": "",
-    "feedId": "MjM5NjQ5MTI5OA=="
-  },
-  {
-    "id": "2651782046_1",
-    "title": "美团 LongCat-Flash-Thinking-2601 发布，工具调用能力登顶开源 SOTA！",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651782046&idx=1&sn=37fcf6232a7fe28ea7ae364440ba57fc&chksm=bd1222d38a65abc5e25a9916d734a34e27c0983fdc05d9840764f48ebc5e67680da52fc83aa9#rd",
-    "publishTime": 1768543200,
-    "cover": "http://mmecoa.qpic.cn/sz_mmecoa_jpg/hEx03cFgUsVic1cugJiaVepdhLicGicYtpsva5SbibiaibEPu9cglR7hliaFPRAiaa9OS7V4AicMnmboPrvLpBveVYntu7Jg/0?wx_fmt=jpeg",
-    "digest": "仿若 8 个大脑飞速运转，快来体验吧～",
-    "author": "",
-    "feedId": "MjM5NjQ5MTI5OA=="
-  },
-  {
-    "id": "2651782032_1",
-    "title": "KuiTest：基于大模型通识的UI交互遍历测试",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651782032&idx=1&sn=9b1728779520bef2ecb230f6f6543942&chksm=bd1222dd8a65abcb5ff5e3575adadfeb7ff1c132f9cb41fe9004e3217a4cdf9fbae3e97326d8#rd",
-    "publishTime": 1767873480,
-    "cover": "http://mmecoa.qpic.cn/sz_mmecoa_jpg/hEx03cFgUsUNghaGI9tHJ5A85sOAJmkItQlSnF9eIBTXhNQ8xoGyVtUTbsHhLbmy3oAmibTiciasy3OKciaiaicPNnFg/0?wx_fmt=jpeg",
-    "digest": "美团质效技术部联合复旦大学周扬帆教授团队推出KuiTest——零规则UI功能性异常测试工具。",
-    "author": "",
-    "feedId": "MjM5NjQ5MTI5OA=="
-  },
-  {
-    "id": "2651782032_2",
-    "title": "报名 | 美团技术沙龙第88期：美团大模型交互系统 WOWService 深度解析",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651782032&idx=2&sn=cc4130f5c2bf6003e648ecb861741c9f&chksm=bd1222dd8a65abcb919f4e698cb0e788f533aa1797f04258e9df3f2b87761ab50ab6a05d1506#rd",
-    "publishTime": 1767873480,
-    "cover": "http://mmecoa.qpic.cn/sz_mmecoa_jpg/hEx03cFgUsUNghaGI9tHJ5A85sOAJmkIo55zKWPBWAib8sDvZcrhfibJ1kQib0UexO3gRJibo24WUS2QUqYlmzr0uQ/0?wx_fmt=jpeg",
-    "digest": "1月22日（周四）14:00-16:10 线上直播",
     "author": "",
     "feedId": "MjM5NjQ5MTI5OA=="
   }

@@ -1,5 +1,135 @@
 [
   {
+    "id": "2651044420_1",
+    "title": "10000小时人类数据，练出全球首个全身移动操作隐式世界动作模型",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651044420&idx=1&sn=011101891539d31a417d203360357b6d&chksm=84e67e3ab391f72c1a6856dd969fe17f1830266c66254d2ee9bc2ae4813e9a4d3c05af89b6a7#rd",
+    "publishTime": 1784073714,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqFuBHqqbrX2cL1SMwTeH8REekxxouPibFujw2XcQYVNeMSicjMNicfERq2dUrEUwsS5DsjaKV0wjZwsDGWBTBaCkRDcNbZia4vYGZU/0?wx_fmt=jpeg",
+    "digest": "这是全球首个面向人形机器人全身移动操作的隐式世界动作模型",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
+    "id": "2651044420_2",
+    "title": "视频通用模型来了！DeepMind 再证「生成即理解」，何恺明参与",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651044420&idx=2&sn=a3a01083258cc80a1c1c78fc4c3446c0&chksm=84e67e3ab391f72cfafd6125139ac87e0f1183a2d2c25fc9d3d554bb4fac0b491c8edd70eafd#rd",
+    "publishTime": 1784073714,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqFFAvl0YYMEgFWqk7vtVmJB3V8Lq9k6UItA7Pz5Q35qNolwaBpnDrqibD2vyOpYhtHrOVvCoys8ibM23KpYTzglt5XsKtxZTTFIg/0?wx_fmt=jpeg",
+    "digest": "能生成，就能理解。",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
+    "id": "2651044420_3",
+    "title": "3步推理生成加速20+倍！CoLT教会多模态大模型用「潜思维链」思考",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651044420&idx=3&sn=df13d7f8f1e20f5078af81241e87ae5f&chksm=84e67e3ab391f72c3a70f053d911b867b9c470ae710e9cd5a79b048cebdf6043aa7ea91f20b9#rd",
+    "publishTime": 1784073714,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqHrI8k5CibByrkEKlTtuKEXGggbdoJDerHcJJJic93Nv6foF7vqaHbxRLNGGbKqg6rSZQHjsEaGTggrI7jfic5julic0Hb30nPpicxo/0?wx_fmt=jpeg",
+    "digest": "CoLT：Chain of Latent Thoughts，潜思维链",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
+    "id": "2651044179_1",
+    "title": "鸿蒙为何选中一家世界模型「狂想者」？拆解极顶数创的AI 3D底牌",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651044179&idx=1&sn=c48e11247664eac72f69339baa6a86ea&chksm=84e67d2db391f43bd8a3f83ba649e99d50e22a2713f750b4d575194263c8b394addb5ff374a0#rd",
+    "publishTime": 1783996239,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqGT06GMficUVkEG5olFmxibEA7RsibkJiaOw8UvjGCZ4qha0eLVYSgzZzE9Np3hjeEEGiaiasS527vIZc8Xku2HNMQrCPx65stbBd1Fs/0?wx_fmt=jpeg",
+    "digest": "3D生成进入「所见即所得」时代！",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
+    "id": "2651044179_2",
+    "title": "AI越会回答，人为什么越需要深度思考？复旦发布2026人文社科智能发展蓝皮书",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651044179&idx=2&sn=41f75476ca9dadd16a7d0badf7c945f9&chksm=84e67d2db391f43b9b81aab8cee241ba05c0a8a3091a13710e51b083beccf260014d13a494d0#rd",
+    "publishTime": 1783996239,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqF5hqTnWbeRG5wyZkz3tV21Rnk6BdzctTNWeFj5DQe6rIZZKmc0nKbOnvwtWziaSLAMxt8GykMRLNddlMXLD0AHibE0D5h0H69A4/0?wx_fmt=jpeg",
+    "digest": "AI 时代，人文社科如何回应真实世界？",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
+    "id": "2651044179_3",
+    "title": "AI也会「看人下菜」？Anthropic勾勒出了Claude的价值观画像",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651044179&idx=3&sn=dd0da99a94a521036e5ffbda614933b2&chksm=84e67d2db391f43b64eee9566af6cb0d41677fe4aad74088c871e1d295af497eb6a7de9d1671#rd",
+    "publishTime": 1783996239,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqFcTJAVfNNHZbE85iaBSG26YvoSX7pVAp2m3ElIkbh91ibVJZozsSO01jFAbL0umGbZZO9aXaaZjpwhgcFibjlFSjYDxuS7lrSiaic8/0?wx_fmt=jpeg",
+    "digest": "同一个Claude，换种语言就像换了个人",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
+    "id": "2651044025_1",
+    "title": "Codex封号、Claude查证件，而它选择了免费且不限期",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651044025&idx=1&sn=e7268436ea4de9b8c561b77e1adb6990&chksm=84e67cc7b391f5d11c929bc5ff82649eff7abe2e84661d1b38c60e6d470ef996697dda03e446#rd",
+    "publishTime": 1783915232,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqF4d6svDsptXFiad8kiadvfwFBK5Q7sbvKdr0AfcCib7SfJwLKv7prM0zuEfhAAVJZKrad2ibDbN37fLyTicPXvYPW2FDicnQcUDNmAY/0?wx_fmt=jpeg",
+    "digest": "Agnes-2.5-Flash+AgnesCode，还有近期将上线的Agnes-2.5-Pro",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
+    "id": "2651044025_2",
+    "title": "宇树科技牵手湖南钢铁，一家物理AI公司浮出水面",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651044025&idx=2&sn=857b00344b86c7c9654c2ee53d51738a&chksm=84e67cc7b391f5d16b856ad294390f016c671597b8a7c0262c0e9e23a01919cdd11df437de3c#rd",
+    "publishTime": 1783915232,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqFCOGA8v99DzBrnV38MU4lXX8qbK9UCYRecPn2ojbyzphZKDvCJJEtA7iaCbhyakvxN9wm6icIiaFQuZrxKenyMlAMeVvvzAFhib4Q/0?wx_fmt=jpeg",
+    "digest": "机器人开始真正进工厂干活",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
+    "id": "2651044025_3",
+    "title": "ICML 2026 | 突破极限！港大提出首个适配300+任务的持续学习架构，破解遗忘难题",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651044025&idx=3&sn=329919b9bb8108ddc5d0f84bf942ff8c&chksm=84e67cc7b391f5d1fb4f8b88c53a4bbd136d5a6c9447c17376fc05de3b272292a3f2eadccae6#rd",
+    "publishTime": 1783915232,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqHxZiaDOic0Pmiab1iagVYibGoa8iaKgbvVU34IGTcibfBs7QAtLt0wM7eecURdHFliayA2WYOiaNkRV5smt2B3ZNfVx1N2AV2ZYWqeTFhY/0?wx_fmt=jpeg",
+    "digest": "一种全新的持续学习范式",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
+    "id": "2651043906_1",
+    "title": "98年哈工大教授带队，破晓智能要把触觉写进机器人基础模型",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651043906&idx=1&sn=f8bd8f3ee9b7bb634d9a4dea3eeb3545&chksm=84e67c3cb391f52a7543d26c5d1a6ae287f6ced43ab6e500995ac4f218624599958aa313ccad#rd",
+    "publishTime": 1783827123,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqG8AYpzEhQic9W4ia3OG3iaNcqn9WWibqxaKESdF7mNmROKocdIYsz1URdiczRyxSlroiaJG9ClKILrJh52I6VBvE1tq8vugr09jukicc/0?wx_fmt=jpeg",
+    "digest": "视觉告诉机器人动作像不像成功，触觉决定成功是否真的发生。",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
+    "id": "2651043906_2",
+    "title": "ICML 2026｜让奖励模型更准更高效，TikTok、NUS提出置信度门控",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651043906&idx=2&sn=b664726db41281efe1ba814d26ae887c&chksm=84e67c3cb391f52a25343cb781e1ae68d3aa69c154aecf0229d6643e2dc9f04b6b8986be9b26#rd",
+    "publishTime": 1783827123,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqFQiaXcrE4ibpURIMzMUlUflLeKcMKroBXITrohgynV9KY2vx3Zj38InAcJPEPrZjKzfvSuFqLwYdSWLro9ykKu1BmiaogqdwWDp0/0?wx_fmt=jpeg",
+    "digest": "不要让模型无差别地思考，而要把计算花在真正困难的地方。",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
+    "id": "2651043860_1",
+    "title": "从验证Demo到冲刺IPO，AI企业为何更需要一座「产业小镇」？",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651043860&idx=1&sn=f629c7404d4e89e90478f11b860e7899&chksm=84e67c6ab391f57ce2ef9aae95262b3ae6e3eb376219a217607605b25195ec4d0e2807ab1a8f#rd",
+    "publishTime": 1783746257,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqFZswrjWRbpia3ZXLPJTRicpq9SY8QEpZKVaQWGIamkwWv4mcGGrxU7GkhXqRPlaXI3zBImDSCezCnTzf1WNZRIgAO7SIgWNZVnk/0?wx_fmt=jpeg",
+    "digest": "超过 600家 AI 企业涌向这座 2 平方公里的「小镇」。",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
+    "id": "2651043860_2",
+    "title": "仅11天，Claude重写百万行代码，AI史诗级工程却引来愤怒",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651043860&idx=2&sn=97c8f838e97a33452ca653c26acb0333&chksm=84e67c6ab391f57cd91a351ee3b54b7e6b03b42b7f161674f84358259f5034a9d0ae8963a487#rd",
+    "publishTime": 1783746257,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqH8Zs3PqfmwiauFI8MqjpicrKmmdaeMJyUB9Bd3hsnRy3XlN4BFoe15icwia1nfGIB41Yl5mZUtaAEXnic7cNX2kkNvYe5zBnaoweDU/0?wx_fmt=jpeg",
+    "digest": "这稳定吗？",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
     "id": "2651042717_1",
     "title": "清华特奖获得者顾煜贤，加入DeepSeek",
     "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651042717&idx=1&sn=28395af0bde5feb77cad693c43dc1d77&chksm=84e677e3b391fef55d226199b97a988042b518b69b069a655b1dfb5b1a9c738b841efae53ed8#rd",
@@ -166,136 +296,6 @@
     "publishTime": 1782380000,
     "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqGpex6iaX5noaMKBV3epI2zg4Tic81cWyNEO1nBJJibTdTYLiaOMdH62N5RicKFLLqqcGXL0qmicsTrGadthb8eygsLNAqFBVQAF0wiaM/0?wx_fmt=jpeg",
     "digest": "Claude Code 已经在为 Fable 5 回归做准备……",
-    "author": "",
-    "feedId": "MzA3MzI4MjgzMw=="
-  },
-  {
-    "id": "2651041184_3",
-    "title": "从「找视频」到「产视频」：快手RaG推动推荐系统迈向完全生成时代",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651041184&idx=3&sn=6acf1bdd5b66fe4b491017767aef08a2&chksm=84e669deb391e0c8326d29aa8e09be0aacfd6ed376c2d5561ea678d0d63d9ab5bd4809e84051#rd",
-    "publishTime": 1782380000,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqGuOQv3YdFlgd3vtcYUrfMPYicKfpSDFTZOOWeYJfjFZP59nZLdQ8sKXVxBwI6dJZ56LvBcOas5njaC7SZU2Jec3T7jkZqD6yxg/0?wx_fmt=jpeg",
-    "digest": "RaG 开始回答的是用户想看的内容应该长什么样。",
-    "author": "",
-    "feedId": "MzA3MzI4MjgzMw=="
-  },
-  {
-    "id": "2651040859_1",
-    "title": "从预测到干预，Aether AI为什么押注因果世界模型？",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651040859&idx=1&sn=a7702a5e0b414f9945b83d1ccccd925a&chksm=84e66825b391e133298fbf6324ccdd1092049972fd9209faf0d2360c55ca647483b74f409015#rd",
-    "publishTime": 1782270000,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqEWDczia8t5udbC6SRym0jMl0sHf5zcB7uic1RZHsGvodtUMJmaKM6Izfcto7ibnq0BIdmQsh3JBh2XjDxxyZLzicHbjU8hwT8BhEY/0?wx_fmt=jpeg",
-    "digest": "因果，可能是机器人走进现实世界的门票。",
-    "author": "",
-    "feedId": "MzA3MzI4MjgzMw=="
-  },
-  {
-    "id": "2651040859_2",
-    "title": "端侧跑大模型，现在也太简单了",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651040859&idx=2&sn=43a32b10d7d5638a408019deacbe4ed2&chksm=84e66825b391e133cd1123b373202ebff376989a5ee77e6ff34411f38b495f330574009e87b0#rd",
-    "publishTime": 1782270000,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqHicWpC0qPPNGQmj3Trib9sldk7ArafVKlqzyzm59kkIMl0sib4AeOEMFJtjnCOkDZicgJdFXG4R6sSqRiboufNM5GnSdQfp5ric2ZLQ/0?wx_fmt=jpeg",
-    "digest": "机器之心编译最近，我们都在关注旗舰级大模型的进步，其实本地运行的 AI 模型也迎来了重要的分水岭。",
-    "author": "",
-    "feedId": "MzA3MzI4MjgzMw=="
-  },
-  {
-    "id": "2651040859_3",
-    "title": "直接从像素到单词：这个原生大模型统一单图、多图、视频和空间智能",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651040859&idx=3&sn=51a0515062826e0b809ca8b2b68896b5&chksm=84e66825b391e133893ecdfc4e3e50a4482884f3e7845f11d160a059b3a5b6f3e1581ec93fe9#rd",
-    "publishTime": 1782270000,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqH8KCyxRhE9Zy95XFxVvBaWamkBEU1fp8x0sQX6cINFbGkTgnTKiabtLf2gPZRTrXm6S87HYAcmGrlqC9mbF4vTXbBY8zsTpbZ4/0?wx_fmt=jpeg",
-    "digest": "完全摆脱视觉编码器的原生视觉语言模型不仅可行，而且在规模化之后已经具备与顶尖模块化系统竞争的实力。",
-    "author": "",
-    "feedId": "MzA3MzI4MjgzMw=="
-  },
-  {
-    "id": "2651040687_1",
-    "title": "生物学的EDA时刻来了！",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651040687&idx=1&sn=2c73f012b6de7e93f6cae1ec97cbda76&chksm=84e66fd1b391e6c73b27c837061b13b9324af96dad78143bde5cb56076e21fddf760c90d73b4#rd",
-    "publishTime": 1782199129,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqG68KRg5BYVsialza7iayz4wkhU4bkic1jEQmianMwhxcHlpWoHoQMSpFDTtHg4HoXUFQ8GKo1TKHImribibUQ4kg5uM0Dj1jab7JBcg/0?wx_fmt=jpeg",
-    "digest": "深度拆解恩和科技 BPL 语言与底层验证架构",
-    "author": "",
-    "feedId": "MzA3MzI4MjgzMw=="
-  },
-  {
-    "id": "2651040687_2",
-    "title": "百度开源无限OCR，跑通长程解析，核心作者YY疑是来自DeepSeek",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651040687&idx=2&sn=11f7171bdd0d0f945fccf4d07599b020&chksm=84e66fd1b391e6c77f184c79afc2e226ebd3c1718662567eb42ccdf2b57a51bd7cf32d286316#rd",
-    "publishTime": 1782199129,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqEeMVJbEwU6icUxfARqz5mcpOeHXXG7PyKPvFctLSXUyongvVzGA2l7X6Ldsj5hGQna8DZ0TYXHicmHQRSTic96MrwQgfM1bFcbcE/0?wx_fmt=jpeg",
-    "digest": "百度 OCR 新模型拿下 SOTA：一次前向推理解析数十页文档",
-    "author": "",
-    "feedId": "MzA3MzI4MjgzMw=="
-  },
-  {
-    "id": "2651040687_3",
-    "title": "真机强化学习如何保证安全性？清华团队提出安全探索均衡机制",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651040687&idx=3&sn=6fc0e69567a4d42d3090874b5a26aef8&chksm=84e66fd1b391e6c740085be6a7ca7798655739d018c623598e9cfe35cf89d01af4a66ad27534#rd",
-    "publishTime": 1782199129,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqHVvLKKrib3U64TCEb9NeUxrvaDWsQMrs1kPfgogF6y6sdr5HEhs1Tb7hPfJzOgffPtVDnmgXfuD39vDwbmY3OQ7pmzuxLxdCao/0?wx_fmt=jpeg",
-    "digest": "让智能体在零约束违反的前提下逐步扩展可行区域。",
-    "author": "",
-    "feedId": "MzA3MzI4MjgzMw=="
-  },
-  {
-    "id": "2651040283_1",
-    "title": "AI for Computing迎来破局者，国产黑马智子芯元两个月融了两轮！",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651040283&idx=1&sn=93595b00f573595ad5eeb730d79a4868&chksm=84e66e65b391e773fa671658a6d7dbafd77481d41030036ba8cf9995c18ac6e62722652d7606#rd",
-    "publishTime": 1782102643,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqHH7DuQBvjCjUfPqOlYsMicvz2DwrMEicWsY8YmaibR3BeNDGYpwuHZlvpiaJDiaDmgZ8ibSvaQKazZSPzRRSRLp0YO6BwxC5vMLgf8c/0?wx_fmt=jpeg",
-    "digest": "AI开始接管计算系统优化。",
-    "author": "",
-    "feedId": "MzA3MzI4MjgzMw=="
-  },
-  {
-    "id": "2651040283_2",
-    "title": "何恺明团队新作：删掉VAE和私有数据后，文生图竟然更强了",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651040283&idx=2&sn=6a21a2fa2fc1a5341f29921b6d41106a&chksm=84e66e65b391e77357bdd9faba9ef58ea37916b0762436d84adb382fc8612f5c920c012684cc#rd",
-    "publishTime": 1782102643,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqEgNVKjS6OxV0VEnVFwF94zXBlJRkf26ibdg9ob5HCJw7hlNsXl8Dmria1kTBczpvtGRJeA6BtZBdkJJH5nc2OvS1SmbpK2aoViaI/0?wx_fmt=jpeg",
-    "digest": "删繁就简",
-    "author": "",
-    "feedId": "MzA3MzI4MjgzMw=="
-  },
-  {
-    "id": "2651040283_3",
-    "title": "不靠专家出题，8万条人类终端录像，炼成首个真实CLI工作流基准TerminalWorld",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651040283&idx=3&sn=cddc55f3b8a0283bc7807be994d492b8&chksm=84e66e65b391e7737abf4ad743182386150f59fbb07696bca4df7cb1cde37f98ab56070f98df#rd",
-    "publishTime": 1782102643,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqHqiaP9R1SUryM0XdrZJe8qNrtVHeGbX0qycDCbN053zJSrnqh9M1GEnezMFVjl828SarPGj3ia0zBxvJAW9iaRklv36w9l9aDxw8/0?wx_fmt=jpeg",
-    "digest": "让测评，跟着真实世界一起长",
-    "author": "",
-    "feedId": "MzA3MzI4MjgzMw=="
-  },
-  {
-    "id": "2651040234_1",
-    "title": "「机器学习之父」Jordan：Hinton等「思想领袖们」正在伤害年轻一代",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651040234&idx=1&sn=b9d20058d84b417a596123a0c7e0ce4d&chksm=84e66d94b391e4824928b06674fb12df89de6c8463ec2cb2905d309f954ec43b0979f2b33f33#rd",
-    "publishTime": 1782025426,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqEY0JeeEawLUib1JFItN4ib3j3a4YgqR1wLCcUg9TfAX4eibfxQzxB5ibLApNgTrUe8KlXVyjFOkS7RCO2OdNdHkIC1mXKYepsDWlc/0?wx_fmt=jpeg",
-    "digest": "AGI 是公关术语，把 AI 说成「理解」是在讲科幻。",
-    "author": "",
-    "feedId": "MzA3MzI4MjgzMw=="
-  },
-  {
-    "id": "2651040234_2",
-    "title": "靠零食和黑客松，能重振Meta士气吗？",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651040234&idx=2&sn=1efae613482a41c6b0722999d581576b&chksm=84e66d94b391e4827f5d4ed7537effe4e32f6a4fad00b1b774656c7b86558900040aff1b7244#rd",
-    "publishTime": 1782025426,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqG6A2JRImVTEeiaLMltp5XDhZEM7SGCEWJWLTnyqS0Lp2QuAibz7Pvpvjffria2Am411bhfticlBj9umI3gQPBxia98nibWBLDErhaibk/0?wx_fmt=jpeg",
-    "digest": "信任一旦被打碎，并不会靠几句承诺就自动修复。",
-    "author": "",
-    "feedId": "MzA3MzI4MjgzMw=="
-  },
-  {
-    "id": "2651039784_1",
-    "title": "堆了一仓库GPU，却生产不出专业智能？九章云极用AI工厂给出解答",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651039784&idx=1&sn=bd3bcf35cd77ab17a83b1e40032ff8cc&chksm=84e66c56b391e5406d38c1432c9079ce1b84b8fa237c9289d7e6eb5a0298294fd61a7bf8c5ee#rd",
-    "publishTime": 1781690426,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqEwGLcMfBnJy3xToria8kMGW7eQibPtfRwtL18tupOByicknGQgsR2WV09j75GhqPYoacn5SYEhJYTzOWpm2gb04oRyLlwgppD2bc/0?wx_fmt=jpeg",
-    "digest": "蒸汽机之后是流水线，大模型之后是 AI 工厂",
     "author": "",
     "feedId": "MzA3MzI4MjgzMw=="
   }

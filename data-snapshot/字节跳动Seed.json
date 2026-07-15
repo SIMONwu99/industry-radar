@@ -1,5 +1,25 @@
 [
   {
+    "id": "2247494019_1",
+    "title": "不止“生成”，更懂“设计”｜Seedream 5.0 Pro 发布",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzkzMDY5MzYxNg==&mid=2247494019&idx=1&sn=35d263cfd1c740502bb27ab572f53b78&chksm=c274c11cf503480a146122d9546de6a797575e3b928de3a2f0edd5712ffce2c94a07fdfc3d87#rd",
+    "publishTime": 1783516978,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/pPBYFCwmHEnhwnbiclxWPRuyZibEbgibQFibBgKj8ED90uJibDlRvI8JMjYzreOkjk1qLoW3CDW3cWic9CsT1HTDELsjVjdkk5FXqHVSqp1p4c6Rs/0?wx_fmt=jpeg",
+    "digest": "释放专业生产力",
+    "author": "",
+    "feedId": "MzkzMDY5MzYxNg=="
+  },
+  {
+    "id": "2247493765_1",
+    "title": "EdgeBench：衡量真实世界环境学习，发现新 Scaling Law",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzkzMDY5MzYxNg==&mid=2247493765&idx=1&sn=c949ca4147a445fc55a31005784f1d05&chksm=c274c01af503490cde7445266c174fe59c0f200fca212d2c8e7b53b3e469334252ef502f0789#rd",
+    "publishTime": 1783395671,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/pPBYFCwmHEl4IqGib7oZ46IL6ug5IhjcErvj8RtcoFTzSX1k16P2bBiciaYPI2KT1pI8LOqiclela5lRZ7R1kEDDmrt5dE2dPjByzp2VhibTibAibA/0?wx_fmt=jpeg",
+    "digest": "Agent 在环境学习中表现出明显的 log-sigmoid 规律",
+    "author": "",
+    "feedId": "MzkzMDY5MzYxNg=="
+  },
+  {
     "id": "2247493683_1",
     "title": "Seed2.1 正式发布，深入 AI 生产力",
     "link": "http://mp.weixin.qq.com/s?__biz=MzkzMDY5MzYxNg==&mid=2247493683&idx=1&sn=ce9615d598b7cd8536096aca6df7e226&chksm=c274c0acf50349ba70cc0661c6a8d75957e20dfa3f04379abe30bcc4352035fdf58db0a4913e#rd",
@@ -26,26 +46,6 @@
     "publishTime": 1776918185,
     "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/pPBYFCwmHEkLiaslBcLMbWDHIYsiasZ5pbkhnZzU2Afc1Y50tHJib5HHibImx0fF0kJgJC54OKRJF1bDnYibicsVnRtyo6fjV6gkqg67vAaMQV7zM/0?wx_fmt=jpeg",
     "digest": "几何及纹理材质生成均达 SOTA 表现",
-    "author": "",
-    "feedId": "MzkzMDY5MzYxNg=="
-  },
-  {
-    "id": "2247493425_1",
-    "title": "Seed 全双工语音大模型发布：懂倾听、抗干扰，走向更自然的交互",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzkzMDY5MzYxNg==&mid=2247493425&idx=1&sn=17f358623af26cbdf1de4117eb4688eb&chksm=c274cfaef50346b8c46f74925cdf6a9a1dea092d7d2d4c23e855784e6d875979333a7812db1d#rd",
-    "publishTime": 1775707244,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/pPBYFCwmHEnMYicIa4jAwW0nicWCzLveUJXgUMffSwXiavzCZuesA1Lowo5pbgPcYPwWoAvEicrtlcq9hPJH9icVVns7xEM072vic5OPSfjNebqt8/0?wx_fmt=jpeg",
-    "digest": "已全量上线豆包 App，对话流畅度提升 12%",
-    "author": "",
-    "feedId": "MzkzMDY5MzYxNg=="
-  },
-  {
-    "id": "2247493285_1",
-    "title": "字节跳动 Seed 2027 届大模型人才校招启动（含实习）",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzkzMDY5MzYxNg==&mid=2247493285&idx=1&sn=3064af6dc561d2ce3db44a1ee4595c85&chksm=c274ce3af503472cfc75e2fba196718cc315fa8e186dd80e16af83e5db3dae6f67e03a0071ed#rd",
-    "publishTime": 1775014135,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/pPBYFCwmHEnIr3DicAO0CuSyGAFiaRyvKwxtYV2g4yicXBxEia2Fib03LuQmHHuLjdsRpxv1lOay58QG47ZEgniaSkib2icAu9VE9lLCul1l5ibTIgwk/0?wx_fmt=jpeg",
-    "digest": "加入我们，向智能上限发起挑战",
     "author": "",
     "feedId": "MzkzMDY5MzYxNg=="
   }
