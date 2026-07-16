@@ -1,5 +1,45 @@
 [
   {
+    "id": "2651288941_1",
+    "title": "“要么Fork，要么走人”！Linus怒怼AI反对派：Linux不搞“反AI”",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288941&idx=1&sn=991e9edb8c1638e1621d53036b467bb3&chksm=bdba8d3e8acd04283d018791dc06df375d8cbcbbe7ab633c22e8fb61f29925309134e7f26257#rd",
+    "publishTime": 1784177092,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNh1CGQbYXsPGxahjkEPAKFupfG9ZMuJkAYTKuPkq8EWRwNrmzzzJC793OtKP8PZoQuI1N5V1EiayDHnBbFehhOHPsoxjHnjhXU4/0?wx_fmt=jpeg",
+    "digest": "世界变化就是这么快，两年前批AI 是炒作的Linus，如今亲自为AI 站台。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651288941_2",
+    "title": "从「构建 AI」，到「驾驭 AI」 | QCon 全球软件开发大会·2026（上海站）正式启动",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288941&idx=2&sn=ebff60fa9813c26226178d0d82ebf983&chksm=bdba8d3e8acd0428592c514e61ca64e1468714439b91fc7565680d9653af29aa1a9a81a0f5ae#rd",
+    "publishTime": 1784177092,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNgic39icKxdicRFoeY7HXfnf79EsyB2KSuE8I1Tr9oiaQycbGpr34vyI0nVoa78ZS0GDG2z2VjNiaAguPpw4D1VaUrVZ6gYX2ibYftY0/0?wx_fmt=jpeg",
+    "digest": "AI 会写代码之后，软件工程的问题并没有变少，反而变得更多了。AI 的下一场竞争，不只是模型，而是系统。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651288941_3",
+    "title": "Claude Artifacts 一夜打通“全网公开分享 + 多人编辑”，AI 交付闭环彻底杀疯了",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288941&idx=3&sn=c86b70f724ee4851c5cc988b03bf9fb9&chksm=bdba8d3e8acd0428102c659d06a8d16a8413f7f54e9cb6f00900e5b7a9255a643b8643734a8b#rd",
+    "publishTime": 1784177092,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNgSmBgwGh35ib8P6qdXUicknCfWk2lF5GA3YHPAibYS7PRtTJ1ZaXkESenM0SeXZ0sf4XY5gmef8KzYsN64QJzhpkuGoQA9fniawQQ/0?wx_fmt=jpeg",
+    "digest": "Claude 从写代码走向交付项目，Anthropic 的 IPO 故事更完整了。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651288941_4",
+    "title": "Circle CI 推出 Chunk Sidecars，将 CI 校验直接引入 AI 编码工作流",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288941&idx=4&sn=d38414b5f756347fa5014961648a4dbe&chksm=bdba8d3e8acd04280bf8a456a433a7f30349ad700172969c5a5158b08ea7d78569ac7d9562f1#rd",
+    "publishTime": 1784177092,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjbJNyicWsDutosaGXlMM0oRv5BicSPdDGk1ZMz1PcAC2zxoC6jmjJ4UkxcAcUJX0cazib8hsn2Krgsk07szXDNPiaqRyL1vafTmm4/0?wx_fmt=jpeg",
+    "digest": "Circle CI发布了Chunk Sidecars，其目标将CI级别的校验直接带入AI编码智能体的内部开发循环。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
     "id": "2651288872_1",
     "title": "“我现在干得还行，但劝你别进来！”AI 蜜月期要结束了：打工人变成“快乐的行尸走肉”",
     "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288872&idx=1&sn=996fdd641760c8025a97a1ef664afc06&chksm=bdba8d7b8acd046d8ba14017b0c4c129905dc3ecf43e30d1de784b71c3d81845d02e405d6a1b#rd",
@@ -170,42 +210,42 @@
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651288603_1",
-    "title": "苹果甩出41页PDF怒告OpenAI“偷师”其核心机密！网友：早知道就等印度“开源”了",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288603&idx=1&sn=1616dd002dc7a96a2ab7dbc983c9cc24&chksm=bdba8c488acd055e403c58a3fae174c070bb2c3ac875b47f8adb74780810ab1c9ce495d51827#rd",
-    "publishTime": 1783741008,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNhE5vhRNCYc3LWb9K5V2CFPPic9mUHn34LKAK4xtuOvrALk4IkU8iaSRzKGFokRVEgKIGNwTAG5g4tD2ak8S79iaZLYrQp35zgKiaI/0?wx_fmt=jpeg",
-    "digest": "马斯克每天都会阅读 OpenAI 的丑闻。",
+    "id": "2651288289_1",
+    "title": "企业 AI：方法论易得，交付力难求",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288289&idx=1&sn=43d010a702cc0892ee54f39cc5f82050&chksm=bdba8ab28acd03a4eef9ac5f216253e04e844f3d77b2c36e01a1a24397e3a00f711f1232e1df#rd",
+    "publishTime": 1783319400,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNhmGKia1cGOh4f7W6Bw2UsYy7AhJHLPAMnUaJHIotz0tBI77WzJjCpicniakqiaLPCHhUs3Rhicnq4dALpeIPmGIc0saD2Bn0heSPB0/0?wx_fmt=jpeg",
+    "digest": "Talk is Cheap,show me the Product.",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651288603_2",
-    "title": "Claude“脑内小剧场”首曝光：隐藏工作空间自发涌现类人意识，谷歌 DeepMind 权威认证！",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288603&idx=2&sn=d8b1f2e53e8603ae79e7af04be98f7e5&chksm=bdba8c488acd055edc5fb4c81c82bf378cc97ad99a809b2896932ca9321c420a1940d3453e97#rd",
-    "publishTime": 1783741008,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNgmaqpUudsMo1gCYMF1icp1aVbLiaxnyOAhJXGk6Qrs9WamdIQwcj2mYgtfabTz5Mh2jHeJCicrT5KKY5hPkppKbM44shJATibr5Ns/0?wx_fmt=jpeg",
-    "digest": "现在，Anthropic 已开源相关代码，并与 Neuronpedia 合作推出了交互式演示。",
+    "id": "2651288289_2",
+    "title": "世界模型炒作了半年，反应速度还不如 VLA？穆尧团队和百度智能云给出最新解法",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288289&idx=2&sn=119032c8d8682dc0aeec02057340a5f0&chksm=bdba8ab28acd03a44e4e8da879e926955c0b245deab08d6f361ccc7096b47de4740f709a30f0#rd",
+    "publishTime": 1783319400,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNiaTH9iabqCBjbRQtCibN7QAPYzla3Sy4BMDWw29H80dL6W4YPkhyg5UibLv1xCw8zzYzJcHZE45L3K5gThEunveiaY43ib95yrYGBvQ/0?wx_fmt=jpeg",
+    "digest": "解决模型参数和实时推理的矛盾",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651288603_3",
-    "title": "开源模型赢了 Token 流量，Anthropic 赚走了大部分钱",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288603&idx=3&sn=d143298b18b5a3ac7d7999534fb87111&chksm=bdba8c488acd055e5a8ec727e1f08a20330f83b6fde82ef8ae0994c92c482908c59a2a6e3a3f#rd",
-    "publishTime": 1783741008,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjczbraBFcUoPR23bmAlI4ScEYm68HDictdo1t5NvKhT7tiaicprUs1zY7z8tfHdFQRJgdcWHC2eQ4PnwiaeyFppd84Ne2L9g0RrYI/0?wx_fmt=jpeg",
-    "digest": "Anthropic等前沿模型实验室并没有因为开源模型崛起而受到太大冲击，至少目前还没有。",
+    "id": "2651288289_3",
+    "title": "GitHub 的旧模式被 AI 击穿，Cursor、GitLab、Zed 各自开打",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288289&idx=3&sn=b74a563cfa4dbb6b01b08492c41385d0&chksm=bdba8ab28acd03a4cef676d3c99a7e45c289edbcc9e2f220324052c27041181f08011a8ae738#rd",
+    "publishTime": 1783319400,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNj4RTaglkq3fJFlnApp31D5atRzKHrCABQEgj2EbgzZ9cnolzEY88wtsFdic46utBTMwnEibvmfQypS9tLJ1eUUfH82Eq3y40wso/0?wx_fmt=jpeg",
+    "digest": "2026 年 6 月 16 日，人工智能界最大的新闻无疑是，埃隆·马斯克的 SpaceX 同意以价值 600 亿美元的全股票交易收购 AI 编码初创公司 Cursor。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651288603_4",
-    "title": "Elastic 开源了基于认知科学的 Atlas Agent Memory",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288603&idx=4&sn=c2f996400a034c7ffc05016f9eac0b0f&chksm=bdba8c488acd055e8e1f0e85d3cc5e78bae38a0eb5cfd0ab518c1eeb0f0e06f26ac1f41d8807#rd",
-    "publishTime": 1783741008,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjKw750cPSbTL5mERJ671hvwBeqOFFaxYq2YdklxHUgzwfFyUibEMMMnUk48j7V00ibZa2LQfLFqQ2Z0YqSibG0O7tIlOM0AqDPicU/0?wx_fmt=jpeg",
-    "digest": "Elastic 开源了 Atlas。这是一个基于 Elasticsearch 构建的系统，可以为智能代理维护三类记忆。",
+    "id": "2651288289_4",
+    "title": "Lucide 1.0 发布，移除品牌图标，并缩减数百万个项目的包大小",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288289&idx=4&sn=112c4c4ed5fd6808bcf36e1c977c1d1a&chksm=bdba8ab28acd03a4481d75f80fe9083bc79b6e462331117e9c1d88069535185c715cef32e634#rd",
+    "publishTime": 1783319400,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNhOh42l34qggQ8TYNfglWFeZfnFyLm3N4XXNutzibPvBZV4w85UUPWMFFXR9ohvAOY26ARRUnNa22ZdedFdrBCicTVsrY0HgaiaXw/0?wx_fmt=jpeg",
+    "digest": "Lucide 1.0 发布。这款开源图标工具包是 Feather Icons 的一个分支，由社区主导创建。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
@@ -256,46 +296,6 @@
     "publishTime": 1783142091,
     "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNhDNKPuwoQI556ibuorgBEEkVabYvYLUQcVqIc03uP37yI9hbzz7LHEJ484QN1JW3cc4hRwSEBSmO21ujN1MycRibggQNbyeb5WQ/0?wx_fmt=jpeg",
     "digest": "去年 9 月，Anthropic Claude Code 创始人 Boris Cherny 曾与 Spotify 工程副总裁 Niklas Gustavsson 谈到 AI 编程工具的未来。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651288183_2",
-    "title": "流形约束推理新思路！傅聪团队联合厦大提出ManCAR，自适应测试时计算带来46%排序增益",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288183&idx=2&sn=afde7d5c7b7f9bde7338eae452b79b43&chksm=bdba8a248acd03325d1a6ffa44e5ee4f54ad2354f10123eab6c72dcc3e499a42b5d5ff89bbea#rd",
-    "publishTime": 1783142091,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNg7mQzhs27feXfl3UEfWeMaicQeBtz4UKFJarlvPTYyTOjV94aqvZdHibawh8Q9BPWDtZ4ID2FrCB1LTeFJJoIdslSacRP0df3xM/0?wx_fmt=jpeg",
-    "digest": "过去几年，生成式推荐逐渐成为主流方向。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651288183_3",
-    "title": "首个面向 AI Infra 的运维智能体评测基准开源！基于近百亿条真实数据，考验 Agent 的问题解决能力",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288183&idx=3&sn=82d7a0f1aab4236746dd82d93e879e58&chksm=bdba8a248acd0332a8364b9c9b4443d52bf8660ab9dc78a5027aa3e82438d88b6909ae30b467#rd",
-    "publishTime": 1783142091,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNjRnqIYDENCOjBiaU2AVCNHcuZolCfe9DiaXNAArUg4jXNT9c8rMBrogohj4j5QJQBHYjI8aToc9Gs4flEedScibP29zPMGjWykEI/0?wx_fmt=jpeg",
-    "digest": "随着全球智能体加速落地，算力需求呈指数级爆发，以 GPU 为核心的 AI 基础设施正变得愈发关键。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651288183_4",
-    "title": "Google OpenRL 是一个用于大型语言模型（LLM）后训练微调的实验性自托管 API",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288183&idx=4&sn=364d550b259ee80960c2e3fe37a389e2&chksm=bdba8a248acd0332fbe7507b57c7926f1ef392e89f19e41260b00ebba83bfc9bf07e4a6cea41#rd",
-    "publishTime": 1783142091,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNhcFGJ2tHtzf4SbZQOwsbricFWjCmxkFVPqdqK6UnasWgFTzLtibth5VVnPr5FkBbGr1MTyhtUFxLAgutaZiaVQ7e6nKZnrDhPLFs/0?wx_fmt=jpeg",
-    "digest": "谷歌 GKE Labs 推出了开源项目 OpenRL，为在标准 Kubernetes 集群上对大型语言模型（LLM）进行后训练和微调提供一个自托管 API。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651288121_1",
-    "title": "Claude Code 80%的提示词说删就删，Anthropic用Fable 5打了个样：AI行业的“降本”才刚刚开始",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288121&idx=1&sn=e8477b5f1810a572645319eb69c1f514&chksm=bdba8a6a8acd037ccc38536e395ad407ee98ebff9a15bbeeb1c754e5a02970e8019d69e088df#rd",
-    "publishTime": 1783068777,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNhpPMMrdicF5FaeclyxE3cUt53aP57qY21WtjIawgXg76rRJ4uceL7lcLmX534Rz1F3An1ficTLwMPfVQXiaA8ial2gksPlO4YNng8/0?wx_fmt=jpeg",
-    "digest": "“Fable 5 这个价格远高于中国程序员一天工资。写代码一天烧几百万 token 已经很节约了，然后一看账单几千 rmb。”",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   }
