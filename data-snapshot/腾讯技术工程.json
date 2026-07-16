@@ -1,5 +1,25 @@
 [
   {
+    "id": "2649802659_1",
+    "title": "Agent 治理：用 Hook 堵住 LLM 的偷懒、越权与失忆",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802659&idx=1&sn=8c2b4c6e4501a69632fe05b2e6e8e3b0&chksm=becc54d889bbddcead381b6cb5fbe9f2ee2ec8ce61a39cddb9065f983138dbb4e0cb98d2aa2b#rd",
+    "publishTime": 1784195429,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/KVER9adz905NpB5OTxwYF22W2TOp7ojTRYFjzb7ONPtriatBhMQt2TfIh6jrELBVxYed5jaibWFaXOcS5v4JSTEoUSPogH9lMZjxFw0rfYFSI/0?wx_fmt=jpeg",
+    "digest": "prompt 管不住的，框架来堵",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649802659_2",
+    "title": "腾讯PCG联合深圳河套学院：在全双工语音大模型领域取得重要突破，获 ACL 2026 杰出论文奖",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802659&idx=2&sn=d7eb836cbf1c5d47f8d6c2ea645375d8&chksm=becc54d889bbddce444b40a3b9889451ea5616b936e161cdcc6a7d448a1354816119118d29a3#rd",
+    "publishTime": 1784195429,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/KVER9adz9059MYgAUGpApViaLF9GRQMJNIPRibicfdgsQa90psgvfz49Tb1ITkZyuQZ08vX8RicWxZKruicejg0OvEmPskF8oLiaq1F6ytlmYoqsg/0?wx_fmt=jpeg",
+    "digest": "从语言理解延伸到语音交互领域",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
     "id": "2649802628_1",
     "title": "上线后差点“挤爆”服务器，Marvis凭什么让用户追着6只小马“上班”？",
     "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802628&idx=1&sn=e187a512c344ea924c370abb91b8962f&chksm=becc54ff89bbdde904cfe078817ab4c907b61647f87b9162e2d13ebbdd92f3c35e50a1579f0a#rd",
@@ -36,16 +56,6 @@
     "publishTime": 1783595815,
     "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/KVER9adz907lJfrsZksPUeR7ocI04KCwsicynJyia8CC47JqbGNcSdQNGHhmrGgiapCH9MEFcpbQ837pBdjibfYHbp31uLpbuCgfO5NoQ6IlcK0/0?wx_fmt=jpeg",
     "digest": "以后回头看，这可能就是个开始",
-    "author": "",
-    "feedId": "MjM5ODYwMjI2MA=="
-  },
-  {
-    "id": "2649802494_1",
-    "title": "精打细算虾养成指南： 省 Token 和把 AI 用好，从来就是一件事",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802494&idx=1&sn=b9882f78a98dd26657b573d0f14eea8a&chksm=becc558589bbdc9339700eda5297ca3064605b2d03a093916447ba1573f0f430108edb4f8b96#rd",
-    "publishTime": 1783503323,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/KVER9adz904HBoedWiccVA0nia5VDFA58tibjOJ68ibo4nasp3skJlqfAa62DLMeZzUEiaQlRCIicoia6bCqXcDhrMGiaxbIFQMNlnIrhru3HpGQO2k/0?wx_fmt=jpeg",
-    "digest": "更重要的是让 AI 的每一分注意力都用在刀刃上",
     "author": "",
     "feedId": "MjM5ODYwMjI2MA=="
   }

@@ -1,5 +1,15 @@
 [
   {
+    "id": "2247495626_1",
+    "title": "首 token 延迟降 3.25 倍！小红书联合北大、上交提出 HYPIC，让混合注意力大模型用上「位置无关缓存」",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247495626&idx=1&sn=1716d6b911780449e17662c4b1dad973&chksm=cfe44d3df893c42b0b2eee3a0bbed751c3a0c7ea985ba205e321eeca1665298ed7e138769e0b#rd",
+    "publishTime": 1784196000,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/P9Hs04VFGRl97BhM4Ga2AibSaTuGI4ew52XxqaNd30viaratFsyoWhqXicj2sN7Ap65LwicUiagn78kDF6pd6YlXTibo9dee4UvE7aCLP27PbiaCuI/0?wx_fmt=jpeg",
+    "digest": "引言：随着 RAG（检索增强生成）和 Agent 成为大模型服务的主流形态，一条请求的 prompt 往往由几",
+    "author": "",
+    "feedId": "Mzg4OTc2MzczNg=="
+  },
+  {
     "id": "2247495589_1",
     "title": "小红书企业级 AI 个人助理——从 0 到全员覆盖",
     "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247495589&idx=1&sn=1fcaaea018e3e0883982dd4b98767656&chksm=cfe44d52f893c44441b2cfeff14b34cd8bbd3cd1961d293c6544ba0699511f2d74a5699ff948#rd",
@@ -36,16 +46,6 @@
     "publishTime": 1782295140,
     "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/P9Hs04VFGRnVhCHByRfAq7tfXvSPEvOu7TBjFewNE9yJAKGOk2ZHicRdjV6HYPlmWrb1ZmSKEGlKS9iaHQpRIsAbQF7NRE15OjU5zvDoSEEKI/0?wx_fmt=jpeg",
     "digest": "AICon 上海 2026 小红书质效团队两场分享预告",
-    "author": "",
-    "feedId": "Mzg4OTc2MzczNg=="
-  },
-  {
-    "id": "2247495498_1",
-    "title": "小红书QEcon分享回顾：Agent 驱动的服务端端到端测试",
-    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247495498&idx=1&sn=4b09ccf844ed91df1ba7209bbc0303d6&chksm=cfe44dbdf893c4ab8492373a2a8800f32ecbe543a82060e66598da702c7db01f4dc95c02c2da#rd",
-    "publishTime": 1782212488,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/P9Hs04VFGRmOC8OiaduQnQ6S758NUv49paib7VgnCyxqpXT4k9CrQXpNeFZqpM7EEXpIibn4oWZw98GCska3adukZQ4sNVhibuH3oXz20Qusb50/0?wx_fmt=jpeg",
-    "digest": "从流程编排到意图驱动，Agent 自主完成测试",
     "author": "",
     "feedId": "Mzg4OTc2MzczNg=="
   }
