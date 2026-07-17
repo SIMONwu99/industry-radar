@@ -1,5 +1,45 @@
 [
   {
+    "id": "2651289038_1",
+    "title": "马斯克连夜开源Grok Build，但84万行代码里还留着上传用户整个代码库的痕迹",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289038&idx=1&sn=59cbda779587d41e58821386d1552010&chksm=bdba8d9d8acd048beccd981d6bf3352607047808891f8c1d8f3f418024ff19c2588558266848#rd",
+    "publishTime": 1784264311,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNia9d1xOILWzrdd8YmoY9VOSTAXPp3OI1awW4DvXcMfpRV2y2ZZygafmXjutDbVYG61Cx1g8hDbfUItmMjoCHbUgw41k2tibeibg8/0?wx_fmt=jpeg",
+    "digest": "84万行Rust、20小时破万星，马斯克用开源Grok Build回应“偷偷上传整个代码库”丑闻",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651289038_2",
+    "title": "IPO前夜，阶跃星辰想用一款 Agent 手机给市场吃一颗定心丸",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289038&idx=2&sn=81fe97f7d83e7e8bb474adbd5f81264b&chksm=bdba8d9d8acd048b2a9b7d1311c73ac8fb410f2b92671138bec5f03590698257f4595d7d6487#rd",
+    "publishTime": 1784264311,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNgj4lOicwxKoQrvRHNKAvnPqaDVe6XiciaFfwcxk8GN5yIXibL25w5CVLW98G8NhEpL8IFrebRZKicWm6lW2hmUsm2Z5iasKAqCg32W8/0?wx_fmt=jpeg",
+    "digest": "Coding不是一条现在才可以复制的捷径。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651289038_3",
+    "title": "AlloyDB 推出代理模型，用数据库本地推理替代外部大模型调用",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289038&idx=3&sn=0bfd117d9ec5e6169d3391cf91eb824c&chksm=bdba8d9d8acd048b9ee5d5e96f52c03aeaf00a53667234dc2ad9290f6cadf9767e9f8b66d18f#rd",
+    "publishTime": 1784264311,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNjfX1VI307rCap8LQn9X3YqFakANausDV196S2B71iaTyics6FENIvLCbqliaVB075cycZjkPicCLjzrSWicriaEdOr36KVSZwQR8Sick/0?wx_fmt=jpeg",
+    "digest": "谷歌官宣AlloyDB AI函数正式可用，并推出两项全新加速技术，从根本上改变数据库与大语言模型的交互模式。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651289038_4",
+    "title": "Java 近期新闻：严格字段初始化、GlassFish、GraalVM、JReleaser、RefactorFirst",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289038&idx=4&sn=fe9c0577939b7bac00cb53232441b5b7&chksm=bdba8d9d8acd048b29454d514f339b9c6090451397d4a6d53d9ae00bc6de12909c34beb408eb#rd",
+    "publishTime": 1784264311,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNhia7Y8s0aicccjicM5ziaMX2JMAcAU1mUWVBDvke6mCllh5ibCWysicw6mDtMGOQic8BGCD3Ch7WncjOQ81k38o0ziaUX8YV75AVarM7w/0?wx_fmt=jpeg",
+    "digest": "本文为 Java 近期新闻，内容涉及：严格字段初始化、GlassFish、GraalVM、JReleaser、RefactorFirst。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
     "id": "2651288941_1",
     "title": "“要么Fork，要么走人”！Linus怒怼AI反对派：Linux不搞“反AI”",
     "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288941&idx=1&sn=991e9edb8c1638e1621d53036b467bb3&chksm=bdba8d3e8acd04283d018791dc06df375d8cbcbbe7ab633c22e8fb61f29925309134e7f26257#rd",
@@ -170,42 +210,42 @@
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651288666_1",
-    "title": "连Claude Code都搞不定的巨型代码库，我们靠一个“自愈循环”给盘活了",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288666&idx=1&sn=8bbada4ac098dd4390b3408be7fb1370&chksm=bdba8c098acd051f7fd3634517c32dcb61ae4e89b92e4c46dc07ab403c0ccccb0138e01bb02a#rd",
-    "publishTime": 1783822500,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNiaWXR5d6PLbT2Wb9KjJCLD40hsC7Kulm25Igp4DglEocaryR8o09BricEXj44twJYmjN4Wf61GVh6yvMeeLic9K8ES9A40bQtIic4/0?wx_fmt=jpeg",
-    "digest": "“AI迁移的关键不是让AI变聪明，而是把任务分解到AI能独立完成并验证的粒度。”",
+    "id": "2651288360_1",
+    "title": "“如果你不能用300行代码写个Cursor，这行你就别待了！”Ralph Loop创造者、Claude Code核心技术设计者的暴论",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288360&idx=1&sn=d257a460cae156cb4388b2ad571ffd00&chksm=bdba8b7b8acd026d4eaad4b5632dc96b64299713acbefdc7a323f3e1ec574c0c1b6d0692439b#rd",
+    "publishTime": 1783412673,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNjriagSS1fqwEia3ibAwrTTP3YbkADFrpoZbJyZKSN3OjZzfQ01yblz277LXyVrV6Wf4ag1kWPKMnlnInfAicWyOia5SSDe8OMFEZ7Q/0?wx_fmt=jpeg",
+    "digest": "“人人都成了软件开发者，但这不代表他们是软件工程师。”",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651288666_2",
-    "title": "Claude、Cursor、OpenClaw 集体上手机，不摸鱼、不请假、24h 为你打工",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288666&idx=2&sn=1dcaba62d285d767d42974cba8db16d6&chksm=bdba8c098acd051f189ef256a2643a433dbf6087dfe0f5b3d7dc33e3cd630d0837b041b86155#rd",
-    "publishTime": 1783822500,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNhSbscSRKLfyK9u0bDcacWfqZm80Gs58VHtTicvJC0SgNSlicgl0CW3Vn8WG0XgeyeFOpHoJIP61EwLwDy6vIS6cHpygpoHiapatI/0?wx_fmt=jpeg",
-    "digest": "手机上的 AI 应用，正在发生一次不太显眼、却可能比模型升级更重要的变化。",
+    "id": "2651288360_2",
+    "title": "可复制的 AI Coding 全栈实战：比 OpenSpec 更轻量、更丝滑",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288360&idx=2&sn=15df01ddd07b362a9a627d2952aa26d1&chksm=bdba8b7b8acd026db8d56df5519ec763eb5f7138af534ad432eeac4cea3a85fc85d37efc2714#rd",
+    "publishTime": 1783412673,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNgS2dJiaiaTfVCBRaAr9wrNLKQfqXY4qBR7tEiaBFcKia78eGtTXG0VWiahuFqg1yI9poOSU4DYvTP7dG6szZkFWqq2Y53e8Uo8Ub88/0?wx_fmt=jpeg",
+    "digest": "AI写代码为什么总显得“差那么点意思”？",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651288666_3",
-    "title": "将平台开发从项目转向产品",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288666&idx=3&sn=8b0334477d5edce92e01737dc92216b5&chksm=bdba8c098acd051fdee1eaafcc6676bdadfd8a3d82d4a5d23b007d7b8a3ed4fcb36912dcb9cd#rd",
-    "publishTime": 1783822500,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjT7fC7ibrnVPrXDfZSuLG34icBvdroIHLtsow3qpHqwVQUMyB6d3Md54RzkGAstKhfg6eYha2bdBJ74jzMC8NkpbpeiakSicjwkGk/0?wx_fmt=jpeg",
-    "digest": "在 KubeCon & CloudNativeCon 欧洲大会上，Eugenia Bergman 和 Hagen Tonnies 分享了他们如何在平台规模超出单个团队使用的范围后，从项目思维转向产品思维。",
+    "id": "2651288360_3",
+    "title": "AI 创业怎么做？500+ 技术领导者给出了他们正在实践的答案｜ TGO 杭州十周年庆 & GTLC 杭州站",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288360&idx=3&sn=97b23e3e24e624acf231c91826998e49&chksm=bdba8b7b8acd026d6ff6c1674274e778372ae569654319581a6c811df3658e045da94765dec6#rd",
+    "publishTime": 1783412673,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/TW5mShRN0sGDo2XJrsplKrSDOdJnweSm1iaXv9r4gocsWf3xibqS21198V0wiaQlkbZDrD6uiaQIWOGeIKYt7bK1p6tibsHdUyvf3xkyckfibhARg/0?wx_fmt=jpeg",
+    "digest": "2026 年 6 月 27 日，TGO 杭州十周年庆 · GTLC 全球科技领导力大会·杭州站圆满举办！",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651288666_4",
-    "title": "Java 近期新闻：Hardwood 1.0、Endive 1.0、Azul Payara、Quarkus、WildFly、LangChain4j、OSSI",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288666&idx=4&sn=ceb253fc346a93558eb5a8a87e804168&chksm=bdba8c098acd051f381b03f5799ba2740de10203a2b9a8f5a21dd5df55fe4e1a2f4fd7e984a1#rd",
-    "publishTime": 1783822500,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNiaR0uriaQqOboyGhesvNFOLhQhXh66rZ2abPXNxrAvjDarStAD25BqraiboQVbLDTic1hYQM4uaeI1Y8a5VVK70ciayqG6PKicx7rd0/0?wx_fmt=jpeg",
-    "digest": "本文是 Java 的近期新闻，内容涉及：Hardwood 1.0、Endive 1.0、Azul Payara、Quarkus、WildFly、LangChain4j、OSSI。",
+    "id": "2651288360_4",
+    "title": "Cloudflare 如何解决了 quiche 中的一个拥塞漏洞",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288360&idx=4&sn=b16d32b490c1a7f2f45805d901034c99&chksm=bdba8b7b8acd026de5273b59e3a5c969c2c8eb8c8bfd152a0e3eda8d679b985111a532ab42d1#rd",
+    "publishTime": 1783412673,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNhkicrs39lZROf3R6D4nBXjsib3GpNgFyKCaqZUNEIxv8FlSY1YnUTCmN9lxYvTb2aFmkegI28Q1m8Uw3b0Ov8rIEZT4XzhHXooQ/0?wx_fmt=jpeg",
+    "digest": "最近，Cloudflare 分享了他们如何发现其 CUBIC（一种拥塞控制算法）的 Rust 实现中存在的一个问题。如果连接初始阶段出现了严重的数据包丢失，那么该问题会导致这个算法无法恢复。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
@@ -256,46 +296,6 @@
     "publishTime": 1783218008,
     "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNgZ2w7tvibkibaDAMukhdpoicicL5YdU1nC9OblcGC2V3PKxGogb9sT06565Pu0Uzq2lc8AHibnWTJ5aIS86VFZFQpIkzaR75RG2fI0/0?wx_fmt=jpeg",
     "digest": "“坚持原则，别信标准答案。”",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651288214_2",
-    "title": "《吾辈如神》：AI 增强创造力的10条法则 | 赠书福利",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288214&idx=2&sn=ae5fb78494239c426582c84ebe890c47&chksm=bdba8ac58acd03d3c0faf15bf31f6e72c26b87982546928e8b5f1749dd909a8398948c49084a#rd",
-    "publishTime": 1783218008,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNjWoic3LfSiaXX8nRANm87nQ0m45THtwwQXYgHRM1Mt15jZa26WDTtlKERZwiao3O6ovSy9rMxlibwvhf4bUrokaOvia01P9f99UicfM/0?wx_fmt=jpeg",
-    "digest": "引言：这是一个前所未有的技术神迹时代。AI 全速迭代、基因技术突破极限、长寿科技落地普及、万物智能互联，如今的人类，早已手握改写世界、堪比神明的力量。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651288214_3",
-    "title": "Anthropic 负责人：HTML 比 MD 更利于人类跟进智能体协作流程",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288214&idx=3&sn=8d6290ce13d688bbeb81c89e9b12a966&chksm=bdba8ac58acd03d3ab9be55e93418665795f2177504e79aedeed0171ace59cb55d8be8b725f7#rd",
-    "publishTime": 1783218008,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNiaKwKicewpfADwOqnibHXwNFYiaYPOMCmUgkJWWxv1wkFpjF2gSCPuYKOBsFUjwYIErm9SpZxLU6YhtBJ0jybRu80qMniaiaicEdDMNc/0?wx_fmt=jpeg",
-    "digest": "Claude Code 团队工程负责人 Thariq Shihipar 发文指出，相比默认的 Markdown，HTML 更强的可视化与交互能力可大幅提升人和 AI 智能体的协作效率。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651288214_4",
-    "title": "AI 正在向软件生命周期的上游延伸：从代码审查到产品需求文档（PRD）治理",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288214&idx=4&sn=e6643efd9b6db5f0de88bbe9eca96611&chksm=bdba8ac58acd03d384c61a08be328962ffe6fb412a36b8f98ac89df9ce58b74b933381f934d2#rd",
-    "publishTime": 1783218008,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNiaXSWSg1lmqZOIZNYAFgkYAZYoNOUzACMp1icFAbYkVUz5D046f2IJMSwTLzmZ3OydU6qpVppxibaicJ62uoDVYg47u3UAW2c1LAY/0?wx_fmt=jpeg",
-    "digest": "大型科技公司正在将 AI 的应用范围从代码生成和代码审查扩展到软件开发生命周期的更早期阶段，包括产品需求验证和系统设计输入。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651288183_1",
-    "title": "73% PR 由AI生成！Claude Code之父对话Spotify：2900名工程师每天部署4500次，坐地铁都能提交代码",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288183&idx=1&sn=3c4dd38388b0de0e020022c8db7747c0&chksm=bdba8a248acd03329732628841c83f58148586042325a35684c35faa48a6844121a054d05cb5#rd",
-    "publishTime": 1783142091,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNhDNKPuwoQI556ibuorgBEEkVabYvYLUQcVqIc03uP37yI9hbzz7LHEJ484QN1JW3cc4hRwSEBSmO21ujN1MycRibggQNbyeb5WQ/0?wx_fmt=jpeg",
-    "digest": "去年 9 月，Anthropic Claude Code 创始人 Boris Cherny 曾与 Spotify 工程副总裁 Niklas Gustavsson 谈到 AI 编程工具的未来。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   }
