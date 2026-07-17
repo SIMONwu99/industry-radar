@@ -1,5 +1,15 @@
 [
   {
+    "id": "2247510370_1",
+    "title": "面向复杂业务场景的智能分析 Skills 架构设计与演进实践",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247510370&idx=1&sn=495a768ea1114242651ff29b211e2c98&chksm=cfa6b981f8d1309786b6110f72748d88f874fcd3d1f4a8b8234d0e5826d73aadc66787875b69#rd",
+    "publishTime": 1784283480,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/kN3t5R6pdz7WC2ALsSBjZgseJicrMTLFwfDEDtXEgRpqNkQcqAcW397gFkvTfvTKll4xPyicNE74iazY6bUMt7JuuXnlQMyQibX2fgmsXxq7JrE/0?wx_fmt=jpeg",
+    "digest": "关于搭建领域知识密集型 Skill 或正面临「prompt 越写越长但效果越来越差」的困境，本文能提供一些思路",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
     "id": "2247510248_1",
     "title": "阿里荣膺 ACL 2026 最佳资源论文 | HSCodeComp 揭开智能体「分层规则应用」的能力鸿沟",
     "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247510248&idx=1&sn=bf7c5cc932df692cbf3ba61e3bfc973e&chksm=cfa6b80bf8d1311d92399b1f124a1f1d698c1bb9abc637d81e7ac949e5600bf3a01e7b073237#rd",
@@ -46,26 +56,6 @@
     "publishTime": 1783678680,
     "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/kN3t5R6pdz78o7jJvIaia7hXxHH3KG1OfJjJkRhQlYbaZBVGr68KGrFXOhXZwRpAG9r9Y22jEQmXEbshicbnic8XeUgstxEnLtPPjPf0fP5e7E/0?wx_fmt=jpeg",
     "digest": "关于 Agent Loop 跨会话自进化与对齐，本文或许可以提供一些实践样本和参考",
-    "author": "",
-    "feedId": "Mzg4NTczNzg2OA=="
-  },
-  {
-    "id": "2247510000_1",
-    "title": "Cloud Use：当 Agent 开始真正使用云",
-    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247510000&idx=1&sn=f055ab32a27f479101b8c0f65c79dde9&chksm=cfa6b713f8d13e05896f8a0354fe0e0f63d136d10a949cef30cecda5a70478bf28c2688afb50#rd",
-    "publishTime": 1783591680,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/kN3t5R6pdz5Z85OatqP4YIavqgJNkry0vkciaKl0kjC8uh9mImfvC8Qkvg165cQKFWL2icVZYWc3L0JPka6SsbiblU9htVlRHUVB6JO1TNZoak/0?wx_fmt=jpeg",
-    "digest": "关于 Cloud Use 和普通 Tool Use 的差别，本文或许能提供一些实践样本和思考",
-    "author": "",
-    "feedId": "Mzg4NTczNzg2OA=="
-  },
-  {
-    "id": "2247510000_2",
-    "title": "阿里云发布 AgentTeams 与 AgentLoop",
-    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247510000&idx=2&sn=5f98b8388f28b455b3d1e1d208c96803&chksm=cfa6b713f8d13e05be998e6a26c014b85cf823ee4f1dbdce02a93002d0a11d4426e071c9ef05#rd",
-    "publishTime": 1783591680,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/kN3t5R6pdz6ib24C43pU4A2KPhsURer3x3OMIyicCG1AmXtvsHkvQ6AIgkptTOLFutpcMShd4EObD5cbNjovSujvWVI1FOXx3G2TaojPN0icE4/0?wx_fmt=jpeg",
-    "digest": "针对企业智能体规模化落地两大难题",
     "author": "",
     "feedId": "Mzg4NTczNzg2OA=="
   }

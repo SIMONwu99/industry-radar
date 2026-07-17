@@ -1,5 +1,15 @@
 [
   {
+    "id": "2649802660_1",
+    "title": "驾驭AI Coding：一份面向团队的Harness Engineering落地规范",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802660&idx=1&sn=2b36909c6f4a6d563addd1f7f8c9f266&chksm=becc54df89bbddc901bafdb48cd390c62a20a6f6e3f2844a5e9ece6cc617fad89c7f1d78a379#rd",
+    "publishTime": 1784280960,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/KVER9adz906CRXOoRfUM7JNPRo13DsrWXDUjQXDWVNrW4S93hBPNjN7qI2d9ogPyuT24A6eIl3h4jmJdIVRnaAwvPTEd13Q6E5IWomQJ6ibA/0?wx_fmt=jpeg",
+    "digest": "把\"好代码\"标准写进系统里，让 AI 在约束下自己干活",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
     "id": "2649802659_1",
     "title": "Agent 治理：用 Hook 堵住 LLM 的偷懒、越权与失忆",
     "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802659&idx=1&sn=8c2b4c6e4501a69632fe05b2e6e8e3b0&chksm=becc54d889bbddcead381b6cb5fbe9f2ee2ec8ce61a39cddb9065f983138dbb4e0cb98d2aa2b#rd",
