@@ -1,5 +1,15 @@
 [
   {
+    "id": "2247510380_1",
+    "title": "真武 AI 芯片 T-Head SAIL® 软件栈正式开源开放",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247510380&idx=1&sn=f7d2327132fef5bdb38d1639cb652337&chksm=cfa6b98ff8d1309957f6e163f2e7e81248556184c7a07b0faa40a8e6429c7af6f3b12014d0c8#rd",
+    "publishTime": 1784349603,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/kN3t5R6pdz6C9kfAfwmdVickANTg8rr0ibe082HmjlNQt4SJfibMEVGQdicsyic1Jtg2pMwqMglxuj26gB3ic8OJGoX9KiaAE38ajQtzgw6XibkYrac/0?wx_fmt=jpeg",
+    "digest": "平头哥开发者社区网站现已上线",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
     "id": "2247510370_1",
     "title": "面向复杂业务场景的智能分析 Skills 架构设计与演进实践",
     "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247510370&idx=1&sn=495a768ea1114242651ff29b211e2c98&chksm=cfa6b981f8d1309786b6110f72748d88f874fcd3d1f4a8b8234d0e5826d73aadc66787875b69#rd",
@@ -46,16 +56,6 @@
     "publishTime": 1783945021,
     "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/kN3t5R6pdz6YMKRqYxBO0uaCGa655pC1ibGiaXg4cW4V1XwvSa1suib4nvOXnR1TpxbxMMB1qUgDiaSAJlkF69u7p3Ok5BoBWVpn4oCf8CpKSgo/0?wx_fmt=jpeg",
     "digest": "LA4VLA: Learning to Act without Seeing via Language-Action Pretraining",
-    "author": "",
-    "feedId": "Mzg4NTczNzg2OA=="
-  },
-  {
-    "id": "2247510011_1",
-    "title": "意识 × Loop：让 Loop 跨 Session 自进化的最佳实践",
-    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247510011&idx=1&sn=dde47100c92c8264e667c27d7d52f41a&chksm=cfa6b718f8d13e0e3af1610d2c9dfbb71ad036c5a59f6cff78f35758714f00da03a12a5aa009#rd",
-    "publishTime": 1783678680,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/kN3t5R6pdz78o7jJvIaia7hXxHH3KG1OfJjJkRhQlYbaZBVGr68KGrFXOhXZwRpAG9r9Y22jEQmXEbshicbnic8XeUgstxEnLtPPjPf0fP5e7E/0?wx_fmt=jpeg",
-    "digest": "关于 Agent Loop 跨会话自进化与对齐，本文或许可以提供一些实践样本和参考",
     "author": "",
     "feedId": "Mzg4NTczNzg2OA=="
   }
