@@ -1,5 +1,35 @@
 [
   {
+    "id": "2651045262_1",
+    "title": "WAIC直击：200家机器人企业同场竞技，但物理AI的入场券属于闭环玩家",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651045262&idx=1&sn=4e9f234cb8189b966d219c24af3c6eee&chksm=84e679f0b391f0e6434e6ae3f6236bbddb0e218ec31965f6950942db250c25077ef305a40bb4#rd",
+    "publishTime": 1784368851,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqHcfdAib3jajk7gTGgl11iaGDlPD1pXp3ibLQPRNquBymXJQwPbfe6RpCmPicL40UH7KBQblH27bvWqybmILT9Z28iczeTFJEFbrZDo/0?wx_fmt=jpeg",
+    "digest": "物理AI杀进现实世界，一场更大的较量开始了",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
+    "id": "2651045262_2",
+    "title": "「自驱型公司」来了！代码暴增3倍，事故不增加",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651045262&idx=2&sn=14fc28131bc913feadf89279a25a5cc2&chksm=84e679f0b391f0e6d247fc537f8864f5f3f84ae0090dec5602de3119061c8e726f5b3344c611#rd",
+    "publishTime": 1784368851,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqFt73ia2npI7TT669qEIgibY78rArg4Y0B9gyFuvFuawUeLEtxWHPoModXrgUZyhtaslnSzbFPE0oDnDNuqhrUTbzc4jTdibGepcM/0?wx_fmt=jpeg",
+    "digest": "未来的公司，人负责定方向，AI 负责跑流程",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
+    "id": "2651045262_3",
+    "title": "Groq创始人深度洞察 ：推理越快=模型越聪明？",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651045262&idx=3&sn=632ab1936c1767d45bc5591194fde793&chksm=84e679f0b391f0e67ab9d75288315af457b287324f2685afcbb0c2d761d3318fac1f3b471741#rd",
+    "publishTime": 1784368851,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqGUuDCCTLk7rXI667eqiczHZ39ibBMAWSRGnsZ4MfJCbTpZtx3EjwswvicDtdZJ7VLe6YdAoyOltI1Xls5ARmianUBLtIFNI7kGTXk/0?wx_fmt=jpeg",
+    "digest": "Jonathan Ross 如何理解 LPU 与 GPU 的互补关系？",
+    "author": "",
+    "feedId": "MzA3MzI4MjgzMw=="
+  },
+  {
     "id": "2651045079_1",
     "title": "千寻智能最强大脑亮相WAIC：攻克「金鱼记忆」，终结单一任务Demo内卷",
     "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651045079&idx=1&sn=9b32aa87b5c1e23463892e99d2c74aa4&chksm=84e678a9b391f1bf70240e4b8330f28fbfbc4070e08421d8f2e1b97c6a976b4bb3d54537c247#rd",
@@ -120,32 +150,32 @@
     "feedId": "MzA3MzI4MjgzMw=="
   },
   {
-    "id": "2651044025_1",
-    "title": "Codex封号、Claude查证件，而它选择了免费且不限期",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651044025&idx=1&sn=e7268436ea4de9b8c561b77e1adb6990&chksm=84e67cc7b391f5d11c929bc5ff82649eff7abe2e84661d1b38c60e6d470ef996697dda03e446#rd",
-    "publishTime": 1783915232,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqF4d6svDsptXFiad8kiadvfwFBK5Q7sbvKdr0AfcCib7SfJwLKv7prM0zuEfhAAVJZKrad2ibDbN37fLyTicPXvYPW2FDicnQcUDNmAY/0?wx_fmt=jpeg",
-    "digest": "Agnes-2.5-Flash+AgnesCode，还有近期将上线的Agnes-2.5-Pro",
+    "id": "2651043143_1",
+    "title": "20种机器人本体通吃！蚂蚁新一代VLA具身大脑刚刚开源了",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651043143&idx=1&sn=b76e194c2c1a4c4c7aec0a39ae8f31e6&chksm=84e67139b391f82f0b782eab9a57eee6e5514daba46ec184acedf0ccd6601b6f1fd82973bb15#rd",
+    "publishTime": 1783479705,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqEjnznczuICeHuAprKXSffIwVawDdjhryuW1NT0GmxIxfAxM9TTEF6fibMqyrficPCSbyR6TIOPhKz5ZTWGXrFmFmaR00FSEW9nA/0?wx_fmt=jpeg",
+    "digest": "具身智能不缺Demo，缺一颗能实战的通用大脑。",
     "author": "",
     "feedId": "MzA3MzI4MjgzMw=="
   },
   {
-    "id": "2651044025_2",
-    "title": "宇树科技牵手湖南钢铁，一家物理AI公司浮出水面",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651044025&idx=2&sn=857b00344b86c7c9654c2ee53d51738a&chksm=84e67cc7b391f5d16b856ad294390f016c671597b8a7c0262c0e9e23a01919cdd11df437de3c#rd",
-    "publishTime": 1783915232,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqFCOGA8v99DzBrnV38MU4lXX8qbK9UCYRecPn2ojbyzphZKDvCJJEtA7iaCbhyakvxN9wm6icIiaFQuZrxKenyMlAMeVvvzAFhib4Q/0?wx_fmt=jpeg",
-    "digest": "机器人开始真正进工厂干活",
+    "id": "2651043143_2",
+    "title": "中国科学院携手全球顶尖机构发布首个十亿参数级的手术视频基础模型SurgMotion！",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651043143&idx=2&sn=22a3dc2927b9921240930c0e9a90dca9&chksm=84e67139b391f82f3751778aa085368b070a521f659a95060596f1f07122251798330e4f4a20#rd",
+    "publishTime": 1783479705,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqE9FOm7D9MkMurHAMV7PPhkms3NIK4pazxlib09XjMaQcicqFZgvnEt9crYw3kicoD8CRLw4KGI2ibFlqubV1vBEdW3LnibowdwDzqk/0?wx_fmt=jpeg",
+    "digest": "从“像素重建”到“时空运动预测”跨越式进化，Hugging Face 全球下载量第一",
     "author": "",
     "feedId": "MzA3MzI4MjgzMw=="
   },
   {
-    "id": "2651044025_3",
-    "title": "ICML 2026 | 突破极限！港大提出首个适配300+任务的持续学习架构，破解遗忘难题",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651044025&idx=3&sn=329919b9bb8108ddc5d0f84bf942ff8c&chksm=84e67cc7b391f5d1fb4f8b88c53a4bbd136d5a6c9447c17376fc05de3b272292a3f2eadccae6#rd",
-    "publishTime": 1783915232,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqHxZiaDOic0Pmiab1iagVYibGoa8iaKgbvVU34IGTcibfBs7QAtLt0wM7eecURdHFliayA2WYOiaNkRV5smt2B3ZNfVx1N2AV2ZYWqeTFhY/0?wx_fmt=jpeg",
-    "digest": "一种全新的持续学习范式",
+    "id": "2651043143_3",
+    "title": "提示词压缩竟成大模型新漏洞？港科大提出黑盒攻击框架COMA | ASE 2026",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651043143&idx=3&sn=fae11a4bb5c730ba8d9b6a984c1a8c76&chksm=84e67139b391f82f1c58e919de2c9e27322f0193e56bf3f80b8aae9aa26baf573dd1a61ec1f0#rd",
+    "publishTime": 1783479705,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqGWZiaicIibsLDqb9Oz04jrd8r3x1OJ567kQYOIm9sP2g93ItzwwkBtibXDRpRicgziaOfibLgYZsFEX4nCNDVoBfRdInUtE127Js5c0Q/0?wx_fmt=jpeg",
+    "digest": "Agent 系统的安全分析，远不止 LLM 本身。",
     "author": "",
     "feedId": "MzA3MzI4MjgzMw=="
   },
@@ -266,36 +296,6 @@
     "publishTime": 1783139067,
     "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqELA6akXLMbQFtX1BIQoGHB8WUuM21yVRiavibOQGPibFf11Iib0Qzvw6lZkKdJQu3wm7EuU1pmZezOleKy5CJBbWXaVrhqQ67icF1c/0?wx_fmt=jpeg",
     "digest": "让 AI 真正学会「选哪改哪」。",
-    "author": "",
-    "feedId": "MzA3MzI4MjgzMw=="
-  },
-  {
-    "id": "2651042515_1",
-    "title": "GTC四大天王：成为黄仁勋座上宾的四位90后华人青年",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651042515&idx=1&sn=73fb9a85fd4223cbc21279ff13057f18&chksm=84e676adb391ffbb222d9dab4ed2108b0008116a91c5b09ff22342130ac98093825082f3cd85#rd",
-    "publishTime": 1783062209,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqF9ibEpWfibViaGEqyXrs9NibS3Wgws54JS3390mXc3BVdykPSvq29gCnUkicSibC1Ob0tdp98B2xqlbp9JBuXefvqVbT75ibN6hy3gicU/0?wx_fmt=jpeg",
-    "digest": "黄仁勋身边坐着谁？",
-    "author": "",
-    "feedId": "MzA3MzI4MjgzMw=="
-  },
-  {
-    "id": "2651042515_2",
-    "title": "异构Token工厂不再踩坑！多机构联合发布工业级设计实践，拆解跨硬件推理服务的核心边界",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651042515&idx=2&sn=6994427190f016869ee92b7a2fab085a&chksm=84e676adb391ffbb1c9e0564cbb6cfe0d83768785f1ce952c8df564ea311519283ee1870d4d3#rd",
-    "publishTime": 1783062209,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqEsTyhicBePic7Ovcib1pbIo5ibcYDtoPYh9jBr4ozEbz6uY9fd7WgbCD55qwlCL8gkgjscvGzGHjk7Aib2HWIlLic4RfuVaDJSDIqqU/0?wx_fmt=jpeg",
-    "digest": "异构推理缺失的那张「全景图」来了",
-    "author": "",
-    "feedId": "MzA3MzI4MjgzMw=="
-  },
-  {
-    "id": "2651042515_3",
-    "title": "从「预测」到「规划」未来：WLA统一了世界建模、语言推理与动作生成",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651042515&idx=3&sn=8e62ba2c7572de45d20993e9c8d2271f&chksm=84e676adb391ffbbadcb61f47b8fdd44f3e8b4bf26e24125c49cf776df54f1f9d4b5d5bc3766#rd",
-    "publishTime": 1783062209,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/5L8bhP5dIqHeGJHWZnjiclsWWjpGhDJnOTDlnMLPxjhhj0YRDibATcW7ibrTK93XJAoqV3shJWTsBCju1gxPoevL3XAzicvnImssIjqvFp2WL0k/0?wx_fmt=jpeg",
-    "digest": "对未来状态的预测不只停留在「生成未来画面」",
     "author": "",
     "feedId": "MzA3MzI4MjgzMw=="
   }

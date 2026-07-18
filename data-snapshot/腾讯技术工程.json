@@ -1,5 +1,15 @@
 [
   {
+    "id": "2649802692_1",
+    "title": "腾讯发布多款具身智能基座模型与智能体，钛螺丝平台迎来全面升级",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802692&idx=1&sn=8c5db3c47928f6353929767373052e81&chksm=becc54bf89bbdda919f6cd899280e4d3f18fed956b8c477a306d42ee1d361c6cf10b4d2dc50d#rd",
+    "publishTime": 1784363311,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/KVER9adz9062Lhl400eHMjUqfUEvRG2xsKMic1c9TYh9oDa7Vpz4QWG0pP7pJv8lafYJfPjFe3Ke8MbGyoMz4gobcna40u2pIiaSY1uL8WXQA/0?wx_fmt=jpeg",
+    "digest": "腾讯一次发布三大具身基座模型，成果已进入真实生产场景",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
     "id": "2649802660_1",
     "title": "驾驭AI Coding：一份面向团队的Harness Engineering落地规范",
     "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802660&idx=1&sn=2b36909c6f4a6d563addd1f7f8c9f266&chksm=becc54df89bbddc901bafdb48cd390c62a20a6f6e3f2844a5e9ece6cc617fad89c7f1d78a379#rd",
@@ -46,16 +56,6 @@
     "publishTime": 1783935360,
     "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/KVER9adz906lUYLYVpjGicVeTJibIa1QCHXia2GADwndc8icY0ZwJRLAODibYOLiazmsrYuLc8ic3GCly8kOu0JbBibKVmXKpibkicTDMyFQKicJp3YjHA/0?wx_fmt=jpeg",
     "digest": "大模型时代AI Workload调度的新范式",
-    "author": "",
-    "feedId": "MjM5ODYwMjI2MA=="
-  },
-  {
-    "id": "2649802528_1",
-    "title": "【揭秘】如何打造一支凌晨3点还在交付的AI军团",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802528&idx=1&sn=2a38aa36abe5401b21ec718ccc60260a&chksm=becc545b89bbdd4d35512f3936a8c7ad5da06d384c9f770ccdcf83149cd4e8866d6d7b26c2f4#rd",
-    "publishTime": 1783676160,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/KVER9adz905gVWR6icezvGibqD5PvyqJF8ZjjiaMQBxLIibAqClvmhjOArAPCDzKc490Rb8cHBJhRXRJevg4iaXsetfeKicibQnJViaGlBfefYsIVXQ/0?wx_fmt=jpeg",
-    "digest": "超级个体",
     "author": "",
     "feedId": "MjM5ODYwMjI2MA=="
   }
