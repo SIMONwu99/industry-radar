@@ -1,5 +1,45 @@
 [
   {
+    "id": "2247905288_1",
+    "title": "AI医疗卷了10年终于悟了：不用替代医生，而是给医院装上超强buff",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247905288&idx=1&sn=cab10872925a0a1fdb56ba2945a6483a&chksm=e8da077adfad8e6c4a68edea44ab462d44a18b3774fe4f7a80be429fdb1382943f5a10f47e86#rd",
+    "publishTime": 1784547622,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGGxH29KHoyqtdWlFpBKicDabib6BT9ZVIar9m3FTGjoFhiaPdXO8sELxwEQfsKXa0B8kcapyNnadl7cWYrbOWgKnlWibrWsumxKPXA/0?wx_fmt=jpeg",
+    "digest": "未来的医院，可能不只存在于一栋楼里",
+    "author": "",
+    "feedId": "MzIzNjc1NzUzMw=="
+  },
+  {
+    "id": "2247905288_2",
+    "title": "上海这场大赛有点“野”：让AI自主科研、控核聚变、认甲骨文",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247905288&idx=2&sn=902de22d4c38b8f47a3af22bdbc11b1e&chksm=e8da077adfad8e6cc15e471d2c1eae50533a3c26aa433329439fd00d70803e9981aefeaf67c9#rd",
+    "publishTime": 1784547622,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGE1TZV8B3mzUbKWde11kqVelffgibUPAh8zYEXgaeuuFI9hJsdNx6yP5UzDoI7VWLia1ibA7WYvqU3O9SsvjHYX6wia2YibwpV7GicDk/0?wx_fmt=jpeg",
+    "digest": "为科研OPC创业者铺就“最后一公里”",
+    "author": "",
+    "feedId": "MzIzNjc1NzUzMw=="
+  },
+  {
+    "id": "2247905288_3",
+    "title": "给AI喂“噪声”也能涨分，这项工作让噪声实现正迁移 | ICML26",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247905288&idx=3&sn=084673e5be55f24269aa3069834c04d7&chksm=e8da077adfad8e6ca92f8cc71a5eda14873d070c4fe73e0dc6dcd24a41fe8eef0baf8e69429f#rd",
+    "publishTime": 1784547622,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGFYZFCibtHLM1wzfBKT3TMpoPasxMiaK0Jibkz2hIcoROAHHkAGCrcWaqFoFNy9KqibhCGqiaWVnu0zVRhQS0tJlculV4A93LaH20I0/0?wx_fmt=jpeg",
+    "digest": "迁移学习里的“源数据”，未必非得是图像、文本或音频。",
+    "author": "",
+    "feedId": "MzIzNjc1NzUzMw=="
+  },
+  {
+    "id": "2247905288_4",
+    "title": "量子位编辑作者招聘",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247905288&idx=4&sn=40dd447c363fa4e254c5ab34f1d044b7&chksm=e8da077adfad8e6c2aa8c43e138559adf7dac53bb7054d43516c7e5b6bf53328220416ba8fb3#rd",
+    "publishTime": 1784547622,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/YicUhk5aAGtBwsQQg50rdDIFHPibz5pbVfnv0oOoRSQ2KmEYBSJRibeXrJnIU1euj0icCf6pXdduQdCbnRJy3b7u7Q/0?wx_fmt=jpeg",
+    "digest": "3个岗位（含实习），不设边界",
+    "author": "",
+    "feedId": "MzIzNjc1NzUzMw=="
+  },
+  {
     "id": "2247905033_1",
     "title": "逛了趟WAIC，我只想说，AI在物理世界都快卷疯了……",
     "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247905033&idx=1&sn=af18ebf68e6cefe08e91cb154ed5b407&chksm=e8da187bdfad916d01b7485ae092193fde8ccd4293a38c29163a104624320b0579be66f819ac#rd",
@@ -26,16 +66,6 @@
     "publishTime": 1784456280,
     "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGFsS4YJtSMDm6lqSbzpvBDH5eLYt9bsN1HviavTXDIUibEwKvRxQk9y2gQRLDSxsByP4P2NYEolkfxcQALrVDkdickEy3d65icsx2A/0?wx_fmt=jpeg",
     "digest": "一个对抗LLM结构性缺陷的模型架构",
-    "author": "",
-    "feedId": "MzIzNjc1NzUzMw=="
-  },
-  {
-    "id": "2247905033_4",
-    "title": "量子位编辑作者招聘",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247905033&idx=4&sn=b9e7f1db506ab80d290480a90471e2cd&chksm=e8da187bdfad916d531dd68e163c5381ed99c37eff29a5ece70901072df8c223d778b60f3320#rd",
-    "publishTime": 1784456280,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/YicUhk5aAGtBwsQQg50rdDIFHPibz5pbVfnv0oOoRSQ2KmEYBSJRibeXrJnIU1euj0icCf6pXdduQdCbnRJy3b7u7Q/0?wx_fmt=jpeg",
-    "digest": "3个岗位（含实习），不设边界",
     "author": "",
     "feedId": "MzIzNjc1NzUzMw=="
   },
@@ -140,32 +170,32 @@
     "feedId": "MzIzNjc1NzUzMw=="
   },
   {
-    "id": "2247903875_1",
-    "title": "手握英伟达宁德时代相同剧本，具身智能的第一个「基建商」出现了",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247903875&idx=1&sn=7b4310fb18c59407f80da2adaff1aedc&chksm=e8da1df1dfad94e782a9542cede76d9a40583b4f73c5f0bff2e619f9d921ea6cf22272698b66#rd",
-    "publishTime": 1784089800,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGGWGwoIAzicd6rIoukl7P2sYovnNFibIFsf58KrmSZVwrLmibEpEkpqX8CZKTthHQReDGT4wwdNlSLZW1Qsl2yRhEO4ES2F7Equss/0?wx_fmt=jpeg",
-    "digest": "“Robotaxi第一股”文远知行孵化",
+    "id": "2247902774_1",
+    "title": "全球首个「具身原生」预训练模型发布，从物理世界出发为机器人造大脑！",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247902774&idx=1&sn=55d8846a7ef42993d385848631d4cc2a&chksm=e8da1144dfad98525230c66ff20710ab81547ab4e360003c171868000d1b8cb9f486d9155e4b#rd",
+    "publishTime": 1783664442,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGH2RiadefxL8F2icAcMe5rdkWO6cp5iccQwRISTdWkr7af5LUCAklAGpZoicTObSIxwBryKYc9T6WgM5zAWtdPL8ahYL5BWYW6dZf8/0?wx_fmt=jpeg",
+    "digest": "第四弹：LingBot-VA 2.0",
     "author": "",
     "feedId": "MzIzNjc1NzUzMw=="
   },
   {
-    "id": "2247903875_2",
-    "title": "不是吧OpenAI首款硬件吹半天就是个AI音箱？？",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247903875&idx=2&sn=4f3d06b4a2b69c5f63f8ef38093f7e80&chksm=e8da1df1dfad94e723d4dabc8c97ab5c62a40cd2ac390762c2bc1170ba9d944744dd1c02a82d#rd",
-    "publishTime": 1784089800,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGHOFlNu4WwXhY285wrujq23brRoTicbEsIAnQ8fKMNTqa2FfKj3s5eaVdobiaVX3P0VJ6Mpicegxf2xM1BwsfxXT99pqetG8o344E/0?wx_fmt=jpeg",
-    "digest": "难怪苹果急眼了",
+    "id": "2247902774_2",
+    "title": "一群做自动驾驶的人，盯上了睡眠这件事",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247902774&idx=2&sn=ac437d218abdb56ff612890eb61543f5&chksm=e8da1144dfad98525b92a667136cedf11b611fd921c20caaeeba4931e1a47bca73aaa7015b8a#rd",
+    "publishTime": 1783664442,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGFOic7lXFheqVNCcEBVVSohtmtXRaJRiaZuibsxW2jCibEttX24L397MpBe7X1Ky01ticuxG2XgAQKCaEdPzDcEpL43HyIY3hOhP9ys/0?wx_fmt=jpeg",
+    "digest": "把数据闭环搬进卧室",
     "author": "",
     "feedId": "MzIzNjc1NzUzMw=="
   },
   {
-    "id": "2247903875_3",
-    "title": "7.17 WAIC首夜，一线AI从业者真话局：AI聪明够了，行动呢？｜线下报名",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247903875&idx=3&sn=fda3051a38bd6af4642f59b178246ed1&chksm=e8da1df1dfad94e7ae42c8978ed0572c0ec77c62ac5596477d02b89bfdf07540c88833c5b68d#rd",
-    "publishTime": 1784089800,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGGBvZZdoD5icRMoknqAicJV5GI7FpotKJpv4W9PicBkia1tpMbscedaKz4cslle2XRxibrN7dUibcwiaMsubyEU6GfmCORynMrNwcuAIQ/0?wx_fmt=jpeg",
-    "digest": "一场小范围、更聚焦的真话局",
+    "id": "2247902774_3",
+    "title": "登顶HF榜首！这个Agent做PPT还是太强了",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247902774&idx=3&sn=105423bc466eac33176bb358f794ab8e&chksm=e8da1144dfad9852c5fba353c22568d00348b3e05eb9525d051e8bd5d2aed8421827347c4859#rd",
+    "publishTime": 1783664442,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGGXGPlC7bLSFTbkODOdIWL8ztVyIa0qc5SRxiaXQRGpic4jjP5iciauxw89MVPF58t9d8TGWyvgicW3ibicZBTV0oZVDQk683eIyLKsIE/0?wx_fmt=jpeg",
+    "digest": "你的PPT救命搭子已上线。",
     "author": "",
     "feedId": "MzIzNjc1NzUzMw=="
   },
@@ -206,36 +236,6 @@
     "publishTime": 1783481538,
     "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGFLODa5mYcP2pYf9BQ4QcAiaib27caTTjvQETk1OjA6VgIia1ibcTFwXBafIm8onc3EDaabBkbUDc7BT5G9dgnxWN1CvVyvsQhIqvs/0?wx_fmt=jpeg",
     "digest": "蚂蚁灵波Lingbot-VLA 2.0",
-    "author": "",
-    "feedId": "MzIzNjc1NzUzMw=="
-  },
-  {
-    "id": "2247902258_2",
-    "title": "刚刚，OpenAI首席未来学家离职！曾被马斯克骂蠢驴",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247902258&idx=2&sn=9255dfa6c73c1433b887448e2fb783bb&chksm=e8da1340dfad9a5697869e8644d4e3dd0563bf622cb244d475413509993f2678272aca03f685#rd",
-    "publishTime": 1783481538,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGHRpWSONPLoenG5MLnAYW8cBWmbzuYml9YtB0bveAldAibA5EcmHwl6gicQ7f0UWiao0y2ZeCY1Fkr8K8sUZ69wKKibSZgJjRQH79I/0?wx_fmt=jpeg",
-    "digest": "To safe AGI",
-    "author": "",
-    "feedId": "MzIzNjc1NzUzMw=="
-  },
-  {
-    "id": "2247902258_3",
-    "title": "AI生图免训练提速1000%，办法：最简洁的“三阶段流水线”",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247902258&idx=3&sn=ba308a43c7645e185ee3f0285fcabad0&chksm=e8da1340dfad9a560e533c07d0a1d263848ce3cc178a99cd81030e4266ed0554d816ad5acfe7#rd",
-    "publishTime": 1783481538,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGELN68ePXLe950MBibzfPtJuKRyKcYia1ROicibRaejBaj9icCgfaI7MWQpuqznA2zvZFDou1UB1ujTP4LEUwlggTVAFkWeP59sX1Mo/0?wx_fmt=jpeg",
-    "digest": "AI画图能力越来越强，但用户体感还是一个字：慢。",
-    "author": "",
-    "feedId": "MzIzNjc1NzUzMw=="
-  },
-  {
-    "id": "2247902040_1",
-    "title": "刚刚，首个空间原生的具身视觉基模开源！机器人更会看我们的世界了",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247902040&idx=1&sn=fb6fcc00d2b5618fe21ed103cc5e1892&chksm=e8da142adfad9d3cd7cd8b60d95439b8d377791c789d4af6e70b5fffe396c3f2d82d7d1b2a82#rd",
-    "publishTime": 1783398573,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGHd8icicroDGL8K2kCpX0p2360H7NicqwXmepJraR6XIibFhJibXHwtLF54IIPFYRrUDPO4RGaaUs5gkm986d1PzVPvXJb3uGEvs1fo/0?wx_fmt=jpeg",
-    "digest": "来自蚂蚁灵波",
     "author": "",
     "feedId": "MzIzNjc1NzUzMw=="
   }

@@ -1,5 +1,55 @@
 [
   {
+    "id": "2651289201_1",
+    "title": "16 万 Star 的 OpenCode 彻底重写：API 全部重做、Bun 换 Node、桌面端迁移 Electron",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289201&idx=1&sn=9630e4a209642257824a1e3041f92aa8&chksm=bdba8e228acd07345c5f6fc4367c4a4e27c94e3e37c0d5685e0ca7bfb8a207984c8162cba849#rd",
+    "publishTime": 1784541217,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNiaSGQnicSlLAKGp3cnFJVUpLz2ia6cyJS2JicW6XgfAjMbM1ViaqZZxhX700o7muBxOsicBqXzCM3ZE44QGQgPjL6vYEx56am6mROUo/0?wx_fmt=jpeg",
+    "digest": "“我们奢侈地过度设计一切。一个读文件的 API，也要穷尽所有可能的实现方式。”",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651289201_2",
+    "title": "国产GPU分水岭时刻：当别家还在卷参数，摩尔线程早已训练出了世界模型",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289201&idx=2&sn=0992a4ffc0a097977f3a6093563f1b30&chksm=bdba8e228acd073407bbd9cb5639dc13e7411cd26212bea0b26f2793aa7cb590c97b70f21ba9#rd",
+    "publishTime": 1784541217,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNiapWAS3It2quv3N0YpGjhStJYjkvsUMyjw5DcSMYibMJjzftTWs07WXkYDN9gU7ZeIboUZTWsRQswSdwVzCMb1hz0B1nY9wqFWg/0?wx_fmt=jpeg",
+    "digest": "模型、Token和智能体三管齐下，才能定义AI算力。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651289201_3",
+    "title": "谷歌 Genkit 推出 Agents API：支持分离式任务轮次与人机协同",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289201&idx=3&sn=3a586e007ad05492f66ab17d4ebd2e51&chksm=bdba8e228acd0734921b1e6af3df2fc09dd50813c771fabba40435c57b9e08319faf4ed00bef#rd",
+    "publishTime": 1784541217,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjz4vuAUm4gY5MHrYFPIiaceDvgPZeq02eZqGn86XfWzvwHH8FYXrKyB0a7gicQYrqwbqWiaV2OrpPT4TQYxcSDqLP1csNTFMlXsA/0?wx_fmt=jpeg",
+    "digest": "谷歌开源全栈 AI 开发框架 Genkit 推出预览版 Agents API，统一 chat () 接口封装对话、工具调用、流式输出、状态持久化等能力，进程内与 HTTP 服务部署模式调用逻辑无差异。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651289201_4",
+    "title": "Datadog 借助 Claude 和 Cursor 完成测试驱动式生产环境迁移",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289201&idx=4&sn=37001e757b2121e36fc1522a5cdb7ace&chksm=bdba8e228acd07345aa6181704fb799b29ade50b7f37191cee468c6ca6e33e3eebbddffdc417#rd",
+    "publishTime": 1784541217,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNgWu5khlUFdPR3BY9gFayC8JFxN0ice8CprFdatVWgK4M1ayZic267OGgNIGVFcKWIAOKYM1oGpLKQrFmb8fxfJicELTMPIBiaNZBY/0?wx_fmt=jpeg",
+    "digest": "Datadog 工程师 Arnold Wakim 在近期文章中分享团队利用 AI 改造核心生产系统的实践、问题与经验，通过AI突破底层存储性能限制，大幅优化系统表现。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651289201_5",
+    "title": "百万上下文下的 DeepSeek V4：SGLang 推理优化实战｜AICon 深圳",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289201&idx=5&sn=7290e9043acf92e17b3d843960a2e439&chksm=bdba8e228acd07341e8e4b8ad42bf61b7c5942c0aedb651690279bfbbf39abe4cbcd4e39fc1a#rd",
+    "publishTime": 1784541217,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNgqriaFYEvZQfDrZmuarFLtDSgPnib8gJbvCUlSlTUOKlAkialvoowl5JslZdApC3C3UCWHElXLjHqYaxjXohLBTlP9NQicLMuvXr4/0?wx_fmt=jpeg",
+    "digest": "SGLang 团队如何通过缓存架构、算子融合和并行策略的全栈优化，实现 DeepSeek-V4 百万上下文推理的 Day-0 支持与持续性能提升",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
     "id": "2651289128_1",
     "title": "所有Harness终将长成“龙虾”，但最后活下来的只有几只",
     "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289128&idx=1&sn=80c7d1829f5cd8aa93fdb9a16d15b6ef&chksm=bdba8e7b8acd076d1b4d60ea2bac018301e5da9ca25ff2a9467e80de07207ebfde2a2bb3a41a#rd",
@@ -160,52 +210,42 @@
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651288872_1",
-    "title": "“我现在干得还行，但劝你别进来！”AI 蜜月期要结束了：打工人变成“快乐的行尸走肉”",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288872&idx=1&sn=996fdd641760c8025a97a1ef664afc06&chksm=bdba8d7b8acd046d8ba14017b0c4c129905dc3ecf43e30d1de784b71c3d81845d02e405d6a1b#rd",
-    "publishTime": 1784107863,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNias67fSEibJVVrq80LqUBHpdK57NOdAwsRibMMt7C8ZLia5zkQ22rZWZGmwVZgntEBoK3Jia3ypusAHRcx8sGt0KQPnA1BOZ4mStao/0?wx_fmt=jpeg",
-    "digest": "一半的人认为 AI 让自己进入了职业生涯的最佳阶段",
+    "id": "2651288550_1",
+    "title": "GPT-5.6三档模型全面围剿Claude Fable 5，“超级应用”ChatGPT Work上位",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288550&idx=1&sn=da6ff8aa74fd310880f671310e638b1c&chksm=bdba8bb58acd02a3d45e0fdf2be25eeb76be97e7c913b038b95f68e5d0f3559a64ad820f7d25#rd",
+    "publishTime": 1783646402,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNhGFN8mfIp3KCpsqwKvhsfunlzujAgHTVyaEE7LTtMlQEPjWSnLNKGVOVFjSWdFwic4AufTCozwg7oj6PFuneOtcHnm8ib3qZvfs/0?wx_fmt=jpeg",
+    "digest": "Altman紧急澄清：不会取代Coedx",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651288872_2",
-    "title": "WAIC 最热闹的时刻，我们帮你筛掉噪音",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288872&idx=2&sn=f0c93fcda445044e79e56f6ae7ac93c1&chksm=bdba8d7b8acd046d160b1f6697ed8063679c69e16ccb5b6dd5763c6d7990b1e843f2413c434a#rd",
-    "publishTime": 1784107863,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNiarPH4bUSlulMfV71DTghhlwm0vxYGbicq3DLVVKKUrzMaibqE3JDS1dDFWy7e8hbvkRXTEKibohuBGRkPiaZBgq8iaaB8xwTEDiaohM/0?wx_fmt=jpeg",
-    "digest": "不替你下结论，只陪你把问题问对。",
+    "id": "2651288550_2",
+    "title": "AI推理成本首次算清：GPU利用率不到52%，千万别自建！",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288550&idx=2&sn=6e3fcaccd7bf67bc024fc49a30b333c1&chksm=bdba8bb58acd02a3d417d36fbbd24a883792d70ad447b2101a51a56b2134279259bdf927cd8c#rd",
+    "publishTime": 1783646402,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNiatwNHJKNOm15MAWVB2bjuC3R1k78MAicUCJmA7zzHibo51juvNP4LNbS8eJwxKBsrdNLQCCmibDg0XMIfGjWZZy9fyBMu7vKC1vs/0?wx_fmt=jpeg",
+    "digest": "本文揭示了一个被忽略的行业真相：API 厂商的定价策略利用了客户无法精确计算利用",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651288872_3",
-    "title": "红帽决定聚焦中国企业的“多模型、多 GPU、多云”选择权",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288872&idx=3&sn=d322f8aff996c1dd75674eec081ba2cc&chksm=bdba8d7b8acd046d5bd8311ecff3ebe93affcfeb86d7c03e12d10b121ad268307c79ddf9c473#rd",
-    "publishTime": 1784107863,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNj5h9Be0Pwfnryna5KT3volWoBtsQzXibme3734hpJuLze9duL03CaFkZP3EaVbDvWMGQKO9akYvVVmVxc9rViaKibQMgJLYblQmo/0?wx_fmt=jpeg",
-    "digest": "“一个企业最大的挑战不在于它是否选错了模型，而是它失去了选择模型的能力。”",
+    "id": "2651288550_3",
+    "title": "虚拟座谈会：机器时代的安全——专家解读 AI 威胁的演变",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288550&idx=3&sn=102742e2278b752fe4d87411b4e9e40d&chksm=bdba8bb58acd02a31e7726c26fe4eec5e94d4c9d03834844de51dfbe9e4425160b28f05ad895#rd",
+    "publishTime": 1783646402,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNjISEK06vHUqkvYAdBegDuv1NBypPEib9icAzMeNPUujX6jMnvQWxticuwMNK1vCACeVm1iciaFM8iaVSCHMicf0uOXWokgiazajcwfia28/0?wx_fmt=jpeg",
+    "digest": "本次虚拟座谈会汇聚了业界顶尖的实践者，共同探讨 AI 威胁的演变趋势。他们还将审视传统安全方法的局限性，以及抵御未来攻击所需的关键技能。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651288872_4",
-    "title": "HubSpot 如何将语义搜索扩展至 200 亿个向量",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288872&idx=4&sn=31de2950c372d828efab2010f670e013&chksm=bdba8d7b8acd046d02ec55a0dea1e9c2697afb5c17de3b43337f142120f3bcbe43e363a2ec9d#rd",
-    "publishTime": 1784107863,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNgvel9vhgosPldibz0nm10NqBBsXMQSeCRWdkFaeOKzBsbBxN8pAqy7ibFCTRmBmCBNEytLdb2rZUZgU7lrtfQdSEB08d6LnvHXs/0?wx_fmt=jpeg",
-    "digest": "SaaS 软件供应商 HubSpot 详细介绍了其语义搜索平台如何从概念验证发展成为一项内部服务。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651288872_5",
-    "title": "Harness Engineering：构建可靠 Agent | 直播预告",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288872&idx=5&sn=375ce07b4084762a071fcb837fed0915&chksm=bdba8d7b8acd046d13f74009c4d901d97a3b5251e4e3450d22d7c006ff5cedfe062f9416b9ae#rd",
-    "publishTime": 1784107863,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNgBlvyUgU0WKhYU74QHrZJFPIwpOPFGQ5MowqF63ORHR16RqHRF8OfQCjQy5NqCHiby5AYnl91ibVfEicL6vjw6ms8GlAHUPBw0Gw/0?wx_fmt=jpeg",
-    "digest": "大模型让 Agent 具备了推理和执行能力，但真正进入复杂业务场景，还需要一套围绕上下文、执行、验证和反馈构建",
+    "id": "2651288550_4",
+    "title": "动态分区拆分：Netflix 大幅削减 Cassandra 读取延迟至毫秒级",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288550&idx=4&sn=a4f3949d18c31b3712a5eabd01fe65b0&chksm=bdba8bb58acd02a3f9a169bcab4da2b1c943e947de2735ffc181df157d3b1d099e1312df3d35#rd",
+    "publishTime": 1783646402,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNg7aL1MAxgkfKFiapbC0z19E89hxwAqaP8ibicgIXHcLzDicVFTzjSSmyb9bpfZzJvJ4E7GKCgz8TwIcaeJyRsAnq5dPfL8xFItVAw/0?wx_fmt=jpeg",
+    "digest": "Netflix 推出基于元数据的 Cassandra 动态分区拆分方案，自动拆分时序场景下的超大宽分区并分发读请求。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
@@ -256,46 +296,6 @@
     "publishTime": 1783488507,
     "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNiazf0gB9RVNzLIE1zdycOp4E7ibgeLzkR8PgQy73TR2J0Dqky83kVQo5CFh0lqe7qJibqF2wJ1icCI83Lxf4VibNyibicoFmibm4aDH5w/0?wx_fmt=jpeg",
     "digest": "一种新的、因 AI 代码泛滥而出现的生意来了。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651288405_2",
-    "title": "360 周鸿祎：做中国版 Mythos 不能照搬美国路线，基模能力的差距可以通过Harness补齐",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288405&idx=2&sn=7b6120057556e1541f7b4da856f1f74f&chksm=bdba8b068acd0210fd60d7a0588adb5815fe01b8105bfb115f50ac081eaa50748306ee3e8f94#rd",
-    "publishTime": 1783488507,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjwibytQLJffHXUVdAelSXVqvNcetmbqB8BSazic9e2ibTW6Z4IX3qXXNaicF5MGpnQR3eicNopSQfEB4IEFf1bACuA4tljG7UA6I3w/0?wx_fmt=jpeg",
-    "digest": "过去几个月，Anthropic 的 Mythos 模型持续成为全球网络安全行业关注的焦点。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651288405_3",
-    "title": "快手 AB 场景提速 145 倍，从 Spark 到 Apache Doris 的加速实践",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288405&idx=3&sn=359d27798276a14973ac20dac28505c4&chksm=bdba8b068acd0210df6cc3fee75f1fcc1a3dade757c62a8cb25740d0f81cc41c8dae07abcab4#rd",
-    "publishTime": 1783488507,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNgUKic7vC7jKTZTDYwD75cEzglTPj9iak46UibzopWd2Lqz4icttHPmEVDetgNrPWsMjfUkgBKgiakyhkPlssh5AOPEptEnh9Nc33DY/0?wx_fmt=jpeg",
-    "digest": "快手 AB 指标生产场景从 Spark 切换到 Doris 提速 145 倍、资源消耗下降 72%",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651288405_4",
-    "title": "AI Infra 拼什么？| 直播预告",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288405&idx=4&sn=0077cf733faec2f9176821a75eccf1da&chksm=bdba8b068acd0210aed46d57b540d75072c19bf3bab6be8e7066f1aec1283e180daaa27e336f#rd",
-    "publishTime": 1783488507,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNg48ALV4Mvx3NWToU37xmlTia1DxOCOh7taInp2j48Xre601SVlJJwFjp0f5QniaKm2umC0oiccx3BYpY34VhHiarQ8eiajsF8okRU4/0?wx_fmt=jpeg",
-    "digest": "模型越强，AI Infra 的竞争逻辑正在被重新定义。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651288360_1",
-    "title": "“如果你不能用300行代码写个Cursor，这行你就别待了！”Ralph Loop创造者、Claude Code核心技术设计者的暴论",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288360&idx=1&sn=d257a460cae156cb4388b2ad571ffd00&chksm=bdba8b7b8acd026d4eaad4b5632dc96b64299713acbefdc7a323f3e1ec574c0c1b6d0692439b#rd",
-    "publishTime": 1783412673,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNjriagSS1fqwEia3ibAwrTTP3YbkADFrpoZbJyZKSN3OjZzfQ01yblz277LXyVrV6Wf4ag1kWPKMnlnInfAicWyOia5SSDe8OMFEZ7Q/0?wx_fmt=jpeg",
-    "digest": "“人人都成了软件开发者，但这不代表他们是软件工程师。”",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   }
