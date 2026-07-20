@@ -1,5 +1,15 @@
 [
   {
+    "id": "2247495684_1",
+    "title": "小红书、北大开源 UltraEP：面向大规模 MoE 训推的「最优」负载均衡方案",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247495684&idx=1&sn=deb67718827fbed405fd2dd6978aef7b&chksm=cfe452f3f893dbe568c107f4d26de76fe804991915146bda183c44196f18a66749fe201a49df#rd",
+    "publishTime": 1784534442,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/P9Hs04VFGRk4Dq4RGhWAqHnhyJG7aPeXZsoxVwo8kianPN1XeQTafpQIg4x7c25WSSTgBz5IuhiaxI5icHtPuuUhoWxU4YdHE22xtUtEe9hSia8/0?wx_fmt=jpeg",
+    "digest": "让理想专家负载均衡走进生产",
+    "author": "",
+    "feedId": "Mzg4OTc2MzczNg=="
+  },
+  {
     "id": "2247495626_1",
     "title": "首 token 延迟降 3.25 倍！小红书联合北大、上交提出 HYPIC，让混合注意力大模型用上「位置无关缓存」",
     "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247495626&idx=1&sn=1716d6b911780449e17662c4b1dad973&chksm=cfe44d3df893c42b0b2eee3a0bbed751c3a0c7ea985ba205e321eeca1665298ed7e138769e0b#rd",
@@ -36,16 +46,6 @@
     "publishTime": 1782730805,
     "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/P9Hs04VFGRm3U1QkaMRbtRKWHM80M9Rk3mxu5WWMnRjyIUfyWQbXryV9SG69HU1WELBY2z7qNOGj3iccCYSWu6EsQUXFuMgqKuRcOu9N68Jg/0?wx_fmt=jpeg",
     "digest": "LLM推理引擎从KV Cache一体化走向多头解耦",
-    "author": "",
-    "feedId": "Mzg4OTc2MzczNg=="
-  },
-  {
-    "id": "2247495506_1",
-    "title": "AICon上海2026｜小红书质效：Agent 基建的规模化落地路径",
-    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247495506&idx=1&sn=594cc33fcc72592c34cf9233b009befb&chksm=cfe44da5f893c4b3dd173e3b2c62cde43664ad501894876414cd610a4ee5cb023dc90772c0e5#rd",
-    "publishTime": 1782295140,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/P9Hs04VFGRnVhCHByRfAq7tfXvSPEvOu7TBjFewNE9yJAKGOk2ZHicRdjV6HYPlmWrb1ZmSKEGlKS9iaHQpRIsAbQF7NRE15OjU5zvDoSEEKI/0?wx_fmt=jpeg",
-    "digest": "AICon 上海 2026 小红书质效团队两场分享预告",
     "author": "",
     "feedId": "Mzg4OTc2MzczNg=="
   }

@@ -48,15 +48,5 @@
     "digest": "5月20日23点58分，Marvis 上线。22号上午，用户量激增，官方紧急扩容",
     "author": "",
     "feedId": "MjM5ODYwMjI2MA=="
-  },
-  {
-    "id": "2649802581_1",
-    "title": "腾讯Ray团队实践：K8s + Ray如何支撑超大规模AI Workload",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802581&idx=1&sn=6853e0881c8ef7e87dac7baf5ad82d22&chksm=becc542e89bbdd38c2244bb25beae0285cd3a7b227dd86e934cd5d94b4718d3d14504b098956#rd",
-    "publishTime": 1783935360,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/KVER9adz906lUYLYVpjGicVeTJibIa1QCHXia2GADwndc8icY0ZwJRLAODibYOLiazmsrYuLc8ic3GCly8kOu0JbBibKVmXKpibkicTDMyFQKicJp3YjHA/0?wx_fmt=jpeg",
-    "digest": "大模型时代AI Workload调度的新范式",
-    "author": "",
-    "feedId": "MjM5ODYwMjI2MA=="
   }
 ]
