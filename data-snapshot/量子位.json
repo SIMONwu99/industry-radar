@@ -1,5 +1,45 @@
 [
   {
+    "id": "2247905033_1",
+    "title": "逛了趟WAIC，我只想说，AI在物理世界都快卷疯了……",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247905033&idx=1&sn=af18ebf68e6cefe08e91cb154ed5b407&chksm=e8da187bdfad916d01b7485ae092193fde8ccd4293a38c29163a104624320b0579be66f819ac#rd",
+    "publishTime": 1784456280,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGHoVstNibeguriaDVfjfxs4BiaZUl2hWB3AIAcSl4Tcjrf3V85mlSQvxQeKGThib5MqQEwd7bx9VFyvgB0hKxRcMm28xztGxicWzAaA/0?wx_fmt=jpeg",
+    "digest": "小机器人开始在物理世界狠刷「经验值」",
+    "author": "",
+    "feedId": "MzIzNjc1NzUzMw=="
+  },
+  {
+    "id": "2247905033_2",
+    "title": "不靠英伟达网卡，国产GPU直通方案实测出炉：吞吐飙升、延迟砍半",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247905033&idx=2&sn=312c0dbbd95084249385de469ea40bb3&chksm=e8da187bdfad916dfa4af5beb7b54e458722a27587a21ef0423629807a492ab5512201fba711#rd",
+    "publishTime": 1784456280,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGFmstcjLsIkgaMhgxngoImG6cWib2liaZib5SYrDIK9jbfe9MDEEdAxTA3reDic0d6EXZ80eMX3cYvrcudpicPF4XUDl7RUjTuZw9XA/0?wx_fmt=jpeg",
+    "digest": "奇异摩尔亮相WAIC",
+    "author": "",
+    "feedId": "MzIzNjc1NzUzMw=="
+  },
+  {
+    "id": "2247905033_3",
+    "title": "围观WAIC模型「读心术」！现场火火火火火",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247905033&idx=3&sn=e2e446281f7870e1c90827b738b13d51&chksm=e8da187bdfad916db15c0fccacceb74de41d44ec2ae0e545e5e2710d1303e1a2e8b7d8c46e9c#rd",
+    "publishTime": 1784456280,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGFsS4YJtSMDm6lqSbzpvBDH5eLYt9bsN1HviavTXDIUibEwKvRxQk9y2gQRLDSxsByP4P2NYEolkfxcQALrVDkdickEy3d65icsx2A/0?wx_fmt=jpeg",
+    "digest": "一个对抗LLM结构性缺陷的模型架构",
+    "author": "",
+    "feedId": "MzIzNjc1NzUzMw=="
+  },
+  {
+    "id": "2247905033_4",
+    "title": "量子位编辑作者招聘",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247905033&idx=4&sn=b9e7f1db506ab80d290480a90471e2cd&chksm=e8da187bdfad916d531dd68e163c5381ed99c37eff29a5ece70901072df8c223d778b60f3320#rd",
+    "publishTime": 1784456280,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/YicUhk5aAGtBwsQQg50rdDIFHPibz5pbVfnv0oOoRSQ2KmEYBSJRibeXrJnIU1euj0icCf6pXdduQdCbnRJy3b7u7Q/0?wx_fmt=jpeg",
+    "digest": "3个岗位（含实习），不设边界",
+    "author": "",
+    "feedId": "MzIzNjc1NzUzMw=="
+  },
+  {
     "id": "2247904823_1",
     "title": "妙啊！无人机直连卫星传Token",
     "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247904823&idx=1&sn=717371d5d163ccccf4b3f5399c505620&chksm=e8da1945dfad90538927aedfc005a8c6465b5c61a63d7e7b4d1583126bddf7697a7c4e9a8072#rd",
@@ -26,16 +66,6 @@
     "publishTime": 1784360668,
     "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGGYS6ofxicES70WTH7oSYFicntg0vI5DJO5GFLssUCx2VUniaAqahIM6HnL5FzKvlqpUXFtDAX6bMXSK3JgicwiasnvY1REicJia8FiaIo/0?wx_fmt=jpeg",
     "digest": "让AI自己改自己的Agent Harness，这事已经被顶级Agent社区注意到了。",
-    "author": "",
-    "feedId": "MzIzNjc1NzUzMw=="
-  },
-  {
-    "id": "2247904823_4",
-    "title": "量子位编辑作者招聘",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247904823&idx=4&sn=9a6af9fb812602ddddc0dbd92ed3a9e5&chksm=e8da1945dfad9053600ffa7d875ebba59f15d0c0ffd961c98b8311b0b4dfcda8a63d72b2e5ff#rd",
-    "publishTime": 1784360668,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/YicUhk5aAGtBwsQQg50rdDIFHPibz5pbVfnv0oOoRSQ2KmEYBSJRibeXrJnIU1euj0icCf6pXdduQdCbnRJy3b7u7Q/0?wx_fmt=jpeg",
-    "digest": "3个岗位（含实习），不设边界",
     "author": "",
     "feedId": "MzIzNjc1NzUzMw=="
   },
@@ -140,22 +170,32 @@
     "feedId": "MzIzNjc1NzUzMw=="
   },
   {
-    "id": "2247903794_1",
-    "title": "阶跃入局，重构智能体时代操作系统",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247903794&idx=1&sn=a3d583e742b3fd8725a50d9ef3ad080c&chksm=e8da1d40dfad9456946454a83be1fcd0150eef5c81ea7e1a872d4c6ec7aade20da8231525f94#rd",
-    "publishTime": 1784023227,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGEwsAUePDm4JoE9CgyMXN25ZOWDeibu228hbKFJalmntKkxiaCiamGCeSuzjaiaGcZRNPxJ38BpHxcRh5NtKqibpnXJATibXFdRTuyks/0?wx_fmt=jpeg",
-    "digest": "董事长印奇称“未来的OS一定是跨端的”",
+    "id": "2247902587_1",
+    "title": "刚刚，全球首个具身专属的MoE视频模型，开源了！",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247902587&idx=1&sn=eeb66b375d0e1bf534adcb789ffd5ace&chksm=e8da1209dfad9b1fe50bc8f4bb937fd8b24958cce2514f43bc98ef48462ba2bbefc4862c2276#rd",
+    "publishTime": 1783570573,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGGvyqfIZSCMOpeu9yluYtCZmhKpmG8TNiaiaOGJosvc9qhta49uGwu2u4aJiaVBsiafibJzN3gQoEleDSI3zqcgUOmzia9sqDia7E4Hdc/0?wx_fmt=jpeg",
+    "digest": "视频生成的下一站，或是机器人大脑",
     "author": "",
     "feedId": "MzIzNjc1NzUzMw=="
   },
   {
-    "id": "2247903794_2",
-    "title": "69岁强化学习之父Richard Sutton创业：造20瓦人脑级智能体",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247903794&idx=2&sn=f7b67753c2b24a063f1e40fd0c4e3fe4&chksm=e8da1d40dfad9456b4340a45b510bdefc78629881d9d92867b444807799683ef5949d2c8a47d#rd",
-    "publishTime": 1784023227,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGFWWUsCdDlLZn4mCjdIN3LrVyiaAeGqfbOoxACmIvh6qa57PRuVHuK0NICibicWIkjiblcmpQrCwJqHxQ2CKibpOUibpicZnIPwXxpGes/0?wx_fmt=jpeg",
-    "digest": "离开卡神单干，但赞美卡神",
+    "id": "2247902587_2",
+    "title": "马斯克Grok重回牌桌！新模型性能追平Opus更快还更省，Token直接砍到1/4",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247902587&idx=2&sn=dc693a13d100be03f898da9508008059&chksm=e8da1209dfad9b1f95e25570b374c384933569a8d578c2a3d52dee1d1aee45820b4bd958c270#rd",
+    "publishTime": 1783570573,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGH5IGnr6nQLZTssZZZFSAdowqInBjraH61eLNa2aeyG8z0Ql6OUicoibanukDPnGpTFAbtHLvia8jgGGG5CHnWOt8zot6pBvntEy0/0?wx_fmt=jpeg",
+    "digest": "对标Opus4.7，剑指Fable 5",
+    "author": "",
+    "feedId": "MzIzNjc1NzUzMw=="
+  },
+  {
+    "id": "2247902587_3",
+    "title": "大三本科生一作，交出7.92倍加速的投机解码新答卷！DeepSeek和阶跃星辰双双引用",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247902587&idx=3&sn=879066ecce663ab9daba5d73fe2dc27b&chksm=e8da1209dfad9b1fe560d54a8062973ca62dc5648c3cffbfd33b523067447b9e4d3cbf0e8889#rd",
+    "publishTime": 1783570573,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGGiaa8Ux0oHwDRZiaMdbGQn9KcO0L4EJQzRhNGjRZoyMbCPUhd0dC4a40zOI3j7tLozrdMGTL5np8iao1iclnicHiaB0vLBBc2PTWrmE/0?wx_fmt=jpeg",
+    "digest": "并行draft的速度优势已经很明显，下一步要补上的，是block内部的因果一致性。",
     "author": "",
     "feedId": "MzIzNjc1NzUzMw=="
   },
@@ -196,36 +236,6 @@
     "publishTime": 1783398573,
     "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/A6fTew8FFGHd8icicroDGL8K2kCpX0p2360H7NicqwXmepJraR6XIibFhJibXHwtLF54IIPFYRrUDPO4RGaaUs5gkm986d1PzVPvXJb3uGEvs1fo/0?wx_fmt=jpeg",
     "digest": "来自蚂蚁灵波",
-    "author": "",
-    "feedId": "MzIzNjc1NzUzMw=="
-  },
-  {
-    "id": "2247902040_2",
-    "title": "让Skill“有图可依”：openJiuwen首发多模态Skill范式Skill-Omni",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247902040&idx=2&sn=42d10a5d3648430f2f02b4155f10da18&chksm=e8da142adfad9d3ca4d75bd4d2f09df8de30f4c2e4a7479a8870e6cc22ff88326e20dbe4c3c4#rd",
-    "publishTime": 1783398573,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGGC12DXPEDicLGLC1pH3zkhbPoiajYwcpMm9oia13iaaTownfT4cRxQGJUOdlCXrwfibXUB8OXYquZwFnVictocxuESbN22pzJx66KT0/0?wx_fmt=jpeg",
-    "digest": "从文字说明书到多模态经验库",
-    "author": "",
-    "feedId": "MzIzNjc1NzUzMw=="
-  },
-  {
-    "id": "2247902040_3",
-    "title": "让GUI Agent不再「边做边忘」：快手、浙大提出MemGUI-Agent，攻克长程GUI任务",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247902040&idx=3&sn=68b945acd4b331099f80f29c018551b8&chksm=e8da142adfad9d3cb15b425675d941fa127b6b213f4bcdf7b72050c023926b0c4db9b219f515#rd",
-    "publishTime": 1783398573,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGFTVmzV9Enp3UIj35LWvByoqiboG2Tq8bGiaiadgnWEc7GzMLclsicpQJbaOyW2JDmicttwPJkezdiaaYut6vPz8TOBGdJ5TiccgYCYfE/0?wx_fmt=jpeg",
-    "digest": "MemGUI-Agent：一个面向长程手机GUI任务的端到端Agent。",
-    "author": "",
-    "feedId": "MzIzNjc1NzUzMw=="
-  },
-  {
-    "id": "2247901868_1",
-    "title": "70万辆车同步升级，背后那套系统藏了六年",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247901868&idx=1&sn=837f26e41f4ed1d230d7e2b7c2792abf&chksm=e8da15dedfad9cc824ebe2cc8efb611cc79f4067418a17fd481449fb082c00fb5fa722ae13d9#rd",
-    "publishTime": 1783328469,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/A6fTew8FFGGIQYflZt52icZ1KW9tM5jDQicgY54T5UUJOC5XW0Kp1DNsEd8jcibmz6VqHuG1FyibYmxjGICV8YapalfHSwiaf7Aian6DEoYzbupqc/0?wx_fmt=jpeg",
-    "digest": "4平台70万用户，无人掉队",
     "author": "",
     "feedId": "MzIzNjc1NzUzMw=="
   }
