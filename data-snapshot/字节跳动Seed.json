@@ -1,5 +1,15 @@
 [
   {
+    "id": "2247494117_1",
+    "title": "从“会说”走向“会创作”｜Seed Audio 1.0 音频创作模型发布",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzkzMDY5MzYxNg==&mid=2247494117&idx=1&sn=479ffb4e9fc90fa66d5bf531a84376a7&chksm=c274c17af503486cba9d3385b5b5739b86b49b77c4213ad6a1fe5277092836a9d8fd53536387#rd",
+    "publishTime": 1784519800,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/pPBYFCwmHEmos0Sq0kwQHZHLACqVeLzjHPzEazveG1VGbtBPQoj0nkwIk1uJjaMymIE8tO859lhrxHXFxibl5PNVXlVusHOMZoxgW7CciahicA/0?wx_fmt=jpeg",
+    "digest": "统一框架下联合建模人声、音效和环境声等音频要素",
+    "author": "",
+    "feedId": "MzkzMDY5MzYxNg=="
+  },
+  {
     "id": "2247494019_1",
     "title": "不止“生成”，更懂“设计”｜Seedream 5.0 Pro 发布",
     "link": "http://mp.weixin.qq.com/s?__biz=MzkzMDY5MzYxNg==&mid=2247494019&idx=1&sn=35d263cfd1c740502bb27ab572f53b78&chksm=c274c11cf503480a146122d9546de6a797575e3b928de3a2f0edd5712ffce2c94a07fdfc3d87#rd",
@@ -36,16 +46,6 @@
     "publishTime": 1779246360,
     "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/pPBYFCwmHElVyIUYZgtEj8weEoCDdq65tVhicLosZUtgjoeJXMQ490x9Cbib6wm1p3sSRrhnOKI7N9XmpDNKpQwyYF4hzhxNQQicD31OsP2bXw/0?wx_fmt=jpeg",
     "digest": "向未至处，探索智能边界",
-    "author": "",
-    "feedId": "MzkzMDY5MzYxNg=="
-  },
-  {
-    "id": "2247493477_1",
-    "title": "Seed3D 2.0发布，更高精度、更强可用性",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzkzMDY5MzYxNg==&mid=2247493477&idx=1&sn=a40d524174de1d99f596741a19806e94&chksm=c274cffaf50346ec3b9553315ef3c178567d5c017b976fb40c850451c60e7a9f8a2ac6f6af1a#rd",
-    "publishTime": 1776918185,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/pPBYFCwmHEkLiaslBcLMbWDHIYsiasZ5pbkhnZzU2Afc1Y50tHJib5HHibImx0fF0kJgJC54OKRJF1bDnYibicsVnRtyo6fjV6gkqg67vAaMQV7zM/0?wx_fmt=jpeg",
-    "digest": "几何及纹理材质生成均达 SOTA 表现",
     "author": "",
     "feedId": "MzkzMDY5MzYxNg=="
   }
