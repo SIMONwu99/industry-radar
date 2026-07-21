@@ -1,5 +1,15 @@
 [
   {
+    "id": "2247495735_1",
+    "title": "小红书dots模型取得IMO 2026满分金牌水平",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247495735&idx=1&sn=ce165ca3d6ca96311f04d2a243439b66&chksm=cfe452c0f893dbd690e5dfe041757c993fa92c77a950a380d5fd854b0a4336308b4dfe583b6b#rd",
+    "publishTime": 1784632007,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/P9Hs04VFGRmjueBKgRCHagYv0RwU25FONvR4EEfib4iab6CCcl68A9oCwnjj6iadLOWbIHbtMbUAbwbXeLc5w1X2S4rU6GGBTy4ZQjpsLTZiaMs/0?wx_fmt=jpeg",
+    "digest": "第67届国际数学奥林匹克竞赛（IMO 2026）在上海举行，小红书dots团队受IMO组委会邀请，携dots-note-3.0参与作答，六道题目均获得满分。",
+    "author": "",
+    "feedId": "Mzg4OTc2MzczNg=="
+  },
+  {
     "id": "2247495684_1",
     "title": "小红书、北大开源 UltraEP：面向大规模 MoE 训推的「最优」负载均衡方案",
     "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247495684&idx=1&sn=deb67718827fbed405fd2dd6978aef7b&chksm=cfe452f3f893dbe568c107f4d26de76fe804991915146bda183c44196f18a66749fe201a49df#rd",
@@ -36,16 +46,6 @@
     "publishTime": 1783677540,
     "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/P9Hs04VFGRnDVoaPSepIiaBjorAiaUw96tOYz0e1XSEAicaEpiak3kXkibeUnibW6teoGSm48KUCxTmdxXHWlibIFJjJblVB3ZHqLUiaPb0OPBp8B1I/0?wx_fmt=jpeg",
     "digest": "大模型高效推理新架构",
-    "author": "",
-    "feedId": "Mzg4OTc2MzczNg=="
-  },
-  {
-    "id": "2247495539_1",
-    "title": "让 KV Cache「按头分家」：小红书 RedKnot 如何重做长文本推理新引擎",
-    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247495539&idx=1&sn=c0238f5aa0c757841d8509f9e620ab34&chksm=cfe44d84f893c4928d1bbe8ef1c650dbb5de88a267e4654ce7a75895e6a488b5febf3512630d#rd",
-    "publishTime": 1782730805,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/P9Hs04VFGRm3U1QkaMRbtRKWHM80M9Rk3mxu5WWMnRjyIUfyWQbXryV9SG69HU1WELBY2z7qNOGj3iccCYSWu6EsQUXFuMgqKuRcOu9N68Jg/0?wx_fmt=jpeg",
-    "digest": "LLM推理引擎从KV Cache一体化走向多头解耦",
     "author": "",
     "feedId": "Mzg4OTc2MzczNg=="
   }

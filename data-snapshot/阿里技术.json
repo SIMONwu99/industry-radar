@@ -1,5 +1,15 @@
 [
   {
+    "id": "2247510392_1",
+    "title": "NL2SQL 在超大规模数仓场景的架构突破与工程实践",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247510392&idx=1&sn=cd9903f9a3a898baa1070dfd011b7556&chksm=cfa6b99bf8d1308d8c470304550e922766712fbbac80da37bb1f4067e5699455a79ef311137f#rd",
+    "publishTime": 1784629080,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/kN3t5R6pdz7llNBOib43SUB3ibafhOb6wJSAl20mLf0pyJ8sKUvRPApuQdqcNRmcxSeMDNmGNQtbQlB5X0KXTbPRTZlelYeNBv4xHWN8sB7IY/0?wx_fmt=jpeg",
+    "digest": "关于搭建面向企业数仓的 NL2SQL 系统，以及用 Agent Skill 架构解决需要大量领域知识的问题，本文或许能够提供一些经验和参考",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
     "id": "2247510380_1",
     "title": "真武 AI 芯片 T-Head SAIL® 软件栈正式开源开放",
     "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247510380&idx=1&sn=f7d2327132fef5bdb38d1639cb652337&chksm=cfa6b98ff8d1309957f6e163f2e7e81248556184c7a07b0faa40a8e6429c7af6f3b12014d0c8#rd",
@@ -36,26 +46,6 @@
     "publishTime": 1784023680,
     "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/kN3t5R6pdz4MzticwltLHZf5QvyKtHLwoX2l5dhrfu2ZydlIVKzdA1aEaslYIFn29tAMHHzco6iafiaIAbbIiaibm4iaj8rMvdsEmCrtCBMv3Xf8M/0?wx_fmt=jpeg",
     "digest": "让 AI 像资深数研一样思考，且比人类更稳定、更可追溯、越用越准",
-    "author": "",
-    "feedId": "Mzg4NTczNzg2OA=="
-  },
-  {
-    "id": "2247510088_1",
-    "title": "一个小模型意图识别系统的 5 天进化实录｜支付宝618",
-    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247510088&idx=1&sn=ceb536a3507268c3b0f6fec609b233bb&chksm=cfa6b8abf8d131bdcd7d315ae96fca2d92775d038971491b2cff0192b302ee71d69a5c0c8974#rd",
-    "publishTime": 1783945021,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/kN3t5R6pdz4fEmR9mrB3ZJm1ibcTjCP3ocIsbZnzwu9ia15s0dM78MMuflQ9BePsvXhlzACKc4kColPYVODmLWh7z5ZvK5PeDj82uTE2xiabDQ/0?wx_fmt=jpeg",
-    "digest": "",
-    "author": "",
-    "feedId": "Mzg4NTczNzg2OA=="
-  },
-  {
-    "id": "2247510088_2",
-    "title": "上交 x 阿里：让机器人闭眼先学动作，vla 成功率涨 43%",
-    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247510088&idx=2&sn=18a09c3f6d3794079544b9907335b527&chksm=cfa6b8abf8d131bd2ccf81507ed88bd53ad5326482805f284ce775efbfecc1ab71afc72c65e4#rd",
-    "publishTime": 1783945021,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/kN3t5R6pdz6YMKRqYxBO0uaCGa655pC1ibGiaXg4cW4V1XwvSa1suib4nvOXnR1TpxbxMMB1qUgDiaSAJlkF69u7p3Ok5BoBWVpn4oCf8CpKSgo/0?wx_fmt=jpeg",
-    "digest": "LA4VLA: Learning to Act without Seeing via Language-Action Pretraining",
     "author": "",
     "feedId": "Mzg4NTczNzg2OA=="
   }

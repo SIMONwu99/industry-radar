@@ -1,5 +1,15 @@
 [
   {
+    "id": "2649802812_1",
+    "title": "从 Vibe Coding 到 AI 原生研发团队：一套能落地的工程实践",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802812&idx=1&sn=732df4944b3cb1543cc4cfe666e6f47a&chksm=becc5b4789bbd251b41e77c164022f4625560e4d660eb2075100aab46824b17d6ac8586635c4#rd",
+    "publishTime": 1784628076,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/KVER9adz9068YbCIp0p9FEIKN28NQ0IxyiasxQ4WiaqAZmKkaf2Im6FTaoeHvcpibrRbPzRTM6d97fEKPS8iaYxqg0375FqUzJ1qxBZdexnKpsk/0?wx_fmt=jpeg",
+    "digest": "AI 写个人玩具项目很顺手，但落到真实业务里就是另一回事了。",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
     "id": "2649802727_1",
     "title": "AI代码生成率94%：我们用一个 Skill 跑通需求开发全流程",
     "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802727&idx=1&sn=631188a7c6711314ff2febbe5cb721e5&chksm=becc549c89bbdd8ae4c5aa5dbd974f6313bc2c3e815507202aab5f496a5b36f6f14d6ff197bc#rd",
@@ -46,16 +56,6 @@
     "publishTime": 1784195429,
     "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/KVER9adz9059MYgAUGpApViaLF9GRQMJNIPRibicfdgsQa90psgvfz49Tb1ITkZyuQZ08vX8RicWxZKruicejg0OvEmPskF8oLiaq1F6ytlmYoqsg/0?wx_fmt=jpeg",
     "digest": "从语言理解延伸到语音交互领域",
-    "author": "",
-    "feedId": "MjM5ODYwMjI2MA=="
-  },
-  {
-    "id": "2649802628_1",
-    "title": "上线后差点“挤爆”服务器，Marvis凭什么让用户追着6只小马“上班”？",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802628&idx=1&sn=e187a512c344ea924c370abb91b8962f&chksm=becc54ff89bbdde904cfe078817ab4c907b61647f87b9162e2d13ebbdd92f3c35e50a1579f0a#rd",
-    "publishTime": 1784113800,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/KVER9adz904HPovANDicyH3n1wribdOngljjMyOujD0LMof3MU10NhJ6t6vsic7wtIIf2XATiaF3mZicAiaHTIiaicncUO5VOQ3RwHFoMYOpBJBEKFo/0?wx_fmt=jpeg",
-    "digest": "5月20日23点58分，Marvis 上线。22号上午，用户量激增，官方紧急扩容",
     "author": "",
     "feedId": "MjM5ODYwMjI2MA=="
   }
