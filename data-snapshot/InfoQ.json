@@ -1,5 +1,45 @@
 [
   {
+    "id": "2651289278_1",
+    "title": "营收破百亿后，平头哥把目光投向芯片之外",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289278&idx=1&sn=67f32cc3a51a03669072425c4101bcd0&chksm=bdba8eed8acd07fb57d49cf8b54ae6326a67113c861307139473d47b9ba26ba12b3654a3e11c#rd",
+    "publishTime": 1784611860,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNia99rjN68gDicFQr5hKuwyQJemBelZV6pCI6a5a3WoTe2nL3icUvhDYHfPn0Two2XnmBDJ5gFp4GqXLlNUvaEGWq5exiaspdPacss/0?wx_fmt=jpeg",
+    "digest": "下一阶段的竞争，将发生在芯片之外的软件与开发者生态。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651289278_2",
+    "title": "OpenSQZ Glass：让端侧全双工全模态模型进入第一视角的可穿戴世界",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289278&idx=2&sn=e2fd84dc9c169ef2fbe8098d88ef0377&chksm=bdba8eed8acd07fb49980dd2f7bf55aa2322366160aeca4c409a9a82a574a6701dbea0aa319a#rd",
+    "publishTime": 1784611860,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNgIGVRjbucCEglJw49BpFK5okEUOh7s8A8Dd0tHJMoqbB7dLkhvnarAIrS0QTqy9uzIWXrvxKu7oACpD6xQUXumCbUreROsauA/0?wx_fmt=jpeg",
+    "digest": "面向研究者与开发者的开源 AI 眼镜系统：端侧部署、持续感知、语音打断、主动交互。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651289278_3",
+    "title": "WordPress 7.0 发布：内置 AI 基础能力、改进管理后台与设计套件",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289278&idx=3&sn=834dbe7f69143bc33b8a76afae5b5aaa&chksm=bdba8eed8acd07fbbb56c6b3f6f775d206476a842eb8a8f369d77bde868086ea4901300aee30#rd",
+    "publishTime": 1784611860,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNgsCclCZLQmvdqiazHRN8TyrhtkWLeM0mibxGjibd3SpNUEhgRpwIXMMakfSyjQ8XgyfSuugmsnich9nEhuhx1conMZRJiatHtYJ5V0/0?wx_fmt=jpeg",
+    "digest": "开源建站系统 WordPress 推出 7.0 版，内置 AI 基础能力、全新的管理后台与区块编辑设计工具。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651289278_4",
+    "title": "vLLM 针对多模态模型的推理优化实践｜AICon 深圳",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289278&idx=4&sn=bcc43f3df84413c5f12357a3ec2b83b1&chksm=bdba8eed8acd07fbea530cc1548fec88c3b4039f68ca6847795841f2ca692c569e94cbedb805#rd",
+    "publishTime": 1784611860,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNhT0kNyPXaAUeZibGP8tE6BzdhibphzicWREuFDpzV6PNxmzKntqib9RRj8UL6puFZxIrBVib4XP0k0DhseIkcpc77rcm2ZR6jKU01c/0?wx_fmt=jpeg",
+    "digest": "随着 Kimi-K2.6、 Qwen3.6 及 cosmos3 等支持原生多模态的大语言模型发布，多模态大语言模型已成为未来发展趋势",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
     "id": "2651289201_1",
     "title": "16 万 Star 的 OpenCode 彻底重写：API 全部重做、Bun 换 Node、桌面端迁移 Electron",
     "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289201&idx=1&sn=9630e4a209642257824a1e3041f92aa8&chksm=bdba8e228acd07345c5f6fc4367c4a4e27c94e3e37c0d5685e0ca7bfb8a207984c8162cba849#rd",
@@ -170,42 +210,42 @@
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651288941_1",
-    "title": "“要么Fork，要么走人”！Linus怒怼AI反对派：Linux不搞“反AI”",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288941&idx=1&sn=991e9edb8c1638e1621d53036b467bb3&chksm=bdba8d3e8acd04283d018791dc06df375d8cbcbbe7ab633c22e8fb61f29925309134e7f26257#rd",
-    "publishTime": 1784177092,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNh1CGQbYXsPGxahjkEPAKFupfG9ZMuJkAYTKuPkq8EWRwNrmzzzJC793OtKP8PZoQuI1N5V1EiayDHnBbFehhOHPsoxjHnjhXU4/0?wx_fmt=jpeg",
-    "digest": "世界变化就是这么快，两年前批AI 是炒作的Linus，如今亲自为AI 站台。",
+    "id": "2651288603_1",
+    "title": "苹果甩出41页PDF怒告OpenAI“偷师”其核心机密！网友：早知道就等印度“开源”了",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288603&idx=1&sn=1616dd002dc7a96a2ab7dbc983c9cc24&chksm=bdba8c488acd055e403c58a3fae174c070bb2c3ac875b47f8adb74780810ab1c9ce495d51827#rd",
+    "publishTime": 1783741008,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNhE5vhRNCYc3LWb9K5V2CFPPic9mUHn34LKAK4xtuOvrALk4IkU8iaSRzKGFokRVEgKIGNwTAG5g4tD2ak8S79iaZLYrQp35zgKiaI/0?wx_fmt=jpeg",
+    "digest": "马斯克每天都会阅读 OpenAI 的丑闻。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651288941_2",
-    "title": "从「构建 AI」，到「驾驭 AI」 | QCon 全球软件开发大会·2026（上海站）正式启动",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288941&idx=2&sn=ebff60fa9813c26226178d0d82ebf983&chksm=bdba8d3e8acd0428592c514e61ca64e1468714439b91fc7565680d9653af29aa1a9a81a0f5ae#rd",
-    "publishTime": 1784177092,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNgic39icKxdicRFoeY7HXfnf79EsyB2KSuE8I1Tr9oiaQycbGpr34vyI0nVoa78ZS0GDG2z2VjNiaAguPpw4D1VaUrVZ6gYX2ibYftY0/0?wx_fmt=jpeg",
-    "digest": "AI 会写代码之后，软件工程的问题并没有变少，反而变得更多了。AI 的下一场竞争，不只是模型，而是系统。",
+    "id": "2651288603_2",
+    "title": "Claude“脑内小剧场”首曝光：隐藏工作空间自发涌现类人意识，谷歌 DeepMind 权威认证！",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288603&idx=2&sn=d8b1f2e53e8603ae79e7af04be98f7e5&chksm=bdba8c488acd055edc5fb4c81c82bf378cc97ad99a809b2896932ca9321c420a1940d3453e97#rd",
+    "publishTime": 1783741008,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNgmaqpUudsMo1gCYMF1icp1aVbLiaxnyOAhJXGk6Qrs9WamdIQwcj2mYgtfabTz5Mh2jHeJCicrT5KKY5hPkppKbM44shJATibr5Ns/0?wx_fmt=jpeg",
+    "digest": "现在，Anthropic 已开源相关代码，并与 Neuronpedia 合作推出了交互式演示。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651288941_3",
-    "title": "Claude Artifacts 一夜打通“全网公开分享 + 多人编辑”，AI 交付闭环彻底杀疯了",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288941&idx=3&sn=c86b70f724ee4851c5cc988b03bf9fb9&chksm=bdba8d3e8acd0428102c659d06a8d16a8413f7f54e9cb6f00900e5b7a9255a643b8643734a8b#rd",
-    "publishTime": 1784177092,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNgSmBgwGh35ib8P6qdXUicknCfWk2lF5GA3YHPAibYS7PRtTJ1ZaXkESenM0SeXZ0sf4XY5gmef8KzYsN64QJzhpkuGoQA9fniawQQ/0?wx_fmt=jpeg",
-    "digest": "Claude 从写代码走向交付项目，Anthropic 的 IPO 故事更完整了。",
+    "id": "2651288603_3",
+    "title": "开源模型赢了 Token 流量，Anthropic 赚走了大部分钱",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288603&idx=3&sn=d143298b18b5a3ac7d7999534fb87111&chksm=bdba8c488acd055e5a8ec727e1f08a20330f83b6fde82ef8ae0994c92c482908c59a2a6e3a3f#rd",
+    "publishTime": 1783741008,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjczbraBFcUoPR23bmAlI4ScEYm68HDictdo1t5NvKhT7tiaicprUs1zY7z8tfHdFQRJgdcWHC2eQ4PnwiaeyFppd84Ne2L9g0RrYI/0?wx_fmt=jpeg",
+    "digest": "Anthropic等前沿模型实验室并没有因为开源模型崛起而受到太大冲击，至少目前还没有。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651288941_4",
-    "title": "Circle CI 推出 Chunk Sidecars，将 CI 校验直接引入 AI 编码工作流",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288941&idx=4&sn=d38414b5f756347fa5014961648a4dbe&chksm=bdba8d3e8acd04280bf8a456a433a7f30349ad700172969c5a5158b08ea7d78569ac7d9562f1#rd",
-    "publishTime": 1784177092,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjbJNyicWsDutosaGXlMM0oRv5BicSPdDGk1ZMz1PcAC2zxoC6jmjJ4UkxcAcUJX0cazib8hsn2Krgsk07szXDNPiaqRyL1vafTmm4/0?wx_fmt=jpeg",
-    "digest": "Circle CI发布了Chunk Sidecars，其目标将CI级别的校验直接带入AI编码智能体的内部开发循环。",
+    "id": "2651288603_4",
+    "title": "Elastic 开源了基于认知科学的 Atlas Agent Memory",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288603&idx=4&sn=c2f996400a034c7ffc05016f9eac0b0f&chksm=bdba8c488acd055e8e1f0e85d3cc5e78bae38a0eb5cfd0ab518c1eeb0f0e06f26ac1f41d8807#rd",
+    "publishTime": 1783741008,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjKw750cPSbTL5mERJ671hvwBeqOFFaxYq2YdklxHUgzwfFyUibEMMMnUk48j7V00ibZa2LQfLFqQ2Z0YqSibG0O7tIlOM0AqDPicU/0?wx_fmt=jpeg",
+    "digest": "Elastic 开源了 Atlas。这是一个基于 Elasticsearch 构建的系统，可以为智能代理维护三类记忆。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
@@ -256,46 +296,6 @@
     "publishTime": 1783579882,
     "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNgutcaqcYAib1pxKMZMfPvHVcSRBbEzDPCIqArBklTAaCRKh3ph1ePnicnH0k5hSbclwtxwIbNg6Sro4PkXHx1q3XNiaIavISSnkQ/0?wx_fmt=jpeg",
     "digest": "视频模型赛道正分化成两条路：一条通向影院，一条通向机器人。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651288485_2",
-    "title": "从上下文到经验资产：Agent 记忆系统的工程化路径与 MemOS 实践",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288485&idx=2&sn=b706ee704e946fbd02148f3687edb50c&chksm=bdba8bf68acd02e0185d81a4a549595067fb149e04550b5c748781333be4bb885706a4b011cc#rd",
-    "publishTime": 1783579882,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNg1gExvduRo8hMkhfvaaFmqTNepWN2vI6kc1ias4pQ2E2bvuTiaV5xfqA4Sn5nntGBvlibWgQfGPJAorAbshxdnIp6k2HnacNkPdU/0?wx_fmt=jpeg",
-    "digest": "大语言模型的单次问答（Prompt）时代正式宣告终结。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651288485_3",
-    "title": "2026 AI 出海的算力账本、场景卡位与未来生路｜直播预告",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288485&idx=3&sn=7ec971453d37948b0d0435602257ef2b&chksm=bdba8bf68acd02e0b3ab9de1081386960f1bfbfb1f5129a78998ae3559570627adbf24284e3b#rd",
-    "publishTime": 1783579882,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNiaZNZ5RplnWyo7vVZWibvn151k0IQ663U5H3vcOx5kMrJwLNIWIC3SShoLjOObs6iaNOIGLIuvdvnEhShmbBiaXyHuQyRhQ6WO9rQ/0?wx_fmt=jpeg",
-    "digest": "大语言模型的单次问答（Prompt）时代正式宣告终结。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651288485_4",
-    "title": "HeroUI v3 正式发布，针对 React 和 React Native 从头进行了重写，并基于 Tailwind CSS v4 构建",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288485&idx=4&sn=cef8d36e5b6aab8621aaf8463846d220&chksm=bdba8bf68acd02e0d4b1d54a328eecf1c70d89c9068a63790b2eb3f4080cb9e70959ba59e73f#rd",
-    "publishTime": 1783579882,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjN2TPOvWSbiaCWx9KzfMNvxibL4gPZPYoZgggjqSgKAvuG7Yt57gc0cf5reM2gzZPzO0FLIVJSfsz4omqwppw571jLrCypDO4uI/0?wx_fmt=jpeg",
-    "digest": "HeroUI（前身为 NextUI）是一款 React 组件库，现在已发布 HeroUI v3 版本。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651288405_1",
-    "title": "AI把代码写崩，再花1周1万美元请人用AI修：Vibe Coding的荒诞闭环出现了",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288405&idx=1&sn=a460d375891136aa2b4be97bbe27d822&chksm=bdba8b068acd0210def3743dbb088114a5a0bb5f8a184304f676aad880f7796308edc0ebc30e#rd",
-    "publishTime": 1783488507,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNiazf0gB9RVNzLIE1zdycOp4E7ibgeLzkR8PgQy73TR2J0Dqky83kVQo5CFh0lqe7qJibqF2wJ1icCI83Lxf4VibNyibicoFmibm4aDH5w/0?wx_fmt=jpeg",
-    "digest": "一种新的、因 AI 代码泛滥而出现的生意来了。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   }
