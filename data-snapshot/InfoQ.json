@@ -1,5 +1,55 @@
 [
   {
+    "id": "2651289339_1",
+    "title": "30+ 家企业组团参展 WAIC，张江 AI 小镇藏不住了",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289339&idx=1&sn=5e5ba052ec6b8d1695291b8e3f4e56fe&chksm=bdba8ea88acd07be2a5e1a80a29907d5bfc8ed635573e16b3ec7cdaed560d317d6a124b2f4ee#rd",
+    "publishTime": 1784704952,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNhwRzm6llcpK2ktIuGP31F6oIbOACXBuVzH1zwYKn6upG6z0lyA8hDbicic0QPNzcvVQRrf042FsbA9DBYjuohZrurR4fxyDVHHo/0?wx_fmt=jpeg",
+    "digest": "当 600 家 AI 公司聚在两平方公里，会涌现什么？",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651289339_2",
+    "title": "智谱的算力野望浮出水面！自建1GW机房、数亿收购中科系Infra企业、布局自研芯片，加速去“英伟达化”",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289339&idx=2&sn=30533d73e8aaeefea3546f53d61e83e7&chksm=bdba8ea88acd07be725514cc642c9cb93b47172952750894b0c9afebe1c86b28943f8a4a212a#rd",
+    "publishTime": 1784704952,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNh0jdeyIbyARbTPyqcPuupicFVtVK115QcmVQISuAItJm87yJI7KsxicqhtV32Zaicv8Pd0XAkuT8cYqKjSTEic2H50pB6LOic2jia68/0?wx_fmt=jpeg",
+    "digest": "被美国限制高端 GPU 算力多年，快速迭代的国产模型究竟在靠什么持续训练？",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651289339_3",
+    "title": "支撑亿级文件规模：途虎养车 JuiceFS + Ceph RADOS 存储优化实践",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289339&idx=3&sn=9772c9a409aecfc1db0a5c2f1975d440&chksm=bdba8ea88acd07be79cf572e2798ea3a2f503c39654587f9076ad044c8b34b7fddc939991e3b#rd",
+    "publishTime": 1784704952,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNia0Z3MJjGHDhHRqxDBk7rm04GfBPZ48mLVM4yiao0oMvKfsKdg7He8MYUGXERiavUcJUxQBicFRmbrvMqGdPUtnAmKU3C4YSyYcOc/0?wx_fmt=jpeg",
+    "digest": "途虎养车是一家线上线下一体化汽车服务平台。截至 2025 年底，平台注册用户达 1.623 亿，工场店达到 8008 家。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651289339_4",
+    "title": "OpenAI 将崩溃调试视为流行病学研究，修复了存在 18 之久年的 GNU libunwind 漏洞",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289339&idx=4&sn=f4b4d41b9cb61bfc0848405959a37e26&chksm=bdba8ea88acd07bea28e7e92e9e9b20b784becdc800276ac8649799ff048b41dfa7a76285768#rd",
+    "publishTime": 1784704952,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNiacWEdHLwSRDCJXiaUicl7AeG8nwYGJVew8XZibm4tz2lcCsHhW3AFIiah42qu7XpRTvK00SHoC52OtLz8LrvMHlcxwHBEuhRgTfd4/0?wx_fmt=jpeg",
+    "digest": "OpenAI 将崩溃调试视为流行病学研究，修复了存在 18 之久年的 GNU libunwind 漏洞。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651289339_5",
+    "title": "Agent 越能干，安全越难做？| 直播预告",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289339&idx=5&sn=effab9e2da879ab1d0c07c94d24c00c7&chksm=bdba8ea88acd07be0091294ecdccdb2dca84123d49ae5a36d258336bc7f55c53b70b83f20154#rd",
+    "publishTime": 1784704952,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjBKoqsnYEBBV7CmEPA0NrBsPasdrVYsICvhE0Ts9W1HKgExDics1Zt9aL7T1JQRcg651wgYzH35DjrmlhfM9N0wkTTRTWwCKD8/0?wx_fmt=jpeg",
+    "digest": "Agent 越能干，安全越难做？腾讯、百度、Cloudflare 安全专家共谈企业级 Agent 安全落地实践。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
     "id": "2651289278_1",
     "title": "营收破百亿后，平头哥把目光投向芯片之外",
     "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289278&idx=1&sn=67f32cc3a51a03669072425c4101bcd0&chksm=bdba8eed8acd07fb57d49cf8b54ae6326a67113c861307139473d47b9ba26ba12b3654a3e11c#rd",
@@ -170,42 +220,42 @@
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651289038_1",
-    "title": "马斯克连夜开源Grok Build，但84万行代码里还留着上传用户整个代码库的痕迹",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289038&idx=1&sn=59cbda779587d41e58821386d1552010&chksm=bdba8d9d8acd048beccd981d6bf3352607047808891f8c1d8f3f418024ff19c2588558266848#rd",
-    "publishTime": 1784264311,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNia9d1xOILWzrdd8YmoY9VOSTAXPp3OI1awW4DvXcMfpRV2y2ZZygafmXjutDbVYG61Cx1g8hDbfUItmMjoCHbUgw41k2tibeibg8/0?wx_fmt=jpeg",
-    "digest": "84万行Rust、20小时破万星，马斯克用开源Grok Build回应“偷偷上传整个代码库”丑闻",
+    "id": "2651288666_1",
+    "title": "连Claude Code都搞不定的巨型代码库，我们靠一个“自愈循环”给盘活了",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288666&idx=1&sn=8bbada4ac098dd4390b3408be7fb1370&chksm=bdba8c098acd051f7fd3634517c32dcb61ae4e89b92e4c46dc07ab403c0ccccb0138e01bb02a#rd",
+    "publishTime": 1783822500,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNiaWXR5d6PLbT2Wb9KjJCLD40hsC7Kulm25Igp4DglEocaryR8o09BricEXj44twJYmjN4Wf61GVh6yvMeeLic9K8ES9A40bQtIic4/0?wx_fmt=jpeg",
+    "digest": "“AI迁移的关键不是让AI变聪明，而是把任务分解到AI能独立完成并验证的粒度。”",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651289038_2",
-    "title": "IPO前夜，阶跃星辰想用一款 Agent 手机给市场吃一颗定心丸",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289038&idx=2&sn=81fe97f7d83e7e8bb474adbd5f81264b&chksm=bdba8d9d8acd048b2a9b7d1311c73ac8fb410f2b92671138bec5f03590698257f4595d7d6487#rd",
-    "publishTime": 1784264311,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNgj4lOicwxKoQrvRHNKAvnPqaDVe6XiciaFfwcxk8GN5yIXibL25w5CVLW98G8NhEpL8IFrebRZKicWm6lW2hmUsm2Z5iasKAqCg32W8/0?wx_fmt=jpeg",
-    "digest": "Coding不是一条现在才可以复制的捷径。",
+    "id": "2651288666_2",
+    "title": "Claude、Cursor、OpenClaw 集体上手机，不摸鱼、不请假、24h 为你打工",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288666&idx=2&sn=1dcaba62d285d767d42974cba8db16d6&chksm=bdba8c098acd051f189ef256a2643a433dbf6087dfe0f5b3d7dc33e3cd630d0837b041b86155#rd",
+    "publishTime": 1783822500,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNhSbscSRKLfyK9u0bDcacWfqZm80Gs58VHtTicvJC0SgNSlicgl0CW3Vn8WG0XgeyeFOpHoJIP61EwLwDy6vIS6cHpygpoHiapatI/0?wx_fmt=jpeg",
+    "digest": "手机上的 AI 应用，正在发生一次不太显眼、却可能比模型升级更重要的变化。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651289038_3",
-    "title": "AlloyDB 推出代理模型，用数据库本地推理替代外部大模型调用",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289038&idx=3&sn=0bfd117d9ec5e6169d3391cf91eb824c&chksm=bdba8d9d8acd048b9ee5d5e96f52c03aeaf00a53667234dc2ad9290f6cadf9767e9f8b66d18f#rd",
-    "publishTime": 1784264311,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNjfX1VI307rCap8LQn9X3YqFakANausDV196S2B71iaTyics6FENIvLCbqliaVB075cycZjkPicCLjzrSWicriaEdOr36KVSZwQR8Sick/0?wx_fmt=jpeg",
-    "digest": "谷歌官宣AlloyDB AI函数正式可用，并推出两项全新加速技术，从根本上改变数据库与大语言模型的交互模式。",
+    "id": "2651288666_3",
+    "title": "将平台开发从项目转向产品",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288666&idx=3&sn=8b0334477d5edce92e01737dc92216b5&chksm=bdba8c098acd051fdee1eaafcc6676bdadfd8a3d82d4a5d23b007d7b8a3ed4fcb36912dcb9cd#rd",
+    "publishTime": 1783822500,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjT7fC7ibrnVPrXDfZSuLG34icBvdroIHLtsow3qpHqwVQUMyB6d3Md54RzkGAstKhfg6eYha2bdBJ74jzMC8NkpbpeiakSicjwkGk/0?wx_fmt=jpeg",
+    "digest": "在 KubeCon & CloudNativeCon 欧洲大会上，Eugenia Bergman 和 Hagen Tonnies 分享了他们如何在平台规模超出单个团队使用的范围后，从项目思维转向产品思维。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651289038_4",
-    "title": "Java 近期新闻：严格字段初始化、GlassFish、GraalVM、JReleaser、RefactorFirst",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289038&idx=4&sn=fe9c0577939b7bac00cb53232441b5b7&chksm=bdba8d9d8acd048b29454d514f339b9c6090451397d4a6d53d9ae00bc6de12909c34beb408eb#rd",
-    "publishTime": 1784264311,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNhia7Y8s0aicccjicM5ziaMX2JMAcAU1mUWVBDvke6mCllh5ibCWysicw6mDtMGOQic8BGCD3Ch7WncjOQ81k38o0ziaUX8YV75AVarM7w/0?wx_fmt=jpeg",
-    "digest": "本文为 Java 近期新闻，内容涉及：严格字段初始化、GlassFish、GraalVM、JReleaser、RefactorFirst。",
+    "id": "2651288666_4",
+    "title": "Java 近期新闻：Hardwood 1.0、Endive 1.0、Azul Payara、Quarkus、WildFly、LangChain4j、OSSI",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288666&idx=4&sn=ceb253fc346a93558eb5a8a87e804168&chksm=bdba8c098acd051f381b03f5799ba2740de10203a2b9a8f5a21dd5df55fe4e1a2f4fd7e984a1#rd",
+    "publishTime": 1783822500,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNiaR0uriaQqOboyGhesvNFOLhQhXh66rZ2abPXNxrAvjDarStAD25BqraiboQVbLDTic1hYQM4uaeI1Y8a5VVK70ciayqG6PKicx7rd0/0?wx_fmt=jpeg",
+    "digest": "本文是 Java 的近期新闻，内容涉及：Hardwood 1.0、Endive 1.0、Azul Payara、Quarkus、WildFly、LangChain4j、OSSI。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
@@ -246,56 +296,6 @@
     "publishTime": 1783741008,
     "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjKw750cPSbTL5mERJ671hvwBeqOFFaxYq2YdklxHUgzwfFyUibEMMMnUk48j7V00ibZa2LQfLFqQ2Z0YqSibG0O7tIlOM0AqDPicU/0?wx_fmt=jpeg",
     "digest": "Elastic 开源了 Atlas。这是一个基于 Elasticsearch 构建的系统，可以为智能代理维护三类记忆。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651288550_1",
-    "title": "GPT-5.6三档模型全面围剿Claude Fable 5，“超级应用”ChatGPT Work上位",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288550&idx=1&sn=da6ff8aa74fd310880f671310e638b1c&chksm=bdba8bb58acd02a3d45e0fdf2be25eeb76be97e7c913b038b95f68e5d0f3559a64ad820f7d25#rd",
-    "publishTime": 1783646402,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNhGFN8mfIp3KCpsqwKvhsfunlzujAgHTVyaEE7LTtMlQEPjWSnLNKGVOVFjSWdFwic4AufTCozwg7oj6PFuneOtcHnm8ib3qZvfs/0?wx_fmt=jpeg",
-    "digest": "Altman紧急澄清：不会取代Coedx",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651288550_2",
-    "title": "AI推理成本首次算清：GPU利用率不到52%，千万别自建！",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288550&idx=2&sn=6e3fcaccd7bf67bc024fc49a30b333c1&chksm=bdba8bb58acd02a3d417d36fbbd24a883792d70ad447b2101a51a56b2134279259bdf927cd8c#rd",
-    "publishTime": 1783646402,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNiatwNHJKNOm15MAWVB2bjuC3R1k78MAicUCJmA7zzHibo51juvNP4LNbS8eJwxKBsrdNLQCCmibDg0XMIfGjWZZy9fyBMu7vKC1vs/0?wx_fmt=jpeg",
-    "digest": "本文揭示了一个被忽略的行业真相：API 厂商的定价策略利用了客户无法精确计算利用",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651288550_3",
-    "title": "虚拟座谈会：机器时代的安全——专家解读 AI 威胁的演变",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288550&idx=3&sn=102742e2278b752fe4d87411b4e9e40d&chksm=bdba8bb58acd02a31e7726c26fe4eec5e94d4c9d03834844de51dfbe9e4425160b28f05ad895#rd",
-    "publishTime": 1783646402,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNjISEK06vHUqkvYAdBegDuv1NBypPEib9icAzMeNPUujX6jMnvQWxticuwMNK1vCACeVm1iciaFM8iaVSCHMicf0uOXWokgiazajcwfia28/0?wx_fmt=jpeg",
-    "digest": "本次虚拟座谈会汇聚了业界顶尖的实践者，共同探讨 AI 威胁的演变趋势。他们还将审视传统安全方法的局限性，以及抵御未来攻击所需的关键技能。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651288550_4",
-    "title": "动态分区拆分：Netflix 大幅削减 Cassandra 读取延迟至毫秒级",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288550&idx=4&sn=a4f3949d18c31b3712a5eabd01fe65b0&chksm=bdba8bb58acd02a3f9a169bcab4da2b1c943e947de2735ffc181df157d3b1d099e1312df3d35#rd",
-    "publishTime": 1783646402,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNg7aL1MAxgkfKFiapbC0z19E89hxwAqaP8ibicgIXHcLzDicVFTzjSSmyb9bpfZzJvJ4E7GKCgz8TwIcaeJyRsAnq5dPfL8xFItVAw/0?wx_fmt=jpeg",
-    "digest": "Netflix 推出基于元数据的 Cassandra 动态分区拆分方案，自动拆分时序场景下的超大宽分区并分发读请求。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651288485_1",
-    "title": "首个具身视频基模开源！LingBot-Video 如何为“机器人大脑”构建物理引擎？",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288485&idx=1&sn=a3182b48dce28b38e85e243a183ef8c7&chksm=bdba8bf68acd02e0b514431e04aec3b67c2c3388f1cbb86d9031c9f033e16bccdfd2eae106b5#rd",
-    "publishTime": 1783579882,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNgutcaqcYAib1pxKMZMfPvHVcSRBbEzDPCIqArBklTAaCRKh3ph1ePnicnH0k5hSbclwtxwIbNg6Sro4PkXHx1q3XNiaIavISSnkQ/0?wx_fmt=jpeg",
-    "digest": "视频模型赛道正分化成两条路：一条通向影院，一条通向机器人。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   }
