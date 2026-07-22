@@ -1,5 +1,15 @@
 [
   {
+    "id": "2649802917_1",
+    "title": "AI改代码的那几分钟，你在做什么？",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802917&idx=1&sn=dd6d58f349f4058ccc2ea90468092566&chksm=becc5bde89bbd2c859594f5164914cad0627d0caa61bc7d30f73951a2166970517984827a1c2#rd",
+    "publishTime": 1784719157,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/KVER9adz907fx0nGDCcmluiaFqGNVhia498CicFIIzqITM7XRtGynCoRUvXKpicXicibqpZ53NeHY1QDkOl0HsAWiaJyHF3o8QGOibz8cYgavjdX4WY/0?wx_fmt=jpeg",
+    "digest": "这几种类型，你是哪一种？",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
     "id": "2649802812_1",
     "title": "从 Vibe Coding 到 AI 原生研发团队：一套能落地的工程实践",
     "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802812&idx=1&sn=732df4944b3cb1543cc4cfe666e6f47a&chksm=becc5b4789bbd251b41e77c164022f4625560e4d660eb2075100aab46824b17d6ac8586635c4#rd",
@@ -36,26 +46,6 @@
     "publishTime": 1784280960,
     "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/KVER9adz906CRXOoRfUM7JNPRo13DsrWXDUjQXDWVNrW4S93hBPNjN7qI2d9ogPyuT24A6eIl3h4jmJdIVRnaAwvPTEd13Q6E5IWomQJ6ibA/0?wx_fmt=jpeg",
     "digest": "把\"好代码\"标准写进系统里，让 AI 在约束下自己干活",
-    "author": "",
-    "feedId": "MjM5ODYwMjI2MA=="
-  },
-  {
-    "id": "2649802659_1",
-    "title": "Agent 治理：用 Hook 堵住 LLM 的偷懒、越权与失忆",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802659&idx=1&sn=8c2b4c6e4501a69632fe05b2e6e8e3b0&chksm=becc54d889bbddcead381b6cb5fbe9f2ee2ec8ce61a39cddb9065f983138dbb4e0cb98d2aa2b#rd",
-    "publishTime": 1784195429,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/KVER9adz905NpB5OTxwYF22W2TOp7ojTRYFjzb7ONPtriatBhMQt2TfIh6jrELBVxYed5jaibWFaXOcS5v4JSTEoUSPogH9lMZjxFw0rfYFSI/0?wx_fmt=jpeg",
-    "digest": "prompt 管不住的，框架来堵",
-    "author": "",
-    "feedId": "MjM5ODYwMjI2MA=="
-  },
-  {
-    "id": "2649802659_2",
-    "title": "腾讯PCG联合深圳河套学院：在全双工语音大模型领域取得重要突破，获 ACL 2026 杰出论文奖",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802659&idx=2&sn=d7eb836cbf1c5d47f8d6c2ea645375d8&chksm=becc54d889bbddce444b40a3b9889451ea5616b936e161cdcc6a7d448a1354816119118d29a3#rd",
-    "publishTime": 1784195429,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/KVER9adz9059MYgAUGpApViaLF9GRQMJNIPRibicfdgsQa90psgvfz49Tb1ITkZyuQZ08vX8RicWxZKruicejg0OvEmPskF8oLiaq1F6ytlmYoqsg/0?wx_fmt=jpeg",
-    "digest": "从语言理解延伸到语音交互领域",
     "author": "",
     "feedId": "MjM5ODYwMjI2MA=="
   }

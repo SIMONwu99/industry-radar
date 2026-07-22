@@ -1,5 +1,15 @@
 [
   {
+    "id": "2247495739_1",
+    "title": "小红书 dots infra 开源BigMac : 突破多模态大模型训练的帕累托前沿",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247495739&idx=1&sn=ba6e41fd6a02ce09e3426ca46a17e194&chksm=cfe452ccf893dbda4d0cc477d6de12819944d83652c3d9ce1835cf946ef52b22827b1a18192c#rd",
+    "publishTime": 1784714689,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/P9Hs04VFGRlaqOzZaYykJ3ibN9icKC8bxLz10h9RVvOiczVFqW1QrjPntEAFzmZzIlpjFGebiaGtmpxvWCklYKfZ3PZv5ZxV2KQy2u0k85YMbGs/0?wx_fmt=jpeg",
+    "digest": "导读：BigMac是原生多模场景下的流水并行训练新范式。",
+    "author": "",
+    "feedId": "Mzg4OTc2MzczNg=="
+  },
+  {
     "id": "2247495735_1",
     "title": "小红书dots模型取得IMO 2026满分金牌成绩",
     "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247495735&idx=1&sn=ce165ca3d6ca96311f04d2a243439b66&chksm=cfe452c0f893dbd64f15eda4f8262b0673342c77a950a380d5fd854b0a4336308b4dfe583b6b#rd",
@@ -36,16 +46,6 @@
     "publishTime": 1784023140,
     "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/P9Hs04VFGRlrhVYvhrK2jib8eKSz4iauFJE9IhoNwrw1HlusUfEmWoHCfJVgwcVxstATJzR5yp6gfTOKD86nnwHpQicHQjX0hBvFNkuFNeXTNk/0?wx_fmt=jpeg",
     "digest": "小红书QEcon分享回顾：企业级AI助理的全员部署之路",
-    "author": "",
-    "feedId": "Mzg4OTc2MzczNg=="
-  },
-  {
-    "id": "2247495562_1",
-    "title": "小红书发布大模型新架构 PIPO ，让模型一次「吞两个、吐两个」",
-    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247495562&idx=1&sn=a43b49635496a320685c2479efef1b99&chksm=cfe44d7df893c46bdc4f7d6b5c77e2a2cd51c98ed812d34bd4a87b88ef67c86f5a960a72f400#rd",
-    "publishTime": 1783677540,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/P9Hs04VFGRnDVoaPSepIiaBjorAiaUw96tOYz0e1XSEAicaEpiak3kXkibeUnibW6teoGSm48KUCxTmdxXHWlibIFJjJblVB3ZHqLUiaPb0OPBp8B1I/0?wx_fmt=jpeg",
-    "digest": "大模型高效推理新架构",
     "author": "",
     "feedId": "Mzg4OTc2MzczNg=="
   }
