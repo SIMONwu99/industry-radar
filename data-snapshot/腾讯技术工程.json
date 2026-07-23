@@ -1,5 +1,15 @@
 [
   {
+    "id": "2649802928_1",
+    "title": "鹅厂员工都碰到过哪些Token刺客？",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802928&idx=1&sn=98b6bc4e64f5936316f262d627453c38&chksm=becc5bcb89bbd2dda6784de0ed2f6340eacf63c0b4ab066430c5f14996c80878bba7cdd41bb0#rd",
+    "publishTime": 1784799762,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/KVER9adz904O2TgW19ww4ovlUXcShXtcozUVcibwAtOiadqvro7dT5z4NXibhfOVremedH4Y0FU5gGib0Z7PfJbiaVLCpVYib8e77iaQfib1qxqNJGo/0?wx_fmt=jpeg",
+    "digest": "你怎么看？",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
     "id": "2649802917_1",
     "title": "AI改代码的那几分钟，你在做什么？",
     "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802917&idx=1&sn=dd6d58f349f4058ccc2ea90468092566&chksm=becc5bde89bbd2c859594f5164914cad0627d0caa61bc7d30f73951a2166970517984827a1c2#rd",
@@ -36,16 +46,6 @@
     "publishTime": 1784363311,
     "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/KVER9adz9062Lhl400eHMjUqfUEvRG2xsKMic1c9TYh9oDa7Vpz4QWG0pP7pJv8lafYJfPjFe3Ke8MbGyoMz4gobcna40u2pIiaSY1uL8WXQA/0?wx_fmt=jpeg",
     "digest": "腾讯一次发布三大具身基座模型，成果已进入真实生产场景",
-    "author": "",
-    "feedId": "MjM5ODYwMjI2MA=="
-  },
-  {
-    "id": "2649802660_1",
-    "title": "驾驭AI Coding：一份面向团队的Harness Engineering落地规范",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802660&idx=1&sn=2b36909c6f4a6d563addd1f7f8c9f266&chksm=becc54df89bbddc901bafdb48cd390c62a20a6f6e3f2844a5e9ece6cc617fad89c7f1d78a379#rd",
-    "publishTime": 1784280960,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/KVER9adz906CRXOoRfUM7JNPRo13DsrWXDUjQXDWVNrW4S93hBPNjN7qI2d9ogPyuT24A6eIl3h4jmJdIVRnaAwvPTEd13Q6E5IWomQJ6ibA/0?wx_fmt=jpeg",
-    "digest": "把\"好代码\"标准写进系统里，让 AI 在约束下自己干活",
     "author": "",
     "feedId": "MjM5ODYwMjI2MA=="
   }

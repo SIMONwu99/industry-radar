@@ -1,5 +1,15 @@
 [
   {
+    "id": "2247510426_1",
+    "title": "阿里开源 skill-up：让 Agent Skill 可评测可回归",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247510426&idx=1&sn=77717225ccb946c19752a93e9681d8d1&chksm=cfa6b979f8d1306f6ebee201506cf67df3054068e659ad5940b115cd5a788e60775305d98e59#rd",
+    "publishTime": 1784801880,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/kN3t5R6pdz4mkaswRGmhlvEgpJ3l9JiaOnw4V7jAp9WOpClGUN1lzvf2Mgnu7oiaYxjnSIwltsK0dRM7HRwTJEKlVpsnVWKCM7eyIxmg5hmWo/0?wx_fmt=jpeg",
+    "digest": "一个专门面向 Agent Skill 开发者的命令行评测框架",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
     "id": "2247510392_1",
     "title": "NL2SQL 在超大规模数仓场景的架构突破与工程实践",
     "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247510392&idx=1&sn=cd9903f9a3a898baa1070dfd011b7556&chksm=cfa6b99bf8d1308d8c470304550e922766712fbbac80da37bb1f4067e5699455a79ef311137f#rd",
@@ -36,16 +46,6 @@
     "publishTime": 1784110080,
     "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/kN3t5R6pdz7dRWnBJ3Uu0WzXEN4EdsgVEJY2xicwcSmPZgn7oS4UicSeXDZMfnzG5EuO2ICc5yDhZPoSH1bs5licJdo9JOseTeDMvYuklqUHaU/0?wx_fmt=jpeg",
     "digest": "HSCodeComp揭示了当前Agent的能力边界，也为构建真正可靠的专业AI系统提供了科学的评测标杆。",
-    "author": "",
-    "feedId": "Mzg4NTczNzg2OA=="
-  },
-  {
-    "id": "2247510241_1",
-    "title": "从 Coder 到 Designer ：电商团队数据研发的 Harness Engineering 实践",
-    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247510241&idx=1&sn=04d54633f1d91d27be6580eda8b503b2&chksm=cfa6b802f8d131147f271a1eb4778391028fb82e9755c9ead0b082b48fafd738bca1b4e1d571#rd",
-    "publishTime": 1784023680,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/kN3t5R6pdz4MzticwltLHZf5QvyKtHLwoX2l5dhrfu2ZydlIVKzdA1aEaslYIFn29tAMHHzco6iafiaIAbbIiaibm4iaj8rMvdsEmCrtCBMv3Xf8M/0?wx_fmt=jpeg",
-    "digest": "让 AI 像资深数研一样思考，且比人类更稳定、更可追溯、越用越准",
     "author": "",
     "feedId": "Mzg4NTczNzg2OA=="
   }
