@@ -1,5 +1,15 @@
 [
   {
+    "id": "2247495761_1",
+    "title": "小红书引擎架构团队OSDI 2026新成果：HELMSMAN重塑大规模向量检索基础设施",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247495761&idx=1&sn=1b131752ba18b25cc0e30e7de9d2af9f&chksm=cfe452a6f893dbb0337c741beed56dd14accafd32c12e0b833ebaaf726d5317ea98c315f2216#rd",
+    "publishTime": 1784779200,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5L8bhP5dIqHg1NBUic6ULWhajmfrYyzhsJu8P9DMHJVGaH3e8aSuYwtvaYcYODVeoEG3WWK2218jD0McousGM7dPy275esDUR28HLuGg6eAE/0?wx_fmt=jpeg",
+    "digest": "机器之心发布近日，围绕搜索、推荐、广告等核心业务中的大规模向量检索成本与性能问题，小红书引擎架构团队在 OS",
+    "author": "",
+    "feedId": "Mzg4OTc2MzczNg=="
+  },
+  {
     "id": "2247495739_1",
     "title": "小红书 dots infra 开源BigMac : 突破多模态大模型训练的帕累托前沿",
     "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247495739&idx=1&sn=ba6e41fd6a02ce09e3426ca46a17e194&chksm=cfe452ccf893dbda4d0cc477d6de12819944d83652c3d9ce1835cf946ef52b22827b1a18192c#rd",
@@ -36,16 +46,6 @@
     "publishTime": 1784196000,
     "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/P9Hs04VFGRl97BhM4Ga2AibSaTuGI4ew52XxqaNd30viaratFsyoWhqXicj2sN7Ap65LwicUiagn78kDF6pd6YlXTibo9dee4UvE7aCLP27PbiaCuI/0?wx_fmt=jpeg",
     "digest": "引言：随着 RAG（检索增强生成）和 Agent 成为大模型服务的主流形态，一条请求的 prompt 往往由几",
-    "author": "",
-    "feedId": "Mzg4OTc2MzczNg=="
-  },
-  {
-    "id": "2247495589_1",
-    "title": "小红书企业级 AI 个人助理——从 0 到全员覆盖",
-    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247495589&idx=1&sn=1fcaaea018e3e0883982dd4b98767656&chksm=cfe44d52f893c44441b2cfeff14b34cd8bbd3cd1961d293c6544ba0699511f2d74a5699ff948#rd",
-    "publishTime": 1784023140,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/P9Hs04VFGRlrhVYvhrK2jib8eKSz4iauFJE9IhoNwrw1HlusUfEmWoHCfJVgwcVxstATJzR5yp6gfTOKD86nnwHpQicHQjX0hBvFNkuFNeXTNk/0?wx_fmt=jpeg",
-    "digest": "小红书QEcon分享回顾：企业级AI助理的全员部署之路",
     "author": "",
     "feedId": "Mzg4OTc2MzczNg=="
   }
