@@ -1,5 +1,45 @@
 [
   {
+    "id": "2651289360_1",
+    "title": "“围攻” Ralph Loop 之父？一场关于 Loops 的激辩：代码照样垃圾，只会失败得更加难看",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289360&idx=1&sn=2a9691c529d6555758618465536fdf20&chksm=bdba8f438acd06552154a641375e595d92b996c11a3db3a1c17783b5cfcddb7f243d6b2fe38c#rd",
+    "publishTime": 1784795217,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNjUtuXh3fTDId5IbHrehlEQoDQ9dEm6T4USZbTDVexDpkiacNNkyTlmCZnNf94e7zjV3A3RvgtS0QcxvwULzmUv5QcV80ueRYxw/0?wx_fmt=jpeg",
+    "digest": "真正的分歧不在于“Loops好不好”，而在于“今天能不能用”。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651289360_2",
+    "title": "打造自进化的编码伙伴：Qoder 记忆系统落地实践",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289360&idx=2&sn=d1425813888583e86a4ddcf6b9854e0c&chksm=bdba8f438acd0655b24da2668b47fc9959a88f2001e78195c040c1c62231e6a747dbd8a85e76#rd",
+    "publishTime": 1784795217,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNgUSJnTicKEb3nFy6kZBjeUJwIZrN6KoDF2g96ViaUzYicgPrajic8asYoEXMe5MUv4dFe2GdniaF8gI3hQghdcOt7ibV3Pxxq3WtORo/0?wx_fmt=jpeg",
+    "digest": "经验不止服务个人，更可提炼为组织级知识资产。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651289360_3",
+    "title": "模力工场 × 魔搭社区｜你的运营痛点，或许能值2万元！",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289360&idx=3&sn=1534fd27a8cca0dcc11613875e373eb4&chksm=bdba8f438acd065553a14b0b9abaa7df68734600205a09dc99c1837b3d88c4311deac64337cc#rd",
+    "publishTime": 1784795217,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNhKxUeIL4wayjU09X76wfHUd4jkcUWGQ64rx5CWk5HuUqicQ1QvibPnGYya4PEGW6tsKjcXr3TZ4wjhTtTGVpH2s0VCrD1D45OMg/0?wx_fmt=jpeg",
+    "digest": "做运营的人应该深有体会：最让人崩溃的，往往不是事情又多难，而是同一件事需要重复做无数遍。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651289360_4",
+    "title": "谷歌发布 A2UI v0.9：可移植、框架无关的生成式 UI",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289360&idx=4&sn=3b36e99ad4539089faaac2ddc0387912&chksm=bdba8f438acd0655e1b325cfe5f296c2260e47167151aec98d7548b1926e82e8dc17938f2c1a#rd",
+    "publishTime": 1784795217,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNjYtzCC3ZV6DfhE9dsZcKC7MGjSnAILH3XR9WRSzHQHickRmyWSWyTrEjns3JF1xvBGY8g5P6JlN0VORJoNfjgV2u06hEgJzTY8/0?wx_fmt=jpeg",
+    "digest": "谷歌发布了A2UI v0.9，这是一种与框架无关的标准，允许AI智能体声明用户界面意图并在Web、移动与桌面平台上原生渲染，而无需传输任意代码。该版本强调与现有设计系统的一致性，新增Python SDK、改进的错误处理与多种传输方式，并提供",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
     "id": "2651289339_1",
     "title": "30+ 家企业组团参展 WAIC，张江 AI 小镇藏不住了",
     "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289339&idx=1&sn=5e5ba052ec6b8d1695291b8e3f4e56fe&chksm=bdba8ea88acd07be2a5e1a80a29907d5bfc8ed635573e16b3ec7cdaed560d317d6a124b2f4ee#rd",
@@ -180,42 +220,42 @@
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651289108_1",
-    "title": "专访孙元浩：乘坐星环号，把数据库“移民火星”的人",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289108&idx=1&sn=64e22b21af7d871928d702fa1e13336f&chksm=bdba8e478acd075155cdcf277bbedd3f96e654f1a66096256ac2785a7bf29b979de9a9118879#rd",
-    "publishTime": 1784353685,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNg7UEQ15Zx5P4GEIQTwelialkJaRmSzRwuvpK3ZWJuoFDUrIY4Vib0qMHehzeQWKR4Y5I5XRw9kSD9iaDJZgGy1boFbmc6WibwtO0c/0?wx_fmt=jpeg",
-    "digest": "“把数据库迁到 GPU，就像移民到火星。”",
+    "id": "2651288698_1",
+    "title": "从看见问题到解决问题，Agent 正重新定义可观测",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288698&idx=1&sn=ff190c842f5e4d2db50faafc2f943f59&chksm=bdba8c298acd053f082dcda45a8d0c78d339bc1e366077406f97eb9d0c6d8eee9623a7d79cf0#rd",
+    "publishTime": 1783920600,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNiaTwN8tsCPr6Lhfds78fZT5NW1rNsf7Nph9KV6ic53flVBUr8hJ6qmEyE02yiaoxR6r13h8tZ2dY6oJBqicHcpv3ibhCLP1ibVANhT0/0?wx_fmt=jpeg",
+    "digest": "为什么 Agent 爆发后，可观测更重要了？",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651289108_2",
-    "title": "Jiuwen Symbiosis深度解析：从数字世界走向物理世界，为Physical AI打造Symbiosis (共生)",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289108&idx=2&sn=d8c0cf352b1242affd3fa80a57e44d4b&chksm=bdba8e478acd0751b5277dc105c6c6326b5a06e9851a97c6ca49bb206ff7f9506a0cf51a483c#rd",
-    "publishTime": 1784353685,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNjM3xpBPLoibJMj1V7Oq7G0awI702QMwgXvzJdvIV0L4gxSr3afic4BrEEXCEbbCDOia6tYQdY3xaMeewMdkujC1QjPJCe8GIiaiaKQ/0?wx_fmt=jpeg",
-    "digest": "人说一句，机器就能把活干完",
+    "id": "2651288698_2",
+    "title": "用 Claude 重写 SQL 解析器，性能暴涨 70 倍：程序员做的不是写代码，而是搭建验证闭环",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288698&idx=2&sn=3c2d145177b05f3d7fab056792a2e23e&chksm=bdba8c298acd053f67f04726c92f1c8712628c081eb328b9113926b50f9c709a4227d2fceb81#rd",
+    "publishTime": 1783920600,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNgCicGRglAQEn9r4whl6r7hScXiceqNZbF3He8Iep9ZZOjxqM0ojxJ7cG5JGxfZChyTqN73DcfaUcLUwRvF1kia7DY0W7ThIUgZ3Q/0?wx_fmt=jpeg",
+    "digest": "我使用多个长时间运行的并行Claude Code会话重写了PostHog的SQL解析器。结果是16K行“手工”编写的解析器代码，5K行工具代码，几千行测试代码，以及大约70倍的速度提升。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651289108_3",
-    "title": "不打榜的美国开源新王Inkling：975B原生多模态、仅用 1/3 Token 追平英伟达",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289108&idx=3&sn=198c482bd50260d94cf0191500c143bc&chksm=bdba8e478acd07515a9abdfb8a41fab3a27e3dadc21c94d1e2fa6ff1023dc525bd95d8b7a23a#rd",
-    "publishTime": 1784353685,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNhddY0SWkc9GK8yZQqDibO0bic63UKibu5kquLvG45GEjibIIL7JNa8Dv3LJs19icYlOcwVnrsB2FNk8BibBeJVXGYZ6TAACa6vCxDdo/0?wx_fmt=jpeg",
-    "digest": "时至今日，全球大模型格局已成定数，还有必要耗费巨资从零开始训练一个新模型吗？",
+    "id": "2651288698_3",
+    "title": "小扎“消失”三年后发帖，只为它：Meta最强Agent模型进军编程",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288698&idx=3&sn=947e50ca4f184d855b124058fef40a4d&chksm=bdba8c298acd053fc9365baa63ab0e49367cdf7c1b826e3ec6a86399a5db4481c2e478219b45#rd",
+    "publishTime": 1783920600,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNhQOG7pxCSiaY3QXGWPWiaURic5nhWhBNonDttSZhtdcKyaoDsxeJR284ZzKibHphNb4MkViaQy7zZR0paqOmqffuru7eqhXAkicl8Qs/0?wx_fmt=jpeg",
+    "digest": "在 AI 负责人 Alexandr Wang 领导下推出首款人工智能模型三个月后，Meta 再次推出一次重大升级",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651289108_4",
-    "title": "从 PostgreSQL 切换到 ClickHouse，提升系统性能与伸缩性",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289108&idx=4&sn=2df59f5a19b684fddb0d10786f6127ce&chksm=bdba8e478acd075135630c217e985413e3f19da982c32249d2c05813f21e2ff6cade61e8a1c8#rd",
-    "publishTime": 1784353685,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNiapAjMJChuMCsGo0tKxP7HPsrz1gV1WnXEmYGljOYp20Za4KHq50duWgLSquPwUbVPIBqYnHBXxVpnicmrYCyK3ibJYF7EpFgpZE/0?wx_fmt=jpeg",
-    "digest": "Momentic 重构缓存系统，将存储从 PostgreSQL 切换为 ClickHouse，实现支撑200亿缓存条目、日处理200万次查询，平均响应延迟约250毫秒。",
+    "id": "2651288698_4",
+    "title": "MCP 推出企业统一授权功能",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288698&idx=4&sn=7ccc5c928aae8371a6420305cd3f3507&chksm=bdba8c298acd053fe29c300f0bdb903acd92ba706235cf5512900fdda367245ece4e30317fcb#rd",
+    "publishTime": 1783920600,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNiaytLqzrOvpEXY7iadUKXquMVVaaicJkbvCz5eEcZvibzH8Y1DfaIng9PdRU37YrFkpM34bPMSEa2y2sMrLViaIxzXKGprU1bMdQGg/0?wx_fmt=jpeg",
+    "digest": "MCP 团队推出稳定版企业托管授权扩展，企业可通过身份服务商统一控制 MCP 服务器访问权限，替代单独授权提示，实现一次登录即可免额外配置访问所有合规服务器。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
@@ -256,46 +296,6 @@
     "publishTime": 1783822500,
     "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNiaR0uriaQqOboyGhesvNFOLhQhXh66rZ2abPXNxrAvjDarStAD25BqraiboQVbLDTic1hYQM4uaeI1Y8a5VVK70ciayqG6PKicx7rd0/0?wx_fmt=jpeg",
     "digest": "本文是 Java 的近期新闻，内容涉及：Hardwood 1.0、Endive 1.0、Azul Payara、Quarkus、WildFly、LangChain4j、OSSI。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651288603_1",
-    "title": "苹果甩出41页PDF怒告OpenAI“偷师”其核心机密！网友：早知道就等印度“开源”了",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288603&idx=1&sn=1616dd002dc7a96a2ab7dbc983c9cc24&chksm=bdba8c488acd055e403c58a3fae174c070bb2c3ac875b47f8adb74780810ab1c9ce495d51827#rd",
-    "publishTime": 1783741008,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNhE5vhRNCYc3LWb9K5V2CFPPic9mUHn34LKAK4xtuOvrALk4IkU8iaSRzKGFokRVEgKIGNwTAG5g4tD2ak8S79iaZLYrQp35zgKiaI/0?wx_fmt=jpeg",
-    "digest": "马斯克每天都会阅读 OpenAI 的丑闻。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651288603_2",
-    "title": "Claude“脑内小剧场”首曝光：隐藏工作空间自发涌现类人意识，谷歌 DeepMind 权威认证！",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288603&idx=2&sn=d8b1f2e53e8603ae79e7af04be98f7e5&chksm=bdba8c488acd055edc5fb4c81c82bf378cc97ad99a809b2896932ca9321c420a1940d3453e97#rd",
-    "publishTime": 1783741008,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNgmaqpUudsMo1gCYMF1icp1aVbLiaxnyOAhJXGk6Qrs9WamdIQwcj2mYgtfabTz5Mh2jHeJCicrT5KKY5hPkppKbM44shJATibr5Ns/0?wx_fmt=jpeg",
-    "digest": "现在，Anthropic 已开源相关代码，并与 Neuronpedia 合作推出了交互式演示。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651288603_3",
-    "title": "开源模型赢了 Token 流量，Anthropic 赚走了大部分钱",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288603&idx=3&sn=d143298b18b5a3ac7d7999534fb87111&chksm=bdba8c488acd055e5a8ec727e1f08a20330f83b6fde82ef8ae0994c92c482908c59a2a6e3a3f#rd",
-    "publishTime": 1783741008,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjczbraBFcUoPR23bmAlI4ScEYm68HDictdo1t5NvKhT7tiaicprUs1zY7z8tfHdFQRJgdcWHC2eQ4PnwiaeyFppd84Ne2L9g0RrYI/0?wx_fmt=jpeg",
-    "digest": "Anthropic等前沿模型实验室并没有因为开源模型崛起而受到太大冲击，至少目前还没有。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651288603_4",
-    "title": "Elastic 开源了基于认知科学的 Atlas Agent Memory",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288603&idx=4&sn=c2f996400a034c7ffc05016f9eac0b0f&chksm=bdba8c488acd055e8e1f0e85d3cc5e78bae38a0eb5cfd0ab518c1eeb0f0e06f26ac1f41d8807#rd",
-    "publishTime": 1783741008,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjKw750cPSbTL5mERJ671hvwBeqOFFaxYq2YdklxHUgzwfFyUibEMMMnUk48j7V00ibZa2LQfLFqQ2Z0YqSibG0O7tIlOM0AqDPicU/0?wx_fmt=jpeg",
-    "digest": "Elastic 开源了 Atlas。这是一个基于 Elasticsearch 构建的系统，可以为智能代理维护三类记忆。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   }

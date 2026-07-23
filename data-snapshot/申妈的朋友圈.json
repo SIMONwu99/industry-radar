@@ -1,5 +1,25 @@
 [
   {
+    "id": "2649602955_1",
+    "title": "某厂大模型多模态理解负责人胡瀚即将离职创业",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzI1NDE0NDQ2MQ==&mid=2649602955&idx=1&sn=5099bfa815d5ed5bca6e15392f5c5561&chksm=f1d0a129c6a7283f8de8267d03f2e9017b4b270e39810004a704233012eb247d5500bcd6122d#rd",
+    "publishTime": 1784789769,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/r1bcibyzeOibsdgicSibELm0EwtfQAaYpKqETPg7JbZK9ibvp4mSv3vKtJW9Lia5hOBBV9dsK0pw9sNeI5tkiccK7fRj4EnYLcdwsic3Zn99yJ7n81I/0?wx_fmt=jpeg",
+    "digest": "曾任微软亚研视觉计算组首席研究员",
+    "author": "",
+    "feedId": "MzI1NDE0NDQ2MQ=="
+  },
+  {
+    "id": "2649602953_1",
+    "title": "腾讯混元多模态理解负责人胡瀚即将离职创业",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzI1NDE0NDQ2MQ==&mid=2649602953&idx=1&sn=f4448626753e501db0bf192ce6e9efa3&chksm=f1d0a12bc6a7283d0bc4fe00030b5f59eaaa6641e44f6c83e653b485aedf14dd2b627de019f4#rd",
+    "publishTime": 1784785284,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/nEWyk3hdcmlibqQEdf4xnNadiaibOQ37dE2ibgEltemCS6paRtnYpLrqPOsibhOXic5hY1N5gibE0InicQocXic1UJvYoxf7Dicibaicdj2ibF9eZNdFZFd0/0?wx_fmt=jpeg",
+    "digest": "曾任微软亚研视觉计算组首席研究员。",
+    "author": "",
+    "feedId": "MzI1NDE0NDQ2MQ=="
+  },
+  {
     "id": "2649602952_1",
     "title": "小红书回应上市遇阻传闻：IPO相关信息均不属实",
     "link": "http://mp.weixin.qq.com/s?__biz=MzI1NDE0NDQ2MQ==&mid=2649602952&idx=1&sn=272b51a0e3b15fdf1c61351219eeeb54&chksm=f1d0a12ac6a7283c061d0a34129db94a1db86b216c9163b75d94ce1329c2c470ac4ff29c64da#rd",
@@ -26,26 +46,6 @@
     "publishTime": 1784530421,
     "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/ACzflXDibhg4pV2Hughb2N93acctD07oe84TB0uV9PEqIE2ByRnKibqLZcov3jFcoe9v51UY6nGsdCOgt7YtsktV7JP9icczBUiaMHoh1XWpwpI/0?wx_fmt=jpeg",
     "digest": "AI coding 正在变成国内巨头生态里“近乎免费的配置”。",
-    "author": "",
-    "feedId": "MzI1NDE0NDQ2MQ=="
-  },
-  {
-    "id": "2649602940_1",
-    "title": "阿里整合Agent背后：大厂开始重新分配AI资源",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzI1NDE0NDQ2MQ==&mid=2649602940&idx=1&sn=a2c0725f215fdba494bdbd561ecdf27e&chksm=f1d0a1dec6a728c883e7175a18c7f1562d007b92b918ccf7d9e969fd0b50c329b06342207cb2#rd",
-    "publishTime": 1784267632,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/ACzflXDibhg7sGKWY0OaxRHFS4ic8LnnG8rk3z8pRAyDDtTlLJ8S4cCr5QLZKiaDTWEWtDesrtYF967Xm9Krpyx1XWicJMqF4cia2niaia2n2Dvcy8/0?wx_fmt=jpeg",
-    "digest": "哪些Agent能力值得继续投入，资源应该向哪里集中。",
-    "author": "",
-    "feedId": "MzI1NDE0NDQ2MQ=="
-  },
-  {
-    "id": "2649602934_1",
-    "title": "独家|阿里ATH调整：张迪接管通义万相团队",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzI1NDE0NDQ2MQ==&mid=2649602934&idx=1&sn=c9cf8fcc5333f66a628d34f37948abda&chksm=f1d0a1d4c6a728c22aff01cae64c05b70a3d2548dc743848d2201df47f3b7933e75d83f2909f#rd",
-    "publishTime": 1784168658,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/nEWyk3hdcmnOxQLaib7reMZvzkqIz7wVB9l0WEme6CxP4KKnD1nYNbcRF9z2uk0jICgYGicnmtTTDMgEAYW8B9fMXGekujcGnialm84JMHYVeU/0?wx_fmt=jpeg",
-    "digest": "通义万相、快乐马、快乐生蚝，三个多模态模型全部归入张迪麾下。",
     "author": "",
     "feedId": "MzI1NDE0NDQ2MQ=="
   }
