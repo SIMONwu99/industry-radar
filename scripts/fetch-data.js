@@ -6,7 +6,7 @@
  * 环境变量:
  *   WECHAT_COOKIE  — 微信公众号后台 Cookie
  *   WECHAT_TOKEN   — 微信公众号后台 Token（URL 中的数字）
- *   MAX_ARTICLES   — 每个账号最多抓取篇数（默认30）
+ *   CUTOFF_DAYS    — 抓取时间窗口天数（默认 1095 = 3年）
  */
 
 const fs   = require('fs');
@@ -15,7 +15,8 @@ const https = require('https');
 
 const COOKIE       = process.env.WECHAT_COOKIE || '';
 const TOKEN        = process.env.WECHAT_TOKEN  || '';
-const MAX_PER_ACCT = parseInt(process.env.MAX_ARTICLES || '30', 10);
+const CUTOFF_DAYS  = parseInt(process.env.CUTOFF_DAYS || '1095', 10); // 默认近 3 年
+const CUTOFF_TS    = Math.floor(Date.now() / 1000) - CUTOFF_DAYS * 86400;
 const SNAPSHOT_DIR = path.join(__dirname, '..', 'data-snapshot');
 
 // ============================================================
@@ -116,29 +117,37 @@ async function searchFakeid(accountName) {
 // ============================================================
 // Step 2: appmsg → 获取文章列表
 // ============================================================
-async function fetchArticles(fakeid, maxCount) {
+async function fetchArticles(fakeid, cutoffTs) {
   const articles = [];
   let begin = 0;
-  const pageSize = 10;
+  const pageSize = 20; // 加大 page size 减少请求数
 
-  while (articles.length < maxCount) {
+  while (true) {
     const url = `https://mp.weixin.qq.com/cgi-bin/appmsg?action=list_ex&begin=${begin}&count=${pageSize}&fakeid=${encodeURIComponent(fakeid)}&type=9&query=&token=${TOKEN}&lang=zh_CN&f=json&ajax=1`;
     const data = await apiGet(url);
 
     const ret = data.base_resp?.ret;
     if (ret === 200003) throw new Error('SESSION_EXPIRED');
+    if (ret === 200013) {
+      // freq control：等待更久后重试一次
+      console.log(' [限流,等待60s] ');
+      await sleep(60000);
+      continue;
+    }
     if (ret !== 0) throw new Error(`appmsg ret=${ret}: ${data.base_resp?.err_msg}`);
 
     const list = data.app_msg_list || [];
     if (list.length === 0) break;
 
+    let reachedCutoff = false;
     for (const msg of list) {
-      if (articles.length >= maxCount) break;
+      const t = msg.update_time || msg.create_time || 0;
+      if (t && t < cutoffTs) { reachedCutoff = true; continue; }
       articles.push({
         id:          String(msg.aid || msg.appmsgid || ''),
         title:       (msg.title || '').trim(),
         link:        msg.link || '',
-        publishTime: msg.update_time || msg.create_time || 0,
+        publishTime: t,
         cover:       msg.cover || msg.pic_url || '',
         digest:      (msg.digest || '').trim().substring(0, 120),
         author:      msg.author || '',
@@ -146,9 +155,10 @@ async function fetchArticles(fakeid, maxCount) {
       });
     }
 
-    if (list.length < pageSize) break; // 没有更多
+    if (reachedCutoff) break;          // 已抓到时间边界
+    if (list.length < pageSize) break; // 没有更多页
     begin += pageSize;
-    await sleep(600);
+    await sleep(1200);                 // 大量翻页时放慢，避免限流
   }
 
   // 按标题去重：同一篇文章被多次发布时只保留最新一条
@@ -172,7 +182,7 @@ async function main() {
     process.exit(1);
   }
 
-  console.log(`🚀 开始全量抓取 ${TARGET_ACCOUNTS.length} 个公众号 (最多每号 ${MAX_PER_ACCT} 篇)`);
+  console.log(`🚀 开始全量抓取 ${TARGET_ACCOUNTS.length} 个公众号 (近 ${CUTOFF_DAYS} 天，无篇数上限)`);
   if (!fs.existsSync(SNAPSHOT_DIR)) fs.mkdirSync(SNAPSHOT_DIR, { recursive: true });
 
   // 加载 fakeid 缓存（避免重复 searchbiz）
@@ -209,7 +219,7 @@ async function main() {
 
       // -- 抓取文章 --
       await sleep(600);
-      const articles = await fetchArticles(fakeid, MAX_PER_ACCT);
+      const articles = await fetchArticles(fakeid, CUTOFF_TS);
 
       // 以 name 的安全版本作为文件名
       const safeId = name.replace(/[^a-zA-Z0-9\u4e00-\u9fa5]/g, '_');

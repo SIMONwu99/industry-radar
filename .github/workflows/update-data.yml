@@ -72,7 +72,7 @@ jobs:
         env:
           WECHAT_COOKIE: ${{ secrets.WECHAT_COOKIE }}
           WECHAT_TOKEN:  ${{ secrets.WECHAT_TOKEN }}
-          MAX_ARTICLES: '30'
+          CUTOFF_DAYS: '1095'
         run: |
           echo "📥 开始拉取公众号文章（微信后台接口）..."
           node scripts/fetch-data.js
