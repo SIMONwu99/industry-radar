@@ -156,8 +156,11 @@ async function fetchArticles(fakeid, cutoffTs) {
     }
 
     if (reachedCutoff) break;          // 已抓到时间边界
-    if (list.length < pageSize) break; // 没有更多页
+    // 注：微信接口对每页 count=20 时常常稀疏返回（5-15 条），不能用 length<pageSize 判定结束
+    // 必须依赖 app_msg_cnt（总数）或 list.length===0 才能正确翻页
+    const total = data.app_msg_cnt || 0;
     begin += pageSize;
+    if (total > 0 && begin >= total) break; // 已越过总数
     await sleep(1200);                 // 大量翻页时放慢，避免限流
   }
 
