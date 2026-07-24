@@ -1,5 +1,15 @@
 [
   {
+    "id": "2649802931_1",
+    "title": "腾讯WorkBuddy实践：如何把Agent做成可用产品",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802931&idx=1&sn=d1a09a7e393f439886c13f84ea8dcde4&chksm=becc5bc889bbd2de466cb912ba918c78bf99fcb94507cc2b44387499616ba785f296ab0e67b2#rd",
+    "publishTime": 1784885760,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/KVER9adz906eygSCnN2R1oCgnwhfTKwxmwOcR5QZI1xgdcjZql100oAMh0T3kRIV7f8QYJAYx1osianQzibOqNVxMG9ibkPcZeAuHuZZ9eZ1bA/0?wx_fmt=jpeg",
+    "digest": "如何设计好Agent的上下文与运行机制",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
     "id": "2649802928_1",
     "title": "鹅厂员工都碰到过哪些Token刺客？",
     "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802928&idx=1&sn=98b6bc4e64f5936316f262d627453c38&chksm=becc5bcb89bbd2dda6784de0ed2f6340eacf63c0b4ab066430c5f14996c80878bba7cdd41bb0#rd",
@@ -1076,16 +1086,6 @@
     "publishTime": 1690797600,
     "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvasSUzp13uQusayUtI1C1qicxvy2kDsLYMKGiakU9icEYoOhjeho5Zic0icZk3Mkicic6j08Ox05djMs3vWaQ/0?wx_fmt=jpeg",
     "digest": "Linux内核世界的探险",
-    "author": "",
-    "feedId": "MjM5ODYwMjI2MA=="
-  },
-  {
-    "id": "2649779830_1",
-    "title": "无极低代码平台的AI之路",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649779830&idx=1&sn=80a117685170032fc5ea9820779f7f23&chksm=beccfd0d89bb741b2ec720db918a9cf0294d3aaf2560ebd8310ff708a82d8b5bbbce5bfec340#rd",
-    "publishTime": 1690279200,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvau0QHupiamgDB8pl08lVYcVdCOibNp38nYsNQ6oC0TmcicgTfL18WicXwzdelH8Nr6qRciaHibkttZvQofw/0?wx_fmt=jpeg",
-    "digest": "面向管理台的低代码工具",
     "author": "",
     "feedId": "MjM5ODYwMjI2MA=="
   }

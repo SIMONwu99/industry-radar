@@ -1,5 +1,15 @@
 [
   {
+    "id": "2247495811_1",
+    "title": "多模态检索：UniNote 让内容表征与排序“合二为一”",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247495811&idx=1&sn=be436d855b70d48773142f374187731f&chksm=cfe45274f893db62e2c4b01f83c75e17b0178f15daf2e8aee2dcd99e492ba16071f65d172237#rd",
+    "publishTime": 1784887200,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/P9Hs04VFGRnLphKVecUSHAKVXYVRg8eThJKC61NhiahpVsRQ2y6IEcKxmacYLdwK6E1flrZ2jnx0P7IT7TwJ4bbNbz0kAUxxkbAYzHlt7ZB0/0?wx_fmt=jpeg",
+    "digest": "以统一 Embedding 空间连接表示学习与排序优化",
+    "author": "",
+    "feedId": "Mzg4OTc2MzczNg=="
+  },
+  {
     "id": "2247495761_1",
     "title": "小红书引擎架构团队OSDI 2026新成果：HELMSMAN重塑大规模向量检索基础设施",
     "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247495761&idx=1&sn=1b131752ba18b25cc0e30e7de9d2af9f&chksm=cfe452a6f893dbb0337c741beed56dd14accafd32c12e0b833ebaaf726d5317ea98c315f2216#rd",
@@ -40,12 +50,12 @@
     "feedId": "Mzg4OTc2MzczNg=="
   },
   {
-    "id": "2247495626_1",
-    "title": "首 token 延迟降 3.25 倍！小红书联合北大、上交提出 HYPIC，让混合注意力大模型用上「位置无关缓存」",
-    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247495626&idx=1&sn=1716d6b911780449e17662c4b1dad973&chksm=cfe44d3df893c42b0b2eee3a0bbed751c3a0c7ea985ba205e321eeca1665298ed7e138769e0b#rd",
-    "publishTime": 1784196000,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/P9Hs04VFGRl97BhM4Ga2AibSaTuGI4ew52XxqaNd30viaratFsyoWhqXicj2sN7Ap65LwicUiagn78kDF6pd6YlXTibo9dee4UvE7aCLP27PbiaCuI/0?wx_fmt=jpeg",
-    "digest": "引言：随着 RAG（检索增强生成）和 Agent 成为大模型服务的主流形态，一条请求的 prompt 往往由几",
+    "id": "2247495107_1",
+    "title": "史诗级更新！小红书图像编辑FireRed-Image-Edit v1.1发布：OOTD元素融合、人像一致性大幅提升，社区友好拉满",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247495107&idx=1&sn=426c81a565129ddca1659f688d8019d4&chksm=cfe44f34f893c6227cbbd81d8ab00e445b3dff30d02c5f53cb3dbb3e04c33e867c509e5d0408#rd",
+    "publishTime": 1772973710,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/P9Hs04VFGRnpAYxRMibVtdpyFX7QUXy9pxlJmQ4LPXXCCRP5SH66torJypkNjdFXErJ3Na8Ynkicb7xH0tyy4Mr1nXpsicqbYoib2ojvbbIf1TQ/0?wx_fmt=jpeg",
+    "digest": "图像编辑领域迎来重大升级，在 1.0 版本发布不到一个月的时间，小红书 Super Intelligence 团队推出 FireRed-Image-Edit-1.1",
     "author": "",
     "feedId": "Mzg4OTc2MzczNg=="
   },
@@ -90,12 +100,12 @@
     "feedId": "Mzg4OTc2MzczNg=="
   },
   {
-    "id": "2247494862_1",
-    "title": "「码」上有灵感！速来领取REDtech送你的马年专属红包封面",
-    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247494862&idx=1&sn=188dbdf08ee9cbde7f6da979ca0191e7&chksm=cfe44e39f893c72ff4c6490e6b69193e632554c1a1c9f36d84472528f0adb1a359512fa8b486#rd",
-    "publishTime": 1770716686,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/P9Hs04VFGRkiaibkx8GsntPzHEBUW4jTtk7v9w9nuWyr8TtS7mFPibjKdLfULmmUdeCmM7BsV8UDr30UstuASy6OZqGB9NaIibfaTSaq3xUco7E/0?wx_fmt=jpeg",
-    "digest": "新的一年，愿大家代码无 Bug，上线皆顺利！",
+    "id": "2247493933_1",
+    "title": "ACL 2025 杰出论文 | 小红书 AI 搜索和北理工提出“容量差距法则”",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247493933&idx=1&sn=bb7154f296262e1046e97a96fc96d90d&chksm=cfe44bdaf893c2cc04495673d75aa9a01f5a73cbf0062e675e1e30539e9f68148a0a6b57012c#rd",
+    "publishTime": 1762250400,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/vxnkL2N86IspAFXHsiarchgNptGaccAcLv5260hib2K2KYzpvzjib3icl1UZ3JB7nUayERxfcH4jmj4gFSQtibib8Lfw/0?wx_fmt=jpeg",
+    "digest": "该研究破除蒸馏诅咒，提出容量差距法则，使大模型蒸馏在算力与性能间实现高效平衡，并在 Meta 评审中获满分 5.0，荣获 ACL 2025 杰出论文奖。",
     "author": "",
     "feedId": "Mzg4OTc2MzczNg=="
   },
@@ -140,12 +150,12 @@
     "feedId": "Mzg4OTc2MzczNg=="
   },
   {
-    "id": "2247493755_1",
-    "title": "行业领先！小红书智创音频技术团队打造SOTA对话生成模型 FireRedTTS-2",
-    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247493755&idx=1&sn=dc0636cae11fbd278431c9fef55751ed&chksm=cfe44a8cf893c39a7ce4540a259032ec79f747f1af01b0881c6cca555dd93667d5c81511444c#rd",
-    "publishTime": 1758276000,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/vxnkL2N86IuickicAVe82OSfuYKTzmfZiaNtYREND1WLaw3k1eGL5ggfXDVf4MchIg0IFMgO0lyByYHa5JHIEdMfQ/0?wx_fmt=jpeg",
-    "digest": "解读对话生成新 SOTA：FireRedTTS-2",
+    "id": "2247492879_1",
+    "title": "ACL 2025｜大模型长度准确可控生成：为何不准？如何更准？",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247492879&idx=1&sn=71321738c450f044326e8bcdc2091219&chksm=cfe447f8f893ceeedf75da96504db03e526d6ecd15aadb9accac2d56702cc2385605655cf35d#rd",
+    "publishTime": 1749031200,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/vxnkL2N86IvyooR2icdnwL5WnMmcQFh2oK3qKPLCL1GdFVeiaBeLxTrJTk0EG9o1KGf1Uz49QlwnTbdOdYRemWrA/0?wx_fmt=jpeg",
+    "digest": "小红书搜索团队发布 MarkerGen框架，基于自底而上子能力解耦诊断导向的可插拔文本生成新方法，全面提升大模型在长度可控文本生成领域控制精度、文本质量及跨场景的表现，该成果入选 ACL 2025 Main。",
     "author": "",
     "feedId": "Mzg4OTc2MzczNg=="
   },
@@ -190,12 +200,12 @@
     "feedId": "Mzg4OTc2MzczNg=="
   },
   {
-    "id": "2247492375_1",
-    "title": "ICLR 2025 Spotlight｜小红书大模型评估新突破！UniCBE 最高节省 50% 标注成本",
-    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247492375&idx=1&sn=66eda0ad7d9113067c490259770de7b7&chksm=cfe441e0f893c8f6aff4544074baf60804488c5edaf390ab88c3df1b56e8e762a51f7116dc91#rd",
-    "publishTime": 1741860000,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/vxnkL2N86IsUnQT8TNXib7UkAf7NVf5DSdIxfFjFR5w4nB62RjcevgiafDWuS0wFBuVljVQHBfTpxLB1IJsibflmA/0?wx_fmt=jpeg",
-    "digest": "小红书提出基于多目标优化的统一对比评估框架，被 ICLR 2025 收录为 Spotlight。",
+    "id": "2247491502_1",
+    "title": "Code for Passion @小红书程序员",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247491502&idx=1&sn=42fc453c70e53a69904ad254c8932e33&chksm=cfe7bd59f890344fbc639f84e7239d3f196c9e46751b0d19f05550ecc58f415f5d5c8a4af511#rd",
+    "publishTime": 1729771459,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/KFxns84fHVVibfv1xjbdLduNhxc6m993QKvrnKUhjoTOlVojLITfdzsrvBaUUqkcuzFhxdkKib8y56ic6h1zuRlicA/0?wx_fmt=jpeg",
+    "digest": "小红书程序员的另一……二三四五六面",
     "author": "",
     "feedId": "Mzg4OTc2MzczNg=="
   },
@@ -240,12 +250,12 @@
     "feedId": "Mzg4OTc2MzczNg=="
   },
   {
-    "id": "2247491246_1",
-    "title": "小红书推出AIGC加速新算法TDD",
-    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247491246&idx=1&sn=9600802fbe114bd9e60061778d029cee&chksm=cfe7bc59f890354f29f80b2158eaa6364a9bd8d28baecf4eda60aa5904ed8d4bd0888d0a40d3#rd",
-    "publishTime": 1726742961,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/vxnkL2N86IsNE1AbKfHkf1T26gdz2tNdStp4JJI0G8NeSufKV8fNuq1al4zsibOtL4pkWQzgjfOYY4XjxFNkZIg/0?wx_fmt=jpeg",
-    "digest": "由目标驱动蒸馏，文生图精准加速",
+    "id": "2247490362_1",
+    "title": "小红书从记忆机制解读信息检索，提出新范式获得 EACL Oral",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247490362&idx=1&sn=97b2f652fd859111baf926a29f10a0e3&chksm=cfe7b9cdf89030dbe0ed659fce6de0937f356beb0e22a8cd39f3d373723c3459a3fd3622dff1#rd",
+    "publishTime": 1714291200,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/vxnkL2N86IsQV2TJ7n4qQbbbxFZxHuDxmopAgSkDvM4NfXibtUo3JQ8jicyYTmM6ZyIzz68qGpLF8rhpk2fSU9icw/0?wx_fmt=jpeg",
+    "digest": "小红书搜索团队提出生成式密集检索范式，实现记忆机制与向量匹配机制的优势互补。",
     "author": "",
     "feedId": "Mzg4OTc2MzczNg=="
   },
@@ -290,12 +300,12 @@
     "feedId": "Mzg4OTc2MzczNg=="
   },
   {
-    "id": "2247490160_1",
-    "title": "GitHub 斩获 8300 星，小红书爆火开源 InstantID 要开直播了！",
-    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247490160&idx=1&sn=e77a0a72f66e72d4fc267a267b633fce&chksm=cfe7b887f890319178e62353bb09031afc0f6ffc56424ca3418b48594f82401a5dcc0e48c13d#rd",
-    "publishTime": 1709029299,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/vxnkL2N86IvcjVD4LJkLnYk2qmDicUy7xEz0GZop1SGjwDEicuXzbJurdhYctYrpLiaqTplaDPh9ibs3exueGM2QLg/0?wx_fmt=jpeg",
-    "digest": "2 月 29 日 20:00-21:00，InstantID 幕后团队揭晓技术细节！",
+    "id": "2247489240_1",
+    "title": "直播预告 | 降本增效持续深化，如何找准 FinOps 关键着力点？",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247489240&idx=1&sn=25a1722861aee7bd00cb83d2d0311bf3&chksm=cfe7b42ff8903d3906138ad46a31391b4fcdfa1341d2e738d9f5d19fd062cb3ed20620585e72#rd",
+    "publishTime": 1701770364,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/vxnkL2N86Iv502AYgXkA0z2B5BK9jKOMmDrpLxLgyexW3Jp6sLRicKuNae9nOgt6TMTcRl4WplibwwgaGrQqJ4fQ/0?wx_fmt=jpeg",
+    "digest": "12 月 6 日 19：00，小红书在 FinOps 落地与实践分享！",
     "author": "",
     "feedId": "Mzg4OTc2MzczNg=="
   },
