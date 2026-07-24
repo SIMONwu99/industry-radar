@@ -48,5 +48,865 @@
     "digest": "HSCodeComp揭示了当前Agent的能力边界，也为构建真正可靠的专业AI系统提供了科学的评测标杆。",
     "author": "",
     "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247509774_1",
+    "title": "AI 不缺智商缺纪律：一场 Harness 工程化实践",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247509774&idx=1&sn=02c8d0506c7d6ebc8fd58669160f1db3&chksm=cfa6b7edf8d13efb3317ba22ffb089aee8377ae0fa7187163944df9c8536a52d2a219145fda1#rd",
+    "publishTime": 1781094231,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/kN3t5R6pdz6LX89DUobWcUPUx0Gia6g5zU82Nrv05gwuWwkJV1gEEPAx1icwLznuWzKOyecuHTG8MLQC1ENl2Beibiau6uUMuxicY5AKd3ARxxC4/0?wx_fmt=jpeg",
+    "digest": "如何让模型稳定地执行端到端交付全链路，本文给出一些参考。",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247509738_1",
+    "title": "Harness Engineering：长程自动化 AI Coding / Skills 开发实践",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247509738&idx=1&sn=15fcaaa7949c28593c2f6231ebe68748&chksm=cfa6b609f8d13f1fc71a1ed770b25217434a31aca2e6404072acb17a70d13701c2c953da21d3#rd",
+    "publishTime": 1781008933,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/kN3t5R6pdz6joE5oChcJSbMV23Bc1G28hMFP1ot0iaN8JbS4gQBUvkMibJTgBGz8xMSvAZKSelBib62MFzAf0gtaGeLJiaKDUeAwDkXXwoncvjc/0?wx_fmt=jpeg",
+    "digest": "本文阐述了Harness Engineering作为AI Agent自主演进的核心工程体系，通过约束机制、反馈闭环、工作流编排与结构化Rubric评估，实现长时运行下的自我迭代与持续优化。",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247509639_1",
+    "title": "重新思考研发基础设施：当 Agent 成为第一公民",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247509639&idx=1&sn=bac09af0c76f4383f03c0d96cb48bd0a&chksm=cfa6b664f8d13f7221a5323d4aea4ab0a2186df3b2a265104424e38ceeb205c489efcb0bca5b#rd",
+    "publishTime": 1780481361,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/kN3t5R6pdz5qDxrV6UMRAOAib4Bu62qOQOp5SjxfNcw8ibW9zpRicrwXpLST3cFz81L3SVJ74WMeJrm6gbeAibib3LjzwmvUkOQqCUvichBpRRE4Y/0?wx_fmt=jpeg",
+    "digest": "2026 的下半年，关于 Agent 我们可能最需要关注 Infra 的演进。",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247509628_1",
+    "title": "Agent核心技术概念与范式发生了哪些演变以及背后的思考",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247509628&idx=1&sn=6a31cc7a478c2bba91b1eaf405176dfe&chksm=cfa6b69ff8d13f89d53cec186c2302942b919995374174500f99cdd10a9807049ca10c88c3d4#rd",
+    "publishTime": 1780309080,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/kN3t5R6pdz5XPa1tS3iaR2aBWSmR8niaBmKCuzrtcXmNPtLNkIAGc7KN1qDLtkWPchUuAo8NFO06AGiaIb8xIiaFYdwajStoLRDVQiaaG0SztcVg/0?wx_fmt=jpeg",
+    "digest": "理解技术演进背后的逻辑。",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247509622_1",
+    "title": "让项目管理也 AI Native —— 两个 Git 仓库干掉了周报、洞察和效能报表",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247509622&idx=1&sn=1fcb4838aac320dd7365ba534e8bc696&chksm=cfa6b695f8d13f8325e62c50d0cd57457669cf69d4058c5be297595e8c6fc4177a0544756d5f#rd",
+    "publishTime": 1779966342,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/kN3t5R6pdz5PoRtV8qiaia999LV5kVNyfHmJXtpJXQXmNeF07WBFiaFBfAA17Lia250Qsh89RBzLG48e6rhaibYjI7CCm6NKeJXMWxk2Nwb7bVj4/0?wx_fmt=jpeg",
+    "digest": "",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247509188_1",
+    "title": "阿里云联合上海交大荣膺 FAST'26 最佳论文：揭秘云上本地存储的演进与未来发展",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247509188&idx=1&sn=13d89ea9e6fad38c1ccc3adb8dafb0f4&chksm=cfa6b427f8d13d31f6e8c3be841dfee6621235a99645df357a2560e10a298b57566f40d811c4#rd",
+    "publishTime": 1772757000,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/kN3t5R6pdz6iaAWnfSgyHIyibBuqOClHvgJmib0Z1dA94rAn37FwAgwZTyLR6MBTKj9I3OWTb9EFqPEO8R6BjPvZUOUqNFoib30qpKRmhVzZ0z8/0?wx_fmt=jpeg",
+    "digest": "",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247509178_1",
+    "title": "阿里巴巴诚邀学界伙伴共同研究AI前沿课题",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247509178&idx=1&sn=b1e9a5e2b3713bc3b05a9a0cc8921568&chksm=cfa6b459f8d13d4f494a08ae6448019aab5edf84ab0580ac3547e07344146f92ba905fddbe80#rd",
+    "publishTime": 1770942600,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/kN3t5R6pdz5DITluZGZNZcxsy0Yz6YP4sSc4JVF5P8apUj0Y1Np8T8A4dVcSR77ibKcW2BWvrmIsJqJdEe3r78uHUfaNMh1k8d7Zdv8wBh90/0?wx_fmt=jpeg",
+    "digest": "人工智能（AI）正在成为产业升级的重要引擎。围绕AI模型、算法、应用及AI基础设施，阿里巴巴开放12项研究课题，诚邀来自学界的顶级科研团队共同发现、定义、解决问题。",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247509171_1",
+    "title": "阿里ALake数据湖：多模态数据存储处理方案",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247509171&idx=1&sn=e219f087e21348abe25e6fad82d48946&chksm=cfa6b450f8d13d46882d9e72ee0092584585cdd39ea7ddcc1de18c8ae8c8198d401c48cbf70e#rd",
+    "publishTime": 1770856200,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/kN3t5R6pdz6zuY38XGtaUOrriaz2udyuc50tKcTu8lG5hPEZenwfAOde2FKfOLQAZjzzlUNq4gouHx7ck8wzuSwH7aTDxX6CBLgTlzkZdbIU/0?wx_fmt=jpeg",
+    "digest": "阿里推出基于Paimon Blob的多模态数据存储方案，通过独立管理结构化与非结构化数据、创新blob文件机制，实现了海量多模态数据的高效统一存储和处理。",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247509154_1",
+    "title": "Fluss在阿里双11万亿规模场景下的落地实践",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247509154&idx=1&sn=11652959f94704b4604b429b996e7bfc&chksm=cfa6b441f8d13d57fb2d69beac05f45eefda704230e9547250701a9747e4912c3f38762caf07#rd",
+    "publishTime": 1770769800,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30GEOwEw6g9QDNaPuMH9F3ibUFVYntYEL4sHkgPibZeicAdQ5rAQUubMeUg2WJjzkdHkYUL7WicMnO5mpw/0?wx_fmt=jpeg",
+    "digest": "阿里在双11万亿级场景中落地Fluss流存储系统，通过多级分区、过滤下推和列式存储显著降本增效，并实现湖流一体统一架构。",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247509153_1",
+    "title": "Zvec: 开箱即用、高性能的嵌入式向量数据库",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247509153&idx=1&sn=715acff1350136af1654b2400718b653&chksm=cfa6b442f8d13d542daf6a10432a263eaec3f7476ce79ede94d7832664a0fb7c8f742d41b821#rd",
+    "publishTime": 1770337800,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30GEOwEw6g9QDNaPuMH9F3ibUoVSe2HkLPZxsnsqAZ0OYs7pz50k34WgloqMals9HhsjCClCsRP5sEQ/0?wx_fmt=jpeg",
+    "digest": "Zvec 是一款轻量级嵌入式向量数据库，专为终端侧设计，具备开箱即用、资源可配置、极致性能以及多样化向量能力四大核心优势。基于Apache 2.0协议开源，旨在为开发者提供从原型验证到端侧生产部署的一...",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247508890_1",
+    "title": "Apache RocketMQ × AI：面向 Multi-Agent 的事件驱动架构",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247508890&idx=1&sn=5b08490308cdf32cc37727881aab25d3&chksm=cfa6b379f8d13a6f67a88667c517951050c874eae1e2fe24fd442b270c4af23fcd625248f319#rd",
+    "publishTime": 1761265800,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30FzofTrxNKb2PLl5jPQ4cGrseX75yIEJiaViaZpONG0NCNbpkiaibjMPg0rSxY9GEqmTa5UtbV8t7bzkA/0?wx_fmt=jpeg",
+    "digest": "",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247508883_1",
+    "title": "高德车道级地图：从感知智能到空间智能的技术跃迁",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247508883&idx=1&sn=e7e6f80cb1c0c2e40cb2996bf91ee889&chksm=cfa6b370f8d13a66a25a651d2259bae87dc083ff93e5039a6d122c5518820a151d3cfd2db3c8#rd",
+    "publishTime": 1761179400,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30EPM2vNGmLoalOzSVpzo1MibSdorVoHYfK9MKQmTBdrpM1n5MicTsx1KBRySsqoHop3EApwJ5c3C48w/0?wx_fmt=jpeg",
+    "digest": "高德将持续深耕技术，致力于让精准、鲜活的“道路全知视角”惠及每一辆车、每一次出行，为人类迈向更安全、更高效、更愉悦的智能交通未来铺就坚实的数字之路。",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247508877_1",
+    "title": "从人工到AI驱动：天猫测试全流程自动化变革实践",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247508877&idx=1&sn=beb30a660acbe106acee7f3182344fbf&chksm=cfa6b36ef8d13a78bb374b5cf45b1855b0dc152c39ad7eef3c20b0f9e8ecbf864aac9bf41bf3#rd",
+    "publishTime": 1761093000,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30GGVO4GOVfRYwPicAwwIKU0dCmW86dQlpFPsgxu9852acD2GRCYrCsaxp4hXkVNkichSIobBrolmNlg/0?wx_fmt=jpeg",
+    "digest": "",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247508871_1",
+    "title": "Spring AI Alibaba实践｜后台定时Agent",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247508871&idx=1&sn=87d6507695c6cba045838c1f82ecd28c&chksm=cfa6b364f8d13a72a49b694e2dd4f31217ccd9d76d82c17fec02ea37e1e500e6fa9f86f7e730#rd",
+    "publishTime": 1760661000,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30FEzllyicTEMC4m2APSKCRea9SPPsJetD9Dj35VJZCu3ZJRNbe0dSjXsZ2xGNicE5BY1xiaPpoESAKMw/0?wx_fmt=jpeg",
+    "digest": "",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247508871_2",
+    "title": "AI算法开源｜Logics-Parsing：攻克PDF复杂文档端到端结构化处理",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247508871&idx=2&sn=5813230b041d34229b9c86a2944c93b8&chksm=cfa6b364f8d13a72aca765be4b054e1dbf1f85439d5e9518cec3df0d3110dd60d8eac640e670#rd",
+    "publishTime": 1760661000,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30FEzllyicTEMC4m2APSKCReaeVQfOLO4FbWnwXbJTRtHkmocbNoowMumlD0bHjevSrtoeBvJRDAu3g/0?wx_fmt=jpeg",
+    "digest": "阿里发布自主研发的PDF解析神器：Logics-Parsing并同步开源模型。",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247508855_1",
+    "title": "Qoder + ADB Supabase ：5分钟GET超火AI手办生图APP",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247508855&idx=1&sn=41170c2eb4d47db741341aaa23362cfb&chksm=cfa6b394f8d13a825cd3b78889dd3880793dd3dc0374ad163b11cf9df2db16f257a47d5f64da#rd",
+    "publishTime": 1760488200,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30GQNTau4eE41awIgPdWnVQc5F4EPCjAhSJ8dPx8mFlHxyDl9AjmcbRLAUfMMqiby5TZycOAjPy4GhQ/0?wx_fmt=jpeg",
+    "digest": "",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247508855_2",
+    "title": "阿里云发布《游戏行业云上技术服务方案和实践》！",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247508855&idx=2&sn=e0ffbe820b7a2b13485e4c4a892fa2bf&chksm=cfa6b394f8d13a8205f9e3574f0fd192a6a9c0a0c581b7181e6aebccd620df6630771d10d6ef#rd",
+    "publishTime": 1760488200,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30ExD0TcTG41QAjOYFNTBDOZGyR1lfXyaiakeia6kNOAnkMN2ibadvSo2Vg28SPneBrGPVCYSSyds4V6g/0?wx_fmt=jpeg",
+    "digest": "",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247508561_1",
+    "title": "老年代的“滞留对象”：一次由提前晋升引发的线上内存告警排查",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247508561&idx=1&sn=6d490ff1f75543cb993eeb2c617aeb67&chksm=cfa6b2b2f8d13ba4e44f0be98444c77ad46d9275c667df448c8b3da5a9c727ffe79151f9596f#rd",
+    "publishTime": 1756945800,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30E4eeoU7nHKyMRfKZYTibGFwuRoK0IgNzRjfCkfTywAic0lLtgo0t7PXSUrFMa9BC2OcRBfgNq82Vzw/0?wx_fmt=jpeg",
+    "digest": "",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247508561_2",
+    "title": "深扒基础软件驱动下的智驾进化之道 |《AI 进化论》第四期",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247508561&idx=2&sn=f5d1068580a77d07149965fbbe25ca9f&chksm=cfa6b2b2f8d13ba4505ab2b8c2e1521e02b0121f605c876a4907ce3456da37a21b64939f4024#rd",
+    "publishTime": 1756945800,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30E4eeoU7nHKyMRfKZYTibGFwmraMs5RzNrN3LEKibmZDrGaicictQKg1I1gfVYO2NEVah2lpBtXz3l0WA/0?wx_fmt=jpeg",
+    "digest": "自动驾驶遇长尾场景挑战，数据闭环如何推动系统进化？",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247508544_1",
+    "title": "OOM 杀进程 or 应用卡顿？该如何抉择",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247508544&idx=1&sn=1489e52a70d66fd9601a44199367f29f&chksm=cfa6b2a3f8d13bb51cabcd4ed52aedbc478b5b7b01dd77a335e37e209fd2715209b46c8bad91#rd",
+    "publishTime": 1756773000,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30HL2lDiaEBJ5B9wJcwYI3BUhrQXqfUedY39F3JhEdp79ibbR8KqFm49Omqr9mLsd571hSac328HwtpA/0?wx_fmt=jpeg",
+    "digest": "轻松解决系统延时卡顿问题。",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247508536_1",
+    "title": "从“数据拼凑”到“精准断案”：深度剖析RAG系统中信息完整性的关键作用",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247508536&idx=1&sn=c0ae7ec127bf7cb253b1495f34c63ca7&chksm=cfa6b2dbf8d13bcda3b25d5dd6b595be23c337242e175d70bec29608b05249e39fa9a3f1e055#rd",
+    "publishTime": 1756427400,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30Eew860pias8IretJ5DIbjzmTlYKNdKyLyhdibdJKKmiaRDYyUJtsr9f4UficUmD6ZhzpWb6iagqOJTdSA/0?wx_fmt=jpeg",
+    "digest": "",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247508529_1",
+    "title": "从Prompt到Context：为什么Think Tool是形式化的必然？",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247508529&idx=1&sn=f4b3ad023dd85daa2cbae261e0496793&chksm=cfa6b2d2f8d13bc4ed1f27971e315ba195aa92bd4e0f26bf00a7085c61fcccf721804d5e5772#rd",
+    "publishTime": 1756254600,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30EWOqAwZVNjdCPrDqxRdXWztaEwCKLjVdffwIZcIVjd9SxfX224CIPzjxKRTCc1vnTibJKh6ibH46OA/0?wx_fmt=jpeg",
+    "digest": "",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247508529_2",
+    "title": "【阿里云基础设施 AI Tech Day】智驱未来云网随行： AI Infra建设方案及最佳实践沙龙圆满举办！",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247508529&idx=2&sn=6db0ddcb5634de378dccd4b92b755c6b&chksm=cfa6b2d2f8d13bc4e187a713974dc74084b36b471fb3c4085c3554c24437d3ea77d372448ed4#rd",
+    "publishTime": 1756254600,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30GtI5xr2QcwuGWDE9x3AqZtPWtpfyKfugdibaqHibUNMkIhuLl6RiaMBzGHIttTmaAlWZP3tCS6H715w/0?wx_fmt=jpeg",
+    "digest": "",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247508516_1",
+    "title": "【互动有礼 | 云故事探索】NO.17：资源利用率提升50%：Serverless 驱动国诚投顾打造智能投顾新范式",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247508516&idx=1&sn=c34020ca8bee4e83f0a870f8cfa6a372&chksm=cfa6b2c7f8d13bd1ca9d6b3c3ce027927a6810d04d2b8c2c51f73023610ddf70674dd1f12883#rd",
+    "publishTime": 1755822600,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30GtI5xr2QcwuGWDE9x3AqZtvXcQWnUsPPicotVg32CUe8KVRWPfefCNdtdGmJpOmTJ59oNz7yWvZ1g/0?wx_fmt=jpeg",
+    "digest": "",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247507973_1",
+    "title": "「智驱未来，云网随行」阿里云基础设施AI技术沙龙云网络专场在杭州举办",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247507973&idx=1&sn=83e5928ccb49dea0b5a5a17ebe8899e1&chksm=cfa6b0e6f8d139f0fe7a5a80914496ccd704db03db2f3d61e5bba040cd8e582197dc96732249#rd",
+    "publishTime": 1752193800,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30HvmpqRNIKlXaUkaLiaqwzOgoAMoHDKQvTf81PAdDBxo4G7XgBzLhAwvWpQhfnenIyx7Hamick0Paiaw/0?wx_fmt=jpeg",
+    "digest": "",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247507958_1",
+    "title": "基于智能体的自适应测试系统 - 淘工厂实践（一）",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247507958&idx=1&sn=0a22c724b8ec45e49dc0b0f4f35b33f1&chksm=cfa6cf15f8d14603e8e201ed60d820afcc7f92f84cd866d085e98e709baffb9f41cfee6c2348#rd",
+    "publishTime": 1752021000,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30F5vqn8icZtppd9UUqTSaC506FobJXJNqp7sC9sutHfkHQpLgc06h3TZq8Q4IE8yGHzgJjwia1ibkO7w/0?wx_fmt=jpeg",
+    "digest": "",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247507952_1",
+    "title": "workflow is all you need？探讨乐高式流程编排能否实现任意Multi-Agent模式",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247507952&idx=1&sn=db0f8fb24b0612038723385350c0eeb8&chksm=cfa6cf13f8d14605af2c40464ab5fe38c8bb7a1c803c76abda813d41cfb271770c1dec8fa18c#rd",
+    "publishTime": 1751589000,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30F5vqn8icZtppd9UUqTSaC50EzksxbmiaP4qtrjibwxBI2hNEeTlMVLYzjicbHlVibPMZXysbprMNYaXnw/0?wx_fmt=jpeg",
+    "digest": "",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247507933_1",
+    "title": "完全开源！阿里国际发布：Ovis-U1 统一的多模态理解与生成模型",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247507933&idx=1&sn=a46ac75ca71cf97f6e6ea65d5fc1b37d&chksm=cfa6cf3ef8d14628133c7ba4f642a36d83da31a2260c1457b548eed7b028b4257c87948e2633#rd",
+    "publishTime": 1751363623,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30GribNceN66lkJDZFxtfAC7MoicEeVj88VYse2XxjSwX6XCEnOkTVaT4qILC5vWIw3lYW3dHqjLkWfQ/0?wx_fmt=jpeg",
+    "digest": "GPT-4o作为最近的重大进展，展示了统一模型在理解和生成多模态信息方面的巨大潜力。",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247507927_1",
+    "title": "云故事探索NO.15：阿里云云原生加速鸣鸣很忙数字化",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247507927&idx=1&sn=832fc813bbdb0e43a0bd2096a8dceeeb&chksm=cfa6cf34f8d146220dffc02ca674380c5229b64cbfdbeed6bd2cbffa1d7c2096e7f1a1f6a5e0#rd",
+    "publishTime": 1751416200,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30GribNceN66lkJDZFxtfAC7MAkSWrYnibqCXmofGskKjvYE5bGur1EuDeLFLjXuMsjWUXHLYgeM9mIw/0?wx_fmt=jpeg",
+    "digest": "继现制茶饮、咖啡、餐饮等行业后，量贩零食成为消费领域又一个跑出万店的赛道，这些线下零售起家的连锁企业，正以另一种范式诠释着什么是后互联网时代的新零售。本文整理自鸣鸣很忙集团数字化中心总经理孙浩和运维服...",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247507927_2",
+    "title": "【云故事探索】NO.14：乐言科技——云原生加速电商行业赋能，云消息队列助力降本 37%",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247507927&idx=2&sn=039ce643882ed332be7762f81cf9cf6d&chksm=cfa6cf34f8d14622dd74d481460a83803ffe2e993e066ab595f3b129a8c86e2030febba51626#rd",
+    "publishTime": 1751416200,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30GribNceN66lkJDZFxtfAC7MAkSWrYnibqCXmofGskKjvYE5bGur1EuDeLFLjXuMsjWUXHLYgeM9mIw/0?wx_fmt=jpeg",
+    "digest": "",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247507927_3",
+    "title": "【云故事探索】NO.13：全链路「长」在阿里云上！极氪汽车全速打造智能出行好体验",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247507927&idx=3&sn=954273ec1d2167699fe83b798820f180&chksm=cfa6cf34f8d146224474cf6a7413cb26ed6437fc9c62e933566ab6cc7ec43bb89f877dd22685#rd",
+    "publishTime": 1751416200,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30GribNceN66lkJDZFxtfAC7MAkSWrYnibqCXmofGskKjvYE5bGur1EuDeLFLjXuMsjWUXHLYgeM9mIw/0?wx_fmt=jpeg",
+    "digest": "",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247507736_1",
+    "title": "Mooncake 最新进展：SGLang 和 LMCache 基于 Mooncake 实现高效 PD 分离框架",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247507736&idx=1&sn=62c4cb07d91666d0b29fb272c629c7a9&chksm=cfa6cffbf8d146ed88234dca57d7d85780e5253c325beca8b0d4b29610e633070091566bb7ac#rd",
+    "publishTime": 1747355400,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30H6w5F7HsAQP22MiaYVnZQwSWJibspszCc01I3YEvJaqjgic2ZxM6pLQ7ZOrI4TgzZYVibuibkWHWfpvlA/0?wx_fmt=jpeg",
+    "digest": "Mooncake 项目与SGLang/vLLM等主流大模型推理框架实现合作和适配。",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247507729_1",
+    "title": "阿里云基础网络技术5篇论文入选全球网络顶会NSDI",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247507729&idx=1&sn=f568bb46d8d195d5ce06ba332d5524a6&chksm=cfa6cff2f8d146e42ad4fc18970823af3b23eb4204395f9f4fa38c7611f76df2189d9dacf531#rd",
+    "publishTime": 1747269000,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30GZZib4T8tGzE3K5rQZmvYKJ0ibVqz4WgPia2yhGic0NfExB1JLcXKQI0iaMOicqfQqR2xtAm4gGPdKGwUg/0?wx_fmt=jpeg",
+    "digest": "引领人工智能网络技术",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247507721_1",
+    "title": "大模型推理框架RTP-LLM对DeepSeek-V3的优化实践",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247507721&idx=1&sn=790558475d44a79e657eb17a124bf0d4&chksm=cfa6cfeaf8d146fcaba9a93e7161da6aef01fc04d04362d21ed95a8e651c40bd9500a1f4b0c4#rd",
+    "publishTime": 1747193400,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30GibU4IT9C8vqMgczicsB4t91RWKlwOGLP8EBoAgX8jgD6DkLlF7oj7HCvbzvEJFLC8BzoPhcS1NVPQ/0?wx_fmt=jpeg",
+    "digest": "",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247507702_1",
+    "title": "【云故事探索 | 文末留言有礼 】No.7：「越用越上瘾」，中华财险60%研发人员用通义灵码提效",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247507702&idx=1&sn=d6631e4e9673f35908ab848e8bc61b10&chksm=cfa6ce15f8d14703c5606d028489647de47b6dd14244172e3d7535446cfea84aa8dfdb9b195d#rd",
+    "publishTime": 1746750600,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30FCLhdZDfDKiaCnn3z8AOE52fRcbFLkzbKQCjTPYx8ofdvfLhpjcZlXEqsOZGugN6DNicXDzju4nvnQ/0?wx_fmt=jpeg",
+    "digest": "",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247507702_2",
+    "title": "【云故事探索 | No.8】：揭秘餐饮行业龙头 SaaS 厂商神州商龙的全栈可观测实践",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247507702&idx=2&sn=27ecaef51a7e6428f5cc17e76b3d1687&chksm=cfa6ce15f8d14703283e20ae018ef476420c9d81c99647ecde3222f2d48c70441f2a6318132a#rd",
+    "publishTime": 1746750600,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30FCLhdZDfDKiaCnn3z8AOE52fRcbFLkzbKQCjTPYx8ofdvfLhpjcZlXEqsOZGugN6DNicXDzju4nvnQ/0?wx_fmt=jpeg",
+    "digest": "",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247507702_3",
+    "title": "【云故事探索 | No.9】：大洋彼岸的智能工具：劳动力管理，盖雅搞得定",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247507702&idx=3&sn=193279f1c4d5347dbef49cf54ea98647&chksm=cfa6ce15f8d14703eaee2a44de9e3fa8432db45d42dfa42d215597af4f7799a87ea9bf945d46#rd",
+    "publishTime": 1746750600,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30FCLhdZDfDKiaCnn3z8AOE52fRcbFLkzbKQCjTPYx8ofdvfLhpjcZlXEqsOZGugN6DNicXDzju4nvnQ/0?wx_fmt=jpeg",
+    "digest": "",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247507702_4",
+    "title": "【云故事探索 | No.10】：厦门立马耀的数字化转型之路",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247507702&idx=4&sn=7ddee3d6c0a615be2bc1288b1ca5bb80&chksm=cfa6ce15f8d147039b08701e7e04a59b3f985d2a1dfb604834bde7a519b2ecb0b4914c9f652d#rd",
+    "publishTime": 1746750600,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30EbFrG5DBm9Arkq8caK1TJDbMzGBLLiaiclpTg7t7kbtTSrVdHVkZrYFe3wuaIQIcxicN7Mib5ciayDcEg/0?wx_fmt=jpeg",
+    "digest": "",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247507702_5",
+    "title": "【云故事探索 | No.11】：福建紫讯——数字化转型的前行者",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247507702&idx=5&sn=0ae0a2a38875efaf03f8053c0e19fb26&chksm=cfa6ce15f8d14703dfb1768bccd794958b9747f1f021a00280c9486fdad3b920243295e1ecf5#rd",
+    "publishTime": 1746750600,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30EbFrG5DBm9Arkq8caK1TJDbMzGBLLiaiclpTg7t7kbtTSrVdHVkZrYFe3wuaIQIcxicN7Mib5ciayDcEg/0?wx_fmt=jpeg",
+    "digest": "",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247507702_6",
+    "title": "【云故事探索 | No.12】：茶百道——奶茶上云，原生的更好喝",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247507702&idx=6&sn=f0648aa01cabb8d4df29e2159fb81e67&chksm=cfa6ce15f8d14703c83ae3f1162c9e797d093afc05960c0419d0ad85981e4e941cc2a02b75c5#rd",
+    "publishTime": 1746750600,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30EbFrG5DBm9Arkq8caK1TJDbMzGBLLiaiclpTg7t7kbtTSrVdHVkZrYFe3wuaIQIcxicN7Mib5ciayDcEg/0?wx_fmt=jpeg",
+    "digest": "",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247507620_1",
+    "title": "通义灵码编程智能体，上线！",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247507620&idx=1&sn=30c3c87fbe2130f37658e09dfb77abb2&chksm=cfa6ce47f8d14751eb7f330be1fd72efd7ef3dd51d3af7514d704ee1ff56816b1706c36f68a1#rd",
+    "publishTime": 1746664200,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30FCLhdZDfDKiaCnn3z8AOE52Dlg5VvskWOvVNHpaibB6knZ1QmQ3evXfdcOIF4gLkJFyKBVuBI3FKibg/0?wx_fmt=jpeg",
+    "digest": "借助通义灵码编程智能体，只需要输入几句话，通义灵码就能根据你的需求描述，结合技术栈，自动创建工程文件、定义开发规范、实时反馈生成效果，甚至生成研发文档，10 分钟就能完成开发。",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247507377_1",
+    "title": "面向六个月后的 AI Code，也许影响的不只是前端",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247507377&idx=1&sn=2cf32202e5cb281ab964add6c2b24be8&chksm=cfa6cd52f8d144443c3efb0844f829467f5da8df94d75e1469e084e8de35bf520baff0ba72a3#rd",
+    "publishTime": 1743726600,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30Gl0nErBFYSUXXRrEKZOHPl2299ATrD9V3fiaqqNhArRZfAmSbs2mJibicOwKaTV6nibLvxrJ99msibAPg/0?wx_fmt=jpeg",
+    "digest": "",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247507370_1",
+    "title": "我终于成为了全栈开发，各种AI工具加持的全过程记录",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247507370&idx=1&sn=671f8619c81f439e51bddcef3d461270&chksm=cfa6cd49f8d1445f5feb9ee7fb7d11c56590524577d102fa15be51a6167e7dee7851337789fb#rd",
+    "publishTime": 1743553800,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30EZBs2fmp0KMib1wtCo7BgcQmzaqiaoeH3gbvziaG2IdM6iaAuZ0ibibTxFKNEpkiaHb4EhKEKsr08S6JJCA/0?wx_fmt=jpeg",
+    "digest": "本文从一个需求出发，全程记录如何进行全栈开发。",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247507362_1",
+    "title": "如何与AI结对编程：我与AI的8000行代码实践",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247507362&idx=1&sn=72338073fb88fc2cc424aa6fa3fef860&chksm=cfa6cd41f8d1445794234ce5021f62cf2282da1c422d89d899803d7b563b08304b4d8279cd24#rd",
+    "publishTime": 1743121800,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30Ej6tzRp6P0Zndm2Cx5ZteuKtfIXlica97vJZMicTCCzkBxLAEG10sou3UxlOCazB1y6LOxIp9FcQtQ/0?wx_fmt=jpeg",
+    "digest": "作者分享了跟 AI 协作的一些经验，使用中如何对 AI 输入和反馈，经过磨合后，工作效率会大大提升。",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247507353_1",
+    "title": "一招解决数据库中报表查询慢的痛点",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247507353&idx=1&sn=60706fabb8dd13978967df8ecc952be6&chksm=cfa6cd7af8d1446c8b34d1b61a27c04287bdcb5687271187137840129833300f4abb01527da3#rd",
+    "publishTime": 1742949000,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30EDyTmz7NP7yAA9yocvqK9Kpy2LKFNepRGicuqSLhMcGsfINg88QAbvvvibGSyzeFLAiaic9uLibwJBZHg/0?wx_fmt=jpeg",
+    "digest": "常见的CRM， ERP等信息管理系统都基于数据库构建。它们都是常见的TP系统，强调一致性、高并发的在线事务处理（OLTP）系统...",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247507346_1",
+    "title": "5步教你创建大模型自定义插件",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247507346&idx=1&sn=1b73b43f3b248bfe8e6ce93a90c0ca10&chksm=cfa6cd71f8d144670e77d81366387b531d7cdca7d77f3a4d369a30d5a1af9a704764678eb9e4#rd",
+    "publishTime": 1742517000,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30Eav8PiaGcSga70diaN9iaejTZh3bA0TbaCxcicvSzAu5uggeYOMgCjHxFmMzgBXjic1Wa937SJQXDZDJw/0?wx_fmt=jpeg",
+    "digest": "阿里云百炼不仅支持内置的标准操作，还允许开发者根据自身需求创建自定义插件，极大地提升了灵活性与效率。快来看看0基础怎么玩转大模型之自定义插件吧～",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247507178_1",
+    "title": "认知推荐（二）：基于LLM的淘宝推荐算法显著提升发现性比例",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247507178&idx=1&sn=bcb2d30cd8076ddb406e9835be199692&chksm=cfa6cc09f8d1451fa6e38b21ed9049d30fda3912f3c676c7f475ea3dda70161fa50d49d139a4#rd",
+    "publishTime": 1737505800,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30HgOSxfNrOft0SibXVXzo4j8RfVzkgSMHIichprDEhD5mdJnaZoEf9agYrAF2NHYKaibuYEaOzF0PnDw/0?wx_fmt=jpeg",
+    "digest": "认知推荐是深入了解用户需求的窗口，淘天集团算法技术团队致力于摒弃平台固有属性的束缚，从用户的角度出发，全面审视推荐链路中的潜在问题。本文深入分析如何通过一系列技术改进，将大模型无缝集成到现有的推荐系统...",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247507166_1",
+    "title": "懂你，更懂电商：阿里妈妈推出淘宝星辰视频生成大模型及图生视频应用",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247507166&idx=1&sn=efeb31b1e30c4afa8cdec2cf89978252&chksm=cfa6cc3df8d1452bc6130b68fcc5553847fd3e2f75f10cee90115a068541600f0ea9c379615b#rd",
+    "publishTime": 1737160200,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30H4tncc9rPM6ABNEtJb7VJ1ZiciaHruD0Rr1aYiatc5fcZNrR5ljba4k4uUDuhAtVZb7LgcxMVuLeiaNQ/0?wx_fmt=jpeg",
+    "digest": "【淘宝星辰 · 图生视频】工具重磅上线！目前已对淘宝天猫商家开放~",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247507165_1",
+    "title": "1 行命令引发的Go应用崩溃",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247507165&idx=1&sn=cecbb877fa5fc7832c2e94eb4ad2d323&chksm=cfa6cc3ef8d1452810794bd5d8466734b8bae6ce83bbddc55f26beb30478414da5334127f4d8#rd",
+    "publishTime": 1737073800,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30H4tncc9rPM6ABNEtJb7VJ17ZXfhk7Fa9UXicEAu4j1Qu6wfic5bN8yO67YibtdJyCTFUP8JuBabXpicg/0?wx_fmt=jpeg",
+    "digest": "这篇文章分析了Go编译时插桩工具导致go build -race竞态检测产生崩溃的原因。",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247507146_1",
+    "title": "Model-based RL自动出价算法的演进之路",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247507146&idx=1&sn=55a6d2d93949d1fbb0445aa21fd9aa63&chksm=cfa6cc29f8d1453fab0c28893b106b6697d52f06f32e1c259baf12492e7c6a1cef9b9d72ebe2#rd",
+    "publishTime": 1736901000,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30Eo8OFxg5oxeqrrwCBwRJ7JyLRQwajbStqu7QibB6tREepeBZm2TAiboWLdBKhPK6fJiayzn2ug0juog/0?wx_fmt=jpeg",
+    "digest": "强化学习自动出价算法已成为智能投放领域的标志性技术，然而其所存在的在离线不一致、线上数据覆盖空间受限等关键问题尚未被完全解决。本文提出一种Model-based RL（MBRL）自动出价算法训练新范式...",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247507136_1",
+    "title": "显卡在偷懒？阿里大模型创作平台 MuseAI 极速模型切换技术提升 AI 创作效率",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247507136&idx=1&sn=4a3f589481aa8b9808e4e37cd13684d9&chksm=cfa6cc23f8d1453525c2d29ab3b65b3415165fc6c341ff1c6e4b8de95709b3ec322ff432fa15#rd",
+    "publishTime": 1736728200,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30EGVRH81ymPDoGRoWXFsb782oUu67uNUCiatnPOjC15icYf3gbNaUSXLBcicSKY2emnCh1nr2n51wW9w/0?wx_fmt=jpeg",
+    "digest": "本文主要分析了平台由于频繁切换 Diffusion Pipeline 引起的用户体验与资源浪费问题，并从网络传输、内存管理、Host-to-Device、模型量化等方面着手优化。",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247506891_1",
+    "title": "浙江省科技进步奖一等奖！阿里云云原生技术实现新突破",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247506891&idx=1&sn=069dc5f7f8d74aa691064ddfe44b292f&chksm=cfa6cb28f8d1423e733e7e42f8b38081de7b524f8329a93aecb09f677a097cfc0cfc1005e70f#rd",
+    "publishTime": 1732764704,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30F6SuPUibicnlzqqFtTUQNxMRMY35HC1lYnmxQDqKzMib99MsLriaPGKnaQJSmYwia2h0BDPjicX3GjnfHw/0?wx_fmt=jpeg",
+    "digest": "科技成果鉴定委员会高度评价该技术，“项目研发难度大，成果创新性强，对促进关键技术进步及自主可控具有重大意义。”",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247506884_1",
+    "title": "CNCF发布最新技术雷达报告，Fluid脱颖而出，它来自何处？",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247506884&idx=1&sn=290884ff1489b4674fc2d136f4f23a22&chksm=cfa6cb27f8d142316ac781908164fcdc92a550011ad3b83ff97442a3fb682f9bb6ec5c8faf15#rd",
+    "publishTime": 1732667400,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30F2zsOgANbCU7jHFk6cQEMAiaxQH1fvBVRYicgSgFyN98dV9CpWMd6jHgj2foibNolWmesy9JutaNhBg/0?wx_fmt=jpeg",
+    "digest": "CNCF最新技术雷达报告中，Fluid因在批处理、AI和ML领域的高效数据管理和缓存机制，成为云原生环境下的关键技术，受到广泛认可和采用。",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247506876_1",
+    "title": "淘宝天猫双11多环节布局AI算法技术，整体大模型推理离线准确性超95%",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247506876&idx=1&sn=087ed378b132f1489e4f6a3549dfbd67&chksm=cfa6cb5ff8d14249e6abe94f08de89b03756790a9a293c518161796a68878114d54a7357b51b#rd",
+    "publishTime": 1732235400,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30GS8PncyKKZoJBvghJtBSQiaKgWq9y7mdttDVkdTU5tbO8nJ7kXVe0nGEiaJ3YyfCjVNeMKfG3O1PdA/0?wx_fmt=jpeg",
+    "digest": "今年双11，淘天集团算法技术团队（以下简称“淘天算法团队”）重点部署了大型语言模型、检索增强生成、多模态大模型以及AIGC等最新AI算法技术，全方位赋能电商业务。淘天算法团队将这些技术运用到平台搜索、商品推荐.....",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247506856_1",
+    "title": "关于大模型语料的迷思",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247506856&idx=1&sn=d3d25eb5e8a12c943e222a02e1c90c7b&chksm=cfa6cb4bf8d1425da56b13e35293312b376d296674a9099422f9f92b713fa282f5c27a97e1c0#rd",
+    "publishTime": 1732014176,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30FszH74ppqJJlkDQ8KibA5FqCewPyZ2DfPDLtfvv3TjjrOj1V9cyzV8ic5jTJV677llY5ISWlcysXtw/0?wx_fmt=jpeg",
+    "digest": "",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247506850_1",
+    "title": "万字干货｜复杂表格多Agent方案：从LLM洞察、系统性思考到实践经验总结",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247506850&idx=1&sn=8c2ee52d3e153ba59ba2c91b63abc85d&chksm=cfa6cb41f8d14257ea326a15f7bf07b8c59bddac53aeae6ce6aeb962ec319fdf9bb08f22281d#rd",
+    "publishTime": 1731630600,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30GIAob7aVgDfnzrSxm9gvsICnYqgbjRxsdpgnam15n3ZZI8I3sia4ibu0YG1So9cUGhWIicelRBru6dQ/0?wx_fmt=jpeg",
+    "digest": "作者结合实践经验，以复杂表格智能问答POC项目为切入点，结合大模型的哲学三问（“是谁、从哪里来、到哪里去”），穿插阐述自己对大模型的一些理解与判断，以及面向公共云LLM的建设模式思考，并分享软件设计+...",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247505927_1",
+    "title": "架构设计的悖论，复用是美好的还是邪恶的",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247505927&idx=1&sn=5e245ff8605e622ce3b25b322a9ec413&chksm=cfa6c8e4f8d141f2e47d4c8e78bb70dfc1e8a75aa43146c7143116c925a3fc76994164edc2fe#rd",
+    "publishTime": 1726446600,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30EwkmLoybTluYXBurdQPKrljjdxDQMiabRiaZCicXn40OxFjzeaNxsyYOIrhOvu5KhujvHpkNTvVGX0A/0?wx_fmt=jpeg",
+    "digest": "本文探讨了软件工程中代码复用与抽象的矛盾，通过对比SuperCell和阿里巴巴的中台策略，揭示了复用虽能提升效率但也可能增加维护成本和系统复杂性，强调正确识别真伪重复代码的重要性，提倡谨慎应用DRY原则，平衡YAGNI思想.....",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247505883_1",
+    "title": "每日必抢小程序下单总结",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247505883&idx=1&sn=5d5e6374c686343954e40d14f9d01c4a&chksm=cfa6c738f8d14e2e96ac509f0094a475336d391f1dc7a26a194a18dc0460d863b5ebfbc0b94b#rd",
+    "publishTime": 1726187498,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30EI8Sicr93jpWkibU0lS94ibs88XnTomB4ib8kjwy5icbN7jj6icpkWHlOibGMC4x1yzHvUnXSNMSj2d9oGQ/0?wx_fmt=jpeg",
+    "digest": "在数字化时代背景下，电商平台不断拓展触达用户的边界，而每日必抢小程序正是这趋势下的产物。本文剖析了这款小程序如何在支付宝、夸克等非淘宝App端为用户提供近似淘宝App的购物体验，通过整合营销、搜索、交...",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247505779_1",
+    "title": "内核网络小白之故障寻踪记",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247505779&idx=1&sn=5a0eff5796a142a383cdbc82eb3c888a&chksm=cfa6c790f8d14e868c2f8e82a57ea3d93aae4975066d39d9fdafcb4a9c1e8f8dc63b20e6d4b5#rd",
+    "publishTime": 1726014600,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30FEorsa7j0tVvIhDYaS1ozZo0pEv1VuaiciaBcphwJdsSRNosreyO4JfKPRmA3jhxPAmcjSDQS25frw/0?wx_fmt=jpeg",
+    "digest": "本文记述了一次由 skb（socket buffer）异常导致的内核故障排查过程。",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247505750_1",
+    "title": "LLM推理加速：decode阶段的Attention在GPU上的优化（二）",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247505750&idx=1&sn=fcda186bf4f16b7ee2f9dc91a1042715&chksm=cfa6c7b5f8d14ea3c3e1596bef6ce1a4e673384361f8165b70cbd6f3a13d594122fbb142479e#rd",
+    "publishTime": 1725853500,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30Fry5eDamswW4u3Lcp2KtgjicOM0KteYRXslOAB8LxJG3QrWgibjRgAvMhA9vIib1IQ8ObQaCFQCI9bw/0?wx_fmt=jpeg",
+    "digest": "在这篇文章里，我们想以MMHA在A10上的执行为例，简单探讨下在这个区间内，MMHA的计算可以怎么继续调优。",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247505749_1",
+    "title": "如何对付一个耗时6h+的ODPS任务：慢节点优化实践",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247505749&idx=1&sn=f1266f4e4d35e499f63dc5f6c9c499ed&chksm=cfa6c7b6f8d14ea0aeec6574db1b548e8da30c25c272736e8850206d90f712ce3ec81b71d962#rd",
+    "publishTime": 1725582600,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30Fry5eDamswW4u3Lcp2KtgjfweadOnOwLUicPKBf9EOYerAWLHuCLWrnZqN0wacto8D9okgDP5MZYA/0?wx_fmt=jpeg",
+    "digest": "本文描述了大数据处理任务（特别是涉及大量JOIN操作的任务）中遇到的性能瓶颈问题及其优化过程。",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247504779_1",
+    "title": "带你了解“Java新特性——模块化”",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247504779&idx=1&sn=2166430710bd78de285a6932ae85ea6c&chksm=cfa6c368f8d14a7e9ce843047252e4c8db2b31deebdf116dd257b700fdb645f4f86406536827#rd",
+    "publishTime": 1720744200,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30HyRUZ01h4mAtPicXJcS26Y1m7XFKqf56lpA0YNfaIhWokBm22PEicUqfRfnuhicphrGwaWjW906icFEg/0?wx_fmt=jpeg",
+    "digest": "Java平台从Java 8向Java 9及更高版本的进化，其中引入了一个重要的新特性——模块系统。文章详细介绍了模块系统的概念，如主要参数、关键指令，以及模块化策略。此外本文还提供了最佳实践建议，帮助...",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247504703_1",
+    "title": "异步日志：性能优化的金钥匙",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247504703&idx=1&sn=7540694f6744b0c109845bd521c1097c&chksm=cfa6c3dcf8d14acad40d26ac28b2c97e1badc9dc0735fd52b6085cd447c1460191832d2fe0e8#rd",
+    "publishTime": 1720571400,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30ECiaF4j8hPK5J4DriaS6SCpfKBHmBQN4UOHd3qGedTzukO2BnwQxUZ98Dib55KPlIZVhEvV9CybKN4A/0?wx_fmt=jpeg",
+    "digest": "本文主要介绍了Log4j2框架的核心原理、实践应用以及一些实用的小Tips，力图揭示Log4j2这一强大日志记录工具在现代分布式服务架构运维中的关键作用。",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247504694_1",
+    "title": "阿里妈妈获 NeurIPS 2024 比赛主办权，全球参赛选手报名启动！",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247504694&idx=1&sn=fbe3223d0fa34b1da354dc63930c2444&chksm=cfa6c3d5f8d14ac38b2d55adf58c5428d1230e62f18c9242927d6b2e209ba8ed822b27d029bc#rd",
+    "publishTime": 1720139400,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30FManPT5Pm9icls1tR7BT2sicFiadJbPyzLJ1bEnP4mE4s7vZ3o24N2uE6JHHAxCbUIF7tlO5Qibjxicow/0?wx_fmt=jpeg",
+    "digest": "本次比赛分为两个赛道，通用赛道：含不确定性的自动出价 和 AIGB赛道：利用生成式模型学习自动出价Agent，欢迎全球选手报名挑战~",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247504688_1",
+    "title": "FlinkSQL开发经验分享",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247504688&idx=1&sn=e3e6f69954623414ffc98d09294f937b&chksm=cfa6c3d3f8d14ac5290452e7a09d41f971407f2619840da4355be8dfa0dfd93e6fa004ab76bc#rd",
+    "publishTime": 1719966600,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30EphDjYTnPFs1l6GWcXmY2DNmGxwGuROXcMYddVokMuicKOibVGpKftpQepfdGdBnDC7ceFCvD16eBw/0?wx_fmt=jpeg",
+    "digest": "最近做了几个实时数据开发需求，难免在使用Flink的过程中遇到一些问题，如数据倾斜导致的反压、interval join、开窗导致的水位线失效等，这个过程加深了我对Flink原理与机制的理解，因此将这...",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247504668_1",
+    "title": "奇怪的缓存一致性问题",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247504668&idx=1&sn=d9337ec0bf16d8d766c21ad4d45b99ab&chksm=cfa6c3fff8d14ae90335a450ba4f823677a3a4334a1be0635bd1777328cecbccda0491884917#rd",
+    "publishTime": 1719534600,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30FwvztpbGIKeFZxcQZeLtLaicjOMfN64GnwEo2zfsYw6w39gYoslQTYKY7Rtxt81kEMFmwmpNYTvlw/0?wx_fmt=jpeg",
+    "digest": "天猫国际用户Push中心承接国际用户触达相关需求，如短信、消息投放等，存在较高并发场景。该系统曾发现一个查询投放计划为null的异常情况，初期排查毫无头绪，后来灵光乍现，原是缓存一致性问题！本文记录了...",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247503847_1",
+    "title": "阿里时序数据库实时索引构建优化实践",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247503847&idx=1&sn=a5ae25f6c13b2376211fc610bf8ca83e&chksm=cfa6df04f8d156122c48f2c3ea2dd49dc0f21e4eb4e7a9391d0469edd05f4f2692206cf08a4c#rd",
+    "publishTime": 1715128200,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30GUXJlEqD0nk0MECNdCawLVnwvqn6Xhd8cZMcvUUNkU2PXdGuqH2LE0TCVmtAPEhXSvtHugRmYoyA/0?wx_fmt=jpeg",
+    "digest": "时序数据库管理系统（TSDB）近些年受到较多的关注，在性能监控场景更是起到了至关重要的作用。Khronos是阿里目前规模最大的时序存储引擎，由智能引擎事业部自研推出，为集团业务提供时序数据的存储能力和实时分析能力。",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247503105_1",
+    "title": "一个SQL任务的一生",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247503105&idx=1&sn=fccfd5f3bb1a51b64dffbbbdf1280d46&chksm=cfa6dde2f8d154f483ba4fe0afe83146261d8116431b245974812e3aa32dfaf398347b63d167#rd",
+    "publishTime": 1714696200,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30Fmv2ILbqicOHD5DIsk741GohokfsnvsysqreIsCKKfbaOZRbvMvtbQkhDce5ucdQMda9eekic3icW2Q/0?wx_fmt=jpeg",
+    "digest": "一条SQL语句的执行究竟经历了哪些过程？作者作为一个刚入职的大数据研发新人对SQL任务执行整个流程进行了整理，本文就作者学习内容和体会供大家参考。",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247503104_1",
+    "title": "使用策略模式消除冗长的if-else｜记一次smart-auto重构总结",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247503104&idx=1&sn=9aedea513e9f2ae344daa3e8b3211090&chksm=cfa6dde3f8d154f556a6056149620fa45e0909bd4af9979d01ddd33992d43a5bcdd7c51fc2be#rd",
+    "publishTime": 1714091400,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30Fmv2ILbqicOHD5DIsk741Gol3yBfjb4tlGJjibbAHzoJ4ia0Gib3ock4hmeED6VT1bm0Uyn1eMRJ9aPQ/0?wx_fmt=jpeg",
+    "digest": "作者针对smart-auto接口测试相关的核心代码进行了一次重构，使代码变得更清晰和可维护。",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247503074_1",
+    "title": "世界读书日|看看阿里内部的技术大牛们推荐了什么书?",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247503074&idx=1&sn=8f1fa0ee56e6f844e5fb6212c884a6da&chksm=cfa6dc01f8d15517d34493b167a70d8fd00ca093fd91d4a464c57d48ef990976225e724ff6e2#rd",
+    "publishTime": 1713866400,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30EdichF03zF6vGunejJ1qxe6vicI6RqTzKtGaLxFoZD1JM3mdZpBibqOKrAq86Zdia389AtaeVIg5iamicA/0?wx_fmt=jpeg",
+    "digest": "借着世界读书日的契机，我们邀请阿里内部的技术 TL（Team Leader），分享他们在 AI 时代持续学习的过程中，推荐的一些内容。",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247503022_1",
+    "title": "一个埋藏9年的底层bug发现历程",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247503022&idx=1&sn=d4766adb1a66c8001a661a2bd2a28280&chksm=cfa6dc4df8d1555b3e1ba2ad909decb2ff440796409e38583220c8aa3383e3450fe2e2dc057b#rd",
+    "publishTime": 1713486660,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30HYFOeoMiam58wwtk0tudcnvPyDJetnOs3iaVpwbvTcicmz6Kj5eRRLVehuWNvJy3oQjbtUVT34IG7nA/0?wx_fmt=jpeg",
+    "digest": "一个问题往往是由多个小的不规范或错误累积而成的。本文记录了作者发现问题、现象分析、排查过程、最后解决问题的全历程。",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247502355_1",
+    "title": "【前沿技术】 阿里开源搜索引擎Havenask的消息系统",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247502355&idx=1&sn=9be4cb76a4bf7f84e95da38f4a976314&chksm=cfa6daf0f8d153e62e7bbdedd2662dbef4de596d185c66d43183d1bd39fcf323132ec8030dfe#rd",
+    "publishTime": 1708475400,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30FQKsJ6QRqsibCD5SgUW4MEs9bFx16l94vAx4L1ibBSfMS4Etet9dodbmYuxSzjDuoNSroGMaA1Qic7A/0?wx_fmt=jpeg",
+    "digest": "本文针对性介绍了Havenask的消息系统--Swift，它是一个设计用于处理大规模的数据流和实时消息传递的高性能、可靠的消息系统。",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247502339_1",
+    "title": "阿里集团基于Fluid+JindoCache加速大模型训练的实践",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247502339&idx=1&sn=1b12c3ae6b75209921b3d2e9181197dd&chksm=cfa6dae0f8d153f6cbb027e1c1953a2858793f7254b73ec1269d454e047ae4af54ef52cde73f#rd",
+    "publishTime": 1707179400,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30ERnWY3cVIxP6HcicicXfziaa6gP0UCRU3Llu90kcnnPmN6qyh29IkWJ2ynlG8OIibhuVPOwqxa3gic3rw/0?wx_fmt=jpeg",
+    "digest": "Fluid是一个开源可扩展的分布式数据编排和加速系统，以Kubernetes标准和对用户透明的方式为AI和大数据等数据密集型应用提供数据访问能力，其目标为构建云原生环境下数据密集型应用的高效支撑平台。",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247502322_1",
+    "title": "大模型推理框架RTP-LLM对LoRA的支持",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247502322&idx=1&sn=dcca312299a6f75c5adb2a76d8128158&chksm=cfa6d911f8d150075b431798417f69bb774ce69e85fa3b0aa8fd32cd69e786a4a5bd18060214#rd",
+    "publishTime": 1706833800,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30EZlicbBej2Y4W9iaficQlvl1LuNONzUJxajWibFo7WkvhccibSXx2l4o5CC865sqVAafePAza4Qed9NGg/0?wx_fmt=jpeg",
+    "digest": "LoRA(Low-rank Adapter)在大模型（如GPT-3，LLama, Qwen等）中，是一种重要的微调技术。该技术通过在不改变预训练模型参数的同时，添加低阶矩阵，学习新的、特定于任务的参数。",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247502278_1",
+    "title": "软件架构一致性 —— 被忽视的研发成本",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247502278&idx=1&sn=e857d4ae2bbec167222069cec918852c&chksm=cfa6d925f8d15033e54253559b6fb9200b50f1a98f171ae471a987e54a361bc01209fd54ee18#rd",
+    "publishTime": 1706574600,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30HF89nUTF2gvKfeLRibfSoicXhWNHZjqg6VsgZhEJ1bCJSqq3xtDiaIH94dt8QFy6br5VlIkNIVHHgDw/0?wx_fmt=jpeg",
+    "digest": "本文带你了解如何解决架构一致性问题的方法。",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247502267_1",
+    "title": "「我在淘天做技术」2024年看AIGC是如何让1688主图焕发新春的",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247502267&idx=1&sn=52703b11ea076d77104a825aff15d17b&chksm=cfa6d958f8d1504eb88d5fda029e940e68b1e08aa0c5145c5920b98cf306b970171f62620c75#rd",
+    "publishTime": 1706229000,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30EzjN44Mia6JZNJvug9T02IFrHeh4fMW0Va9FOOlviao28yLtykmbt3ksD4Lic9Blr389MOpG7jDBBuA/0?wx_fmt=jpeg",
+    "digest": "本文主要向大家系统的介绍了1688严选和商品品质化之旅。从买家心智和业务诉求中的痛点与机会到整体的方案和集体上线时的数据和效果，希望进一步提升严选商品的表达和买家转化。​",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247500210_1",
+    "title": "围绕 transformers 构建现代 NLP 开发环境",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247500210&idx=1&sn=a8f56cc5e99162a8fe83faf98557e00c&chksm=cfa6d151f8d158473a06999585f9c2f0b4562ad7056b85eb18d106df12deff415b7037581ca6#rd",
+    "publishTime": 1700785800,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/Z6bicxIx5naICJNgTo6zb96lt9Esmgt4otcsfMBGVBPP4GSzgzJZBZvXwmiaqBC9ibeaJHpco4IkgdibMn0ljbHNXQ/0?wx_fmt=jpeg",
+    "digest": "本文将从“样本处理”，“模型开发”，“实验管理”，“工具链及可视化“ 几个角度介绍基于 tranformers 库做的重新设计，并简单聊聊个人对“软件2.0”的看法。",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247500183_1",
+    "title": "一文详解Spring Bean循环依赖",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247500183&idx=1&sn=8758617ba96ddcfb014f19de731696cb&chksm=cfa6d174f8d1586252b7db134a253570d04a5b2e9e7f1993dffd91ee1e639354421110184df7#rd",
+    "publishTime": 1700613000,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/Z6bicxIx5naJhJFKZia1MIib0VQy7n7Gr6XQ28WF2jflxH9m95BEf1qumQaokNV25tp2BI5iaib5sHx8k0xfRick93yA/0?wx_fmt=jpeg",
+    "digest": "本文主要梳理了Spring解决bean循环依赖的思路。",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247500174_1",
+    "title": "策略模式在数据接收和发送场景的应用",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247500174&idx=1&sn=6bb52116422442559800c28b0e8d3297&chksm=cfa6d16df8d1587b0ddd3a6cf19fef3a7ff4d45c542aad7f2a69f5d019f8b09067a4a7152836#rd",
+    "publishTime": 1700181000,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30ECL4BVt6sqOKNSNaPXQvnibqN4C6jGvicSo96r0FSiaJGA2hfTCAeljiadC2iajT8NUPghPicicmsspJNqQ/0?wx_fmt=jpeg",
+    "digest": "在本篇文章中，我们介绍了策略模式，并在数据接收和发送场景中使用了策略模式。",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247500166_1",
+    "title": "第15年双11，技术创新开启 AI 淘宝新起点",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247500166&idx=1&sn=9a45767b4e85bb5c8d4f2542f909127b&chksm=cfa6d165f8d15873890093c093612b80477d9374107ce90cf786b64ceff068f2a152cebd9955#rd",
+    "publishTime": 1699963224,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/33P2FdAnju88lYmSrPMMy0VcxSUVxzliciaeunXm3y8BDibgJVUW2ibVq4nELQsDCrick7Azeic5LsPYhVQF0IYDdELw/0?wx_fmt=jpeg",
+    "digest": "",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247500164_1",
+    "title": "预发部署时机器总是重启两次的“简单”排查",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247500164&idx=1&sn=db4cc83996c917d36778bb8eb030db9e&chksm=cfa6d167f8d15871b1c6ecf9b2c8d8cb346c71b98d0755acd879abf46eb310ea4b062d513b5c#rd",
+    "publishTime": 1700008200,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/Z6bicxIx5naK13yQp9ib5h3wQ2teVor33iaQsqRV1KmmTe74vcxyBUjroR3iaf7oRZQxO4RDyrgBqWctbEATF5xWTw/0?wx_fmt=jpeg",
+    "digest": "本文只是总结下线上问题的排查过程，不讲方法论，没有大道理，行文会较为随意，注重的是排查思路，希望对同学们日常研发工作有所帮助。",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247497970_1",
+    "title": "淘天集团联合爱橙科技开源大模型训练框架Megatron-LLaMA",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247497970&idx=1&sn=80ccafcb4d6041985aec0c1750d4e5a3&chksm=cfa6e811f8d16107c1358bf751779861e65b7273296ab7bfca7f046176c464196ca8e2201e5d#rd",
+    "publishTime": 1694493000,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30HeicVvic7sc4VgwBV5aWYBXtkZVoGoRYIHOxR7ad2mm96ZYRs6YRmTAkY9DnhWR0f0oAjPKPPyaQQA/0?wx_fmt=jpeg",
+    "digest": "9月12日，淘天集团联合爱橙科技正式对外开源大模型训练框架——Megatron-LLaMA，旨在让技术开发者们能够更方便地提升大语言模型训练性能，降低训练成本，并保持和LLaMA社区的兼容性。",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247497952_1",
+    "title": "一种基于动态代理的通用研发提效解决方案",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247497952&idx=1&sn=83e9f57a1bf0df8eab5b53e20516e607&chksm=cfa6e803f8d161158498157af0bb30b20297b8ac57d3a99e3d6b74dbc39a24a60652182f9da9#rd",
+    "publishTime": 1694133000,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30FxVtuR8AIz76Jpgf5rNbc7iadqStD5cVvhrvUcVEmDIWxicFib5oDyCnVkz9rSRHVOgxP7UqLySXK5g/0?wx_fmt=jpeg",
+    "digest": "作为一名研发人员，除了业务开发之外，研发提效是一个永恒的话题，而女娲正是这一话题下进行的一次全面的剖析和实践。",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247497216_1",
+    "title": "阿里十年总结之软件测试的价值",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247497216&idx=1&sn=88f86d33bcfceb06952957e20e10b06b&chksm=cfa6e6e3f8d16ff56a5f40c2c7a824a5acff68c930248069c7196124d0df33edb047bee42c4f#rd",
+    "publishTime": 1693960320,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/Z6bicxIx5naKhvA85ZGWpDwcCeSYfbXLoTKkW34nnVls06xlfzlmJibgtRlC4SB9iaQB0pdJ0lyp95Fz0zCcxsppA/0?wx_fmt=jpeg",
+    "digest": "本文是作者十几年工作经验的总结，也对“软件测试的价值”做个探讨，希望有机会跟团队一起走出当前的周期。",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247497207_1",
+    "title": "5个关键问题让单元测试的价值最大化",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247497207&idx=1&sn=2dc0c558704f476b6a1c87feac6c82c0&chksm=cfa6e514f8d16c0214b89b3be6ff1e338d3709e0eaab7fafea4cca35b08ac247ecb5ad214e83#rd",
+    "publishTime": 1693528560,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/Z6bicxIx5naLlSTGyM7JYtspuZFKokFgMO3CFYwSGtM3oYQNqnbLrAzZ1vvCMjy768N3b5AGEvpNycF8Xyw6VZw/0?wx_fmt=jpeg",
+    "digest": "‍本文讨论的单元测试策略来自于实践中遇到的真实问题，作者总结出了5个关键策略问题并给出了解决之道。",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
+  },
+  {
+    "id": "2247497182_1",
+    "title": "大数据SQL数据倾斜与数据膨胀的优化与经验总结",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247497182&idx=1&sn=86c544060b51059d10a8ce58627be0bc&chksm=cfa6e53df8d16c2bfd6cb5a96a6046c9c92a853ca84a7e15ef66ae9dae8173dabd6097a296e5#rd",
+    "publishTime": 1693355580,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30GeC9cLMDV9gV1OFPLb0yBbfsibgnyZnO9WqEQFtv056oMs2cYLnurib7fKqhJmztCKEbOXiahzewa3g/0?wx_fmt=jpeg",
+    "digest": "‍本文主要基于团队实际开发经验与积累，并结合了业界对大数据SQL的使用与优化，尝试给出相对系统性的解决方案。​",
+    "author": "",
+    "feedId": "Mzg4NTczNzg2OA=="
   }
 ]

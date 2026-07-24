@@ -48,5 +48,1075 @@
     "digest": "腾讯一次发布三大具身基座模型，成果已进入真实生产场景",
     "author": "",
     "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649802248_1",
+    "title": "从0到1带你速通 Marvis马维斯",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802248&idx=1&sn=5091aa9c4be79a49c871a5503386135f&chksm=becc557389bbdc6543b86542db2d72ad9e393deca73d157441ba96a766fd4cf54aa9c71bd718#rd",
+    "publishTime": 1782303572,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/KVER9adz907tBGPddnkVK9nZnHHzvhwGFSoNeicJbmxhTAZUL05jwsB3InMIeenS5Y0ibXpuFfroSh1BvGibolwpNL7qDrJS6FaUetdaMpUXKM/0?wx_fmt=jpeg",
+    "digest": "能力强大的Agent产品层出不穷，但对普通用户来说，门槛也是真的高。",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649802248_2",
+    "title": "2026腾讯犀牛鸟开源人才培养计划正式开启",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802248&idx=2&sn=192920746656c75f76d8fc634989642c&chksm=becc557389bbdc652a1d57342b8c7cde4281bf6f304b4f02e7677f3bbed5a21dabbe45e7c0a4#rd",
+    "publishTime": 1782303572,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/KVER9adz906nehQfE12pShMK1sXRuhz2R8b4npVzK7Ro2yzj96YICftPZkTm8uc7EoHA7By6hVINJqxcS5CN1AWpEuVkc39tLcvOossiaa6k/0?wx_fmt=jpeg",
+    "digest": "2026腾讯犀牛鸟开源人才培养计划正式开启",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649802164_1",
+    "title": "你讲卫生吗？ \n \n \n \n\n\nEnri，一位腾讯AI产品工程师，\n过去半年Enri和大模型打交道，最大收获就两个字：卫生。 \n不是物理卫生，是交互习惯的卫生。Token 越来越便宜，但你的注意力和决策带宽不会。脏活干多了，模型变傻，脑子也跟着乱。 \n\n以下七条实战经验：\n\n一、锁死模型配置 \n很多工具默认\"自适应思考\"，实际上它会让Token 消耗失控。正确做法是固定配置：推理档位锁死 high，关掉自适应，思考预算设上限 32K，关掉超长上下文，设定 200K 自动压缩。降智是你没把档位锁死，不是模型变笨。  \n \n二、固定内容别动，利用缓存 \n模型对完全相同的输入前缀有缓存命中机制，重复使用只需十分之一的费用。长期不变的内容（如身份、业务、输出偏好、原则、约束）固定下来，不要每次重新组织语言。临时放本次任务、材料、目标、截止时间。变动的成本远高于你想象。 \n \n三、别喂 PPT \nPPT、Word 这类复杂格式文件包含大量排版控制信息，喂给模型会消耗 80% 以上的无效 Token。先转成 Markdown 再喂。格式是给人看的，Markdown 是给模型看的。 \n \n四、别让会话变垃圾桶 \n超长会话堆积历史日志和工具调用记录，模型翻旧账，又贵又慢。换任务就开新对话，跑偏了重开重说背景，距上一条超一小时也重开。只有同一任务连续推进且不足一小时，留原对话才划算。 \n \n五、让 AI 看一段，别扫一片 \n用 @ 精准指定文件或函数，别让 AI 自己扫描整个项目。@文件名引用文件，@函数名引用函数，选中代码直接改。改一个验证规则从扫几十个文件降到几百 Token，差距是几十倍。能 @ 函数不 @ 文件，能 @ 文件不靠扫描。 \n \n六、让模型先问 \n告诉模型\"你一次问我一个问题，帮我把思路理清\"，等它问完再整理成文档，产出的 AI 感会弱很多。或先问\"你需要我给你什么信息才能完成得更好？\"，让模型主动暴露你的盲区。让模型先问，比让模型先猜便宜。 \n \n七、把想和干拆开 \n用顶配模型讨论方案，只出方案不动文件；然后交给便宜模型机械执行。顶配模型不需要读取整个项目，消耗降 3-5 倍；便宜模型不思考只管干，Token 极便宜。机械的活交给机器，思考留给最贵的脑子。 \n\n这些习惯不是为了省钱。Token 会继续变便宜，但你的思考带宽和注意力不会。AI 太便宜反而容易滥用——一十个 Agent 全开，扫整个项目，无限试错无限返工。 \n你的决策带宽有限。对自己前额叶好点，注意 AI 时代的工作卫生。",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802164&idx=1&sn=cbd6e39ed31765be87a5a97846dab9a8&chksm=becc56cf89bbdfd9cf6a523735819fbc7bd17e8419152841b4b9d4b8ce90935b157978293dc1#rd",
+    "publishTime": 1782211444,
+    "cover": "",
+    "digest": "",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649802117_1",
+    "title": "Loop Engineering 实践指南：在 Code Buddy 中构建自主循环系统",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802117&idx=1&sn=a91a32e0b00305c1a30f4a6684c3c6b2&chksm=becc56fe89bbdfe82b6c712ac76e7a59992d93972396a45afff84f7e1987a5cff4a0ee08cc8c#rd",
+    "publishTime": 1782120107,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/KVER9adz906NjWbW9fb7bSyM329L0VtXtibAaEsAzl5aAMf0Mj5A9obCPqicVC6yVZrIJQky0yfR91DWicOlLCkjvumZfNZklmvBXNrmI5CAWA/0?wx_fmt=jpeg",
+    "digest": "AI 编程第三次革命",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649802116_1",
+    "title": "你的 Harness 工作流真的在进步吗？我们用一场考试撕掉了遮羞布",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802116&idx=1&sn=8886f8c0078cc85a39ac97fa2deff22a&chksm=becc56ff89bbdfe9b7a885ed28d514e550bb280ec17f0d259bbbe0c576c4a1b5e87541a340d3#rd",
+    "publishTime": 1781777949,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/KVER9adz906yLicFicu38vURmYibn0aoFY0z3QeEuk0iax3gwD67K3OiclCLQUaypAm7iaHV9GtulAnGJUl7wRlvvyIAeCEwen9BdicCw4HHUPx4mk/0?wx_fmt=jpeg",
+    "digest": "一套可量化的工作流评估体系",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649802115_1",
+    "title": "拆解大模型几项核心操作背后的数学与 Infra 优化逻辑",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802115&idx=1&sn=30424274c8e7e355c2ee62e70b058d52&chksm=becc56f889bbdfee9a56d870ff6bd1cc73e5bc5958d6984960136daadfb8011f0f4749a09da2#rd",
+    "publishTime": 1781688718,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/KVER9adz905ia76VjjQGjG0YIYZh4IzgMA9zpU9ickZtiaHQ4m8wGsibff116HCrFNt0grpQ1bic3YotibG8HhRwNv4sXNI8tEbzicAo0oWBNPwZwc/0?wx_fmt=jpeg",
+    "digest": "AI Infra科普、入门或者进阶",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649802115_2",
+    "title": "AI 真的能帮你微信下单了！",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802115&idx=2&sn=f27fb69af23cbed1d814390a84147742&chksm=becc56f889bbdfee4b3b883f63bac504a3165b41ea76a9c911cce3f0420eaee5842166b551ee#rd",
+    "publishTime": 1781688718,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/KVER9adz905KuJzzP6wemgJ3piaC7ZibtRjTJzkGF4TfltpWTxI7KQGSn7GvqGicrKYwOeBfgbclB8pm6vkJkqJRaR7nckODWFrhZ8l5UMfZL4/0?wx_fmt=jpeg",
+    "digest": "微信支付正式发布「AI 专属卡」",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649801607_1",
+    "title": "斩获冠军！清华 x 腾讯混元登顶 MLSys 2026 MoE 模型推理优化竞赛",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649801607&idx=1&sn=568d1ea0afab3bf69ac123852cadea3f&chksm=becc50fc89bbd9ea38b3772144e77f5b3f2afce0f2184caaa7f0068ee33df407fe4ff304d518#rd",
+    "publishTime": 1779595200,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/KVER9adz905HGHibZlnCf8hMbgp0zI4zxgDdhYxbB8ex8xserxDg1gJJibqibdx7gvOub5d3OcmicNnk2lRASdicoGXhqibNsqHolPo4lGW57ian88/0?wx_fmt=jpeg",
+    "digest": "随着大模型走向万亿参数时代，MoE（混合专家）架构成为主流，但其在异构芯片（NPU）上的推理性能还面临着诸多挑战",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649801594_1",
+    "title": "腾讯云Agent Memory节省61% Token提升52%成功率的诀窍：Mermaid无限画布×上下文卸载",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649801594&idx=1&sn=531dcf350ad906e4b4de0a671a4e1977&chksm=becc500189bbd9175e1cdd982c41ca04ef52fa71128b3e8672c54c6507e4b73eb86224b9ee36#rd",
+    "publishTime": 1779442560,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/KVER9adz907Ptk7c9aI29oktD35yFQ4aY6hYGv5CDn4opY1bABdJZsjZAS04ibk9RqbNaqMSzBeWQ1xJU09rM38B9bjo6VdZGtKtYkhTWBOM/0?wx_fmt=jpeg",
+    "digest": "已经开源上线",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649801563_1",
+    "title": "三个关键词，2026谷歌 I/O大会全说透了",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649801563&idx=1&sn=31ffe905a1be1e5ddb9594b9fef76fa5&chksm=becc502089bbd936dbffcac4c6e44a033555e35cbcb16882555f063f2590a1d88b5c1a2fb255#rd",
+    "publishTime": 1779261885,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/KVER9adz906cep3aUqElTa6L9mRVXFPvMSE59fQdUjZOKFDRLB4gI4Ka0f9jI4WfXXiaJ9oNnpb4wiamnR0f5z5V39s52XNibN4pURuiaiasa3ia8/0?wx_fmt=jpeg",
+    "digest": "Gemini有多强？",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649801557_1",
+    "title": "给程序员送什么，会让他炫耀三天三夜？",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649801557&idx=1&sn=6f39e3a707ec56f1fdab7c1ff9466885&chksm=becc502e89bbd938bae22ecba134f957078a4208e56b847c653649715b4146f1b2667fea3b99#rd",
+    "publishTime": 1779189339,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/KVER9adz904jDZk7JlzGNjZ06WAxC9yJ3OwyCnxZscNxxmibjlm7IN962obauUiboxd2LvEqIaKldOziahlsa0Gtf3uM7ZjlIdhr87ia2abu18o/0?wx_fmt=jpeg",
+    "digest": "这9样，基本能吹到下个月",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649801545_1",
+    "title": "从0开发大模型的17种Agent架构演进详细拆解",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649801545&idx=1&sn=b2d15c583715f519cbec484e8b10abdf&chksm=becc503289bbd924485f34ca3602ddf22190177a51b99d4ff92c6e209d6b7207c077676c6f31#rd",
+    "publishTime": 1779097140,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/KVER9adz904mlTY41PcTKqibOktmnEticzGIQAtZMZx9an3pjAYjmhRvIeG5iapPDc7vAEtDlVDkFTFYJlyvrfibicopCq5vQ1YfbOibMO34l1NjM/0?wx_fmt=jpeg",
+    "digest": "足够详尽",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649801121_1",
+    "title": "“龙虾”也需要看病？一张旧病历，引出三个新确诊",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649801121&idx=1&sn=1ae8448fe401127fbe42090329d9339a&chksm=becc52da89bbdbcc89619223e1d05932c60f9ac55a2e76e11bf074576435aeeeb5c268cdd50d#rd",
+    "publishTime": 1775813643,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/KVER9adz9073unpausfqpiccgMK4HxulFcbsDydGCQ1vzGRIq7EF4zEUxqFy2xeICibgDqdOg1Y1RZjVeKhvg3JVzricrVMqpqqqf8mKKXWeuI/0?wx_fmt=jpeg",
+    "digest": "悟空Agent泛化能力首次披露",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649801110_1",
+    "title": "技术教科书：顶级开发团队设计的Harness工程项目源码什么样",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649801110&idx=1&sn=27dac2e66ec72e89e07eeddcaa4614d8&chksm=becc52ed89bbdbfb01c608d8d6bdf58226b8ecde61dceef722f21d26afec5ddde54710ab919a#rd",
+    "publishTime": 1775727360,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/KVER9adz904y0n7pJvVcPyyv3TX22VXklhmMwTYOFSVUuI5u2VMOAH6ibuwHmUrxUV340wBy2n0OwlBHACAOUZL5YEZpeeESKpaW8ibna6wL4/0?wx_fmt=jpeg",
+    "digest": "详尽的方法论",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649801069_1",
+    "title": "鹅厂员工那些“需求很大，却没人做”的小程序？",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649801069&idx=1&sn=dd51e63c10410fbfb0a5ce0f5a975cbd&chksm=becc521689bbdb0062ee8867d822ec63ec6da04876ee87d78bb672ffe57711e649640b778812#rd",
+    "publishTime": 1775641059,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/KVER9adz907SbPg5enMibmnAMRiavHliaTvQcXCu8icibfia5xGV2vmjRFrqebgSdnaI0IrH68Gz7IpWSEQlylgw3jySPa1LgUm2aQsee2tWWfV0I/0?wx_fmt=jpeg",
+    "digest": "这一次！我们不写代码，只提需求！",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649801035_1",
+    "title": "当整个团队开始 0 人工Coding：一份万字AI Native研发实战手册",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649801035&idx=1&sn=08b72c3dcdb56de5922466bc17c67038&chksm=becc523089bbdb26f71748fe28723f8f7521b5006ef523f645939aad6dcb8a1d85c62e3608b2#rd",
+    "publishTime": 1775214364,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/KVER9adz904QGUAAwgJdw1TVu5ebbMmxUtmJH8r1FQ7ictTJ6nd3uYV8icXIO6YFSVSY65liapmTWKNaVbUJmCfBcZ2AKIxic0ic2qlCuuBeVVg0/0?wx_fmt=jpeg",
+    "digest": "一段完全零编程的研发全记录",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649801034_1",
+    "title": "3.3万个Skills，为什么大多数都死在“安装”这一步？",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649801034&idx=1&sn=d9f6a4770318dc57ac119b24ce4a40ff&chksm=becc523189bbdb274a4ef5fd7a63b0bc871fc9517b58410b8f466fc9eb0aaeb14af80293e544#rd",
+    "publishTime": 1775036159,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/KVER9adz907Y7C7ec91vRrnqEm308hic0U9CFSicsictsja6SJjI6FqAbCDdbWsGH7RibTZ3Td2pV67dC6Mibp5PhGJKVyNMmp3G8KZwxDicK8fGk/0?wx_fmt=jpeg",
+    "digest": "谁先成为入口，谁才配留在桌面上。",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649800448_1",
+    "title": "2026年AI趋势全面预测，全球科技巨头与顶尖机构研判",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649800448&idx=1&sn=5de78e382a2029bd8a8d31813f2f1e90&chksm=becc2c7b89bba56d35a5f6945f6233d9ed4cd7f4f4ae88de1130f2cda92935a3db5d241bc328#rd",
+    "publishTime": 1772184960,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/KVER9adz906TFEm6gABpIIUPLcDRnhnTMIPZic6iaurYf0B0vlMDLCFUVfWHfrkPryUZhjECJeKs2KwWibicssxicKSVgV5TRd8Sjfuqx8eKaxEQ/0?wx_fmt=jpeg",
+    "digest": "开年干货",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649800436_1",
+    "title": "刮！刮！刮！",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649800436&idx=1&sn=550e1b614d8d8223de94ae2d4c45d469&chksm=becc2d8f89bba49995a3b06d2a7c6d6a96aac6710b7201369f1377ea7f17d62d372f5ad2a505#rd",
+    "publishTime": 1771897740,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/KVER9adz904ltSQfLBtWicKTws3FG9gibjhjKvC3jqRzGJDz73Uibq34eoJMpV4eyIo8XyGdka8WAN0Y6VNAxAdeZtln1BfWN3T2PEMWl1pnFA/0?wx_fmt=jpeg",
+    "digest": "开工大吉！粉丝抽奖福利",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649800087_1",
+    "title": "微信WFS传统TCP网络Fio跑满200Gb网卡实践",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649800087&idx=1&sn=6a467f41f32841821dc3065cb08e27b5&chksm=becc2eec89bba7fad907d23542f2dcaeb33e082b81486939d3e4a20cb490183ef7f290ee8a1b#rd",
+    "publishTime": 1770802560,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/KVER9adz906M26cK7KmC6uY5GIgycCGegteiccZShFoAWicP1QFOet6o0iaU45n3ZaN5I3ZyrlZHTjRpyqqLLicJpmEXc11S1hBduv3w1OhS3xE/0?wx_fmt=jpeg",
+    "digest": "分享优化的关键思路",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649800086_1",
+    "title": "马斯克说到做到：开源X平台核心推荐算法",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649800086&idx=1&sn=ecf2702e487f771cf5470dc74d94032e&chksm=becc2eed89bba7fbdf9b4ed079dedf1e4c4b6043380217b88af7f403cbe31fc09e89a74c7b4a#rd",
+    "publishTime": 1770889140,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/KVER9adz905YPpWlDvQhFMAgoVsBIe9WObNCYxPOnNILrFbsf4m5c2Nff92icgwWVCa1kUZ6VV5IHaQfDdYWJN1ZOGzE4tqFkEcEgvhvviaOs/0?wx_fmt=jpeg",
+    "digest": "x-algorithm",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649800037_1",
+    "title": "速接！2026新年红包封面",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649800037&idx=1&sn=9d0113b949c2f6a83bd200c8e79bd295&chksm=becc2e1e89bba7081d13f239f341d7837fc2df5e1fe3ca355af2415faeb6617123fa6024a9c2#rd",
+    "publishTime": 1770713160,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/KVER9adz904Kk7t5D0OQRHRjhBjic3ibVBDmHSlcnobld8iaHZPibcntpLLrvaVP3hg1a7QF6xBc7WCFFeI7iagDbjLmzibu1fBRXvY7r8Zuuxzbg/0?wx_fmt=jpeg",
+    "digest": "10000+份免费送！",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649798164_1",
+    "title": "致抱歉的人：",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649798164&idx=1&sn=908fa5163fec802f0dd91f9341e449cb&chksm=becc256f89bbac790d28e9b2163c37715516289c54a30e48a18cc0f1c09295201b8f1bb06a1c#rd",
+    "publishTime": 1767143340,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvaviaBXCSTnKIqxtibQJWd7yeJSM2IZ2BKwuLEpsHgic3wlxYoopDRgv6ib5aIs9jjyyVDtInUNw3W9WhA/0?wx_fmt=jpeg",
+    "digest": "AirPods，拍立得等大奖等你来抽！",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649798112_1",
+    "title": "用AI写PPT，没想到效果这么好啊",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649798112&idx=1&sn=8a27b010b9a7b8b8856ad532e2656a6a&chksm=becc269b89bbaf8d7f5f1b4c57c6a366872bb278619f8d8d5d8c88c78a3dfaf35390b3d77afa#rd",
+    "publishTime": 1767000960,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvasMib9Krvgv7hkjE8oBfMaDkopWWF1pYQfFNYqJXR0oibpy8ibiaqssQRUxQK5jATibbibNtY8vKlGIGa8g/0?wx_fmt=jpeg",
+    "digest": "职场必备技能，CodeBuddy手把手教程",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649798033_1",
+    "title": "出炉！2025鹅厂年度大牛书单",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649798033&idx=1&sn=12dbf67944c5172b8c7fe9743b9fd25a&chksm=becc26ea89bbaffca03719c7f5e2b3aa1197d213147c375351cd9c46b864003f8a0d067ee383#rd",
+    "publishTime": 1766743076,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvasSvHwcic7ZCLqib5jr6ialAaEGxQdz2OSHgHL30kuE9GKic7eUhd7C9Yib4nxXDn4c4QbI6dOp3ve2iacg/0?wx_fmt=jpeg",
+    "digest": "「文末有礼」\n❄️临近年底，回看这一年，很多程序员的感受其实很相似：\n技术在快速演进，话题在不断切换，但真正值得反复回看的内容并不多。 \n\n这一期《大牛书单》，我们邀请鹅厂技术咖们分享他们的年度阅读，\n整理出几个在 2025年依然被反复提及",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649797931_1",
+    "title": "教你从零“手搓”一个大模型，别再只会调用API了",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649797931&idx=1&sn=baa328385c0d1ffb67ac8ee26b7e00fb&chksm=becc265089bbaf46872b7927b6460ed91bfb3487b98bde22a1cbce42f0acbef14b8cda04338b#rd",
+    "publishTime": 1766568960,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvau95iccWniaPo2Yzkib2pzjybiaMwK23p8ktuW64e3aSteiaVQoiaMP9bcPDdsiaYSnnSUmhEYL7hmGfdIlA/0?wx_fmt=jpeg",
+    "digest": "用最朴素的代码，完整的实现一个小型LLM",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649797794_1",
+    "title": "揭秘！腾讯如何训练多智能体像专家一样设计游戏场景",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649797794&idx=1&sn=9dd0993dd8878f3b66a625774c254ccd&chksm=becc27d989bbaecf09a258b1c7c580660292cc7ba9025997c760f31dd04a9b099ed09d1a116e#rd",
+    "publishTime": 1766398148,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvauw6YkWuakkTicxlvkCYGF2ohjF465pMMXuickl2iaMdSumjlzvmDgNmz9LcZkEia2sOVvpXXRtqwh5ZQ/0?wx_fmt=jpeg",
+    "digest": "当AI拥有“美术审美”",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649796552_1",
+    "title": "2025年终必看：开源大模型哪家强？9大模型架构演变历程一次性看明白",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649796552&idx=1&sn=de05a82aeb33229752f5d3b8a7621378&chksm=becc3cb389bbb5a5bcb3379a2ffb41d22419ad2b2e9f3d4283df0d39504e9a38479aaf86c8c1#rd",
+    "publishTime": 1762767728,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvauPEQ43Rjs4faltKgyPaB4Dj2S0WL5gmFygSRIQLzAgjkF93FdJoMmvIIDux8D5PfWOyt8vPBs6zg/0?wx_fmt=jpeg",
+    "digest": "一场静默却颠覆认知的技术跃迁",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649796466_1",
+    "title": "获NVIDIA致谢：悟空Agent的实践、复盘与迭代",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649796466&idx=1&sn=bde4c05e0548ed972aaed26ca85a8b28&chksm=becc3c0989bbb51faee5b663605b8e3547501c6e049e644e4626f0ae3758d9ab5f849e62fdd0#rd",
+    "publishTime": 1762508220,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvasPIoguMrvgOia00y5n8fEMXOAR8KNg7JkYZeVXRZd1zRu594uqZcB55bSvLmdO5KnIaHgHJMbNQPQ/0?wx_fmt=jpeg",
+    "digest": "当代码复杂度爆炸，如何让代码安全审计回归高效与理性？",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649796453_1",
+    "title": "微信测试中心刷新业界标准，斩获 ICCV 图像质量评估挑战赛冠军",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649796453&idx=1&sn=2af9ab9a185f93ea31c88cfe6cbe83a2&chksm=becc3c1e89bbb5080efb31f515761db8dc9911bc2a094a7a1b802df07f5a4738b209b7a5a5ed#rd",
+    "publishTime": 1762335360,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvavBw8mCHbRECRtA0yqicEKibmxDqucrDT7Z04ibk7sC4umqkYSXoXfW8f077VMCXXibIxvVmakcsnK5ibw/0?wx_fmt=jpeg",
+    "digest": "展示了微信在业界的一些成果",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649796399_1",
+    "title": "偷偷用！看看谁还在辛苦“扒录音”？",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649796399&idx=1&sn=02bf4dddd7483cc99a40e2606c5d4112&chksm=becc3c5489bbb54217a099ade84d6c2391a2a283d69c7ae735d0bae30ba6e4fdf4a7cb4f51a8#rd",
+    "publishTime": 1762162859,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvavBw8mCHbRECRtA0yqicEKibm6X1h9MZIOx5H3pwzD8FbRnYSKpoNjhCLr6calcZVacQSN6pUmSzVCQ/0?wx_fmt=jpeg",
+    "digest": "最近元宝上了一款能读心的“AI录音笔“，无需购买硬件，用元宝就能清晰准确地录音转写，不仅可以实时读写还能读懂内心戏，以下这7个功能，你可别错过！\n1，实时转写：边录边出文字，点哪段听哪段，不落一字。\n2，内心OS（元宝说）：解读发言弦外之音",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649796334_1",
+    "title": "腾讯发布大模型思考早停算法SpecExit，效果无损，端到端加速2.5倍！",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649796334&idx=1&sn=c5741686d4324fc48f67305d8ee7e835&chksm=becc3d9589bbb4832ffff052674b24c69cdebb3da3e0ee73c0702f5eee894feeb1e9b66adb28#rd",
+    "publishTime": 1761903360,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvavxJic6p9uBmiaXUicP4tjAddXEhMde7LaP8AsP3teeJN9eCOXPV5icuMYt3PFIaKBR5cicwaLiba9TUMPw/0?wx_fmt=jpeg",
+    "digest": "破解大模型长思维链的效率难题",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649795667_1",
+    "title": "万字长文详解腾讯优图RAG技术的架构设计与创新实践",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649795667&idx=1&sn=d035910e8516e889efac55f95217bdd4&chksm=becc3f2889bbb63e76b16e47219e22ff4f56965f6bba2f390f15866b570cfb23106818da93ef#rd",
+    "publishTime": 1757324160,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvaucGt6F7rr5iaIgyuW9e2ymDvtAcnzn3QhQG9HL3hicAMGlicnmswjFPyaCa312mXAu5cIdjjTJu2iacw/0?wx_fmt=jpeg",
+    "digest": "今天抽个奖~",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649795662_1",
+    "title": "揭秘腾讯内部科研组织ARC Lab：找最好的人才，做最难的事情",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649795662&idx=1&sn=9d827964263aef2d38bd5192b7d8810c&chksm=becc3f3589bbb623082ddd0bbe3ad9f9aa787a41032e02feaf67289b0e42c33a65d0841f6672#rd",
+    "publishTime": 1757151300,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvasqU4de1Q78O4AiaOOH62XIXhyWGaZlDZA0Ij6dJyiciarV1Qduoq38NL9bJen4AVEFWnJ44PaNsJopg/0?wx_fmt=jpeg",
+    "digest": "开源项目Star数超过14万",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649795637_1",
+    "title": "你的AI“体检”了吗？开源AI红队测试平台，一键自查三大风险",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649795637&idx=1&sn=5fddb7e18ac14e45ef1f2e56db38fa67&chksm=becc3f4e89bbb6588fc1105e2885e64f9bc74b486be95b661eff89c7a318336eba4dc0da25fd#rd",
+    "publishTime": 1756978083,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvatDicpThbicxqLYSHEXReeFO5iayQPia4xCth3qPhDVnah622NjDlDU8ksRbtX139lDFicl8iaiccYNYFbDQ/0?wx_fmt=jpeg",
+    "digest": "最近的AI圈，简直比好莱坞大片还精彩。",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649795616_1",
+    "title": "Golang后台服务性能优化，实用Tips梳理大全",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649795616&idx=1&sn=8e3c7b038e2567ceaf4149c541c0c120&chksm=becc3f5b89bbb64dbbc91bdd8772c704d15bfbcfcfa6aa0984030801320d2ae084903ebb4b48#rd",
+    "publishTime": 1756719300,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvavAAUeqbAicKOicDhWSv173wsiadtQNwq0lg8LfNKjxn4kiaiaVUCtPwrzLbzYTtFRL4RGuShXsB9qH8eQ/0?wx_fmt=jpeg",
+    "digest": "都是日常开发中会遇到的问题",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649795559_1",
+    "title": "迈向通用人工智能AGI：从RAG到DeepSearch，智能体百花齐放",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649795559&idx=1&sn=4ffeb12b38c1ba6a102ad6bdefb80f6f&chksm=becc389c89bbb18a85393e2bdfb2559336a74c37f450830550c3098b482dcf824a96bcd6da54#rd",
+    "publishTime": 1756459980,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvavdrYg6rkaZc4I19KO30zIZLuZeNYicQYkgiabpmMN0pg45s4FScX1kAcRodxhTGFZjk5wCn5KYMrvA/0?wx_fmt=jpeg",
+    "digest": "进来抽奖！",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649794750_1",
+    "title": "腾讯无极低代码平台打开MCP之外的新思路：多模态聊天",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649794750&idx=1&sn=4aa425ed8ee978b4be46d9c717549648&chksm=becc3bc589bbb2d33610f9cd527185fc044149d3ac3edfb2bc8b89179f4a5d6523c0f92e809a#rd",
+    "publishTime": 1753090560,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvatwxzCbggSATLeaibn8I3nffUZRDXYJO0EibXiaPYcTQ497Zt9EkWiaX7tV2tOCUnUVJ24j5PvRzfRibyA/0?wx_fmt=jpeg",
+    "digest": "AI为你生成可交互前端",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649794657_1",
+    "title": "入局AI Infra：程序员必须了解的AI系统设计与挑战知识",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649794657&idx=1&sn=ffde6aaa73778c34c6152afcbc68603b&chksm=becc3b1a89bbb20c0fcc8a519d19d755aa266d98d569f162592054601603b84ad61304a85c1a#rd",
+    "publishTime": 1752831360,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvatPegE2lWm3Or3KoY4yicGbHk9Gy5z7sU0ibVXJrsgLsoPQGibI2YHZXbVaByKQJ0XpoJUicCVJeIoECA/0?wx_fmt=jpeg",
+    "digest": "AI Infra vs 传统 Infra",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649794584_1",
+    "title": "未来5～10年，GO语言的发展前景会怎么样？",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649794584&idx=1&sn=d817a98d879aa44874df5df692435332&chksm=becc3b6389bbb275a7d45db43bc9e943f51f35c3a1d561b8fb82427eb14b31a42a6901971c88#rd",
+    "publishTime": 1752658620,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvavogUicWylAKCogc8udiaMVT5uqOecGS1eYHvxRMyN2biaqGYvxkqUL2EX4cTBmOQibODzhNSFFZzL5hg/0?wx_fmt=jpeg",
+    "digest": "你怎么看？",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649794584_2",
+    "title": "76%程序员依赖AI？代码安全挑战解析",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649794584&idx=2&sn=b41d5f7bd546acedf5dbbb9a8eca4b59&chksm=becc3b6389bbb275fdef0008fcb50d268b98401bcdba238a920446823da3690ebe95f332c7c4#rd",
+    "publishTime": 1752658620,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvavogUicWylAKCogc8udiaMVT5jGYnKNdCcIvNVs6aZNXqicJRgb5iaZLwEsibvwy2N4tGDz1l8hRkVzdPQ/0?wx_fmt=jpeg",
+    "digest": "近年来，由于 AI 编程的飞速发展，代码仓的生态正在经历结构性变化。",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649794538_1",
+    "title": "一文带你彻底理解AIGC、Agent、MCP的概念和关系",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649794538&idx=1&sn=125717403a03f5e524053bde97c589f9&chksm=becc349189bbbd877d6332defdcb9ffe795756240814c92b5cf96ba1c0cbb5cdd500d0559dfc#rd",
+    "publishTime": 1752485760,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvasGx6icn9cibI34icDicNPUj1ACIicRS6JcvxkZpsf54v8LpA7ZRibu5fT4anHRgkCzibolfsDv8PIhwwGfw/0?wx_fmt=jpeg",
+    "digest": "AI 技术的核心概念",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649794504_1",
+    "title": "腾讯太极团队实现DeepSeek模型业内H20最高性能15800+ tokens/s",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649794504&idx=1&sn=61c088b33c96f106db0479f45fa23cc7&chksm=becc34b389bbbda596bdde48f9deebd77a1bc9d69dca809084e6a90bfc39a6a38e6f69e65d28#rd",
+    "publishTime": 1752226560,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvauv75Qjjc8O4Q4ktLiaceoxtAicRbLZq52ibjFOmPQRKyXUrVj7iaW8kpliaZefJ5xHVzFdRX5EmGjom9Q/0?wx_fmt=jpeg",
+    "digest": "太极Angel-HCF的DS多机推理全栈优化拆解",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649793732_1",
+    "title": "0day漏洞量产？AI Agent“生产线”曝光",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649793732&idx=1&sn=59278d0b2074a9c856a0700dfac2b83d&chksm=becc37bf89bbbea9ce11435e9be103f6693f2700163c7906440616093ad54d796b080f91029d#rd",
+    "publishTime": 1749126555,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvavEUbrr3lFiagmLHBP1Z4uM0kvVibDib74FMkWN3iaCWl6X2TUtF80geK3ic4Sn1tTEpib2XF5dyshKFLdg/0?wx_fmt=jpeg",
+    "digest": "AI 在漏洞挖掘领域应用的成功案例",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649793732_2",
+    "title": "腾讯的CMS管理系统能好用到什么程度",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649793732&idx=2&sn=345160f2ac2b7f2b5a911e9855fcb6fa&chksm=becc37bf89bbbea957a85ecfdbe4adf2568950fe4a28f06010bc48f7b43235ab68b79ca4f801#rd",
+    "publishTime": 1749126555,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvavEUbrr3lFiagmLHBP1Z4uM0qbkLn66sP9ItlcjPhGAiamFqSqCMgvPxjePQGU5StYRXIezpmUelpdw/0?wx_fmt=jpeg",
+    "digest": "每一个产品背后，都有数十个CMS系统去支撑内容管理...",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649793713_1",
+    "title": "腾讯Kuikly框架鸿蒙版正式开源 —— 揭秘卓越性能适配之旅",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649793713&idx=1&sn=5c4dabab3ec1bfc7456cc373b1ab4791&chksm=becc37ca89bbbedc22896b89b3457898e0a3add4b089177ff2e0a5a406a97cc26b067c6cb5c2#rd",
+    "publishTime": 1748937724,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvav0KicSMDGr7F6o993oyvugLwribmicpCNZavia68HOiakqeHfPj3CwsxNUTG6adfvyIvwrVcNZjNgEc1w/0?wx_fmt=jpeg",
+    "digest": "同步开源鸿蒙平台支持和Compose DSL支持",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649793704_1",
+    "title": "微信自研高性能推理计算引擎 XNet-DNN：跨平台 GPU 部署大语言模型及优化实践",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649793704&idx=1&sn=b22f9dd23680157da00ca227bab93938&chksm=becc37d389bbbec51eb33edf95e23d844768b8cdede5a9bcbb35573c45aa2a3d1fd0e0dd843a#rd",
+    "publishTime": 1748597700,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvasAw8chMiaKn4r9rh2FzuzqQT7IuCOTIRK3qVZ77kV8rPlpEqHagl6LzichoR937u1Yick87yicMfK6gw/0?wx_fmt=jpeg",
+    "digest": "非常优秀的推理性能",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649793669_1",
+    "title": "快速理解热门LLM大语言模型",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649793669&idx=1&sn=37629405f58745a94e9eb0858bf76d2b&chksm=becc37fe89bbbee8b90100c19773a19ede8a327da1fdad957777a1cc97f9fe49360903a1185f#rd",
+    "publishTime": 1748424466,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvasYlc9MFA8YC6lVt1TadCL7xNIksO5JEB9EYRJSicdRy4JZKL4CqiaShClC79f20Oo2hLkz0ETpbI8w/0?wx_fmt=jpeg",
+    "digest": "LLM, Transformer, Prompt, Function calling, MCP, Agent, A2A...",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649793574_1",
+    "title": "MCP技术浪潮中的Agent应用开发新范式",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649793574&idx=1&sn=2bbf59320382ccba6dce6cc37baf0b51&chksm=becc375d89bbbe4b9df58f0b85c08c51fb2c1a8a6cf4a2fed0845ceaddb9e4b4ab75c586124c#rd",
+    "publishTime": 1748252100,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvauqjQibffZr6DgYhpLsbvx1vhZBb9WQocHsib6Plkfw5ISsKKEIhIsUYmibgJ3XnGKTCcgogic4axQr1w/0?wx_fmt=jpeg",
+    "digest": "释放模型的巨大潜能",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649792738_1",
+    "title": "MCP协议深度解读：技术创新正以前所未有的速度突破",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649792738&idx=1&sn=337f992522daacb8eb68bd61043ac255&chksm=becc339989bbba8f7153d0b87cab4a5d63c15c1265587c927f25d0b2b1244ff40a87a8adf662#rd",
+    "publishTime": 1744623060,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvavIsu8Z2RJSkjKmfiaowzT5UMFlVWAGLPMqr74aXib031l9vcpicDrC0a27sqJAAicjPh1xJPNuTK85mw/0?wx_fmt=jpeg",
+    "digest": "MCP深入解读与AI业务探索",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649792687_1",
+    "title": "AI Agent破局：MCP与A2A定义安全新边界",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649792687&idx=1&sn=9040c4a67bb6000cea93fdca2a0fa1a5&chksm=becc33d489bbbac243a92f1159f31bd73148863793ecb8e3cc060fb71eb4195b1455e97d6f26#rd",
+    "publishTime": 1744364540,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvatN8Fmtd8O09PfGEQdgOCicriaibwaAia8VHhv9Qd7wTZ5sZicic04IAMKWKOhXJeKXK8ET7QeuFwZmDXfQ/0?wx_fmt=jpeg",
+    "digest": "作者：Nicky，朱雀实验室蓝军负责人通信协议是AI Agent加速落地的核心基础设施之一。",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649792649_1",
+    "title": "泄漏！知名程序员AI受害，3000字带你避坑",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649792649&idx=1&sn=7c67b7bafd34b6d8bf0e947e09b97451&chksm=becc33f289bbbae43ea0afae91e9e112432150c08914b6a21eb3b74db063ea3e57d478e60ee6#rd",
+    "publishTime": 1744279616,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvaut28FhEyR9NbdOiaj8u1nmQoyNwrVSSP1lrJOQekVCnFmseBRODyo4DTTeZq0YFiaUpH4YSDjJUbRg/0?wx_fmt=jpeg",
+    "digest": "就是这样一位堪比“程序员启蒙”式的地表最强开源者，也没逃过AI的谎言。",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649792633_1",
+    "title": "MCP，这个AI 开源协议有多大想象空间？",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649792633&idx=1&sn=4b89473b82ccce3fff6b5a3afa0a729a&chksm=becc330289bbba14811d0115d69248ce18d9eaa3af3d63bb924a6cadc4513c04250d0a4da732#rd",
+    "publishTime": 1744193096,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvauavYWic3Gtlfe5SmTOwJBCwiardEJgWHPvc4FUSQQIq8eyVo0mqwrzD7F5owd87QxwcslI8GRqiaajA/0?wx_fmt=jpeg",
+    "digest": "你怎么看？",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649792591_1",
+    "title": "把MCP和AI代理部署在无服务器架构上，大幅提升业务性能",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649792591&idx=1&sn=4bf565947d3ad2a4b643de6808b0306c&chksm=becc333489bbba220c8d6a31a6094a4114ae895e83f08656cf8ee9ce15319f422287db364614#rd",
+    "publishTime": 1744018560,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvasIvpW7op2F3E0cvWbsZqw248VAFCiaHstyhLk4lIx0xgmdRFW2gF6LABfGo5aq84SzLTZy6CMS4gA/0?wx_fmt=jpeg",
+    "digest": "MCP Server On Serverless",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649791818_1",
+    "title": "大模型本地部署的“隐形炸弹”，你的数据安全吗？",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649791818&idx=1&sn=746996df07c83309ce5e3cfc65f5a702&chksm=becc0e3189bb87279cfa293342f33238c3277bc7e949d049c0ac62ff5559ca0dcceb451e1d9b#rd",
+    "publishTime": 1741166814,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvatM8CcLSiaGTuxtUdS7xcx5WD7FudRYeFFzD2ruicJtAnDYEnFNAH5KOdh5QV09J6dImED3OWqOfkrw/0?wx_fmt=jpeg",
+    "digest": "随着DeepSeek R1等开源大模型的火爆，越来越多的开发者、企业甚至开始尝试在本地部署大语言模型，享受AI带来的便利。",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649791805_1",
+    "title": "2025年前端与AI技术大盘点和展望",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649791805&idx=1&sn=10e456a4139e424140edec66f7741650&chksm=becc0e4689bb87500323d89257457f36fd44c8e4c2b911cac59f0382f7124a84eeb3209d7c54#rd",
+    "publishTime": 1740995400,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvavdw5iaMfJC4Ydj8tO63Wvc4hh4dYpy1HNkO99DbibBGH6lZdASGibmmcW5Uasg2hVLUPBrdjxD7lYhA/0?wx_fmt=jpeg",
+    "digest": "AI将更上一层楼",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649791804_1",
+    "title": "充分理解C/C++重要概念：运行时库",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649791804&idx=1&sn=2a19c634f4fae85143e31fdefdec9a2a&chksm=becc0e4789bb87519e33814fe611cf5e3e3ba8298bf09017c4290d599499d66159bc48a12453#rd",
+    "publishTime": 1740735300,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvavz3H4OViaicke7Y7vlUmQ4PQcLCTAJRFvctAvSqLmBDvGS1icrEyu6IiagvhdHxMiaZx3zrPVOkiagcFKw/0?wx_fmt=jpeg",
+    "digest": "避坑总结",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649791804_2",
+    "title": "【知识库特性增量】 DeepSeek-R1 模板支持 bge-m3 embedding model",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649791804&idx=2&sn=03f25bd7e5e222ba0ff90de7a6827163&chksm=becc0e4789bb8751236e6b2a901cbb18a7ea299c49e3cf5880c817a54c77a66e1846536679e7#rd",
+    "publishTime": 1740735300,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvatibP9VJyRnCNko2mw6ic7eQyyicQrQoUVtXrtym2dibEIHbZwfmEudsIJzC4DicbYV7lzaYn4gvd42K3w/0?wx_fmt=jpeg",
+    "digest": "",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649791801_1",
+    "title": "DeepSeek“出圈”了，鹅厂人怎么看？",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649791801&idx=1&sn=b768405bb897559d98819c0bf1b6a0f1&chksm=becc0e4289bb8754104f1f5662c4a2d23b6e862f3a24c0da630a27690ea75a1f9d649a25b85f#rd",
+    "publishTime": 1740566869,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvauLdR0bZj2RYJcjjHLpp4pGlXHqt4o5OhKqNU94z62Y1ZzFxfqiaDQchwb1ugMs8nFficCNZ6buqK3w/0?wx_fmt=jpeg",
+    "digest": "你怎么看？",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649791674_1",
+    "title": "揭开DeepSeek-R1的神秘面纱：GRPO 核心技术详解",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649791674&idx=1&sn=daaf8a456d4fec2337ee8df5d120992e&chksm=becc0fc189bb86d7ebc72e086e24dabe15d4a54c7efa5abce4d17f09f168a5361a0ee2482883#rd",
+    "publishTime": 1740389760,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvatzSJXTiaQRxaywsjCIIhrB4aPSnVstrTic2sZib6uYFJibmHeSicpyPwZE1nmeXia0jlpRADPJeiaiczVBXg/0?wx_fmt=jpeg",
+    "digest": "技术脉络与最新进展",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649789460_1",
+    "title": "爽死啦！！！",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649789460&idx=1&sn=f5bea75368d43093f44bd4112d2f8180&chksm=becc076f89bb8e79d8b90d91adfa78d0f3a36d584ca612d8c95b90322d9bf246754368ddd52d#rd",
+    "publishTime": 1735521778,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvasTCRpia4Pccmj5V1HMxeiamWZoyVtxHKdYa8RTSdVnoJ1e1ibwDOc45oPyMYvaauLZGianUarkKU9yDQ/0?wx_fmt=jpeg",
+    "digest": "含泪收下100份礼物",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649789459_1",
+    "title": "是程序员就下100层      \n\n\n\n\n\n程序员应该知道的100件事儿，这八件你要先了解：\n\n\n1. 管理复杂性\n\n软件开发是为了解决一套高度错综复杂、环环相扣的概念的全部细节问题。\n复杂没法避免，但可以管理，管理复杂性是软件开发最重要的课题。 \n\n我们要做迷宫里寻找出口的老鼠，而不是迷宫里打洞的鼹鼠。\n\n\n2.技术债，要pay back\n\n每当你想着“先做出来，回头再优化“，却发现又有新的任务让你没法回头时，你便欠下了”技术债“。\n\n技术债务就像信用卡，刷的时候爽，还的时候哭。要及时还债，避免未来的更多问题。\n\n\n3.我待客户如初恋\n\n需求背后的意义，就像是女朋友说“我没事”，你最好还是问问她到底怎么了。\n\n我们首次遇到的用户需求可能只是用户/产品从自己角度想到的一个方案，可能并不是最佳的。\n\n\n4.简\n\n代码之美，不在于你用了多少复杂的技术，而在于你如何用最简单的方式解决问题。\n\n\n5.Less is More\n\n “过度实现？不存在的，我们的代码只解决眼前的问题。”\n\n不要预计将来会用到。最好的代码是不能再删减一行的代码，哪怕是注释。\n给你的代码做减肥，要记住，代码是负债，而不是资产，能用8行代码实现的就不要用10行。\n\n\n6.出错咋啦！\n\n “硬件会出错，软件会出错，连监控程序也会出错，我开始思考这个世界上有没有什么东西是不会出错的。”\n\n “没有！所以不要惧怕故障，克服错误的正确方法是面对错误！”\n\n\n7.看见\n\n·  一条错误日志\n·  用户反馈的一个不符合预期的Case\n\n如果你选择忽略类似上面的一个错误，对其视而不见，假装一切都没发生，那你就是在背负巨大的风险。每个被忽视的错误，都在悄悄策划一场起义。\n\n\n8.营地法则\n\n离开时比来时更干净，这是规矩。\n\n提交代码时同样如此，只需要 commit 提交时好于 checkout 时即可，你可能仅仅改进了一些变量命名的可读性，或者把长函数拆分成两个短函数；\n\n\n还有什么是你觉得程序员一定要知道的？评论区告诉我",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649789459&idx=1&sn=faea9f8767b65c9dcaa9edb1c04af58a&chksm=becc076889bb8e7e3fa6032da412bd3b848502289785dbe82d196842ab87152aae14b7b999a9#rd",
+    "publishTime": 1735290060,
+    "cover": "",
+    "digest": "",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649788216_1",
+    "title": "被问爆了...用的是它们",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649788216&idx=1&sn=e3463f0b4f06a01760a2c7059edc36a4&chksm=becc1c4389bb955539c8b9e5fe7d4339236c8ba88b25a01236660af4c8c2770e92d32c9964dc#rd",
+    "publishTime": 1735119946,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvasACQETicQGianezSTAePoeZsZMKiaSLUXSxUlXuMmgtm0BqnHlP50DGiakEoTp8Hibp69ZzibFUZrr5Jow/0?wx_fmt=jpeg",
+    "digest": "在当今这个数据驱动的时代，大模型以其强大的数据处理能力和深度学习能力，正在逐渐改变我们的工作和生活方式。\n\n然而，对于许多开发人员来说，从开源网站下载、配置并成功运行这些复杂的大模型到本地环境，无疑是一项耗时且技术要求高的任务。这不仅涉及到",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649788123_1",
+    "title": "高性能Gin框架原理学习教程",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649788123&idx=1&sn=d717428283ab00210fa26f30047cdaeb&chksm=becc1da089bb94b6bd4dc1b7f0cdab5c7c88376dd7959ec7dd337ae2fde5dc72cdff5d496c52#rd",
+    "publishTime": 1734948120,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvatGB3ZgrcuTIqjAJAPTORC9JsWdPZU06AicIgZBT5lNBvT4x8PjyzR65fDuQYv7KXj4V0RpdkhMunw/0?wx_fmt=jpeg",
+    "digest": "Go语言Web框架",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649788087_1",
+    "title": "万字长文梳理基于LLM的Text-to-SQL发展进程",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649788087&idx=1&sn=19bceeb16d2b98e61050e4f5851125f7&chksm=becc1dcc89bb94da93354fa47b8362237188ed31b6bd33e260611e0775c9589fa861b86e5d1d#rd",
+    "publishTime": 1734688920,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvau9fNjvZhD0FkDibh88uEznWs3RR1LHMVhf2ff2UYPX6tXicqFMmmxYRsAlEGNjVicicbF3I33JIAibw1A/0?wx_fmt=jpeg",
+    "digest": "最新进展",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649788087_2",
+    "title": "GoSkinning V4.0发布在即 ：解读人效提升6倍背后的AI蒙皮算法",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649788087&idx=2&sn=1c9d70f6daf1171c158201a30b7e045f&chksm=becc1dcc89bb94da9ae35b837d5975c3fc356044c00a584e4a32fb9661ba74fb4651ebef4c56#rd",
+    "publishTime": 1734688920,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvau9fNjvZhD0FkDibh88uEznWnPbia8upGrdh24MNibibjHegaF3K8HkGibvmcVmvZqu6M6QbsfT6FOoI7Q/0?wx_fmt=jpeg",
+    "digest": "",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649786621_1",
+    "title": "变量名字，怎么命名更好？",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649786621&idx=1&sn=c39b5604df0b3f78525ccb35dd16bd54&chksm=becc1b8689bb9290a1656dfb8186efdaeebb3d96b683763776b2547572a7cbb52b329aa83f12#rd",
+    "publishTime": 1731490609,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvaubIbt0J0vo1y9jx15sbHlV1IPwGDIvRTZfZicuhARTNG37SZflbVx5Cvw353BWZyP4pVia6QQoxeQw/0?wx_fmt=jpeg",
+    "digest": "你怎么看？",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649786528_1",
+    "title": "腾讯文档在线表格卡顿指标探索之路",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649786528&idx=1&sn=d24919a0d1659903c56c40d2bd212b3e&chksm=becc1bdb89bb92cdccfe762de6c7ac16161418da5461af8723461d3b477619a7600540295182#rd",
+    "publishTime": 1731319260,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvaurib9j8QE8YwYRZ4Q2TGyaXxLdcCicvCxvcE45Bbpm0ehWicfAicln7ibk7lrbXSmg8qmq0oGPRnyuszw/0?wx_fmt=jpeg",
+    "digest": "不断优化",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649786512_1",
+    "title": "新一代超级计算框架Ray在微信AI计算中的大规模实践",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649786512&idx=1&sn=9988364181728949cfdafa4a835c7c86&chksm=becc1beb89bb92fdaac6f6c3c31a2075ca8cda41c04f995ae3b762584bd8bf125b4b8f1ace80#rd",
+    "publishTime": 1731060120,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvaufibrDgiaJ4I5PiaEVfcC1Fm0mNSeM9COsUIT4bP9f31yFCGLwDdicLp1JFc6U2w4wE1S3jr7ca8wKJA/0?wx_fmt=jpeg",
+    "digest": "AI落地微信",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649786477_1",
+    "title": "年久失修的大厂系统如何做迁移？",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649786477&idx=1&sn=590c744c6ae007fc8a854a538b3e8616&chksm=becc1b1689bb92009e8e1ed2b41fa4bee7433427fdd74dd93c4696358ba91474147e04c3094a#rd",
+    "publishTime": 1730885640,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvasDQDMljxG6ynn0TNqlDojohaTP9qmiabNwZkbMhWbMReq4aKq3CU1ibEggCk56cBubKSYm96Fq1p0Q/0?wx_fmt=jpeg",
+    "digest": "你怎么看？",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649786409_1",
+    "title": "深入探讨C++多线程性能优化",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649786409&idx=1&sn=a206a50af906abe0deac80faeb879d67&chksm=becc1b5289bb924477f4f6267de41b2a1f07587558bc5eae2b7000f6c2df2c1536a3d3a7c102#rd",
+    "publishTime": 1730713399,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvauVxDbtmaYVVXsiaksr9WQ3Z5dXS4EeKSedrcbne5oNibvPUtXuVP11ewJajbVECoDzZVfYfHNGxl4A/0?wx_fmt=jpeg",
+    "digest": "高效多线程编程",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649786409_2",
+    "title": "腾讯TVQA斩获ECCV  2024压缩视频质量评估比赛冠军",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649786409&idx=2&sn=af053e8038a89075e7cb2ecdcb04c56b&chksm=becc1b5289bb924426108d5ccd0695f1527994a2e4c1aa8740c84b5e01f6463f7ba7787ac582#rd",
+    "publishTime": 1730713399,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvauVxDbtmaYVVXsiaksr9WQ3ZXaickfVmCZLianVumz66G8DFxaXSwuz4lokvHNb7ichuqtLS3bspkzXwA/0?wx_fmt=jpeg",
+    "digest": "视频编码和主观评价能力相结合，助力腾讯云打造行业领先的媒体处理能力",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649785667_1",
+    "title": "抢！！2024中秋红包封面",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649785667&idx=1&sn=aab3376d073725fae8f3e6ef6868aa6d&chksm=becc163889bb9f2e0eef916fc1d836b1829ddbc34f6bd51758a386de4ef0dd9061a370214a4c#rd",
+    "publishTime": 1726189740,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvasQmVoIkydDic8144FuSKphcIlna1CfadSLrqjxuv2xkkgnSyaBS5GU1ApOm7ULX34o3wXUIa7eqFg/0?wx_fmt=jpeg",
+    "digest": "10000+个封面！",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649785656_1",
+    "title": "附源码🔥用Python为Unreal引擎打造个性化菜单",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649785656&idx=1&sn=4f5b80263623b9c8c29504823d8a8b56&chksm=becc164389bb9f5522b3b0089862e5f383a169bdc96fe9fd7f24b22690bcc7f23b5736aa4c69#rd",
+    "publishTime": 1726047270,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvatr7Hfe2PvcQPf0fS5RwvYr7r9gZulCe53A319H81p2APS528uibVe5pGWaSiac4bQpTaR5z4PIOd6Q/0?wx_fmt=jpeg",
+    "digest": "近年来，Python事实上已成为用于制作流程和3D应用程序之间的互操作性的首选语言，在媒体和娱乐行业中尤其流行，通用的脚本语言可以简化创建和维护大型资源管理系统的过程。\n\nUnreal提供Python Editor Script Plugi",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649785631_1",
+    "title": "Linux内存变低会发生什么问题",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649785631&idx=1&sn=4ff0a18db034174b5dec2455c759e3d8&chksm=becc166489bb9f72087901fbb6eccd049e36d6fbb37ddc6af2f63bb5b5ae77762de42d60c1f8#rd",
+    "publishTime": 1725876060,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvaskibkfuekgz1fUwzHZ17SB4NduEk4DGv8VrOJbmLyL0vCxrYFfdv73pejib9ic3LEMUo4Diadeu7KRibg/0?wx_fmt=jpeg",
+    "digest": "内存不是无限的",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649785612_1",
+    "title": "照镜子了！程序员MBTR最新版出炉",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649785612&idx=1&sn=0ab3c3c0040799f7f32d4e98b9b3ddd2&chksm=becc167789bb9f61cd3046ea05cf6c063e2129d6cc4ee8b614c67bdec0131f28b57ecf19b2ac#rd",
+    "publishTime": 1725793320,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvauwr0NP7YjnWsMTPCgy6ZuXSSAicpU4GthnFs5FIp826wFSCrJNrOrk1nuNjWQdhia9THg52OFtHvsA/0?wx_fmt=jpeg",
+    "digest": "快来测试你的程序员人格",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649785597_1",
+    "title": "万字长文详细分享Redis的常见业务场景",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649785597&idx=1&sn=3e072b1fa0e1398ee2d61c1f25501c48&chksm=becc178689bb9e9053c8370853f1f44ef15a37167b2a656d6ac1de1516cd8e65ff7be7c63e4d#rd",
+    "publishTime": 1725616860,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvauwr0NP7YjnWsMTPCgy6ZuX0Q7arKyBo0FsDnRrmv51cnxpavEfvfHSw8bMgCBOzMeibWibibfwD45gw/0?wx_fmt=jpeg",
+    "digest": "详尽",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649785597_2",
+    "title": "AI 自动蒙皮技术在游戏角色资产制作中的应用",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649785597&idx=2&sn=6870658e03c923e22dce8339eb779dd3&chksm=becc178689bb9e9001f2c1abfa68934cc3a132df0395ae7467ba281879e3ab00ab084d6f904a#rd",
+    "publishTime": 1725616860,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvauwr0NP7YjnWsMTPCgy6ZuXiawKEEW0GdhgGRWshd31AEBIa80gM9xbyWtFNxdFwHtHjHLEEQgHT8g/0?wx_fmt=jpeg",
+    "digest": "快来加入AIGC群聊，更有免费试用和产品体验活动哟！",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649784796_1",
+    "title": "收藏！免费AI图生视频工具大盘点",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649784796&idx=1&sn=0708a2bcc71632198d13d6d2ecabb6c0&chksm=becc12a789bb9bb15a53551fcdd9d77d27b86b9a63d2abb70e9796066bb6d7440327f3e7e44a#rd",
+    "publishTime": 1723628702,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvau7uSg4BQFW5sf3RZU5QFDnfFTiaAjLDKiaB74PvA6MUS5U5dPGMrcBow8FpPdibCYBuzZrD33HZmY3g/0?wx_fmt=jpeg",
+    "digest": "6个无需任何花费就可生成高质量的AI视频的网站\n亲测好用，各个都是图生视频工具的领域的宝藏选手！\n1.Luma ai\n2.Vidu ai\n3.Hyper ai\n4.Runway Gen2\n5.PixVerse ai\n6.可灵AI",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649784775_1",
+    "title": "C++内存问题排查攻略",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649784775&idx=1&sn=38d8ae3bc3826ee2e86e3f4dd728b42f&chksm=becc12bc89bb9baaa13235af545369b4c6151d8b5bcaaef2e2044829a3f2475a62655247bdc3#rd",
+    "publishTime": 1723543200,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvavvGZnomhIYDruIzlO8wuNG4DD3AKGRqycNlnjlfDOOZOhAaAUQgkQQviaYKibdic9RKjHicQ52LYKOPw/0?wx_fmt=jpeg",
+    "digest": "具体案例展示",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649784674_1",
+    "title": "腾讯包揽15项世界第一：新一代视频编码器",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649784674&idx=1&sn=92547922fb4a5a20df97a6bda193d566&chksm=becc121989bb9b0fa23246032a965792763e43ebc9ca8d8386179a6d3c25cf8cb6e57c7a0427#rd",
+    "publishTime": 1723097700,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvasY2Dz20BxgrHiax1aTxia7VgcUjgkE9icu7NuPEU4brc3P8t9Rm8CFPCkCosOC5m6SQ3cibZITLoTKqA/0?wx_fmt=jpeg",
+    "digest": "获奖！",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649784665_1",
+    "title": "GPU 性能原理拆解",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649784665&idx=1&sn=2f928c1484e7858772feec33180fa9c2&chksm=becc122289bb9b3454c233998f53ea2a03f887f4fe0f1db6f4e9be810a05537a92933adc2929#rd",
+    "publishTime": 1722938400,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvavvGZnomhIYDruIzlO8wuNGh2PM4iagFasB0WaMmUfDa1QR7PAicwOFnDibyD2fndeWsic7HOibZvceyow/0?wx_fmt=jpeg",
+    "digest": "性能迷思",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649784646_1",
+    "title": "几款顶级的AI写作助手工具",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649784646&idx=1&sn=fa7e9c28bad1ca92e7e1cf6eb7bebfe8&chksm=becc123d89bb9b2b833e07227b79a89ce9e44be4d16cb1fc771c7a6e8d3d878d80fe5552169c#rd",
+    "publishTime": 1722592800,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvat7SDx7cIgzNeSxA12XLcovP7YVecQcHpiaxvkAjgqKfjrsfGYmscbNia1Ba2QusWQbq40BVy0yDgwA/0?wx_fmt=jpeg",
+    "digest": "写作，不论对于经验丰富的作家还是我们普通人来说，都是一件耗时、耗精力的事情。\n\n但是，如果有一个工具可以像魔术师一样智能地帮你写作的话，那么写作就变得不那么困难了。下面就来介绍几款好用的AI写作助手帮助你高效写作。\n\n1、Writesoni",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649784031_1",
+    "title": "手搓AI智能体实战经验",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649784031&idx=1&sn=9b01de078e4c8c5a8b763ece5ce4fd86&chksm=becceda489bb64b2cde1e3e4a49d778b7eaaae1a20c514431a6234c3cb0e7c24056584a9f4f5#rd",
+    "publishTime": 1718272800,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvatEE12Qo7GKCh4jwC3tTBHiaJeC84Za2bhibAk5ydFHyE0QyjXKia3VbTzV1nmWXTKagITIYSt5XUvCw/0?wx_fmt=jpeg",
+    "digest": "万字详文",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649783798_1",
+    "title": "Redis源码解析：一条Redis命令是如何执行的？",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649783798&idx=1&sn=5281f20c32c63fcbf55b6c00a56dd056&chksm=beccee8d89bb679b793d229a3cbc6b84c908c659f804c73453ee96603270bff111bb45e0e8eb#rd",
+    "publishTime": 1718100000,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvau5CPCSYWJHI81pR6NFFKibKQX2QuniapAGJqbDptPRmjpRuZCWuwJVT7g84S5lS8vDWQ6jRCKrk4rQ/0?wx_fmt=jpeg",
+    "digest": "掌握Redis的实现细节",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649783797_1",
+    "title": "用上这些画图工具，专业又好看",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649783797&idx=1&sn=b899eb9e5e7a9f4a33a3a9eb46cfb382&chksm=beccee8e89bb67981039980685ccf7ccb7f5ff65f7f33f63e29d99396b342f972d9a19ac9b9e#rd",
+    "publishTime": 1717754400,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvavmJEAI481mZ68hxpCCw0Uh9r6egyp6h0eUzHwRgos38BtQR3QfXOiaVN0z8dibqKmVxX9sJYiaWJ9Ow/0?wx_fmt=jpeg",
+    "digest": "古人云：「一图胜千言」。 一幅合适的图片可以清晰地向读者表达我们的意图，又因为我们人脑的作用机制，阅读一张图片所耗费的脑力要远少于一段文字，故而我们对图片更加深刻。 古人又云，「工欲善其事，必先利其器」，来分享一下鹅厂程序员常使用的画图工具",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649783789_1",
+    "title": "更快更小！ProtoBuf 入门详解",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649783789&idx=1&sn=2d40d61496e1e68bb83b9331ea279ddd&chksm=beccee9689bb6780fda1eedba8ec218667c6f7b56f696fe0d3b24882ff2163c464a4822b22a6#rd",
+    "publishTime": 1717581600,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvatTTHgY8BK6cndFcUs3T725DGSLYXYibwKhMbs0rVFjiaXjymdGGc0xjgbVpW1vkHUgSN3C0HfXdaGA/0?wx_fmt=jpeg",
+    "digest": "最佳实践",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649783732_1",
+    "title": "适合程序员访问的网站大全",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649783732&idx=1&sn=005b1a9c00272e32a80845ec52f43769&chksm=becceecf89bb67d96f4c0a8b02541e16ab66d0b7cf2e39117bbdec13e2c18fc6bb3bd5dc3151#rd",
+    "publishTime": 1717149600,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvau6wPReXibt99C7jibY8UdG462cwrKa7jpo6c05nYaY38VmxicIibz7AvQricZJicMvaHZZBrWclgOg3GbQ/0?wx_fmt=jpeg",
+    "digest": "编写代码是程序员的基本功，不断写代码可以学习到不同的编程语言和技术，掌握更多的编程方法和技巧，从而提高编程效率和质量，还能增强逻辑思维能力和问题解决能力。\n\n而互联网上有大量的编程教程、技术博客文章和开源项目等资源，可以帮助大家提升代码编写",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649783015_1",
+    "title": "从裸机启动一个C++程序实战操作",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649783015&idx=1&sn=02dd9c4ff655191a315299c8ebb46b37&chksm=becce99c89bb608a1fc4bb0f049ff79789e90a15976f4ebc9fb1a691ba0160da188472533c7e#rd",
+    "publishTime": 1711620000,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvasDBCtqwCN3CFpqlpvyvKybicnCDKDBhyzoK5rRf4vvqUxhY3icsic1Yax92mXUHegBvMJbhiba1VD9Aw/0?wx_fmt=jpeg",
+    "digest": "保姆级教程",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649783012_1",
+    "title": "腾讯云单元化架构体系介绍",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649783012&idx=1&sn=0df6fa9b0b92150e80b246d728efc885&chksm=becce99f89bb6089d900d1a24c0274293592ca9a83a91bbabb8c743ebcfbf60194e630b38688#rd",
+    "publishTime": 1711447200,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvatULbw0nBo4Nf8yk1ib74W3AuRXLEQ5gy8YQwOPDGuKibicV7TCIKicfgh3B8pd1akO0NfLQUsuv93ojg/0?wx_fmt=jpeg",
+    "digest": "总结、梳理、沉淀",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649783011_1",
+    "title": "轻松上手的LangChain学习说明书",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649783011&idx=1&sn=b112cec6aff77f7bd76a60e7e57fa902&chksm=becce99889bb608e6940b2ef6fddf8b620733b52d2c54762560b6077712adc423facc31867bd#rd",
+    "publishTime": 1711015200,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvasT3NQNlVtQoJsSe2Ro1zTViacPXsoHchOlg1lsiaqntT0JhC6IUcoG16iaTKdorTGMNfvibCFQ0haJYQ/0?wx_fmt=jpeg",
+    "digest": "核心理解与使用方法",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649783010_1",
+    "title": "万字超全 ElasticSearch 监控指南",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649783010&idx=1&sn=ff90c8dd0f38ae1b41dccf9376303918&chksm=becce99989bb608f0f37c72015ef33822a0cae69f0692eb2862ea412820d61007c722f6ecdaa#rd",
+    "publishTime": 1710842520,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvatULbw0nBo4Nf8yk1ib74W3AUdLJM00V4jUd6uSDBSp9QTNrHjqOibHSS5ceFJ48fhJwLqEAze8SdibA/0?wx_fmt=jpeg",
+    "digest": "推荐收藏，带你全面了解 ES 监控。",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649783010_2",
+    "title": "识别AI换脸：不如见一面，哪怕是一眼",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649783010&idx=2&sn=43424f789d2994284619955599ef1e3e&chksm=becce99989bb608f20ff5b90d3dea019683bd46ef1376408d4f73420748abf2099bb0aedeb21#rd",
+    "publishTime": 1710842520,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvav1Mf6eoC83lbEl5IsbqlIhl3KRJ8eTUSfEsoMkPjhxExelhoAPfUaOYkRZR57lkiaM0wAy7Wbiaiamw/0?wx_fmt=jpeg",
+    "digest": "确认过眼神，你不是那个人",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649782967_1",
+    "title": "分布式限流方案的探索与实践",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649782967&idx=1&sn=6f6e0a676b9d5eda9544c3bf1ae36bfc&chksm=becce9cc89bb60dab55366bf58a79b859000c108b373c33c25f5c48d8cc15eab3ec487a9555e#rd",
+    "publishTime": 1710410400,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvavWBPdU8qv9ezDGAQMZwljy98nria4yI8eV7KkxaXsibuOOrnKppSlERZEwQO6RELlcJTMMeAF8c8ag/0?wx_fmt=jpeg",
+    "digest": "微服务的流行让服务稳定性变得尤为重要。",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649781616_1",
+    "title": "设计一个海量的任务调度系统",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649781616&idx=1&sn=4ac2b1dea3b527126f3d3909191b5b6b&chksm=becce60b89bb6f1dd0843c711c4d8475cc05e42bb4480089492c25a5dd25ad73e11abfa9a3b9#rd",
+    "publishTime": 1703844000,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvauWiawQVuhzMQqO9ic88vhuLiavD41pDTepzh4NJpRc1r9bKnA847Blfu47Vqn6U2MRLCia0f5uVsYIBw/0?wx_fmt=jpeg",
+    "digest": "今天跟大家分享鹅厂开发工程师如何搭建一套通用的分布式任务调度平台（统称为 tjobs 平台）以满足业务高可靠、低延迟的海量任务调度诉求。\n\ntjobs 作为一个高性能、低延迟的分布式任务调度平台，在满足通用的任务注册、查询、触发等基本功能同",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649781517_1",
+    "title": "腾讯网关TGW架构演进之路",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649781517&idx=1&sn=70054245464fda815d0abbe8954ce43c&chksm=becce67689bb6f60626259c3233f54099ecb4df977e8344fec2c37f9d945782078584eccbfaf#rd",
+    "publishTime": 1703671200,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvauiaO9OcNic97cOGRYcxl36yWlWlpmfXVM6qLPdjyvrmLne9cdZUxD5T5QtDhwWRxO2iaLmz5y52RN7g/0?wx_fmt=jpeg",
+    "digest": "10+年历史网关",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649781513_1",
+    "title": "彻底明白C++的So热更新",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649781513&idx=1&sn=1f70134fd241eda2bcbeb4936ea19d55&chksm=becce67289bb6f640a88be76b478490bec53d4b6d20ff125022f4a7f8c6add48ff48d13b16e5#rd",
+    "publishTime": 1703239200,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvauiaO9OcNic97cOGRYcxl36yWLDvBFHKsaCXXpQvPibqVDAxFqph33gG53xiaxKEic2faibBs3QIyYLswVg/0?wx_fmt=jpeg",
+    "digest": "今天和大家分享鹅厂后台开发工程师，探索基于So动态链接库的C++进程热更新方案。\n\n热更新是程序运行时动态修复内存中代码bug，而无需终止程序运行的技术。\n\n包括：技术探索、相关知识点回顾、So热更基本原理、热更方式演示等方面知识点。",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649781427_1",
+    "title": "微信业务开发方法与实践",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649781427&idx=1&sn=db705e7ae1f114279cfda4777c267ee8&chksm=becce7c889bb6ede1c4efd11357b4b1875942bb33180ff7d030e81ef96e34c11fba793ee0788#rd",
+    "publishTime": 1702980000,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvat0jSYXnBsRpkr514PJGJs8ebbKszicIqG646wjCfFDrXBwwg9Pb7KTRgPIibusYw3VQgYe2sdwRSwg/0?wx_fmt=jpeg",
+    "digest": "万字长文带你搞透业务开发",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649781402_1",
+    "title": "关于消息队列的知识总结",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649781402&idx=1&sn=650a1f006f7851e74f8d111ce6e685ec&chksm=becce7e189bb6ef7b308fb32e60d29e35b6aa1a7c8c57867cc4f01bf7bde322ac9d3c27128b4#rd",
+    "publishTime": 1702634400,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvat5PSsYwy1ZKZ0JppSmV4Ebfw3K2wrIvNV0jlstNmUV5fsWycq567BU5HT4NcVE0CwRicK0IEiatjSw/0?wx_fmt=jpeg",
+    "digest": "2003至今的这二十年，有很多优秀的消息队列诞生，其中被大家所熟知的有Kafka、Rocketmq以及后起之秀Pulsar。\n\n这篇文章，鹅厂技术同学站在时间维度的视角上，给大家分享下这三款主流MQ所诞生的背景以及解决了哪些问题。\n\n纵观消",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649780845_1",
+    "title": "热门通讯软件Discord万亿级消息存储架构",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649780845&idx=1&sn=e7ac826fdda5ca8a4cf21140a32f9225&chksm=becce11689bb6800f1ebde9fe2f3de57b4339cb9f37b5f7077841422786a1574dfda6bd84c2d#rd",
+    "publishTime": 1697709600,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvasqwgS0VsKNADeQ6qsde2rxMz1flqNagOl9VUHFDibnD6BtCicMrxPB5BjBYCRs7b99MuiaYWLPqt8ew/0?wx_fmt=jpeg",
+    "digest": "ScyllaDB数据库",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649780829_1",
+    "title": "如何从0到1设计实现一门自己的脚本语言",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649780829&idx=1&sn=38966662e832f573f4559bccb9dc70da&chksm=becce12689bb6830284f6e43563b6bf4ccf3c99644e7f407227ea9b5831f6a937d8e0815395e#rd",
+    "publishTime": 1697536800,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvatwjuz66QibbQ6ibzVdHNh9dZJSbpxlk2h1WknYsVKIJ0juBgRRdOleuaYiaNS6xxhZWqDpv3WhPmVeg/0?wx_fmt=jpeg",
+    "digest": "计算机工程王冠中的明珠",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649780827_1",
+    "title": "深入剖析大模型安全问题：Langchain框架的隐藏风险",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649780827&idx=1&sn=8df3c18a03ec383a2d7a264a95817db4&chksm=becce12089bb68365089731eda59441b9ca98a2a0ea8f3caa9d584625437bae67c34655a689b#rd",
+    "publishTime": 1697191200,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvauYRxUSKozLqoMosZjm4dfUbFfb4iaq3nWC5vRPHxUjl4AcdTNEN7AfymH9icoqia0J6JpOebGLD7MtA/0?wx_fmt=jpeg",
+    "digest": "保障大模型安全",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649780826_1",
+    "title": "微信实验平台：全面拥抱湖仓时代",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649780826&idx=1&sn=188895765719aa633361a29a0f5d259d&chksm=becce12189bb683796efc483f9cbfa3d51b9878937a64ee81bdb2d79564135313adf11d83b82#rd",
+    "publishTime": 1697018400,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvatdWG6pwq0XnH24aYdYdiblKVaEPzyYC6EUOnpic0u6u2OUnKW2KqFfUCJZG7r7sbTDt0ZiaUW2bYibPQ/0?wx_fmt=jpeg",
+    "digest": "微信全部业务实验场景",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649780580_1",
+    "title": "大牛书单 | 大模型方向好书推荐",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649780580&idx=1&sn=f8367042b6aa9769ef7f1154a08f298d&chksm=becce21f89bb6b096fadd496edab165cdeecd2a43b085d416cfd0d34bc4507fbba0ee48e5e68#rd",
+    "publishTime": 1696759200,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_png/j3gficicyOvauctoCrvJF57daHciaCNjTQDZxj3yvIGVkUvwp36IDibaoliaLf0OSuFS495nwuHyJribztSkqlIvLxcA/0?wx_fmt=png",
+    "digest": "我们已经加速进入了大模型的时代。以ChatGPT为首的一些超强模型服务，背后是百亿或千亿参数的基础模型，它们学到了丰富的世界知识，领悟了“与人类打交道”的门路，甚至开始连接和使用外部工具、成为“万物接口”。\n\n新的时代有新的机会，与其担心A",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649779883_1",
+    "title": "提升ChatGPT性能的实用指南：Prompt Engineering的艺术",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649779883&idx=1&sn=fae0e244147ea6f0a53becfcb385fac8&chksm=beccfdd089bb74c69923e759f42ba6803c7633d1cf9b7e16680989d707e5a57a444841ccc394#rd",
+    "publishTime": 1691056779,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvat3zGQKFz61W0RICfCcPRhShkXRZwGq9tttuicpbqXibPkqE80Mhzb5aKx59az9fRbg4nZUkib8f3NMw/0?wx_fmt=jpeg",
+    "digest": "探索Prompt Engineering的奥秘",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649779831_1",
+    "title": "Linux Kernel入门指南—魅力内核的奇妙之旅",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649779831&idx=1&sn=8e563e08832f07d9f49b57f41086fdef&chksm=beccfd0c89bb741ada7ba41b151d4986f59382ee77fd03ba3a011dca1c7402ad2fcf00ce89ec#rd",
+    "publishTime": 1690797600,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvasSUzp13uQusayUtI1C1qicxvy2kDsLYMKGiakU9icEYoOhjeho5Zic0icZk3Mkicic6j08Ox05djMs3vWaQ/0?wx_fmt=jpeg",
+    "digest": "Linux内核世界的探险",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
+  },
+  {
+    "id": "2649779830_1",
+    "title": "无极低代码平台的AI之路",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649779830&idx=1&sn=80a117685170032fc5ea9820779f7f23&chksm=beccfd0d89bb741b2ec720db918a9cf0294d3aaf2560ebd8310ff708a82d8b5bbbce5bfec340#rd",
+    "publishTime": 1690279200,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/j3gficicyOvau0QHupiamgDB8pl08lVYcVdCOibNp38nYsNQ6oC0TmcicgTfL18WicXwzdelH8Nr6qRciaHibkttZvQofw/0?wx_fmt=jpeg",
+    "digest": "面向管理台的低代码工具",
+    "author": "",
+    "feedId": "MjM5ODYwMjI2MA=="
   }
 ]

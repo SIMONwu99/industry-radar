@@ -48,5 +48,295 @@
     "digest": "引言：随着 RAG（检索增强生成）和 Agent 成为大模型服务的主流形态，一条请求的 prompt 往往由几",
     "author": "",
     "feedId": "Mzg4OTc2MzczNg=="
+  },
+  {
+    "id": "2247495022_1",
+    "title": "🧨不仅仅是动效：实时交互系统如何打造极致沉浸的语音拜年体验",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247495022&idx=1&sn=7eb1330c84f53cbb9b965a05279bc2e1&chksm=cfe44f99f893c68f36eea058d4262a22e3d2dde9f3557e27fc6fc87ed888045c4a77f949632c#rd",
+    "publishTime": 1772618280,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/P9Hs04VFGRmZCukaxN9POGQolo4VBgBj1VntVuFfH90xolFAbeCRwdr0JGeO15icCPofDBB4DiczU0lDib8DfXRdpFiavORiceV14COE22zHnnO8/0?wx_fmt=jpeg",
+    "digest": "2026年春节期间，面对亿级DAU流量洪峰，IM业务成功落地了「语音拜年」与「表情烟花」两大重磅活动。",
+    "author": "",
+    "feedId": "Mzg4OTc2MzczNg=="
+  },
+  {
+    "id": "2247494972_1",
+    "title": "FireRed-OCR 开源发布：端到端方案新SOTA！小红书提出低成本文档识别训练范式",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247494972&idx=1&sn=1c6a1be0908cbe25194a5256b1eec48a&chksm=cfe44fcbf893c6dd05a2cfd2d26c1b56a8b639b123931a8f4591713e1d052ceaaf0929b5674a#rd",
+    "publishTime": 1772445514,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/P9Hs04VFGRl5icl21zuyLgOcCyfk63n0c5phCh2A0CZkiayZ7TZibmszwHRtNGOOHPhhmIfL0xQgtvhb2wRnia5XLTFmyxFPvtZrA0On5bI2Y0o/0?wx_fmt=jpeg",
+    "digest": "无缝兼容qwen系列加速方案，开箱即用的工业级 OCR 结构化专家。",
+    "author": "",
+    "feedId": "Mzg4OTc2MzczNg=="
+  },
+  {
+    "id": "2247494964_1",
+    "title": "小红书发布 SWE-Bench Mobile：当 AI Agent 面对亿级用户 App 代码库，最高通过率仅12%？",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247494964&idx=1&sn=5c2d005a1c9867f47165154464c141c4&chksm=cfe44fc3f893c6d5e1f23b8696fd512667a7e7431d00cb43838d60071760a914d2c1e1ab64a2#rd",
+    "publishTime": 1772186400,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/P9Hs04VFGRmJrTq7fq9MXTJoU8gQQnb3eRrHicrD5YiaWclaZc74KJ9CHWia5hXSgoknIrwVpFNk4DHIJYyRrUIMXxfRqDyWXrQU08XBcJ3zD0/0?wx_fmt=jpeg",
+    "digest": "小红书重磅发布 SWE-Bench Mobile：当 AI Agent 面对亿级用户 App 代码库，最高通过率仅12%？",
+    "author": "",
+    "feedId": "Mzg4OTc2MzczNg=="
+  },
+  {
+    "id": "2247494944_1",
+    "title": "小红书发布FireRed-Image-Edit：图像编辑新SOTA",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247494944&idx=1&sn=13ba550db3bc10dcc007f0e1b436af17&chksm=cfe44fd7f893c6c1df876d384d7641d1f3d9c311534edc8f53b74fe856e64e65749c52edd729#rd",
+    "publishTime": 1770891726,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/P9Hs04VFGRmDRK02JW8iaiarA0picD4zNyT1yKl6A8Q0ibFMwbaicekupWlO8FciaS2YJbz5j0sUKGHxxZARRK7rupI3zrmiblyDKOCrKeEB7WicXibA/0?wx_fmt=jpeg",
+    "digest": "小红书基础模型 FireRed-Image-Edit 正式亮相 GitHub。",
+    "author": "",
+    "feedId": "Mzg4OTc2MzczNg=="
+  },
+  {
+    "id": "2247494862_1",
+    "title": "「码」上有灵感！速来领取REDtech送你的马年专属红包封面",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247494862&idx=1&sn=188dbdf08ee9cbde7f6da979ca0191e7&chksm=cfe44e39f893c72ff4c6490e6b69193e632554c1a1c9f36d84472528f0adb1a359512fa8b486#rd",
+    "publishTime": 1770716686,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/P9Hs04VFGRkiaibkx8GsntPzHEBUW4jTtk7v9w9nuWyr8TtS7mFPibjKdLfULmmUdeCmM7BsV8UDr30UstuASy6OZqGB9NaIibfaTSaq3xUco7E/0?wx_fmt=jpeg",
+    "digest": "新的一年，愿大家代码无 Bug，上线皆顺利！",
+    "author": "",
+    "feedId": "Mzg4OTc2MzczNg=="
+  },
+  {
+    "id": "2247493932_1",
+    "title": "Hugging Face创始人 x 小红书技术副总裁：关于开源、AI与技术人成长",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247493932&idx=1&sn=a4c2b58b5e9af487ce5415dc01b72ae2&chksm=cfe44bdbf893c2cd4ce695b24e144cd9f750f57c402ff3aa06484a87c962f386410af08e3481#rd",
+    "publishTime": 1762142400,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/vxnkL2N86IvzCk4Xb5ibSRFORjvZXjerOuDMsxBDlPtrq2PZLDryYicpsQXWEiaAy9ZZmadCNhySUjOvKWr5iaJs9A/0?wx_fmt=jpeg",
+    "digest": "全球最大AI开源社区创始人空降小红书",
+    "author": "",
+    "feedId": "Mzg4OTc2MzczNg=="
+  },
+  {
+    "id": "2247493847_1",
+    "title": "技术、产品同学必看！一场关于「开源、AI、技术人成长」的1024特别课程",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247493847&idx=1&sn=a41877353e84a0a1d5f04a81d6b1a567&chksm=cfe44a20f893c3362b0405f7d9b30e3f68cda5db7fb4b369c66c7337e93230b66318f7bb0a84#rd",
+    "publishTime": 1761220800,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/vxnkL2N86IuQhVnQQn6QBecbzaZibpnyTMEIN27YSYTQ7MRhONmhIoVvtzBlC9LmV2ROsfcE0oQKmURo2YsHDPQ/0?wx_fmt=jpeg",
+    "digest": "点击正文组件，一键预约直播！",
+    "author": "",
+    "feedId": "Mzg4OTc2MzczNg=="
+  },
+  {
+    "id": "2247493774_1",
+    "title": "让我们一起恭喜小红书算法团队同学~",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247493774&idx=1&sn=1131f1984f49a0b9ff968cca72bb7f0f&chksm=cfe44a79f893c36f2a419bb28530cb555eb3c440ac8df861408246d32f31705bab08fe5426d2#rd",
+    "publishTime": 1759245178,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/vxnkL2N86ItPF41bayB6TCibNRR34T9B0h09wMUhS5QMcrfGLZYPMJiaiaJDuSIMzZBFsRJC9YIA8ZR7SXwVvpdXA/0?wx_fmt=jpeg",
+    "digest": "🥳国庆假期前的喜讯，必须第一时间和大家分享！\n🎉  在刚落幕的推荐系统顶会 RecSys 2025 上，小红书算法团队从全球数百篇论文中脱颖而出，成功斩获 「最佳论文提名」 ，此奖项全球仅五篇！\n👏论文创新性地提出「指数-高斯混合网络",
+    "author": "",
+    "feedId": "Mzg4OTc2MzczNg=="
+  },
+  {
+    "id": "2247493757_1",
+    "title": "小红书 Data+AI 数据平台实践",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247493757&idx=1&sn=8fbba310aa147bbd4aa037ca24e51664&chksm=cfe44a8af893c39ca1b23acabe9fadd87b1f2b88c4991be18f0c94a5c6bee7c51a6454989b5e#rd",
+    "publishTime": 1758535200,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/vxnkL2N86IuT1cfYvMd3COjiaSkvSRTdLn6L0L166nEQbDFAwDC0leiaJ2V8UotZIj525D6DZ3g9J9jx743DOqYw/0?wx_fmt=jpeg",
+    "digest": "一文看懂小红书如何通过打造 Notebook + Data+AI全链路血缘 + Copilot 代码助手，加速算法和 DS 的迭代效率，构建新一代 Data+AI 数据平台",
+    "author": "",
+    "feedId": "Mzg4OTc2MzczNg=="
+  },
+  {
+    "id": "2247493755_1",
+    "title": "行业领先！小红书智创音频技术团队打造SOTA对话生成模型 FireRedTTS-2",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247493755&idx=1&sn=dc0636cae11fbd278431c9fef55751ed&chksm=cfe44a8cf893c39a7ce4540a259032ec79f747f1af01b0881c6cca555dd93667d5c81511444c#rd",
+    "publishTime": 1758276000,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/vxnkL2N86IuickicAVe82OSfuYKTzmfZiaNtYREND1WLaw3k1eGL5ggfXDVf4MchIg0IFMgO0lyByYHa5JHIEdMfQ/0?wx_fmt=jpeg",
+    "digest": "解读对话生成新 SOTA：FireRedTTS-2",
+    "author": "",
+    "feedId": "Mzg4OTc2MzczNg=="
+  },
+  {
+    "id": "2247492875_1",
+    "title": "ACL 2025 | 效率最高提升300倍：TailoredBench实现大模型定制化高效评估",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247492875&idx=1&sn=44814fb42bb3acf3fd91b503e4cec97e&chksm=cfe447fcf893ceea73cb55039a48a3cf049fe6a15cf02c061bf50cf6968d5b26b3a32cfd34ec#rd",
+    "publishTime": 1748944800,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/vxnkL2N86IvBUic0oZXyZwTceiaBEFXTj9oDIia50prU3ibf1XXQFS4rNEr5RFESzT6nZSqGzialsg7B43mia8qd4wfA/0?wx_fmt=jpeg",
+    "digest": "小红书搜索团队提出LLM定制化评测框架 TailoredBench，为每个模型量身构建精简评测集，显著提升大模型评估效率、精度与跨模态稳健性，重塑评测范式，该成果入选 ACL 2025 Main。",
+    "author": "",
+    "feedId": "Mzg4OTc2MzczNg=="
+  },
+  {
+    "id": "2247492737_1",
+    "title": "ICML 2025 | 小红书 hi lab 团队提出多模态奖励模型泛化新方法",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247492737&idx=1&sn=34049a4b3b76bb5adea84870d20c46c9&chksm=cfe44676f893cf60df2064c5d659bb9245b0f12e71f7f533d1056789896162e3011ce67cb6f1#rd",
+    "publishTime": 1748512800,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/vxnkL2N86IvvdJ9z4yo07k3EV20iatUde9gqTuj6uKMv5psGH8WWfg23hdV0Ojy0z20ChyfKiaqpicfsWccw7gU2A/0?wx_fmt=jpeg",
+    "digest": "该研究探索如何构建可泛化的多模态奖励模型，分析并缓解了多模态奖励模型中普遍存在的单模态虚假关联，已被 ICML 2025 接收。",
+    "author": "",
+    "feedId": "Mzg4OTc2MzczNg=="
+  },
+  {
+    "id": "2247492498_1",
+    "title": "WWW2025 | 小红书向量检索团队提出超大规模向量检索图索引构建新方法",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247492498&idx=1&sn=d2b9eb109b3f1b3b85a1f05661a04176&chksm=cfe44165f893c87370ade67da4f257fe2e9391fc3e9dee6bf3eb17c4cd54037ede58d90dbdf9#rd",
+    "publishTime": 1747908000,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/vxnkL2N86IuGzZGaJFmHgQ9xgaKuPyuERfukJVP3fZia6Vau7rjQWUDvv8FyF4LWcibOhYpO6wFjt6Kz4CvEDs6A/0?wx_fmt=jpeg",
+    "digest": "面向百亿规模向量相似性搜索的可扩展、过载感知的图索引构建系统。",
+    "author": "",
+    "feedId": "Mzg4OTc2MzczNg=="
+  },
+  {
+    "id": "2247492491_1",
+    "title": "增量计算+实时湖仓构建小红书实验数仓生产新范式",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247492491&idx=1&sn=514d471c6ffc76c6ccf0c825877b45ae&chksm=cfe4417cf893c86ae58f700f331efb82d576df4068bf6e1f96274a94964196847498d8f50d72#rd",
+    "publishTime": 1747648800,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/vxnkL2N86ItJDqP7b1SPPy00SGMaGvjGYBiasaHqicx3rtdO75R9fEWNedNOWQm7tO53zlvyOsxjpbIey2icl3iabw/0?wx_fmt=jpeg",
+    "digest": "一文看懂小红书如何借助增量计算与数据湖新技术，突破传统实时数据架构的瓶颈，构建高效、低成本的近实时湖仓。",
+    "author": "",
+    "feedId": "Mzg4OTc2MzczNg=="
+  },
+  {
+    "id": "2247492375_1",
+    "title": "ICLR 2025 Spotlight｜小红书大模型评估新突破！UniCBE 最高节省 50% 标注成本",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247492375&idx=1&sn=66eda0ad7d9113067c490259770de7b7&chksm=cfe441e0f893c8f6aff4544074baf60804488c5edaf390ab88c3df1b56e8e762a51f7116dc91#rd",
+    "publishTime": 1741860000,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/vxnkL2N86IsUnQT8TNXib7UkAf7NVf5DSdIxfFjFR5w4nB62RjcevgiafDWuS0wFBuVljVQHBfTpxLB1IJsibflmA/0?wx_fmt=jpeg",
+    "digest": "小红书提出基于多目标优化的统一对比评估框架，被 ICLR 2025 收录为 Spotlight。",
+    "author": "",
+    "feedId": "Mzg4OTc2MzczNg=="
+  },
+  {
+    "id": "2247491499_1",
+    "title": "Apache Pulsar在小红书在线场景下的探索与实践",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247491499&idx=1&sn=279c4d3c83dedb0eba53bdb54f7469c1&chksm=cfe7bd5cf890344a8bb567266f2d9132f83b6c0e83002f494c5e2d739ea7053287e745823a4e#rd",
+    "publishTime": 1729677400,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/vxnkL2N86ItfaQpA0ViapvmHmBzRPYvT67Xxj3Q45SiaT3lVYBt6qlMt5dNFQSaPhwtjnJZCm256voPBADYGhdKA/0?wx_fmt=jpeg",
+    "digest": "Pulsar在小红书在线消息队列的场景下如何落地",
+    "author": "",
+    "feedId": "Mzg4OTc2MzczNg=="
+  },
+  {
+    "id": "2247491431_1",
+    "title": "小红书提出大模型推理加速算法 HASS 刷新 SOTA",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247491431&idx=1&sn=2714f95a1cf61632dbbd4aa12ae3104f&chksm=cfe7bd90f8903486f451a82b041c19ed580549c35ae64313231e04545fa4f01546bf7fb8a4f9#rd",
+    "publishTime": 1728642456,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/vxnkL2N86IvAsQZXjTKfVdCPoXXwqRyloH1EFic6LShicqcKiaZibvU4r1RL5zHXwRE9Beiay28RyziaDp1eX5lQeyyQ/0?wx_fmt=jpeg",
+    "digest": "聚焦草稿模型训练与解码间差异，强化两者在目标和上下文上对齐",
+    "author": "",
+    "feedId": "Mzg4OTc2MzczNg=="
+  },
+  {
+    "id": "2247491372_1",
+    "title": "AIOps在小红书的探索与实践——故障定位与诊断",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247491372&idx=1&sn=d61ad18a1a9e8d8e89079caf2f1587ca&chksm=cfe7bddbf89034cd859d3e7b96f322951a6ce14cf9cefc01e6268cb5df3dcc33d93d5e2af683#rd",
+    "publishTime": 1728467880,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/vxnkL2N86ItlyE0miaVGzhWWdVRXTwsPZlSFD9GYDwuMD8LfpLozBWmGX86QpJM2FlRiapicTr5AYb0anGUWjJqicA/0?wx_fmt=jpeg",
+    "digest": "微服务智能根因定位系统，帮助业务故障快速定位",
+    "author": "",
+    "feedId": "Mzg4OTc2MzczNg=="
+  },
+  {
+    "id": "2247491247_1",
+    "title": "多模态对齐在小红书推荐的研究及应用",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247491247&idx=1&sn=1adcef6e6eace2b47129a037d9a475c3&chksm=cfe7bc58f890354e9abacd80f220682c91c2d2924ec90e2efede19485277abea6f50363a9655#rd",
+    "publishTime": 1727085600,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/vxnkL2N86IvP6ziaPyDbNgBA9sCJHV1T96iaBicbG1cgt9M02SRdgmSVe6eyiaMIr6Yy8fNaC5P3VteINX7stSf6NA/0?wx_fmt=jpeg",
+    "digest": "小红书提出新型多模态推荐的对齐和训练框架AlignRec",
+    "author": "",
+    "feedId": "Mzg4OTc2MzczNg=="
+  },
+  {
+    "id": "2247491246_1",
+    "title": "小红书推出AIGC加速新算法TDD",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247491246&idx=1&sn=9600802fbe114bd9e60061778d029cee&chksm=cfe7bc59f890354f29f80b2158eaa6364a9bd8d28baecf4eda60aa5904ed8d4bd0888d0a40d3#rd",
+    "publishTime": 1726742961,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/vxnkL2N86IsNE1AbKfHkf1T26gdz2tNdStp4JJI0G8NeSufKV8fNuq1al4zsibOtL4pkWQzgjfOYY4XjxFNkZIg/0?wx_fmt=jpeg",
+    "digest": "由目标驱动蒸馏，文生图精准加速",
+    "author": "",
+    "feedId": "Mzg4OTc2MzczNg=="
+  },
+  {
+    "id": "2247490262_1",
+    "title": "大数据、数据架构、推荐冷启动...小红书的 AI 数据新方案都在这个会",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247490262&idx=1&sn=1c1d8b8ae2d773992986fecb8be42edc&chksm=cfe7b821f8903137644245164c17dc75649edc8982c2d901aba17df123b239579d37ff86d486#rd",
+    "publishTime": 1713186861,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/vxnkL2N86IuV8lUeicCZmorRCDTOxH7byhmoRkjJcWSJvCWLEG6WFn4cWv0swJ4rEHXDxd4vicmNPdbITPT7CicIQ/0?wx_fmt=jpeg",
+    "digest": "4 月 19 日，探索 AI 与数据最新实践，抽奖赢「DataFunCon 2024 · 上海站」门票！",
+    "author": "",
+    "feedId": "Mzg4OTc2MzczNg=="
+  },
+  {
+    "id": "2247490248_1",
+    "title": "小红书搜索团队提出新解码策略，降低大模型推理成本",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247490248&idx=1&sn=ae1aedbe18bc83cfda5aeba62d970206&chksm=cfe7b83ff890312990b30abeb1ef4bb55d183f63ce05a69a913d39937ce3d565a6080d007823#rd",
+    "publishTime": 1712743200,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/vxnkL2N86ItNIwlyyknt0uDicVT78nibxx2kEyicP7MJkZdRC7dgQq7JlcicwGKtoibvwP6Xtias9vGcrofhvXbeHQ4Q/0?wx_fmt=jpeg",
+    "digest": "此创新成果 Early-Stopping Self-Consistency 已被人工智能顶会 ICLR 2024 接收。",
+    "author": "",
+    "feedId": "Mzg4OTc2MzczNg=="
+  },
+  {
+    "id": "2247490201_1",
+    "title": "小红书离线数仓提效新思路，提升百倍回刷性能",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247490201&idx=1&sn=d23d1e6f237e51e9336fc5a36267065c&chksm=cfe7b86ef8903178c40235f03fd57e4e6991e0a3c9426463eb3853c392c7c0f1f3ef2a723aed#rd",
+    "publishTime": 1710756000,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/vxnkL2N86Itupd0rMdwrVzZlzQd7ZabgeibJFEzfb1xYOaSQT8kQC2AUlBKPkED6HpsUbdoENDt27JiaotrM6OTg/0?wx_fmt=jpeg",
+    "digest": "一文解析 StarRocks 如何提升数据处理效率，回刷时间减少 90%，回刷成本减少 99%",
+    "author": "",
+    "feedId": "Mzg4OTc2MzczNg=="
+  },
+  {
+    "id": "2247490162_1",
+    "title": "释放数据湖潜力：小红书如何实现数仓效率与成本的双重优化",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247490162&idx=1&sn=7ec3ebee9082fea123f5353745bc4a78&chksm=cfe7b885f8903193c3a425a669f2291fc547090689cf62be6967418f5b1560a4614a68be1557#rd",
+    "publishTime": 1709542800,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/vxnkL2N86IvpzsNDAkagpD0vYAVyMCSWst8bYhPrQ3AqcfLn0oMgHYhQjI7rYFFgHufyW2e7HNbsGoDyF0tn6A/0?wx_fmt=jpeg",
+    "digest": "实时技术与数据湖技术的结合，成为催动数仓架构迭代的新引擎，提升数仓产出时效&查询性能，助力数据协助业务决策走上新台阶。",
+    "author": "",
+    "feedId": "Mzg4OTc2MzczNg=="
+  },
+  {
+    "id": "2247490160_1",
+    "title": "GitHub 斩获 8300 星，小红书爆火开源 InstantID 要开直播了！",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247490160&idx=1&sn=e77a0a72f66e72d4fc267a267b633fce&chksm=cfe7b887f890319178e62353bb09031afc0f6ffc56424ca3418b48594f82401a5dcc0e48c13d#rd",
+    "publishTime": 1709029299,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/vxnkL2N86IvcjVD4LJkLnYk2qmDicUy7xEz0GZop1SGjwDEicuXzbJurdhYctYrpLiaqTplaDPh9ibs3exueGM2QLg/0?wx_fmt=jpeg",
+    "digest": "2 月 29 日 20:00-21:00，InstantID 幕后团队揭晓技术细节！",
+    "author": "",
+    "feedId": "Mzg4OTc2MzczNg=="
+  },
+  {
+    "id": "2247489225_1",
+    "title": "日均搜索 3 亿次，小红书如何打造年轻人首选的「搜索引擎」",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247489225&idx=1&sn=cfcc5f329fc8ebb66b2f52a8263aef9b&chksm=cfe7b43ef8903d28e0de89992428767c7f16379e250c49c7b79fd89cb71161186b7bc282f837#rd",
+    "publishTime": 1701688963,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/vxnkL2N86ItOibRmdvOujQBO9yqxJrp7uH3Tm6EyKAlwM8rEiaQkbZH6StuT6kAK89zyONGa0cyIQ00UOysaTe2A/0?wx_fmt=jpeg",
+    "digest": "一文解析小红书多模态语义理解能力",
+    "author": "",
+    "feedId": "Mzg4OTc2MzczNg=="
+  },
+  {
+    "id": "2247489154_1",
+    "title": "集群 CPU 利用率均值达 45% ，揭秘小红书规模化混部技术实践",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247489154&idx=1&sn=3447fc50244ac30524848b52d467749d&chksm=cfe7b475f8903d63b8de2e8fedbc8d8dcf7227844b077dd41a9da4f416f7e3ffcb957f10a591#rd",
+    "publishTime": 1701079200,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/vxnkL2N86IvuLL7wHdpfZ0ah3Jiaa8ZLQVkT1bVHENcRsCSM0YSWIbtYPNqKmmPq033trrEd0LUJH428u4ZNSGw/0?wx_fmt=jpeg",
+    "digest": "“资源利用率” 和 “系统稳定性” 的平衡追求",
+    "author": "",
+    "feedId": "Mzg4OTc2MzczNg=="
+  },
+  {
+    "id": "2247489113_1",
+    "title": "CNCC 2023 | 大模型全面革新推荐系统！产学界多位大咖精彩献言",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247489113&idx=1&sn=88f883b75a3f7820429b2e5a8a76e87c&chksm=cfe7b4aef8903db8b84d07df00697c71590c85907babdef5482edd8b9e34c7119ac2e3e0ee89#rd",
+    "publishTime": 1699264800,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/vxnkL2N86IsicVxYsvFWic4mBhv3fPPeTmbuEc5XWcPCcH50EialHuJBJbkAnSVHOwSxNE5LogxUqOMU5CIcHBaDw/0?wx_fmt=jpeg",
+    "digest": "论坛精彩要点来啦，五位重磅大咖联袂分享，线下观众挤爆报告厅，线上超 3.6 万名技术人士观看直播！",
+    "author": "",
+    "feedId": "Mzg4OTc2MzczNg=="
+  },
+  {
+    "id": "2247489084_1",
+    "title": "1024只有一天，小红书的程序员节竟然有 3 天",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247489084&idx=1&sn=96ae69744f22563a155c49a4461a9771&chksm=cfe7b4cbf8903ddd23e23fb76116c86781b41fea7b0215bf1a2f915894bbf7505b2c15d5f310#rd",
+    "publishTime": 1698386617,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/vxnkL2N86IswpOicfVXl573LZK7u4sqtZtbQMvnUwNNVGkwg7YN2wX3lOpZ6wMlqyXnQTfwnpGibfIYqTnMzsXNQ/0?wx_fmt=jpeg",
+    "digest": "揭开小红书1024程序员节的秘密",
+    "author": "",
+    "feedId": "Mzg4OTc2MzczNg=="
   }
 ]

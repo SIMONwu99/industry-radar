@@ -98,5 +98,445 @@
     "digest": "6月25日 周四下午，线上直播~",
     "author": "",
     "feedId": "MjM5NjQ5MTI5OA=="
+  },
+  {
+    "id": "2651782198_1",
+    "title": "美团发布基于 N-gram 全新模型：嵌入扩展新范式，实现轻量化 MoE 高效进化",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651782198&idx=1&sn=1fc74977fcd90d92f82c1f0709902df0&chksm=bd12257b8a65ac6db20f186e52aa93a271309ce1bf1250f7a6a202299d6f39b4131935fba1c6#rd",
+    "publishTime": 1770603802,
+    "cover": "http://mmecoa.qpic.cn/mmecoa_jpg/V95GN2mm0DyrWibDXH7z3mYbuKnnzGAmGSU2WXLA9VdcSjRBjhhIsHFFyCdvE0miaa1ApnQB1mxFHEvpqzUGAzkQ8iceDMyIHVMgqxbUnrY0to/0?wx_fmt=jpeg",
+    "digest": "LongCat-Flash-Lite 正式发布！",
+    "author": "",
+    "feedId": "MjM5NjQ5MTI5OA=="
+  },
+  {
+    "id": "2651782198_2",
+    "title": "美团无人机年度报告",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651782198&idx=2&sn=bd5e18cf2ce92d777564d527023328c0&chksm=bd12257b8a65ac6dea713b87b45853343fd676552567f8b5b65098e569c3012288bdb57ebde5#rd",
+    "publishTime": 1770603802,
+    "cover": "http://mmecoa.qpic.cn/mmecoa_jpg/V95GN2mm0Dy9nHdArdPAPdQCLdOOrFQCfQVS9nX0kR6NeohllPanQ1tibbgrlTg5icU0picibPe9YdmelrkoOg5IG7RibiaHjPzjVSTiahfVhKPMJ0/0?wx_fmt=jpeg",
+    "digest": "飞越2025，为万千期待提速，奔赴2026，让科技的温度延伸至更多角落。",
+    "author": "",
+    "feedId": "MjM5NjQ5MTI5OA=="
+  },
+  {
+    "id": "2651782180_1",
+    "title": "NoCode 挑战赛倒计时 33 天！万元奖金冲就对了～ 教学资源包 + 冲刺福利已就位！",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651782180&idx=1&sn=f9dc0a4f39c26eb3baa6c1a56e43234f&chksm=bd1225698a65ac7fd4a9ef3707d2d2fb7d6f8ec3898f59fb1af0a6b2a3b7518208f43a940727#rd",
+    "publishTime": 1770292680,
+    "cover": "http://mmecoa.qpic.cn/sz_mmecoa_jpg/V95GN2mm0Dyxibq06XJGqNeEE9gyPOnZQ3QxQ6Zjohia3y6RlNWvgXn7cD6t6UIibzHupZzWDVoPffP5DaRbXv1VicPPuiazoVvQlDmQ1ZqXu4yg/0?wx_fmt=jpeg",
+    "digest": "NoCode 挑战赛倒计时 33 天！万元奖金、春招实习 offer 冲就对了～ 教学资源包 + 冲刺福利已就位！",
+    "author": "",
+    "feedId": "MjM5NjQ5MTI5OA=="
+  },
+  {
+    "id": "2651782172_1",
+    "title": "互动有奖 | 美团技术年货加更，活动沉淀来啦！",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651782172&idx=1&sn=bd821367fc1f3475739c43302a62cb9c&chksm=bd1225518a65ac47256b2bc61bf2774a13b882deb044544d2810687907d5a2ef12a8f714a218#rd",
+    "publishTime": 1770206280,
+    "cover": "http://mmecoa.qpic.cn/sz_mmecoa_jpg/hEx03cFgUsWws4BM3Hvw3QNe80uOI7l49RMP1stO5Cmwv60Q2Nmr5h2DJdlw01zUcoibUz0WC34tRibmiaiaBictZkw/0?wx_fmt=jpeg",
+    "digest": "参与互动赢新年大礼包（实物礼盒）~",
+    "author": "",
+    "feedId": "MjM5NjQ5MTI5OA=="
+  },
+  {
+    "id": "2651782134_1",
+    "title": "2025美团技术年货，「马」上到来 | 内含新春福利",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651782134&idx=1&sn=c1b0c82f9ddd9772dc4c33fbe779db23&chksm=bd1222bb8a65abada26cdc2ae0ae34d861af1efae769aedd21320a4d9130641ef2b41b8b4ba5#rd",
+    "publishTime": 1769687880,
+    "cover": "http://mmecoa.qpic.cn/sz_mmecoa_jpg/hEx03cFgUsWfwA8YMDkl3BUR2Kibza0msRvcDqhJlKbo7gicUsp6we62LnIJNr6V1IyLXSH9SeW2Sf2YGYmctmEQ/0?wx_fmt=jpeg",
+    "digest": "感谢伙伴们的并肩前行与坚定支持！祝大家新春快乐~ ~",
+    "author": "",
+    "feedId": "MjM5NjQ5MTI5OA=="
+  },
+  {
+    "id": "2651782134_2",
+    "title": "多维创新打造强泛化智能体模型，LongCat-Flash-Thinking-2601技术报告发布",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651782134&idx=2&sn=c24279b767c35afc1733cb7d1f73f3f3&chksm=bd1222bb8a65abad24ce83d89403500c07f2563a61ea495d0a273d3385c129e6e7ca7237c795#rd",
+    "publishTime": 1769687880,
+    "cover": "http://mmecoa.qpic.cn/sz_mmecoa_jpg/hEx03cFgUsW8KXOiaaJRYXsMF3CtNpicEOqf48TQPjRVf1bC36lRxte6z1S0RNoNKbI9fGMKDmHsAbuUxEcRToyg/0?wx_fmt=jpeg",
+    "digest": "深入解析 LongCat 如何通过多维度的创新打造强泛化的智能体模型",
+    "author": "",
+    "feedId": "MjM5NjQ5MTI5OA=="
+  },
+  {
+    "id": "2651782084_1",
+    "title": "美团EvoCUA刷新开源SOTA，会用电脑还会持续进化的智能体",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651782084&idx=1&sn=98560b56a5902e9b4c19421be46084e6&chksm=bd1222898a65ab9fd5894f3a4e218902fffb70e62e86b431bf6d8cb050fac049dafc91852cd5#rd",
+    "publishTime": 1769135040,
+    "cover": "http://mmecoa.qpic.cn/sz_mmecoa_jpg/hEx03cFgUsVxfF6ltFNej8JR7DiclLW156WNmYAuNlOXOgbnRV8j57CynZzmf6Jrf3LOZrS9ibFJz4hiapk0u6ltQ/0?wx_fmt=jpeg",
+    "digest": "EvoCUA致力于构建一种进化范式，让模型在大规模沙盒环境中，像生物进化一样，通过不断的试错，反思和修正，积累海量成功和失败经验，进而不断提升自身能力。",
+    "author": "",
+    "feedId": "MjM5NjQ5MTI5OA=="
+  },
+  {
+    "id": "2651781415_2",
+    "title": "报名丨IROS 2025·美团机器人研究院学术年会邀您共赴杭州",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651781415&idx=2&sn=51317c8e98cfbf47f26152f2d9437539&chksm=bd12206a8a65a97c8e8abd27e0fab7d1d27b9bda0d0158683d63d1881a8057f092f95fc63754#rd",
+    "publishTime": 1757591880,
+    "cover": "http://mmecoa.qpic.cn/sz_mmecoa_jpg/hEx03cFgUsVCC4TNj4TJluTddeUmnBhMRzYibrkUiat0XErxXVgJjMldhNRneMMZLibglnkMYLl5DeBdSOibfE8ibEQ/0?wx_fmt=jpeg",
+    "digest": "美团机器人研究院学术年会，共探机器人技术商业化应用发展。",
+    "author": "",
+    "feedId": "MjM5NjQ5MTI5OA=="
+  },
+  {
+    "id": "2651781386_1",
+    "title": "报名 | 清华美团数字生活研究院学术论坛——大模型：前沿理论与产业变革",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651781386&idx=1&sn=f5c9294a9c6da17b46a786d1723efabd&chksm=bd1220478a65a9510feabc59ad876384511f63e51a62c4becdb0fcff1e74ed622139d0a2d329#rd",
+    "publishTime": 1756987080,
+    "cover": "http://mmecoa.qpic.cn/sz_mmecoa_jpg/hEx03cFgUsXSjEuG9hVhyHNp27e4bAERCdrhETicxVPAPUox9RHuj4SSglxf8ibHjgNbDqyo54ZGLAAN5yuxtXPQ/0?wx_fmt=jpeg",
+    "digest": "学界+产业界强大嘉宾阵容，美团 LongCat 团队首次对外发声",
+    "author": "",
+    "feedId": "MjM5NjQ5MTI5OA=="
+  },
+  {
+    "id": "2651781364_1",
+    "title": "美团正式发布并开源 LongCat-Flash-Chat，动态计算开启高效 AI 时代",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651781364&idx=1&sn=fcfad8ea94c40ccf9b14cf840fbc8e78&chksm=bd1221b98a65a8af5b4d5d4287b4181d78abfbfda000e46615698cb6d7c1c6dd2d9490e85242#rd",
+    "publishTime": 1756692600,
+    "cover": "http://mmecoa.qpic.cn/sz_mmecoa_jpg/hEx03cFgUsX4nQMAn0Z9QZ2ciaIt5QZRqUH7kugjZnHKxw1sNoxXiaLTHn96y2EWuOUnJ7tT0UDWXbJTQQ0DiaZWw/0?wx_fmt=jpeg",
+    "digest": "今天，我们正式发布 LongCat-Flash-Chat，并同步开源。",
+    "author": "",
+    "feedId": "MjM5NjQ5MTI5OA=="
+  },
+  {
+    "id": "2651781354_1",
+    "title": "美团 M17 团队开源 Meeseeks 评测集：揭秘大模型的 “听话”能力",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651781354&idx=1&sn=437c965fefdad34bfaedfc74f0071d62&chksm=bd1221a78a65a8b13a05f3bb111332ede1d3a163893a937d1bd24461b34c02b1e8c6f47f44f7#rd",
+    "publishTime": 1756382280,
+    "cover": "http://mmecoa.qpic.cn/sz_mmecoa_jpg/hEx03cFgUsVUZbC6TWcLsZJpUnXBw3jccJNBgqpbuiaFnBQRzf3K1O2kq4BCF0FJFtYafy4k8HIOjQv1000PYNA/0?wx_fmt=jpeg",
+    "digest": "美团 M17 团队推出全新评测基准 Meeseeks，并在GitHub、Huggingface、魔搭社区等开源平台上线。",
+    "author": "",
+    "feedId": "MjM5NjQ5MTI5OA=="
+  },
+  {
+    "id": "2651781337_1",
+    "title": "可信实验白皮书系列08：开放式分析引擎 | 附PDF合集下载",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651781337&idx=1&sn=a693896385a6049e840f09646d34e776&chksm=bd1221948a65a8826e420c27a862a04595c28d393ee8d6fe316ae2f107bff5a5b407e5946438#rd",
+    "publishTime": 1755777480,
+    "cover": "http://mmecoa.qpic.cn/sz_mmecoa_jpg/hEx03cFgUsWDaM3wvmc1xyYk00RVv5wEsphEKNIM50lrEWyyVNNnZeaGhBxfRmD2mVEZvbUOD1qv4vXgmHHAyw/0?wx_fmt=jpeg",
+    "digest": "本篇为《可信实验白皮书》系列的最后一篇内容，主要分享了AB实验分析方法库在美团的实践。同时，我们也为大家准备了一份本系列全部文章的PDF合集，希望能够帮助到更多从事AB实验工作的同学们。",
+    "author": "",
+    "feedId": "MjM5NjQ5MTI5OA=="
+  },
+  {
+    "id": "2651781337_2",
+    "title": "【报名】MARS TALK 香港理工大学站｜高动态环境下的智能机器人",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651781337&idx=2&sn=87cd6b63fbf0aebfbdbe64c481979c7c&chksm=bd1221948a65a882c04757ee0120591332ebb67c87feb391fa920a144b4c994f0acd9f2de01b#rd",
+    "publishTime": 1755777480,
+    "cover": "http://mmecoa.qpic.cn/sz_mmecoa_jpg/hEx03cFgUsWDaM3wvmc1xyYk00RVv5wEH9CKAOiaZxdVkMicR1nfVaeiauvjia2D54D9Z3h5exfxUum9LkGCeU8Y5w/0?wx_fmt=jpeg",
+    "digest": "线上线下报名同步开启，点击预约解锁前沿观点，一同碰撞思想火花。",
+    "author": "",
+    "feedId": "MjM5NjQ5MTI5OA=="
+  },
+  {
+    "id": "2651781337_3",
+    "title": "美团AI人才招聘进行时，大模型/感知算法…多个岗位热招中！",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651781337&idx=3&sn=d6e62d0e95e8cbe5cbc6da719090ad63&chksm=bd1221948a65a882f34b76f8ebc6b1f79e6f8bef939542b3a2886289b61d43a04dcd90ab8861#rd",
+    "publishTime": 1755777480,
+    "cover": "http://mmecoa.qpic.cn/sz_mmecoa_jpg/hEx03cFgUsWDaM3wvmc1xyYk00RVv5wEMyKpbHQbSxgATC3zxhjCj7F93PlbiaicCUJJxxckWw2nOPgqriakILtIQ/0?wx_fmt=jpeg",
+    "digest": "欢迎加入美团的AI事业，让我们一起定义下一个十年！",
+    "author": "",
+    "feedId": "MjM5NjQ5MTI5OA=="
+  },
+  {
+    "id": "2651780212_1",
+    "title": "2024-2025 | 美团科研合作课题评优",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651780212&idx=1&sn=4a545a26c0739904a4f8f16bb986a2f6&chksm=bd122d398a65a42fd4762dcd2d28cb910fea94d56ffa5cc89942af8b7344c0eaefc1990bfde3#rd",
+    "publishTime": 1744956463,
+    "cover": "http://mmecoa.qpic.cn/sz_mmecoa_jpg/hEx03cFgUsWytxkuWerIfICfRBZuFrsnr11ttEJicMCkicmHicPaCicckPX2RvuPK1HHfhM6fkvON3aebBlDyicLB6g/0?wx_fmt=jpeg",
+    "digest": "美团科研合作致力于搭建美团技术团队与学术界的合作桥梁，用真实场景支持前沿探索，让学术研究落于实际应用。",
+    "author": "",
+    "feedId": "MjM5NjQ5MTI5OA=="
+  },
+  {
+    "id": "2651780212_2",
+    "title": "2025美团科研合作课题公开征集 | 倒计时10天",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651780212&idx=2&sn=3fee49849241f1baf44e4f33e3428f29&chksm=bd122d398a65a42f5b3b4a1482b1a87c96920f0d9a147b0258db9b6dcf278099311343b59bd6#rd",
+    "publishTime": 1744956463,
+    "cover": "http://mmecoa.qpic.cn/sz_mmecoa_jpg/hEx03cFgUsXUibFsPSYrRxiaXA305jp90pR6sWXRQ6usWVGibs7RiaGfuqcLwmsqYQg1SJWVAVrrianaMhP9l8xzDSw/0?wx_fmt=jpeg",
+    "digest": "2025年，美团科研合作继续开放部分议题，公开征集提案，欢迎广大优秀学者申报。",
+    "author": "",
+    "feedId": "MjM5NjQ5MTI5OA=="
+  },
+  {
+    "id": "2651780190_1",
+    "title": "论文解读及活动预告 | ICLR&CVPR 2025美团技术团队论文精选",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651780190&idx=1&sn=0fd5adec4f8fce391de1d323dda12343&chksm=bd122d138a65a405b5392a572c4165312ce6f5c89ad3985b9ae7cf9d5287582b90456ec0fd41#rd",
+    "publishTime": 1744286280,
+    "cover": "http://mmecoa.qpic.cn/sz_mmecoa_jpg/hEx03cFgUsX8fiaIAtiblvLUrTbtCyEH8ZMobvolzN4Qu1zQ6ee35OfL6Pzh47jmdAOzO3jb3GHxX2mhicwh1TMibA/0?wx_fmt=jpeg",
+    "digest": "本文精选了国际顶会ICLR&CVPR 2025的10篇论文进行介绍。还有ICLR现场面对面和线上分享会等你来参与~",
+    "author": "",
+    "feedId": "MjM5NjQ5MTI5OA=="
+  },
+  {
+    "id": "2651780190_2",
+    "title": "让每个人都能有一个专属的生活小秘书 | Native AI Agent 集结号",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651780190&idx=2&sn=ff97558a427660463a2a2a3b0d8db6f5&chksm=bd122d138a65a4057cbbabd40f33169f124ae1a8a4d200d406803e8b3429b3d3a9b583fec374#rd",
+    "publishTime": 1744286280,
+    "cover": "http://mmecoa.qpic.cn/sz_mmecoa_jpg/hEx03cFgUsX8fiaIAtiblvLUrTbtCyEH8ZMKTibl7IibuBNQIKVXeaA7Eqa4yosiaewC7G3ozEWCXWxfPdxib5qA5yTw/0?wx_fmt=jpeg",
+    "digest": "欢迎对AI有强烈热情的研发同学加入！",
+    "author": "",
+    "feedId": "MjM5NjQ5MTI5OA=="
+  },
+  {
+    "id": "2651780131_1",
+    "title": "2025美团科研合作课题公开征集启动",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651780131&idx=1&sn=3be1602915d1637b0377835f30f67d0b&chksm=bd122d6e8a65a478888360859af898de938613343e0c97a2867a7f83a83fe6a257d27f04cf7a#rd",
+    "publishTime": 1743076680,
+    "cover": "http://mmecoa.qpic.cn/sz_mmecoa_jpg/hEx03cFgUsXUibFsPSYrRxiaXA305jp90pR6sWXRQ6usWVGibs7RiaGfuqcLwmsqYQg1SJWVAVrrianaMhP9l8xzDSw/0?wx_fmt=jpeg",
+    "digest": "2025年，美团科研合作继续开放部分议题，公开征集提案，欢迎广大优秀学者申报。",
+    "author": "",
+    "feedId": "MjM5NjQ5MTI5OA=="
+  },
+  {
+    "id": "2651780131_2",
+    "title": "上海交大-美团联合论文：长Prompt对齐问题也能评估了 | CVPR 2025",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651780131&idx=2&sn=f90c1f4b1928530804ba39167a86f7bd&chksm=bd122d6e8a65a47896038ac09fbe64f1f4aa884e6fc270a9b1f28256ff08d04750da30173571#rd",
+    "publishTime": 1743076680,
+    "cover": "http://mmecoa.qpic.cn/sz_mmecoa_jpg/hEx03cFgUsVVhSFWlLaRlUVA5frOZnEMuaJzE7TfeF77LicQNF9hwYqbrKJS4mzRMJUqOY6QEYsKIQGQqBQCjBA/0?wx_fmt=jpeg",
+    "digest": "上海交通大学-美团计算与智能联合实验室发布论文。",
+    "author": "",
+    "feedId": "MjM5NjQ5MTI5OA=="
+  },
+  {
+    "id": "2651780114_1",
+    "title": "美团大模型北斗实习计划2025——全球顶尖科技人才孵化培养正式启动",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651780114&idx=1&sn=c89f6ad4e27045e9f9482650fc7d2622&chksm=bd122d5f8a65a449e97209b969096e02df610660e527b8892645f21c17cf5cc47d2ff394241d#rd",
+    "publishTime": 1742471880,
+    "cover": "http://mmecoa.qpic.cn/sz_mmecoa_jpg/hEx03cFgUsWOvicCjr1dZNSA5rI6YWM0giaXf8S1eZ7wesibwV0RXEOEHh5D078oFL1eaP4PHg3FEpgX4XPodXpUA/0?wx_fmt=jpeg",
+    "digest": "聚焦大语言模型、多模态等方向，选拔对科学\r\n研究充满热情和潜力的校园人才。",
+    "author": "",
+    "feedId": "MjM5NjQ5MTI5OA=="
+  },
+  {
+    "id": "2651780114_2",
+    "title": "空降香港！美团无人机率先在港启航",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651780114&idx=2&sn=72afccc0df31f84cbbbdd8d21cdd3ee4&chksm=bd122d5f8a65a4495f0e3594c2bf35c66667c31dedd3594ebf03cefc68b059612151f47c1023#rd",
+    "publishTime": 1742471880,
+    "cover": "http://mmecoa.qpic.cn/sz_mmecoa_jpg/hEx03cFgUsWOvicCjr1dZNSA5rI6YWM0gPSzmTOagoGJdyibvPXGdqDvHNSUwC5fcCLhVqbFqM1Ajib7Et3ZYfPqQ/0?wx_fmt=jpeg",
+    "digest": "3月20日，香港政府宣布首批低空经济监管沙盒试点项目名单，美团无人机入选。启动仪式现场，美团无人机在港完成首单低空物流配送任务。",
+    "author": "",
+    "feedId": "MjM5NjQ5MTI5OA=="
+  },
+  {
+    "id": "2651779995_1",
+    "title": "空降复旦！上海首条高校无人机配送航线启航",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651779995&idx=1&sn=122a728faad109edfbcfd4358fee300d&chksm=bd122ad68a65a3c001805c9e532ee7a70e31e445f7ef12a4bac12a05d6d432872f795a9f20df#rd",
+    "publishTime": 1741867080,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hEx03cFgUsUtSHnjGtJISr1YRYGeUGzNia2wZARoMzibqfKiabdYgu3JZdIbKgJxriaYWXleGpP8ZFyZkrsXUbIUEw/0?wx_fmt=jpeg",
+    "digest": "近日，美团无人机在复旦大学正式开航，打造上海首条高校场景无人机配送航线。",
+    "author": "",
+    "feedId": "MjM5NjQ5MTI5OA=="
+  },
+  {
+    "id": "2651779352_1",
+    "title": "KDD 2024 OAG-Challenge Cup赛道三项冠军技术方案解读 | 内含中秋福利",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651779352&idx=1&sn=e8f0cc8def31133e54692fa9c62d7fc9&chksm=bd1228558a65a14364bc9db487ce09d29ed5a590bc6427976398abaa6281b8c6f4339dcc2150#rd",
+    "publishTime": 1726142280,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hEx03cFgUsVJmMEFdaawclC4X16iahQTibwBW6kjV58e0iaow2CtFJDlCMYoJ8RChgxU14wQh0G34VpDo6uzMLFKA/0?wx_fmt=jpeg",
+    "digest": "在本次竞赛中，团队创新性地采用大模型来解决学术挖掘领域中的论文同名消歧、论文源头追溯、学术论文检索三个经典难题，显著优于特征工程、GNN、BERT等传统方案。（内含中秋福利，欢迎参与）",
+    "author": "",
+    "feedId": "MjM5NjQ5MTI5OA=="
+  },
+  {
+    "id": "2651779329_1",
+    "title": "新一代实验分析引擎：驱动履约平台的数据决策",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651779329&idx=1&sn=01a597dea1d13a01bced054cba424bb6&chksm=bd12284c8a65a15a82dd3f932db41fba5add5da6b9a8567f83aea18dc7235722d91e2848c16f#rd",
+    "publishTime": 1725537480,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hEx03cFgUsWobANpgtPCDwRmDSoBnCeUWUjM6ibrJxk8US5EBL1WvyH34lfB9FvajUxb2zZ2DfeZu4056TPhUfw/0?wx_fmt=jpeg",
+    "digest": "新一代实验分析引擎，该引擎对核心实验框架进行了标准化，并融合了众多先进解决方案，有效解决小样本挑战。同时，提供了多样化的溢出效应应对策略，并针对不同业务场景提供了精准的方差和P值计算方法，以规避统计误差。",
+    "author": "",
+    "feedId": "MjM5NjQ5MTI5OA=="
+  },
+  {
+    "id": "2651779329_2",
+    "title": "校招 | 美团基础研发平台，心动Offer等你来！",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651779329&idx=2&sn=0276e7c523724d5d6a4df8e5719457f3&chksm=bd12284c8a65a15a840b92488b5e607ff20efc57f6ac9fc0aabfc835fdaaddf13fac33807db4#rd",
+    "publishTime": 1725537480,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hEx03cFgUsWobANpgtPCDwRmDSoBnCeUFgzEpql1ibqjfoGic9c3sWpVibAszPjfzJzgaa22VJR6RxDRtAXo6SaSQ/0?wx_fmt=jpeg",
+    "digest": "美团基础研发平台热招中！",
+    "author": "",
+    "feedId": "MjM5NjQ5MTI5OA=="
+  },
+  {
+    "id": "2651779329_3",
+    "title": "社招｜美团Keeta技术岗位热招中，邀你共赴星辰大海！",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651779329&idx=3&sn=bce5a58df78872a77261cec1ce8ec63a&chksm=bd12284c8a65a15a6612884d91a25bdfd604d876f0d0750ca6739da7b656d0295967b9c39808#rd",
+    "publishTime": 1725537480,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hEx03cFgUsWobANpgtPCDwRmDSoBnCeUbSIe6JqNrTicrAGbPS7dQVtITcqbKnum0hQOYrRQibzvJa2QeUfV503A/0?wx_fmt=jpeg",
+    "digest": "美团Keeta技术岗位热招中！",
+    "author": "",
+    "feedId": "MjM5NjQ5MTI5OA=="
+  },
+  {
+    "id": "2651779193_1",
+    "title": "报名时间延长｜第二届低空经济智能飞行管理挑战赛",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651779193&idx=1&sn=c85c4ee282f7017be30a23fdc1d35f92&chksm=bd1229348a65a022df38e825a8ea9dc450923de6ce4e59fd18305495be35b79b26fbd9ceb255#rd",
+    "publishTime": 1724327880,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hEx03cFgUsWHZEXyn0EJa9WcjC26gyCUmoibH1fDLDf7n1OOMNjfIg5HwdPpm1vGadHROiauRZRlHBNThfCVgyeg/0?wx_fmt=jpeg",
+    "digest": "报名截止时间延长至8月30日！点击立即报名！",
+    "author": "",
+    "feedId": "MjM5NjQ5MTI5OA=="
+  },
+  {
+    "id": "2651779193_2",
+    "title": "报名｜MARS TALK 第04期：多场景机器人环境感知技术",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651779193&idx=2&sn=564b9084451fee0e9a37c56c05ac356b&chksm=bd1229348a65a02246a334d997f043984802c467caf61f753bd932198578124f204bb5bed055#rd",
+    "publishTime": 1724327880,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hEx03cFgUsWHZEXyn0EJa9WcjC26gyCUKxgsWQUYUAJEsYH48F5wdSNAdeSjMQEsFjiarpZ2jIr2rv8xt66vFdQ/0?wx_fmt=jpeg",
+    "digest": "探讨机器人技术在学术研究和行业应用中的最新发展及热点问题。",
+    "author": "",
+    "feedId": "MjM5NjQ5MTI5OA=="
+  },
+  {
+    "id": "2651779101_1",
+    "title": "大众点评技术部包揽KDD 2024 OAG-Challenge Cup赛道全部3项冠军",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651779101&idx=1&sn=1876fa6d40056e580b75df411481cd2c&chksm=bd1229508a65a0468716c34470ac5dd00db8a5d87e21bd68955c825f28e6f1fe3e75d1c3a227#rd",
+    "publishTime": 1723118280,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hEx03cFgUsUWy3SKyp9Ib6wufp7IVxzTia12tgWPFnpIbZ0scez8tiaXpvjhsCjXk1WXXFXHmaSg0kVUoHaqIHtQ/0?wx_fmt=jpeg",
+    "digest": "ACM SIGKDD是数据挖掘领域的国际顶级会议。",
+    "author": "",
+    "feedId": "MjM5NjQ5MTI5OA=="
+  },
+  {
+    "id": "2651779101_2",
+    "title": "ACL 2024 | 美团技术团队精选论文解读 & 论文分享会预告",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651779101&idx=2&sn=b7c4aa20103b68f3849a0446d938b85f&chksm=bd1229508a65a0467c631874a73926784e8192a2508f1306cb16e0cb93a93cdd323f6ca21edf#rd",
+    "publishTime": 1723118280,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hEx03cFgUsUWy3SKyp9Ib6wufp7IVxzTJSNTSGF6eUAGvxgCZibzVKHicBecBcy8nXKt92BLuNKXWXItWsBbOmDg/0?wx_fmt=jpeg",
+    "digest": "本文精选了美团技术团队被ACL 2024收录的4篇论文进行解读，论文内容覆盖了训练成本优化、投机解码、代码生成优化、指令微调（IFT）等技术领域。",
+    "author": "",
+    "feedId": "MjM5NjQ5MTI5OA=="
+  },
+  {
+    "id": "2651779101_3",
+    "title": "报名 | 美团技术沙龙第83期：前端新动向",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651779101&idx=3&sn=b49a51739a7ed46748bd761875a85fd0&chksm=bd1229508a65a046f1f3123a76de5a5b5a5f435ce1c9e6d44b72e925150c3fd3d135320b69c8#rd",
+    "publishTime": 1723118280,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hEx03cFgUsUWy3SKyp9Ib6wufp7IVxzTyHwwjRFdMXg90gSodzsxo2yJIQmoMPKrgNcoSTN5Bv7vibPUzoTicmyg/0?wx_fmt=jpeg",
+    "digest": "欢迎报名，了解前端新动向！",
+    "author": "",
+    "feedId": "MjM5NjQ5MTI5OA=="
+  },
+  {
+    "id": "2651779018_1",
+    "title": "立即报名｜第二届低空经济智能飞行管理挑战赛",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651779018&idx=1&sn=34d22b7b4d5fa65c6d4ee6fbe56d38e1&chksm=bd1236878a65bf91286118eb5478b01eb67f0ad608560b9056b47e77355ebbc223ac6d963a81#rd",
+    "publishTime": 1722513480,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hEx03cFgUsXVCBFW5Whaz9uOd5mbCqjZJmqaTzOOHfr3b0OqibqHmLUsbYicBVYV2qplY7P5uScjXm6Wqp3L9qNg/0?wx_fmt=jpeg",
+    "digest": "戳我报名！更多详情等你来查看~~",
+    "author": "",
+    "feedId": "MjM5NjQ5MTI5OA=="
+  },
+  {
+    "id": "2651779018_2",
+    "title": "招6000人，美团2025届校园招聘7月29日全球启动",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651779018&idx=2&sn=608606816321ad74f2f96fb719799598&chksm=bd1236878a65bf91a1c6066f3c3e0ce99c7340ad209aed8003a8567206b820015d114e7b774c#rd",
+    "publishTime": 1722513480,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hEx03cFgUsXVCBFW5Whaz9uOd5mbCqjZCFmlXXy5vibribgffDqOFT7Mk8SxXMVgziaWp15VCe5ouKaF0T3ZicFUvA/0?wx_fmt=jpeg",
+    "digest": "面向人群：毕业时间在2024年11月-2025年10月的海内外院校应届毕业生",
+    "author": "",
+    "feedId": "MjM5NjQ5MTI5OA=="
+  },
+  {
+    "id": "2651776864_1",
+    "title": "美团技术年货 | 600+页电子书，前端、后端、算法、测试、运维系列大合集",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651776864&idx=1&sn=a1499cd3d383effe263f363c7adbf60b&chksm=bd123e2d8a65b73ba18d41b2d5c5d973e71f914f8ae6f7cb25b27e822e3374e7b7709ecd8b8a#rd",
+    "publishTime": 1706788680,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hEx03cFgUsWcIlPz4Js2xDfUKUZoR9kGbkczZYrdzpVOabSSJXPm0Uxoicsl5OrbtSvVvib9w0MYLbYslMKqTbFA/0?wx_fmt=jpeg",
+    "digest": "新春将至，美团技术年货也如期到来！祝愿大家在甲辰龙年，幸福平安，行稳致远。",
+    "author": "",
+    "feedId": "MjM5NjQ5MTI5OA=="
+  },
+  {
+    "id": "2651776802_1",
+    "title": "美团RASP大规模研发部署实践总结",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651776802&idx=1&sn=d9188c012924923b6e4116be46df15b2&chksm=bd123e6f8a65b7798ac5dbb0a1abe53053ad1dc972c43939faa36c260559d8b345a4e2bfd003#rd",
+    "publishTime": 1705579080,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hEx03cFgUsVyeiaUhGTiayuMD9wjGdhwJmBpfBwlicdtNFmniaUMSEErP0EOLnttjgXg5x8n5uZaCK39s0WLfvTiaGQ/0?wx_fmt=jpeg",
+    "digest": "RASP （Runtime Application Self-Protection，运行时应用自我）技术作为一种新型的安全防护手段，正在逐渐被业界接受并广泛应用。本文介绍了美团RASP大规模研发部署实践。",
+    "author": "",
+    "feedId": "MjM5NjQ5MTI5OA=="
+  },
+  {
+    "id": "2651776778_1",
+    "title": "2023美团技术沙龙盘点：21个视频揭秘复杂业务场景背后的技术实践 | 内含福利",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651776778&idx=1&sn=088a5c28b357501e37f4c3e7cdbdab4d&chksm=bd123e478a65b751188d4414f66f6fc8ac4013c72fa44e1542c8fd3c245971b1557769ba1d2e#rd",
+    "publishTime": 1704974280,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hEx03cFgUsVQHWQOHBhEF4up2STWDov29Ljt4gfHVRNvfSgtWVwDqtBIhv2e7BLyyJt3omnxn4HqczvokRn4zg/0?wx_fmt=jpeg",
+    "digest": "‍21个视频、9篇技术文章，覆盖测试、运维、前端、无人机、算法等技术领域的实践~",
+    "author": "",
+    "feedId": "MjM5NjQ5MTI5OA=="
+  },
+  {
+    "id": "2651776743_1",
+    "title": "2023美团技术团队热门技术文章汇总 | 内含福利",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651776743&idx=1&sn=331a149bb6584c4a12558d5b2891373b&chksm=bd123faa8a65b6bcb8875f05b0b0655524916ed2ddaec396d5cb14a5cbefa7c958a2ba08564a#rd",
+    "publishTime": 1704369480,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hEx03cFgUsWU1MqicXO57oeNz0TUwN3J4BibAmR1GzsTice47fia1yOmJ2aD01x9ERFemENH0AlI3fAAnR844KDvwA/0?wx_fmt=jpeg",
+    "digest": "2023，感谢有你；2024，行稳致远！",
+    "author": "",
+    "feedId": "MjM5NjQ5MTI5OA=="
+  },
+  {
+    "id": "2651776541_1",
+    "title": "美团到店终端从标准化到数字化的演进之路",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651776541&idx=1&sn=5d900a02defff82d26895044fae28d7b&chksm=bd123f508a65b646eda7e9bcea743abf902599d26c96a64bd17c78a756ccc026a19ffe00a5a9#rd",
+    "publishTime": 1703764680,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hEx03cFgUsU4VJqB8ibGZocwibKOddBqnYAs3rXgdxaZOajMTLLIHwrwXlS9jZIjhugHAl7LMPGn0hI5xdGKUticA/0?wx_fmt=jpeg",
+    "digest": "本文分享了大前端团队研发流程在“标准化”、“线上化”、“自动化”以及“数字化”的演进经验，并探讨了大前端多端DevOps建设思路和未来规划",
+    "author": "",
+    "feedId": "MjM5NjQ5MTI5OA=="
+  },
+  {
+    "id": "2651776541_2",
+    "title": "“做了一辈子机器人，深知其困难” | 一场关于机器人的深度对话",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651776541&idx=2&sn=92a510614525f7da6f00c263b5531071&chksm=bd123f508a65b646a678750dec20948eedc2dea0d3a547c6994bfd6563f2641226520abb95f3#rd",
+    "publishTime": 1703764680,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hEx03cFgUsU4VJqB8ibGZocwibKOddBqnYR8XOa7W7KgjOHMddVMIcNLq0gKqslMpkOmUQIX2rz9twCzmVdMbFRA/0?wx_fmt=jpeg",
+    "digest": "5位行业专家学者，围绕机器人的技术发展、应用场景、产业前景3个方向展开了深度的讨论。",
+    "author": "",
+    "feedId": "MjM5NjQ5MTI5OA=="
+  },
+  {
+    "id": "2651774705_1",
+    "title": "美团前端研发框架Rome实践和演进趋势",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651774705&idx=1&sn=7b4783d4735b9689bf7b0c475ad95145&chksm=bd1207bc8a658eaaa369c2c62b8f68f0ea5c5f75fd6d9da70e5373484a905b529584629f6dc8#rd",
+    "publishTime": 1691063880,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hEx03cFgUsW0KvFHflQrB9ibIKPPt9icKYYbgs7IEeMqfymPxMeeASicHAIibP7JXPw50jzRXDs3Hric3LCHsbCR8Cw/0?wx_fmt=jpeg",
+    "digest": "本文整理自美团技术沙龙第76期《大前端研发协同效能提升与实践》，为大家介绍了美团到店前端研发框架Rome实践和演进趋势。",
+    "author": "",
+    "feedId": "MjM5NjQ5MTI5OA=="
+  },
+  {
+    "id": "2651774705_2",
+    "title": "报名 | 美团技术沙龙第78期：城市低空物流无人机的设计挑战与应对",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651774705&idx=2&sn=7423325751e37c6e8911f8bca24f51b4&chksm=bd1207bc8a658eaa58d07b10c743ec31fab4d615375b446b1acc4935d59f45615686855fdef6#rd",
+    "publishTime": 1691063880,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hEx03cFgUsW0KvFHflQrB9ibIKPPt9icKYuS1opBrQ7lW7EaSUaG7mx59GlAtlpLr3hMAa3gXd2lIny6ShbZ0tRA/0?wx_fmt=jpeg",
+    "digest": "本期沙龙将介绍城市低空物流无人机背后的设计挑战与应对。",
+    "author": "",
+    "feedId": "MjM5NjQ5MTI5OA=="
+  },
+  {
+    "id": "2651774616_1",
+    "title": "斩获CVPR 2023竞赛2项冠军｜美团街景理解中视觉分割技术的探索与应用",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651774616&idx=1&sn=31537f63ff5e65c4c0e298ffd578786d&chksm=bd1207d58a658ec35f8585ed315c1aa3213e99cc99e32aa72165147aa6ea44cbccb025bcda32#rd",
+    "publishTime": 1690459080,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hEx03cFgUsUm0KyLEreRTmRnFtEZxuXIRZnZTFjy5tdIS0ndQT3y1lET11xLyQjxm2CnpHI2j0BEToDYUJfkkg/0?wx_fmt=jpeg",
+    "digest": "美团街景理解团队经过长期探索，构建了一套兼顾精度与效率的分割技术体系，在应用中取得了显著效果，相关技术还斩获了CVPR 2023竞赛2项冠军1项季军。",
+    "author": "",
+    "feedId": "MjM5NjQ5MTI5OA=="
+  },
+  {
+    "id": "2651774616_3",
+    "title": "美团2024届北斗计划7月31日正式启动",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651774616&idx=3&sn=93014c4655c32ec224086013028c99ce&chksm=bd1207d58a658ec306b0d3fc083e7a8ea225c799e09cccb1565211ff04797f18547612f3074d#rd",
+    "publishTime": 1690459080,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hEx03cFgUsU9FZWQuuU2cTL2hCH1SGCqvBMPjYT7CZCX6ibIFia240AGzL6uv1OPQqlVQb3aFb5XFZA5HibcQRzrQ/0?wx_fmt=jpeg",
+    "digest": "加入我们，一起用科技“帮大家吃得更好，生活更好”。",
+    "author": "",
+    "feedId": "MjM5NjQ5MTI5OA=="
   }
 ]
