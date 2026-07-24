@@ -1,5 +1,45 @@
 [
   {
+    "id": "2651289393_1",
+    "title": "“因为AI不再招研究生了！”菲尔兹奖得主转身加盟OpenAI：数学家这份工作很难维持",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289393&idx=1&sn=e5c686b84fede4fc31bb32e6dfaa2416&chksm=bdba8f628acd0674fcf1b410a42c9f5f2e36b33c843c8186fb37038a04ed70cba15ea5b6e5a7#rd",
+    "publishTime": 1784868099,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNjaGCtMaDLUZPB4O0lPjvdD37nmCiavDCGwAEso7PBC1HuhyoVicBYgJ4YVBodsaUBlLGBoogtPyBFnfw3Rn8VGNMEr3OYDAyBnA/0?wx_fmt=jpeg",
+    "digest": "菲尔兹奖得主之一的 Jacob Tsimerman 宣布，他将从纯数学研究转向 AI 安全领域，并加入 OpenAI",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651289393_2",
+    "title": "模型越来越强之后，Infra 将被 AI 接管？",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289393&idx=2&sn=0828682b4629a96dc68c077814ee9182&chksm=bdba8f628acd06743f68708dd9287004378ef6c55cf9a77eab05bd4d8e5e18aab8340acc5574#rd",
+    "publishTime": 1784868099,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNglHYtTOmZxvMr71gocmxRaJN73UoulUicgxK8HBZG8JFpLRiaETQ2hTicBZsznketXVicdZvH5o7DhQ07wyD0uDYnnFjq0QES4KW4/0?wx_fmt=jpeg",
+    "digest": "在异构与异步的新浪潮下，AI Infra 走向更高层次。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651289393_3",
+    "title": "AI 红利分层，“底座夯实”的团队获益最高——《DevData 2026 研发效能基准报告》正式发布！",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289393&idx=3&sn=5115d7e30ea530d38a5f3b7d5cb621ff&chksm=bdba8f628acd0674d19a5eb799a0b65771affbf7b6ee88f8939ec713c5300eb56ae8612be76b#rd",
+    "publishTime": 1784868099,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNiac6WXaMbykiazHuiaTFrAMLQs9ia9fV9XhDwicWLv8NL0GzD09aRp1ibjYOE90E6t7WKPZhic0zCXkouF6HI2Leap5BR5BM5BFP6vY0/0?wx_fmt=jpeg",
+    "digest": "近日，由思码逸出品的《DevData 2026 研发效能基准报告》正式发布。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
+    "id": "2651289393_4",
+    "title": "Java 近期新闻：TornadoVM 5、JHipster、Google ADK、OmniFish Build of Payara、Vidocq 发布",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289393&idx=4&sn=348402f11a1e315865397154c8e1ee69&chksm=bdba8f628acd06747a608396ad14aea6c9f59114a55c31b8c85efc8632cf20ba185401e61ac7#rd",
+    "publishTime": 1784868099,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNiaT6j4vp5cCBpQib0ibo2tB9YbCyILFDAiaSCuLQnlqtWWDwAzm4pOb4RxegiaALVicibNj2UhGY2uNb0mspO7ibMqgqicVF2YFYibRACYQ/0?wx_fmt=jpeg",
+    "digest": "本文是 Java 近期新闻，内容涉及：TornadoVM 5、JHipster、Google ADK、OmniFish Build of Payara、Vidocq 发布。",
+    "author": "",
+    "feedId": "MjM5MDE0Mjc4MA=="
+  },
+  {
     "id": "2651289360_1",
     "title": "“围攻” Ralph Loop 之父？一场关于 Loops 的激辩：代码照样垃圾，只会失败得更加难看",
     "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289360&idx=1&sn=2a9691c529d6555758618465536fdf20&chksm=bdba8f438acd06552154a641375e595d92b996c11a3db3a1c17783b5cfcddb7f243d6b2fe38c#rd",
@@ -180,42 +220,42 @@
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651289128_1",
-    "title": "所有Harness终将长成“龙虾”，但最后活下来的只有几只",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289128&idx=1&sn=80c7d1829f5cd8aa93fdb9a16d15b6ef&chksm=bdba8e7b8acd076d1b4d60ea2bac018301e5da9ca25ff2a9467e80de07207ebfde2a2bb3a41a#rd",
-    "publishTime": 1784427300,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNhpZ0q9j5hMbmb4yg9dHlcLyR1hTPJxLMvaQArfwUnx3UYMUhaJTAiap8oiakbF2gE9n984bBG2LmaraMv2nUlnDTKfQyYH0YDVE/0?wx_fmt=jpeg",
-    "digest": "还没搞懂Harness就过时了？Mastra创始人谈 Agent 终局：AI助手的下一形态是“Claw”",
+    "id": "2651288799_1",
+    "title": "当数据库的两端，都不再是人",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288799&idx=1&sn=2a41e0a493219efd29bef8684f5699ff&chksm=bdba8c8c8acd059ad0eb22e68fd94c074642b6ed938f0a14f36fcf3615de2bb568294edf98c3#rd",
+    "publishTime": 1784010035,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNj4xX5MW1AqZwKyPbuNSXmx0SEenGQh38Y5yBZmUE8ps4jm4TAia44jiaPkBpUYG275yX3Cx34CTkH23pLYB0THvm7WOczrCIKpk/0?wx_fmt=jpeg",
+    "digest": "把实用主义做到极致，才是Agent Native最本质、也最难被模仿的地方。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651289128_2",
-    "title": "行业迎来大洗牌！4万 Agent 挤进一个机柜，AI Infra 要如何构建？",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289128&idx=2&sn=e7c3da089fdc4b7bce2ac72b038097f1&chksm=bdba8e7b8acd076d6d7bd9d46de323343f7affbddfe99ba2a041f64b9dfbe417f7e2b5f31c9a#rd",
-    "publishTime": 1784427300,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNgaponTk4HFticzo3KI2xwJPdmZLxWXOcG02N87S0qarQW6yia4ILYQ9NnUPA3hPZNsZiaIfugcF3CHJhrtmyoIfLVzjNYqBfQzaM/0?wx_fmt=jpeg",
-    "digest": "Agent开始“干活”后，Agent基础设施要如何构建？",
+    "id": "2651288799_2",
+    "title": "蚂蚁阿福：从 0 到生产的医疗 Agent 工程化落地",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288799&idx=2&sn=e5dae666e2915e3bc9b5bc176f179fae&chksm=bdba8c8c8acd059aafc892a2a664e0e5e9ec859eab4fd600ffaad63268bd469c35b20663a172#rd",
+    "publishTime": 1784010035,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjFxK9ZiabmsMibIc8KH9kwbrhwqqtsYtsmvtKhMvAogKnYL2hCCZ6Eja9KzS6ribEyPtC71HQ1eib5WEaSQRWOgr1R2reExZAKVfk/0?wx_fmt=jpeg",
+    "digest": "在医疗领域做智能体，容错空间几乎不存在。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651289128_3",
-    "title": "Linux 基金会推出 Akrites 项目，防护核心开源软件免受 AI 网络威胁侵害",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289128&idx=3&sn=250e458db026191cd9eafcc8dffb3ad4&chksm=bdba8e7b8acd076dbb999fe72fc5e466e8bbd533eb50314c3ecd144ebe4c333b28c08c04ccee#rd",
-    "publishTime": 1784427300,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNhPQg73EZS0egYibu2BZCLbC7VYb7LYXNFu2E4kPmOvudibrYyWFJ7wGPkmFUFDUIL9icQ2aEiaYGRQiceaLztXZyATxlgl4YIeoAUc/0?wx_fmt=jpeg",
-    "digest": "Linux 基金会正式推出全新全行业联合项目 Akrites，旨在保护全球核心开源软件，抵御 AI 技术驱动的新型网络威胁。",
+    "id": "2651288799_3",
+    "title": "SpaceX联手Cursor的首个AI产品曝光！全能办公智能体内测中，ChatGPT Work迎来劲敌",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288799&idx=3&sn=3bfb414f2e8b33294ba9884bcdd963ca&chksm=bdba8c8c8acd059abc8ad604ebf25bd9c1a9a85cd35215da59702a618c4dec12ae7597405458#rd",
+    "publishTime": 1784010035,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNhLg4VRsvQbkFibLjL9469iakfuL3woe4fUqPwrZ36hCoxgxtNZhaowt4I5ZBEMrF7ScAt8EmmBibFRoRkqTXSnI0MJLUNPGn8LgA/0?wx_fmt=jpeg",
+    "digest": "近日，有外媒报道称，自 2022 年成立以来一直专注于编程工具的 Cursor，正在开发一款名为 Sand 的通用型 AI 智能体，希望在更广泛的生产力场景中，与 Anthropic 的 Claude 和 OpenAI 的 ChatGPT ",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
   {
-    "id": "2651289128_4",
-    "title": "Stripe 发布基准测试：AI 智能体可开发集成方案，但校验环节存在短板",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289128&idx=4&sn=80b1ce529cbad1f9b3fa9c74cb409f58&chksm=bdba8e7b8acd076ddd1ebd8cabe61be06ed37992f1cbe73231538e94b4019368400d35dc5b09#rd",
-    "publishTime": 1784427300,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNhbgIOGkQ1AicWn36AIWdfsQSy0McWrXRfxAT39Y58kZBcUHsCVjZr9agz0qpCiaKGiaiarQtbjVdCjkyR213DCaFqmbU9bMxPu8vk/0?wx_fmt=jpeg",
-    "digest": "Stripe 发布基准测试套件，用以评测 AI 智能体能否完成覆盖后端、前端及网页结账流程的全链路 Stripe 集成开发。",
+    "id": "2651288799_4",
+    "title": "Block 将约 450 个 JVM 仓库迁入 monorepo 以降低依赖漂移",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288799&idx=4&sn=b6a4edff18645e760d7612edf676d54b&chksm=bdba8c8c8acd059a00be8a4fbc7363cddeae20f154909a203ae19a7f232d75e4da9f86e24ad8#rd",
+    "publishTime": 1784010035,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNgbensrTVIqoeXF4ruwoqmOhYqTv0aOra6xeI8t3fibVyliaKqsnSn5U5eKhqKiawEOSlBs23hh8GicYHWzZ0QicrHVCicM2ShOOv8qw/0?wx_fmt=jpeg",
+    "digest": "Block,Inc.介绍了一次大规模的从polyrepo架构向monorepo迁移的实践，覆盖其Cash App与Square工程组，以应对后端系统日益增长的协调与依赖管理挑战。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   },
@@ -256,46 +296,6 @@
     "publishTime": 1783920600,
     "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNiaytLqzrOvpEXY7iadUKXquMVVaaicJkbvCz5eEcZvibzH8Y1DfaIng9PdRU37YrFkpM34bPMSEa2y2sMrLViaIxzXKGprU1bMdQGg/0?wx_fmt=jpeg",
     "digest": "MCP 团队推出稳定版企业托管授权扩展，企业可通过身份服务商统一控制 MCP 服务器访问权限，替代单独授权提示，实现一次登录即可免额外配置访问所有合规服务器。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651288666_1",
-    "title": "连Claude Code都搞不定的巨型代码库，我们靠一个“自愈循环”给盘活了",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288666&idx=1&sn=8bbada4ac098dd4390b3408be7fb1370&chksm=bdba8c098acd051f7fd3634517c32dcb61ae4e89b92e4c46dc07ab403c0ccccb0138e01bb02a#rd",
-    "publishTime": 1783822500,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNiaWXR5d6PLbT2Wb9KjJCLD40hsC7Kulm25Igp4DglEocaryR8o09BricEXj44twJYmjN4Wf61GVh6yvMeeLic9K8ES9A40bQtIic4/0?wx_fmt=jpeg",
-    "digest": "“AI迁移的关键不是让AI变聪明，而是把任务分解到AI能独立完成并验证的粒度。”",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651288666_2",
-    "title": "Claude、Cursor、OpenClaw 集体上手机，不摸鱼、不请假、24h 为你打工",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288666&idx=2&sn=1dcaba62d285d767d42974cba8db16d6&chksm=bdba8c098acd051f189ef256a2643a433dbf6087dfe0f5b3d7dc33e3cd630d0837b041b86155#rd",
-    "publishTime": 1783822500,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNhSbscSRKLfyK9u0bDcacWfqZm80Gs58VHtTicvJC0SgNSlicgl0CW3Vn8WG0XgeyeFOpHoJIP61EwLwDy6vIS6cHpygpoHiapatI/0?wx_fmt=jpeg",
-    "digest": "手机上的 AI 应用，正在发生一次不太显眼、却可能比模型升级更重要的变化。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651288666_3",
-    "title": "将平台开发从项目转向产品",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288666&idx=3&sn=8b0334477d5edce92e01737dc92216b5&chksm=bdba8c098acd051fdee1eaafcc6676bdadfd8a3d82d4a5d23b007d7b8a3ed4fcb36912dcb9cd#rd",
-    "publishTime": 1783822500,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hLLZnAbUwNjT7fC7ibrnVPrXDfZSuLG34icBvdroIHLtsow3qpHqwVQUMyB6d3Md54RzkGAstKhfg6eYha2bdBJ74jzMC8NkpbpeiakSicjwkGk/0?wx_fmt=jpeg",
-    "digest": "在 KubeCon & CloudNativeCon 欧洲大会上，Eugenia Bergman 和 Hagen Tonnies 分享了他们如何在平台规模超出单个团队使用的范围后，从项目思维转向产品思维。",
-    "author": "",
-    "feedId": "MjM5MDE0Mjc4MA=="
-  },
-  {
-    "id": "2651288666_4",
-    "title": "Java 近期新闻：Hardwood 1.0、Endive 1.0、Azul Payara、Quarkus、WildFly、LangChain4j、OSSI",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288666&idx=4&sn=ceb253fc346a93558eb5a8a87e804168&chksm=bdba8c098acd051f381b03f5799ba2740de10203a2b9a8f5a21dd5df55fe4e1a2f4fd7e984a1#rd",
-    "publishTime": 1783822500,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hLLZnAbUwNiaR0uriaQqOboyGhesvNFOLhQhXh66rZ2abPXNxrAvjDarStAD25BqraiboQVbLDTic1hYQM4uaeI1Y8a5VVK70ciayqG6PKicx7rd0/0?wx_fmt=jpeg",
-    "digest": "本文是 Java 的近期新闻，内容涉及：Hardwood 1.0、Endive 1.0、Azul Payara、Quarkus、WildFly、LangChain4j、OSSI。",
     "author": "",
     "feedId": "MjM5MDE0Mjc4MA=="
   }
