@@ -1,169 +1,5 @@
 {
   "daily": {
-    "2026-06-24": [
-      {
-        "company": "行业资讯",
-        "generatedAt": "2026/6/25 02:23:",
-        "articleCount": 25,
-        "sections": [
-          {
-            "title": "今日热点事件",
-            "content": "<li>微信迎来6年来最大改版，推出AI助手小微，引发对社交+AI融合的广泛讨论。</li><li>豆包专业版正式上线，连续包月最低68元，显示AI产品商业化加速。</li><li>同为大模型公司，智谱估值万亿，Minimax却腰斩，反映AI赛道分化加剧。</li>"
-          },
-          {
-            "title": "招聘动态",
-            "content": "<ul><li>量子位发布编辑作者招聘，显示AI内容领域人才需求持续增长。</li><li>整体招聘趋势：本期未发现快手直接竞对的大规模招聘动态，但AI相关岗位仍为行业热点。</li></ul>"
-          },
-          {
-            "title": "技术进展",
-            "content": "<ul><li>端侧跑大模型技术简化，降低AI应用门槛，对短视频平台实时特效、推荐等场景有潜在价值。</li><li>从预测到干预的因果世界模型成为AI新方向，Aether AI等公司押注，可能影响具身智能和内容生成。</li><li>TRM思考奖励模型上线，实现大模型推理质量量化，有望提升AI内容审核和生成质量。</li><li>原生大模型实现从像素到单词的统一，支持单图、多图、视频和空间智能，为多模态内容创作提供新可能。</li></ul>"
-          },
-          {
-            "title": "战略动向",
-            "content": "<ul><li>抖音搜索换帅，显示字节跳动在搜索领域持续布局，可能加剧与快手的搜索流量竞争。</li><li>阿里推行OPT（组织绩效与人才管理），京东酒旅换帅，反映大厂组织调整频繁，快手需关注人才稳定性。</li><li>中国支付全球水路打通议题受关注，快手海外业务可借鉴支付出海经验。</li><li>AI大模型热潮第三年，行业给出4个关键判断，快手需评估自身AI战略是否与趋势一致。</li></ul>"
-          },
-          {
-            "title": "对快手的启示",
-            "content": "<ul><li>微信AI助手小微的推出，预示社交平台将集成更多AI功能，快手可探索AI助手在直播、评论区等场景的落地，提升用户互动体验。</li><li>端侧大模型技术简化，快手可加速在移动端部署轻量AI模型，优化实时特效、推荐算法和内容审核效率。</li><li>AI赛道分化明显（智谱vs Minimax），快手在投资或自研AI时应聚焦差异化场景，避免盲目跟风。</li></ul>"
-          }
-        ]
-      },
-      {
-        "company": "腾讯",
-        "generatedAt": "2026/6/25 02:24:",
-        "articleCount": 3,
-        "sections": [
-          {
-            "title": "今日热点事件",
-            "content": "<li>腾讯启动2027全球校园大使招募，持续加码年轻人才储备。</li><li>发布Marvis马维斯技术速通指南，展示AI/工具链快速落地能力。</li><li>2026腾讯犀牛鸟开源人才培养计划启动，强化开源生态布局。</li>"
-          },
-          {
-            "title": "招聘动态",
-            "content": "<ul><li>腾讯2027全球校园大使招募，面向全球高校，意在提前锁定优秀在校生，增强雇主品牌影响力。</li><li>犀牛鸟开源人才培养计划同步开启，通过开源项目吸引技术人才，属于长期人才储备策略。</li></ul>"
-          },
-          {
-            "title": "技术进展",
-            "content": "<ul><li>推出Marvis马维斯技术速通指南，从0到1覆盖全流程，表明腾讯在AI或工具链领域加速内部技术外化与开发者赋能。</li><li>犀牛鸟计划聚焦开源人才培养，侧面反映腾讯在开源技术栈的投入，如云原生、AI框架等方向。</li></ul>"
-          },
-          {
-            "title": "战略动向",
-            "content": "<ul><li>通过校园大使和开源计划双线并进，强化人才生态与开发者社区建设，为长期技术竞争蓄力。</li><li>Marvis的发布显示腾讯正加速内部技术产品化，可能面向企业服务或开发者市场。</li></ul>"
-          },
-          {
-            "title": "对快手的启示",
-            "content": "<ul><li>快手可参考腾讯的全球校园大使模式，提前锁定AI、算法等关键岗位的顶尖学生，提升雇主品牌。</li><li>开源人才培养计划值得借鉴，通过开源项目吸引开发者生态，增强技术影响力并降低招聘成本。</li><li>Marvis速通指南提示快手可强化内部技术工具的对外输出，如AI特效工具或推荐系统教程，提升行业话语权。</li></ul>"
-          }
-        ]
-      },
-      {
-        "company": "阿里",
-        "generatedAt": "2026/6/25 02:24:",
-        "articleCount": 1,
-        "sections": [
-          {
-            "title": "今日热点事件",
-            "content": "<li>阿里开源代码评审工具Open Code Review，一周内获得5k star，展现其在开发者社区的影响力</li>"
-          },
-          {
-            "title": "招聘动态",
-            "content": "<ul><li>本期未发现阿里在招聘方面的明显动态，暂无相关情报</li></ul>"
-          },
-          {
-            "title": "技术进展",
-            "content": "<ul><li>阿里开源了代码评审CLI工具Open Code Review，旨在提升代码评审的专业性和效率</li><li>该工具获得开发者社区广泛关注，一周内收获5k star，表明其技术价值被认可</li></ul>"
-          },
-          {
-            "title": "战略动向",
-            "content": "<ul><li>阿里通过开源工具进一步强化开发者生态建设，提升技术品牌影响力</li><li>代码评审工具的开放体现了阿里在工程效率领域的持续投入</li></ul>"
-          },
-          {
-            "title": "对快手的启示",
-            "content": "<ul><li>快手可关注此类开源工具，评估是否可借鉴或引入以提升内部代码评审效率</li><li>阿里通过开源增强技术社区影响力，快手可考虑在技术生态建设上加大开源投入</li><li>代码评审工具的流行反映行业对工程质量的重视，快手应持续优化内部开发工具链</li></ul>"
-          }
-        ]
-      },
-      {
-        "company": "美团",
-        "generatedAt": "2026/6/25 02:24:",
-        "articleCount": 3,
-        "sections": [
-          {
-            "title": "今日热点事件",
-            "content": "<li>美团正式启动2027届秋招全球校园大使招募，表明其正在提前布局未来人才储备。</li><li>第6届美团商业分析精英大赛即将进入决赛阶段，显示美团持续投入商业分析领域的人才发掘与培养。</li><li>美团将在ICML 2026（首尔）举办AI顶尖人才校招见面会，凸显其对AI领域高端人才的重视。</li>"
-          },
-          {
-            "title": "招聘动态",
-            "content": "<ul><li>美团积极启动面向2027届的全球校园大使招募，旨在通过校园渠道提前锁定优秀学生资源。</li><li>持续举办商业分析精英大赛（已至第6届），通过竞赛形式挖掘和吸引商业分析方向的潜力人才。</li><li>在顶级AI学术会议ICML 2026上设立校招见面会，重点招募AI领域的顶尖人才，尤其是面向海外高校。</li></ul>"
-          },
-          {
-            "title": "技术进展",
-            "content": "<ul><li>美团在AI领域的人才招募动作指向ICML 2026，表明其对前沿AI技术（如机器学习、深度学习）的持续投入和研发需求。</li><li>商业分析精英大赛的持续举办，反映了美团在数据驱动决策和商业分析技术上的重视。</li></ul>"
-          },
-          {
-            "title": "战略动向",
-            "content": "<ul><li>美团通过全球校园大使和海外学术会议（ICML）等渠道，强化全球化人才吸引战略，尤其是AI和数据分析领域。</li><li>提前两年启动2027届校招，显示出美团在人才争夺战中的长线布局和前瞻性。</li></ul>"
-          },
-          {
-            "title": "对快手的启示",
-            "content": "<ul><li>快手可借鉴美团在顶尖学术会议（如ICML）设立招聘专场的做法，增强在AI人才市场的品牌曝光和吸引力。</li><li>美团通过商业分析竞赛和校园大使计划提前锁定人才，快手可考虑加强类似校企合作及赛事运营，以挖掘数据、算法等领域的早期人才。</li><li>面对美团的长期人才储备策略，快手需审视自身校招节奏，确保在关键技术岗位（如AI、商业分析）上不落后于竞争对手。</li></ul>"
-          }
-        ]
-      },
-      {
-        "company": "小红书",
-        "generatedAt": "2026/6/25 02:24:",
-        "articleCount": 1,
-        "sections": [
-          {
-            "title": "今日热点事件",
-            "content": "<li>小红书在AICon上海2026大会上分享Agent基建规模化落地路径，聚焦质效提升，显示其在AI工程化领域的持续投入。</li>"
-          },
-          {
-            "title": "招聘动态",
-            "content": "<ul><li>从标题无法直接获取招聘信息，但技术分享主题暗示小红书可能在AI/Agent方向持续招募技术人才，建议关注其官方招聘渠道。</li></ul>"
-          },
-          {
-            "title": "技术进展",
-            "content": "<ul><li>小红书探索Agent基建的规模化落地路径，重点在于提升工程质量和效率（质效），表明其在AI Agent领域从实验转向生产级部署。</li><li>技术分享聚焦于“基建”层面，强调底层架构和工具链的完善，而非单一应用。</li></ul>"
-          },
-          {
-            "title": "战略动向",
-            "content": "<ul><li>小红书持续强化技术品牌，通过行业会议输出技术影响力，可能意在吸引高端技术人才和合作伙伴。</li><li>Agent基建的规模化意味着小红书将AI视为提升内部运营效率和用户体验的核心战略方向。</li></ul>"
-          },
-          {
-            "title": "对快手的启示",
-            "content": "<ul><li>快手可借鉴小红书在Agent基建方面的规模化思路，评估自身AI Agent在内容推荐、审核、创作等场景的落地效率，避免重复造轮子。</li><li>关注小红书在质效平衡上的实践，快手可在内部推动类似的技术分享和文化建设，提升AI工程化能力。</li><li>建议快手加强在行业技术会议中的亮相，分享自身在AI领域的实践，以提升技术品牌影响力并吸引人才。</li></ul>"
-          }
-        ]
-      },
-      {
-        "company": "百度",
-        "generatedAt": "2026/6/25 02:24:",
-        "articleCount": 2,
-        "sections": [
-          {
-            "title": "今日热点事件",
-            "content": "<li>百度旗下自动驾驶平台“萝卜快跑”在香港累计安全行驶里程突破23万公里，体现其海外及复杂城区场景的运营能力持续验证。</li><li>百度AI技术负责人王海峰将出席IMLIP 2026国际会议并作报告，显示其在多模态大模型与语言智能领域的学术影响力。</li>"
-          },
-          {
-            "title": "招聘动态",
-            "content": "<ul><li>本期未披露明确的招聘计划或岗位信息。</li></ul>"
-          },
-          {
-            "title": "技术进展",
-            "content": "<ul><li>百度文心大模型持续赋能自动驾驶业务，“萝卜快跑”在香港的实际运营数据进一步验证了端到端AI技术在复杂交通环境下的可靠性。</li><li>百度AI技术负责人王海峰受邀在IMLIP 2026作报告，预示百度在多模态语言智能、人机交互等前沿方向可能有新的技术成果发布。</li></ul>"
-          },
-          {
-            "title": "战略动向",
-            "content": "<ul><li>百度自动驾驶业务（萝卜快跑）加速在海外及高复杂度城市（如香港）的落地，表明其商业化重心从国内试点向全球合规运营延伸。</li><li>百度持续以学术会议（如IMLIP）为窗口，强化AI技术领导力品牌，间接为其文心大模型生态吸引合作伙伴和人才。</li></ul>"
-          },
-          {
-            "title": "对快手的启示",
-            "content": "<ul><li>快手可关注百度在自动驾驶场景中积累的多模态感知与实时决策技术，探索将类似AI能力应用于短视频内容理解（如复杂场景识别、智能剪辑）或直播电商的物流/配送环节。</li><li>百度通过学术会议提升AI品牌影响力的策略值得借鉴，快手可考虑在计算机视觉、多模态生成等关键领域加强与国际顶会的合作，以吸引高端技术人才和产学研资源。</li><li>百度在香港的落地经验提示快手，出海业务需重视本地化合规与安全运营能力建设，尤其是在东南亚等潜在市场拓展时。</li></ul>"
-          }
-        ]
-      }
-    ],
     "2026-06-25": [
       {
         "company": "行业资讯",
@@ -2266,6 +2102,52 @@
           }
         ]
       }
+    ],
+    "2026-07-25": [
+      {
+        "company": "行业资讯",
+        "generatedAt": "2026/7/25 13:40:",
+        "articleCount": 34,
+        "sections": [
+          {
+            "title": "摘要",
+            "content": "<p>摘要生成失败，请稍后重试。错误: The supported API model names are deepseek-v4-pro or deepseek-v4-flash, but you passed deepseek-chat.</p>"
+          }
+        ]
+      },
+      {
+        "company": "腾讯",
+        "generatedAt": "2026/7/25 13:40:",
+        "articleCount": 1,
+        "sections": [
+          {
+            "title": "摘要",
+            "content": "<p>摘要生成失败，请稍后重试。错误: The supported API model names are deepseek-v4-pro or deepseek-v4-flash, but you passed deepseek-chat.</p>"
+          }
+        ]
+      },
+      {
+        "company": "阿里",
+        "generatedAt": "2026/7/25 13:40:",
+        "articleCount": 5,
+        "sections": [
+          {
+            "title": "摘要",
+            "content": "<p>摘要生成失败，请稍后重试。错误: The supported API model names are deepseek-v4-pro or deepseek-v4-flash, but you passed deepseek-chat.</p>"
+          }
+        ]
+      },
+      {
+        "company": "小红书",
+        "generatedAt": "2026/7/25 13:40:",
+        "articleCount": 1,
+        "sections": [
+          {
+            "title": "摘要",
+            "content": "<p>摘要生成失败，请稍后重试。错误: The supported API model names are deepseek-v4-pro or deepseek-v4-flash, but you passed deepseek-chat.</p>"
+          }
+        ]
+      }
     ]
   },
   "weekly": {
@@ -3849,6 +3731,85 @@
           {
             "title": "对快手的启示",
             "content": "<ul><li>快手可关注百度文心的智能体全家桶和DAA标尺，评估其在短视频内容创作、直播互动或广告生成中的AI应用潜力。</li><li>百度文心强调项目效率提升，提示快手可探索AI工具（如视频生成、推荐优化）来缩短内容制作或运营周期。</li><li>快手应持续跟踪百度文心的行业认可度（如“十大”奖项），作为自身AI技术对标和品牌营销的参考。</li></ul>"
+          }
+        ]
+      }
+    ],
+    "2026-W31": [
+      {
+        "company": "行业资讯",
+        "generatedAt": "2026/7/25 13:40:",
+        "articleCount": 93,
+        "sections": [
+          {
+            "title": "摘要",
+            "content": "<p>摘要生成失败，请稍后重试。错误: The supported API model names are deepseek-v4-pro or deepseek-v4-flash, but you passed deepseek-chat.</p>"
+          }
+        ]
+      },
+      {
+        "company": "字节跳动",
+        "generatedAt": "2026/7/25 13:40:",
+        "articleCount": 9,
+        "sections": [
+          {
+            "title": "摘要",
+            "content": "<p>摘要生成失败，请稍后重试。错误: The supported API model names are deepseek-v4-pro or deepseek-v4-flash, but you passed deepseek-chat.</p>"
+          }
+        ]
+      },
+      {
+        "company": "腾讯",
+        "generatedAt": "2026/7/25 13:40:",
+        "articleCount": 5,
+        "sections": [
+          {
+            "title": "摘要",
+            "content": "<p>摘要生成失败，请稍后重试。错误: The supported API model names are deepseek-v4-pro or deepseek-v4-flash, but you passed deepseek-chat.</p>"
+          }
+        ]
+      },
+      {
+        "company": "阿里",
+        "generatedAt": "2026/7/25 13:40:",
+        "articleCount": 11,
+        "sections": [
+          {
+            "title": "摘要",
+            "content": "<p>摘要生成失败，请稍后重试。错误: The supported API model names are deepseek-v4-pro or deepseek-v4-flash, but you passed deepseek-chat.</p>"
+          }
+        ]
+      },
+      {
+        "company": "美团",
+        "generatedAt": "2026/7/25 13:40:",
+        "articleCount": 5,
+        "sections": [
+          {
+            "title": "摘要",
+            "content": "<p>摘要生成失败，请稍后重试。错误: The supported API model names are deepseek-v4-pro or deepseek-v4-flash, but you passed deepseek-chat.</p>"
+          }
+        ]
+      },
+      {
+        "company": "小红书",
+        "generatedAt": "2026/7/25 13:40:",
+        "articleCount": 7,
+        "sections": [
+          {
+            "title": "摘要",
+            "content": "<p>摘要生成失败，请稍后重试。错误: The supported API model names are deepseek-v4-pro or deepseek-v4-flash, but you passed deepseek-chat.</p>"
+          }
+        ]
+      },
+      {
+        "company": "百度",
+        "generatedAt": "2026/7/25 13:40:",
+        "articleCount": 3,
+        "sections": [
+          {
+            "title": "摘要",
+            "content": "<p>摘要生成失败，请稍后重试。错误: The supported API model names are deepseek-v4-pro or deepseek-v4-flash, but you passed deepseek-chat.</p>"
           }
         ]
       }
