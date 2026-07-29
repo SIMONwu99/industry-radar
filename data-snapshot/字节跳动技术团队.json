@@ -1,5 +1,15 @@
 [
   {
+    "id": "2247521026_1",
+    "title": "顶会入选 | COVERT —— 面向视觉语言模型的隐私保护推理框架入选 ECCV 2026",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247521026&idx=1&sn=aa0d13c8287fcf8df9fadbd91dca07da&chksm=e9d358e0dea4d1f6c7fb0380c4014fe037f6b5cb13cbddb830e662c14f49f53a70b5a4368584#rd",
+    "publishTime": 1785150000,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/FGB4hYw9Fec3e78Qv3WKNHHSiatpFIuv16bTJ2C8Ee3VJLy65CFghVyQ8jxXewUH67eEcMfI1bWJia1wEMxS8sbnIq8pZU7kZZBdjMjWOjLvM/0?wx_fmt=jpeg",
+    "digest": "",
+    "author": "",
+    "feedId": "MzI1MzYzMjE0MQ=="
+  },
+  {
     "id": "2247521013_1",
     "title": "从生成到交付，音视频 Agent 要有生产级开发套件",
     "link": "http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247521013&idx=1&sn=aab9641bb58a22244ce76d02dfda5156&chksm=e9d35917dea4d001db9cf572a61b1fb8572f1fa135ed6e25f837871790fd50d39df2bdf52cf9#rd",
@@ -60,21 +70,11 @@
     "feedId": "MzI1MzYzMjE0MQ=="
   },
   {
-    "id": "2247520810_1",
-    "title": "让 Agent 成为音视频工作台：AI MediaKit CLI + Skill 发布",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247520810&idx=1&sn=d0fb295a9edfdcdb71d4cb70ecd80c15&chksm=e9d359c8dea4d0de54877cb17fdc4cec42231909fabd44b8eb995652d24fd6dcf7303418f9cb#rd",
-    "publishTime": 1783936800,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/FGB4hYw9FeewTPP1T8iautmznSUY7oUGsEhuJcNqIPFc34SERWAWkEiboydYSKibKNQ48ibYoY0f8IEB0T491o7EpFeWo8c5Wnia5YPibUSVKicsFk/0?wx_fmt=jpeg",
-    "digest": "",
-    "author": "",
-    "feedId": "MzI1MzYzMjE0MQ=="
-  },
-  {
-    "id": "2247520810_2",
-    "title": "让搜索更懂用户：Viking AI 搜索如何用个性化提升转化",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247520810&idx=2&sn=425e0a64545b3e7b9b8f39c2671ed7b8&chksm=e9d359c8dea4d0de69b5bdfc99e673d75deada7b4dad34d3e9847f86c2e7944dc6617e3b634c#rd",
-    "publishTime": 1783936800,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/FGB4hYw9Fefic8xbbtDkOwALzoibrrvcBc2DBAIicjFBeIB0ucuEDuM3HfkuqGmB1QGuBYdJuguWjaqbhVGAibjw4OZladY8AiaPCtvu2XjYzPSs/0?wx_fmt=jpeg",
+    "id": "2247520252_1",
+    "title": "你的 Agent 每次都“失忆”？这个工具彻底治好了我的前端开发焦虑",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247520252&idx=1&sn=965325b6e00360e3d3bd90f561598f17&chksm=e9d3441edea4cd08f9ccfa1b68e0c0113df95319752059e524acd642af6699a43630079f76b9#rd",
+    "publishTime": 1780909684,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/FGB4hYw9FeceGMickNwrGhJdUYygvwUMB4nDkHSeh5tuz8dCzlV0j8FaNJaPB5BfhqRZKZQaQofxqiaZL2uGr6SXKbLGy2zKPYHWc25Re97Oc/0?wx_fmt=jpeg",
     "digest": "",
     "author": "",
     "feedId": "MzI1MzYzMjE0MQ=="
@@ -120,11 +120,11 @@
     "feedId": "MzI1MzYzMjE0MQ=="
   },
   {
-    "id": "2247520074_1",
-    "title": "Viking AI 搜索 CLI 正式发布：会说话，就能做搜索推荐",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247520074&idx=1&sn=3eed7d763e69903e7c29cbe894a0f156&chksm=e9d344a8dea4cdbee233a811d1f372ae28808e620161f2a37a3efe54496aa8ff64325c015383#rd",
-    "publishTime": 1779958800,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/FGB4hYw9FecZd8ZQHNAraVmNrmxGNurNgibZS5jJ1P9gNJPLdZSxDCm8u3iaxTLfc496Dy9V9EGsoyibiczCobPU24E6851W7PT897FicXmE7N5U/0?wx_fmt=jpeg",
+    "id": "2247519246_1",
+    "title": "字节跳动首创DisCoGC架构，重塑EB级分布式存储GC范式",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247519246&idx=1&sn=42a80ee711fb0327f7c332154702497c&chksm=e9d347ecdea4cefa8a97b62bcf78ad762c23eccc64b25fe1fbd29e64afd9a44273d8709f86bb#rd",
+    "publishTime": 1776398400,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/FGB4hYw9FedYrYTQiaAHDzGZ5QX335bucWxf6ytdjaiaDibYoJ1o48L655nkMib6nFHxbkssdmKg8Zza60LP7uXzaVXlUu8g1m74aekwgcLONxs/0?wx_fmt=jpeg",
     "digest": "",
     "author": "",
     "feedId": "MzI1MzYzMjE0MQ=="
@@ -170,11 +170,11 @@
     "feedId": "MzI1MzYzMjE0MQ=="
   },
   {
-    "id": "2247519148_1",
-    "title": "OpenClaw 的 “安全卫士”：Jeddak AgentArmor 运行时防护全解析",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247519148&idx=1&sn=9ce8fff7bb8c5f2f6a8ca762a2fef2f4&chksm=e9d3404edea4c9580e9cc64cdad876f911a7d910a08d228b147c6501d438086e35fb784b2777#rd",
-    "publishTime": 1775034000,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/FGB4hYw9FefOiaffftCz037ia65xb96ZUVWCuHbNP9WEVMKVFRSE7H0v9FBIg1wiaaneeoLIe6qkxBqN0zavTYO11pLzf3t8fIUlCMSFUqqicUo/0?wx_fmt=jpeg",
+    "id": "2247518556_1",
+    "title": "Seedance 2.0 登上春晚大屏：8K/50FPS背后的最佳拍档",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247518556&idx=1&sn=be0391ea10160062902fb9a5f2e5b540&chksm=e9d342bedea4cba8ca7118dffcac36d51dfcdede85a1640aa07c32bd4994439dbf773b2aca96#rd",
+    "publishTime": 1772096400,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/FGB4hYw9FeeBXXc7eQWUpWxxnGkUvqdgmzvKTCayvy6WCibMorpe09nNPgwwuadicBKBVjcZQxUicuwTPze9aI3icUiaCjYaK0BE490zG0KzW8X4/0?wx_fmt=jpeg",
     "digest": "",
     "author": "",
     "feedId": "MzI1MzYzMjE0MQ=="
@@ -220,11 +220,11 @@
     "feedId": "MzI1MzYzMjE0MQ=="
   },
   {
-    "id": "2247518408_1",
-    "title": "TOS Vectors + TLS Trace：打造更高效、更智能的存储 SDK 工厂",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247518408&idx=1&sn=e1e2a3a714eeec1e3072acb35fae2b64&chksm=e9d3432adea4ca3cebd89e7f2e68089fccdab95e84f34b06f4d1a0410cc6853840033947dde1#rd",
-    "publishTime": 1770195906,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/FGB4hYw9Fedlcicb1fnFhx6ZfLtiaWgwnKibMYg1642rV73F1oONxyOJNJ5IzyrTPH3oTYc1icGiabQ6vCM1Fv4ZrLYNMSSVhEuHhL85uE24AXDM/0?wx_fmt=jpeg",
+    "id": "2247517794_1",
+    "title": "AI 驱动数据范式变革：字节跳动数据库的智能进化之路",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247517794&idx=1&sn=a1f658c9c777ca6d25d26122b4c55fd9&chksm=e9d34d80dea4c496b796978ec0e81e0099a9a50e2845f95f719d122f30189e41bd588409fffa#rd",
+    "publishTime": 1766653200,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5EcwYhllQOhRcyImEIbia2sfib4wicac6t1J9ibYxPgTGDIrGhCSOJYwlu35ASEMtQVHgUBNqGgY9ADOrLJrHw0w0g/0?wx_fmt=jpeg",
     "digest": "",
     "author": "",
     "feedId": "MzI1MzYzMjE0MQ=="
@@ -270,11 +270,11 @@
     "feedId": "MzI1MzYzMjE0MQ=="
   },
   {
-    "id": "2247517631_1",
-    "title": "火山引擎多媒体实验室 AIGC 视频画质理解大模型 VQ-Insight 入选 AAAI 2025 Oral",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247517631&idx=1&sn=c3251514392ea816c758b67cb5b443cc&chksm=e9d34e5ddea4c74beb20141589a33043fbc7639c113728fbd93d3419021517854af8faf4f9fc#rd",
-    "publishTime": 1764147600,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5EcwYhllQOhicglMPXBqELl0A3FXTIScCsKEL1W0Y2xXqMiblia2ibjEMsb9LccM0VpayBTwTHQZ3gZ2PaOnxhicMzQ/0?wx_fmt=jpeg",
+    "id": "2247516919_1",
+    "title": "1024 邀请函｜火山引擎 AI Coding 技术实践",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247516919&idx=1&sn=c88d056b6bc32b4e0f924864792baaa8&chksm=e9d34915dea4c00313b76afb170c3dd4713e35f21d3460b0f77ad0428a819c6fe00ffd52e955#rd",
+    "publishTime": 1760607000,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5EcwYhllQOiasgfa2WcT4a0e1UW2WvR3rWoTvcy65kWvRL0vaMDVsiaJYkSwWicf7icJNPtjwSQg56cp7HNEHNOicfA/0?wx_fmt=jpeg",
     "digest": "",
     "author": "",
     "feedId": "MzI1MzYzMjE0MQ=="
@@ -320,11 +320,11 @@
     "feedId": "MzI1MzYzMjE0MQ=="
   },
   {
-    "id": "2247516752_1",
-    "title": "MCP 安全“体检” | 基于 AI 驱动的 MCP 安全扫描系统",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247516752&idx=1&sn=fb00f2858582d463ba50916f3e7650e6&chksm=e9d349b2dea4c0a4fba38a1638c687268dab3f2333e9fda178a329a8ff77d6c67b3bff858cea#rd",
-    "publishTime": 1758622411,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5EcwYhllQOhTWR7cOPNm2St5ga2n2j8okmHDuHGH65lzj9g4ibqTVHVibLnlAH9ia5ZQUV7I9TQa4DicEhehZgK4rA/0?wx_fmt=jpeg",
+    "id": "2247516359_1",
+    "title": "智能体防御 | 一文了解3种系统提示词加固方法",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247516359&idx=1&sn=7328bfa8ceaea4ecf18693fb6d1fbf5e&chksm=e9d34b25dea4c2333429641b45588aa9ca2087b6a6e32f5a806c2535fa9440d58c9eb64d33a3#rd",
+    "publishTime": 1755252000,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5EcwYhllQOjLOtKibcDflA3gn08GbKukRsBXEXeFvKWpIO2icm0r5WibhqkJ1Rnhicoiamqdxk7SW974am54Rh5yhwA/0?wx_fmt=jpeg",
     "digest": "",
     "author": "",
     "feedId": "MzI1MzYzMjE0MQ=="
@@ -370,11 +370,11 @@
     "feedId": "MzI1MzYzMjE0MQ=="
   },
   {
-    "id": "2247515738_1",
-    "title": "扣子开源，三天揽获1.5W GitHub Star",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247515738&idx=1&sn=908b3881f8b9144b1f7b4bb05da8a117&chksm=e9d375b8dea4fcae0c96062141e67e82b9601e2c4d9698e78848dd8e3f184d415a8da05644f8#rd",
-    "publishTime": 1753956000,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5EcwYhllQOhvmseUxpEKRBMWTOZAZibxpN880W4iak5OSlFznKzrdnbM5jspHibd6iaxmY9NQTFatetYhQ3n46CiaKQ/0?wx_fmt=jpeg",
+    "id": "2247515006_1",
+    "title": "字节跳动基础架构多篇自主工作亮相数据管理顶会SIGMOD25",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247515006&idx=1&sn=0f018f8ceb47590696d05592ba1915bf&chksm=e9d3709cdea4f98afc47849989cdb9e506afb5019ce000a410a344cd94be565f2a375a5befa1#rd",
+    "publishTime": 1751097148,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5EcwYhllQOh1lFgPLeulOwgJM4cKuk4BgagrgzaDBtFeq54nlPdNgX1Kd9doibhb1FIe64nVlfkywDyVgXANZGQ/0?wx_fmt=jpeg",
     "digest": "",
     "author": "",
     "feedId": "MzI1MzYzMjE0MQ=="
@@ -420,11 +420,11 @@
     "feedId": "MzI1MzYzMjE0MQ=="
   },
   {
-    "id": "2247514904_1",
-    "title": "洪定坤：我与 TRAE 合作的第一个开源项目，欢迎下载",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247514904&idx=1&sn=20fd825a5a9f679c7bf5862a6e91dd3b&chksm=e9d370fadea4f9ec69ca85664017477c32ccdb460a7fcd7c0051359bf26f0aecc053619d022d#rd",
-    "publishTime": 1750330061,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5EcwYhllQOgOIAqiaJgeicLiam3tyzZ63BlALEZTTqlXicGygfxg7SWpdWt4rcjZwLUvEZege9NYZKke5st6iat72yA/0?wx_fmt=jpeg",
+    "id": "2247514631_1",
+    "title": "掘金好文 | 你还在提交按钮上面用防抖函数？",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247514631&idx=1&sn=a55281c15b8c90bfff6808c3b7cfd632&chksm=e9d371e5dea4f8f37b12ca04a4b1a91f3e318aea408c36f24dc198adf3dc336a60c1d751a09f#rd",
+    "publishTime": 1747824756,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5EcwYhllQOgXCibnkl76c4FazZyneDH4sNQ6FLfbpLBxdEILy2rcUFF1sO2rib3JDTDYd5KXh4khXhx7slwicic7pA/0?wx_fmt=jpeg",
     "digest": "",
     "author": "",
     "feedId": "MzI1MzYzMjE0MQ=="
@@ -480,11 +480,21 @@
     "feedId": "MzI1MzYzMjE0MQ=="
   },
   {
-    "id": "2247514561_1",
-    "title": "掘金好文 | 两行代码就能适应任何屏幕？",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247514561&idx=1&sn=b11850a34bb417a25da6157c6305e4c4&chksm=e9d37223dea4fb35d679e925ef87ea7a80931a0119c426627d5dd26531fcea318dc80ddd1042#rd",
-    "publishTime": 1747378007,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5EcwYhllQOjlNK13hic8axuU8MDjLicxmhPLHibSOgibj2Z6A7dCwkU1ObicUmSRy4MOiah6HXocGgRQIr00kVL2SO4Q/0?wx_fmt=jpeg",
+    "id": "2247514165_1",
+    "title": "智能无限，协作无间｜你的专属AI工程师 Trae 全新登场！",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247514165&idx=1&sn=2fa904ecf28c0192a7939e76ed674663&chksm=e9d373d7dea4fac134a12471a00909e85e30f62bae521b22ecbc5b14115165492977faeb342b#rd",
+    "publishTime": 1745287214,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5EcwYhllQOjIPQzIT8PWicjJEsHfDx0e7sTYWhe3QIicQKYgPU9q3fYpiaod60pWt7rvQ8NOPsz9ico1ia7jB4tzqNQ/0?wx_fmt=jpeg",
+    "digest": "",
+    "author": "",
+    "feedId": "MzI1MzYzMjE0MQ=="
+  },
+  {
+    "id": "2247514165_2",
+    "title": "玩转MCP | 一文看懂如何在 Trae IDE 中解锁 MCP",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247514165&idx=2&sn=7e6a42edff9fdb8cbdab2a4d691f31a8&chksm=e9d373d7dea4fac10809b93da68cb6287be573022fed68ff06faf3243e5dd3d523421eaeaf3d#rd",
+    "publishTime": 1745287214,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5EcwYhllQOhqbBsR1DqlmGibyh8C0EnCVjIuZClJictX9WkpdOc9SV23ib9icyyZ7Zia5gT9anfibUw4p8W3XDrsacsA/0?wx_fmt=jpeg",
     "digest": "",
     "author": "",
     "feedId": "MzI1MzYzMjE0MQ=="
@@ -530,12 +540,12 @@
     "feedId": "MzI1MzYzMjE0MQ=="
   },
   {
-    "id": "2247514106_1",
-    "title": "《2024字节跳动企业社会责任报告》发布",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247514106&idx=1&sn=b908ff9f950aa4ecb2ef463095b0496e&chksm=e9d37c18dea4f50e03cb1303a87e0d664f64be931f2e16f7df1b3e7f6c9dfe8f4bba61be4554#rd",
-    "publishTime": 1744874327,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5EcwYhllQOg2h4F0ATibHEroBaaYNh4mQ7SHsCxya6FAib9cNV7DjKRPzicD0LAZm5SrZibIwtic0smvekypdS33rfA/0?wx_fmt=jpeg",
-    "digest": "科技让美好发生",
+    "id": "2247513934_1",
+    "title": "让AI代码从能用变好用! Trae+火山引擎数智平台, 打造\"会进化\"的智能应用",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247513934&idx=1&sn=873b95d002f3b3db765e9cb23b8750f3&chksm=e9d37cacdea4f5bae52e2534765ac9bbe2a3fc4007f8be05cb76e3cfec58050aac2d94c64276#rd",
+    "publishTime": 1742605200,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5EcwYhllQOgMDQKfF4tnuaqU1Cia9kibEIuwKu3ibCVJZ7Mp3GmtZdr38FO0E8m7ERBG7My5unpNqzvgUoDqGBnRQ/0?wx_fmt=jpeg",
+    "digest": "",
     "author": "",
     "feedId": "MzI1MzYzMjE0MQ=="
   },
@@ -580,12 +590,12 @@
     "feedId": "MzI1MzYzMjE0MQ=="
   },
   {
-    "id": "2247513819_1",
-    "title": "vArmor：云原生容器安全的多场景应用实践",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247513819&idx=1&sn=4a7bb748c53d31e3d9c5194534917870&chksm=e9d37d39dea4f42f29908896bc092c7da7d493b409aa1b9bbdf559b98380c4358e310c69ae0d#rd",
-    "publishTime": 1742205600,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5EcwYhllQOgpny1zwurziaHUWAR4dmh4AJRgdCIj2WMAXAYVHC6TlZmrvQVzVqvX3c6C2sjehzrsplvSic09icK3g/0?wx_fmt=jpeg",
-    "digest": "",
+    "id": "2247513369_2",
+    "title": "Trae「超级体验官」火热进行中！Windows 版正式上线，开启 AI 编程新征途",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247513369&idx=2&sn=a551d0e8ac1d667137eb77ada0b8c938&chksm=e9d37efbdea4f7ed8f5d2e3e8cc5acbef457fa5ae401b40f43ace917479d2d0209cbe84bb139#rd",
+    "publishTime": 1739786400,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5EcwYhllQOhvZn8ROv74yiarEsKSKfbnrO4W2hWPjKCbWdPp8icXVRTMcDIwTK3ZyfW6jY8oRKic9L00W2Zo751bQ/0?wx_fmt=jpeg",
+    "digest": "来掘金参与Trae「超级体验官」活动，写好文赢大奖！",
     "author": "",
     "feedId": "MzI1MzYzMjE0MQ=="
   },
@@ -640,12 +650,22 @@
     "feedId": "MzI1MzYzMjE0MQ=="
   },
   {
-    "id": "2247513210_1",
-    "title": "大语言模型应用开发框架 —— Eino 正式开源！",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247513210&idx=1&sn=d73c42c5ee5a694a80854e7a8d02cbbf&chksm=e9d37f98dea4f68e253da00814ac6b5ef2a23b16f013db0cf0132cf59f459c9f2fa8c245b5ab#rd",
-    "publishTime": 1739160000,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5EcwYhllQOgmZwFx9nmOSibodEzk2QkVMsMWOuYPHByBdVUN6pXXZLYeOt1YcJ8mDS82iaG5M5NibiaEGN8VB8xSxw/0?wx_fmt=jpeg",
-    "digest": "基于戈朗(Golang)的大模型应用综合开发框-架埃诺(Eino)，已在云微网正式开源",
+    "id": "2247512573_1",
+    "title": "ByteHouse技术详解：基于OLAP构建高性能GIS地理空间能力",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247512573&idx=1&sn=edd6005b9d497d447674c0716c74a152&chksm=e9d37a1fdea4f309c1bc93bdf8613b5cc59b1f937fffad54dad6127c7fed0a6f0a9bc280cf7d#rd",
+    "publishTime": 1735185660,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5EcwYhllQOh6S19ta8ZQOFwKZB6sYPictrwjSyRaoyLJWXfPnT7zSObTwxSjAhZ12SlBoPXSrOia1RshPHYtRy5w/0?wx_fmt=jpeg",
+    "digest": "如何让OLAP具备高性能地理空间分析能力",
+    "author": "",
+    "feedId": "MzI1MzYzMjE0MQ=="
+  },
+  {
+    "id": "2247512573_2",
+    "title": "课程预告 | 全网超 55W 人关注的 DIY 飞书个性签名，教你用 AI 实现！",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247512573&idx=2&sn=1da8aabdc11f5636dc51d2aa7550e2f2&chksm=e9d37a1fdea4f309f0a4094a303a69a30c04ee9c698f9959f3747632fc7f1d59d02e795f9f80#rd",
+    "publishTime": 1735185660,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5EcwYhllQOh6S19ta8ZQOFwKZB6sYPicts5SGibhEZPNyYJME0ZWZt20EV4zG5UBc3IYhdDFXiax7yABCqbdmZdzg/0?wx_fmt=jpeg",
+    "digest": "字节内部同学都在用的动态个性签名，全网超55W 关注到了他的创意，本节课带你用AI编程工具实操～小白也能实现自己的创意！",
     "author": "",
     "feedId": "MzI1MzYzMjE0MQ=="
   },
@@ -700,12 +720,22 @@
     "feedId": "MzI1MzYzMjE0MQ=="
   },
   {
-    "id": "2247512487_1",
-    "title": "NDSS 2025｜ 抖音集团安全研究团队提出机密沙箱内存管理方案WAVEN",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247512487&idx=1&sn=2084969d835f481f70244a795d40aa77&chksm=e9d37a45dea4f353de5073b43f01ea2fbbc38b9a87692a5ebefb7ecee0daa6bf6aee12009547#rd",
-    "publishTime": 1734688860,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5EcwYhllQOh3EmPBRCmPFzesXmw8m5EMTHWkGZt2co5rwUTCTG3WuMb0iblFyJZsjKsjMJn3CMR9c2X3dGtkUsw/0?wx_fmt=jpeg",
-    "digest": "抖音集团安全研究团队和南方科技大学可信系统安全实验室合作的研究论文《WAVEN: WebAssembly Memory Virtualization for Enclaves》，于近日入选信息安全领域国际顶会NDSS 2025。",
+    "id": "2247512021_1",
+    "title": "更快、更稳、更优，揭秘火山引擎全站加速 DCDN 规模容器化最佳实践",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247512021&idx=1&sn=799295a35066b6d038a977675da66944&chksm=e9d36437dea4ed21dbda8b9bbc6d941babf5a650dd29dbc9c5ff079de124240c1e1c8d368b2d#rd",
+    "publishTime": 1732874460,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5EcwYhllQOgeV4O8HsX3UC0Y4V9rLvqRBZWys2DEzS3BuUxCJZDPN7p3e7cz39LF3ibsg3AImiaWEujIWZVjEWtA/0?wx_fmt=jpeg",
+    "digest": "提升资源配置效率，减少了 90% 的资源争抢问题，节点上线效率提升 80% 以上！",
+    "author": "",
+    "feedId": "MzI1MzYzMjE0MQ=="
+  },
+  {
+    "id": "2247512021_2",
+    "title": "初级开发者系列｜AI编程云课堂课程预告来啦！",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247512021&idx=2&sn=fe564b196bc8ae33017013f5ddb0b97e&chksm=e9d36437dea4ed2116fe324a69532717dc2973942e0a2402a1568b1c8e33ee9fc03b5d1a6575#rd",
+    "publishTime": 1732874460,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5EcwYhllQOgeV4O8HsX3UC0Y4V9rLvqR76FOIicgCcMqldUzogic7bSxPgrN6yMv42tdM5bak1HQOsA7u4qXwK0w/0?wx_fmt=jpeg",
+    "digest": "12月开始，字节资深开发者带你玩转AI编程。",
     "author": "",
     "feedId": "MzI1MzYzMjE0MQ=="
   },
@@ -750,12 +780,12 @@
     "feedId": "MzI1MzYzMjE0MQ=="
   },
   {
-    "id": "2247511900_1",
-    "title": "字节跳动基于 Ray 的大规模多模态数据处理框架",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247511900&idx=1&sn=00aa033a2e651b06d0a02ce4940d0e11&chksm=e9d364bedea4eda8e5124c4fcca56f35d188dea68d9f5fe578f40fe47d43f8e1d07113b1a53a#rd",
-    "publishTime": 1732258920,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5EcwYhllQOjPpvkzgibb5Hzx3WphBaAJ4WaibEQ8C3klPibo0tUkFb7A0YGS07EuQLSR6XVWNreZiaFianJlTlWHdrg/0?wx_fmt=jpeg",
-    "digest": "如何使用Ray/RayData构建Audio/Video数据处理Pipeline，以及在大规模不稳定资源上运行RayData所做的优化工作。",
+    "id": "2247511128_1",
+    "title": "抖音集团也在用的数仓「降本」利器",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247511128&idx=1&sn=f464f7cda3db24ad9af5a938308beb3e&chksm=e9d367badea4eeac650775bcb03cdf27e8b0148be6d6bd249d5c237f562e3bcfd55dcae1f350#rd",
+    "publishTime": 1730766600,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5EcwYhllQOjlZ85KYt8ic3lyMd4rXXXXJmqU25tW3q0PJb00TwRJ6SIA4khXPkUQGSs9Ao7tSQeSGtHPQguSqoA/0?wx_fmt=jpeg",
+    "digest": "抖音集团如何巧用“数仓”降本",
     "author": "",
     "feedId": "MzI1MzYzMjE0MQ=="
   },
@@ -820,12 +850,22 @@
     "feedId": "MzI1MzYzMjE0MQ=="
   },
   {
-    "id": "2247510944_1",
-    "title": "【万字干货】保姆级AI编程基础入门，看这篇就够了！",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247510944&idx=1&sn=b8ded41ab63591d5ac94389ff683611e&chksm=e9d36042dea4e9543740d231af90ebfc9bfe8b4f9819f42b2ecd0e5042709ada4b6995536f5f#rd",
-    "publishTime": 1730196164,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5EcwYhllQOjuteiclP86nTVm2kbhzqD0RgRQ47An0OxEonKUqCZhKqLVCIzwoibM3dkbbKxozMQpN2W81xAG515A/0?wx_fmt=jpeg",
-    "digest": "",
+    "id": "2247510648_1",
+    "title": "从0到1搭建 AI 口语陪练，雅思口语这不就搞定了？｜扣子（coze.cn）最佳实践Vol.1",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247510648&idx=1&sn=34b2b06ab658dcf76a01094cacfa2366&chksm=e9d3619adea4e88c2cdf839050e313cceb0105f54b604cda684941855405bb9c9b91a3fd9230#rd",
+    "publishTime": 1727398800,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5EcwYhllQOhP9VzMYcDPCkhYVu2VTJHEFgZibms5iacDO8Gy4cJu1WWJgNicDpoiaEyLDn9Dhz0hPHQTB6CY06m1hg/0?wx_fmt=jpeg",
+    "digest": "Bot 已开源，一键复制即可创建属于你的口语专家，文末还有抽奖！",
+    "author": "",
+    "feedId": "MzI1MzYzMjE0MQ=="
+  },
+  {
+    "id": "2247510648_2",
+    "title": "火山引擎AI创造者大赛，圆满收官！",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247510648&idx=2&sn=38ea4a7c1ff17835160edc3d2e42bb6a&chksm=e9d3619adea4e88cc2a2b5ff67826fa1916046075b470a52d4f4e2d6213a21c743d36ed02c0d#rd",
+    "publishTime": 1727398800,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5EcwYhllQOgFFDhZVzdAYnibf5347wadrmAJ49gPyZ8GXtvd09jdHziaTyv8L22guJC4upwV4xrvm2y2k2rnUVicg/0?wx_fmt=jpeg",
+    "digest": "豆包大模型加速推动行业迈向更智能、更高效的未来",
     "author": "",
     "feedId": "MzI1MzYzMjE0MQ=="
   },
@@ -870,22 +910,22 @@
     "feedId": "MzI1MzYzMjE0MQ=="
   },
   {
-    "id": "2247510490_1",
-    "title": "Seed-Music 音乐大模型正式发布！生成编辑两开花，十种创作任务，满足多样化需求",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247510490&idx=1&sn=8ecde913d2a147d07e23276fbdf00923&chksm=e9d36238dea4eb2eb30555ea1a6390da579c52eae7e6772fbf9def34f6b3884edcb6a2b93011#rd",
-    "publishTime": 1726740000,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5EcwYhllQOhxc6FrZpiakZiaP5P9nkK23HfJ0GtXyZ4MS766U7lRCLTXFCGbYEoxYr57GcnzXzaNqUbveH3qBE5g/0?wx_fmt=jpeg",
-    "digest": "",
+    "id": "2247509716_1",
+    "title": "有奖征集｜人人都是豆包MarsCode测评官！AirPods Pro！机械键盘、音响等你来拿",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247509716&idx=1&sn=c2ab1fba868f75c7d6138511b400a123&chksm=e9d36d36dea4e4203c30925114050cf842b4111d8d59f2b3aecc65c7f150fe79bfed771e8673#rd",
+    "publishTime": 1724829600,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5EcwYhllQOhZhG4Dicl3jUsU59JGmPmagC1ropkiagTAxbg0qRPA6Bdew77n79ia4A7oxeylYXYj8AKwWyQbHzmYw/0?wx_fmt=jpeg",
+    "digest": "豆包MarsCode ，基于豆包 大模型 的智能开发工具，提供 Cloud IDE 及 AI 编程助手两种使用形态，具备代码补全、智能问答、代码解释和代码修复等多项功能，原生的AI能力，让编程变得更加智能化和便捷化。",
     "author": "",
     "feedId": "MzI1MzYzMjE0MQ=="
   },
   {
-    "id": "2247510490_2",
-    "title": "探索端智能，加速大模型应用，火山引擎边缘智能 x 扣子技术沙龙等你来",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247510490&idx=2&sn=d6db3cedf20591e95b07452360a47565&chksm=e9d36238dea4eb2ecd685c88be6ce8b52a6e3699549ecffe4da71e8a58e11ff5f3577e8b90a9#rd",
-    "publishTime": 1726740000,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5EcwYhllQOhxc6FrZpiakZiaP5P9nkK23H9IyWicYrM6hew56ibNlJjXKiaLBrUyfw6q7y8u4VNZLiaH9pm6RkUEkaibw/0?wx_fmt=jpeg",
-    "digest": "9月21号将举办边缘智能 x 扣子技术沙龙，活动上有行业大咖分享 AI 及物联网领域前沿洞察、快速构建端侧智能体应用、揭秘地瓜机器人最新开发套件等等干货知识，还有精美茶歇、互动抽奖等你来！",
+    "id": "2247509716_2",
+    "title": "Karpathy 都看呆了！8 岁女孩玩转 AI 编程，45 分钟打造聊天机器人｜AGI 掘金资讯",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247509716&idx=2&sn=e9cf3bdea96ae95b1d3b63474500109e&chksm=e9d36d36dea4e4205547144115b56b4419477835bea596f527205fff00f9773778621ec43263#rd",
+    "publishTime": 1724829600,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5EcwYhllQOhZhG4Dicl3jUsU59JGmPmagXO3rLcyfOJicw68DOHcKBvKPXOZVfGIVq8JUfibMgO0qWk7QsIuyUlhA/0?wx_fmt=jpeg",
+    "digest": "酱酱们中午好～今天的 AGI 掘金热点资讯来啦，我们知识库上线了 AI 小助手，欢迎来撩！",
     "author": "",
     "feedId": "MzI1MzYzMjE0MQ=="
   },
@@ -950,32 +990,12 @@
     "feedId": "MzI1MzYzMjE0MQ=="
   },
   {
-    "id": "2247509163_1",
-    "title": "kitexcall：用 JSON 发起 RPC 请求的命令行神器",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247509163&idx=1&sn=b88878f3b0ec3ed9402b9cbf327ccbab&chksm=e9d36f49dea4e65f3b37786dd7c83e1f2b8da4c6dc463e289eefaee13584f4acd888502a3f8f#rd",
-    "publishTime": 1724390400,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5EcwYhllQOhIogOQhodD9em5ZG7AlpW4ibce7IZicKpfIb1ibEMeiav6ic1WBmdUBszrAfc2rMFnqicY10enLIHvYbEQ/0?wx_fmt=jpeg",
-    "digest": "为了简化开发者的工作，社区推出了 kitexcall 这个命令行工具，基于 Kitex 提供的 JSON 泛化调用，极大地简化了 Kitex 客户端的编写过程。",
-    "author": "",
-    "feedId": "MzI1MzYzMjE0MQ=="
-  },
-  {
-    "id": "2247509163_2",
-    "title": "捏Bot挑战｜瓜分30万现金，更有领克Z10一年使用权等你赢！",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247509163&idx=2&sn=bba25bea7c0c31a54639db6aceb07a0b&chksm=e9d36f49dea4e65f76e68ae081da74b36d21dd4300b1521ad60e6f674cd80991139f6fa7b55f#rd",
-    "publishTime": 1724390400,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5EcwYhllQOhIogOQhodD9em5ZG7AlpW4ppS8PCRMzlWL5zzaSiarCrOaN3jibeHpP2LvQ2A3lwvabX33scMIJ0YA/0?wx_fmt=jpeg",
-    "digest": "捏Bot挑战｜瓜分30万现金，更有领克Z10一年使用权等你赢！",
-    "author": "",
-    "feedId": "MzI1MzYzMjE0MQ=="
-  },
-  {
-    "id": "2247509163_3",
-    "title": "意念玩《黑神话》指日可待？马斯克脑机接口最新进展，脑后插管打 CS 拼抢三杀！｜AGI 掘金资讯",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247509163&idx=3&sn=c1c4b411f75605dd64dc24771e9e8d56&chksm=e9d36f49dea4e65fc908ea2f37e4ee0f9dae54ee85ce8357b78d3b88a16e83daf10abd367164#rd",
-    "publishTime": 1724390400,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5EcwYhllQOhIogOQhodD9em5ZG7AlpW4brDfn04wnxic32zB8yNciaWO9jYI0ibsjibJq4tCnf4wafI1S1Qya58KGA/0?wx_fmt=jpeg",
-    "digest": "酱酱们中午好～今天的 AGI 掘金热点资讯来啦，我们知识库上线了 AI 小助手，欢迎来撩！",
+    "id": "2247508631_1",
+    "title": "性能提升20%，字节跳动HTTPDNS从中心下沉到边缘",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247508631&idx=1&sn=7cff82a449e4665779f94ddf949b5240&chksm=e9d36975dea4e0638db8d56997308e96f68dfbb18f815da2170a36f3ce9fba3032eab31b0a04#rd",
+    "publishTime": 1723014000,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5EcwYhllQOg9MTmOvzz7wV9br3NO7srbg0RDlZSLao6Gd5YQm7XggkakE2onECYNNabCib2u4d6tiaGtt2kIndCQ/0?wx_fmt=jpeg",
+    "digest": "本文介绍了HTTPDNS服务从中心迁移至边缘详细的落地过程。主要围绕HTTPDNS下沉边缘实践遇到的挑战、解决方案，和下沉边缘后的收益展开。",
     "author": "",
     "feedId": "MzI1MzYzMjE0MQ=="
   },
@@ -1020,12 +1040,12 @@
     "feedId": "MzI1MzYzMjE0MQ=="
   },
   {
-    "id": "2247508535_1",
-    "title": "豆包招聘速递｜豆包大模型 Foundation 团队热招中",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247508535&idx=1&sn=dd28ecf0afa412be393e7885112ab5b1&chksm=e9d369d5dea4e0c3e957c0b2169660095c3d25d4d9e76335d26efd0a436a658f021e94282a28#rd",
-    "publishTime": 1722407280,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5EcwYhllQOgicaCYpTappa1jUZaPN2mWXLASWq4IeSbzwJgC1Ivibny5V8z3m3uqIH2mahoWuSUcHaP3KKOMcicRw/0?wx_fmt=jpeg",
-    "digest": "社招、TopSeed校招、实习岗位均有开放，期待你的加入",
+    "id": "2247508096_1",
+    "title": "基于火山引擎云搜索的混合搜索实战",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247508096&idx=1&sn=28284d35eb2bc749938574e07aaa6190&chksm=e9d36b62dea4e2745f7755f94c953d1ca2772e58d48525ed9b22f1aecd5e8feb08fe48b2094c#rd",
+    "publishTime": 1720510560,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5EcwYhllQOhclBLRUvRX8YvD1z4QvQ9JLtAbLxO0ia1bclNfWcJYicwcryVNXwXPDkibraqCjoZicTrrkdnuaokByQ/0?wx_fmt=jpeg",
+    "digest": "本文将以图像搜索应用为例，介绍如何借助火山引擎云搜索服务的解决方案快速开发一个混合搜索应用。",
     "author": "",
     "feedId": "MzI1MzYzMjE0MQ=="
   },
@@ -1070,12 +1090,12 @@
     "feedId": "MzI1MzYzMjE0MQ=="
   },
   {
-    "id": "2247507971_1",
-    "title": "玩转 Bot，人人都是开发者！",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247507971&idx=1&sn=8693601fd7a068ee963c5c27944ef9b3&chksm=e9d36be1dea4e2f7d6b21aa5b6b25e2c8dd99ea7e530e578715df7f84cb2eeb4f78d34fccb57#rd",
-    "publishTime": 1719815100,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5EcwYhllQOhFVGatQSsOibxWiaLxGicssSOm1f7yECNplYEH1zR7kl3Oic3DJYQYQL95rDq7MkMRRcZ7vdJhLbSoQg/0?wx_fmt=jpeg",
-    "digest": "如果说大模型是工程师的技术游戏，AI Agent 则是普通人可以尝试的乐高。",
+    "id": "2247507598_1",
+    "title": "12位出品人集结完毕，2折购票火热进行中！现在购票100%中奖",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247507598&idx=1&sn=54b30d45ab61388769fe80d10a7f0fdb&chksm=e9d3156cdea49c7ae1dd2f1f90fa7d43b294705bb8e483d968a772cc770743f3a6a73c5013bf#rd",
+    "publishTime": 1717067700,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5EcwYhllQOhqBC3rPgCJuI9plYLD0x9bjNev3OvOBianM1eNs9lR6O1ex3ZaFCEHJjxOygnenWBOHLCGKjPYH1w/0?wx_fmt=jpeg",
+    "digest": "大会战略合作伙伴英特尔，金牌合作伙伴Google Cloud等都将为大家带来精彩分享！",
     "author": "",
     "feedId": "MzI1MzYzMjE0MQ=="
   },
@@ -1120,12 +1140,12 @@
     "feedId": "MzI1MzYzMjE0MQ=="
   },
   {
-    "id": "2247507231_1",
-    "title": "豆包大模型，认识一下",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247507231&idx=1&sn=a71740b149f766e3817f29fb92c148bf&chksm=e9d316fddea49feb892081bc56ed37225dad7445ff51ee3e7956f985aeae648367c61b262dc6#rd",
-    "publishTime": 1715832000,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5EcwYhllQOia2qXxFQHa8oyxPZUBOPPueJ7DAgBiawZBktNwntyAcTia2jtssybB9qm21jXTa0OYxp9c1C56boWibw/0?wx_fmt=jpeg",
-    "digest": "",
+    "id": "2247506441_1",
+    "title": "2024 抖音欢笑中国年(二)：AnnieX互动容器创新玩法解析",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247506441&idx=1&sn=defc1594bdbaaaf02922ec30e8dec247&chksm=e9d311ebdea498fdbabd9af7c76e8c26333a25aca60e6ce7dfa2ec8fb714fece05b1f177cbd5#rd",
+    "publishTime": 1712019600,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5EcwYhllQOhKdkk0FWdXQ1u7vy3fCCkibWG600W51NpkNk5G7MewD63DKoibk2j98Gl6RmiaBYQIs9DibyiaXtQu7mA/0?wx_fmt=jpeg",
+    "digest": "2024年春节，抖音等App推出了欢笑中国年系列活动。我们结合游戏互动场景，成功完成了一系列游戏优化探索，取得了游戏加载耗时20%以上的优化效果。",
     "author": "",
     "feedId": "MzI1MzYzMjE0MQ=="
   },
@@ -1170,12 +1190,12 @@
     "feedId": "MzI1MzYzMjE0MQ=="
   },
   {
-    "id": "2247505979_1",
-    "title": "如何让万台节点的OLAP性能大涨？",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247505979&idx=1&sn=deb2657ee6553eed80a25c7f6ea03b14&chksm=e9d313d9dea49acf94f48963bd61cc9f4bdaa9954eafe092bc21629b1e2be6a7f8730681639f#rd",
-    "publishTime": 1710468000,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5EcwYhllQOgwfMmhccHANlBpI3t1ZoONDRIpeSiaOIGic49Z8RtAuHuvYy6iabgq2Z3CORB56pGPgiaibGhQm120obg/0?wx_fmt=jpeg",
-    "digest": "3月26日14:00，看ByteHouse如何突破业界性能瓶颈！",
+    "id": "2247505647_1",
+    "title": "字节让达芬奇和蒙娜丽莎“隔空吵架”，只需一张图、一段音频、一个情感片段",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247505647&idx=1&sn=519837c68ba39c65b8584a6635229d49&chksm=e9d31d0ddea4941bf66f523ea15b291bbf701bb28d5fbc682abf4f03ec23aaba300d3d1c464c#rd",
+    "publishTime": 1706927400,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5EcwYhllQOjlKydyYFtichVmyoKicCRibChtDeb8x0bKRicbyd4kUp7Id5GKwb3LxdAxrZaIKSmfib93tvPxHp4ZtKg/0?wx_fmt=jpeg",
+    "digest": "AI 视频生成新玩法~",
     "author": "",
     "feedId": "MzI1MzYzMjE0MQ=="
   },
@@ -1220,12 +1240,12 @@
     "feedId": "MzI1MzYzMjE0MQ=="
   },
   {
-    "id": "2247505534_1",
-    "title": "纯干货｜从“双12”到年终大促，看 CDN/DCDN/GA 技术如何应对流量洪峰",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247505534&idx=1&sn=1105cbc1db60598ee2db4081b22a1819&chksm=e9d31d9cdea4948af1af249dbbfc60adf4ba6b503a857e49bf50508f1b196218389e23b3fc54#rd",
-    "publishTime": 1706236200,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5EcwYhllQOhngZp6wSEGCxlAYkfDgKVtPTgH1y17vTcymkwib2k5RPNMn4Uu1nJYuDA3TU6Bf6JibTic8jibb5ibibrg/0?wx_fmt=jpeg",
-    "digest": "本文从动态扩容、流量调度、自保能力、流量压测、加速性能 5 个方面介绍应对双 12 突发流量时火山引擎 CDN/DCDN/GA 提供的解决方案。",
+    "id": "2247505166_1",
+    "title": "乘云向未来 | 字节跳动超大规模数据库产品技术演进之路",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247505166&idx=1&sn=f9942123aa503a99310830c5e313d452&chksm=e9d31eecdea497fa9db39780948748dc7d5d2945c76ab63dc3962f5bef19706c62b1add279cb#rd",
+    "publishTime": 1703232000,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5EcwYhllQOj8Ut7EjZia2LkysuLmuhpLKTCedPX9rDw07gO5s5lDkXz8tg1iaMvOnGVIGMrdu9bWm9CaAGDOicv5g/0?wx_fmt=jpeg",
+    "digest": "火山引擎公共云城市分享会，精彩回顾。",
     "author": "",
     "feedId": "MzI1MzYzMjE0MQ=="
   },
@@ -1270,22 +1290,12 @@
     "feedId": "MzI1MzYzMjE0MQ=="
   },
   {
-    "id": "2247505107_1",
-    "title": "字节电商双11 大促容量保障是如何做的？",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247505107&idx=1&sn=a492c8a94068b2c28b8ef7824c4e437b&chksm=e9d31f31dea496271477001aae36e4c7edda4e465f2d868b2a8e506ea28efd07b50a609b41e9#rd",
-    "publishTime": 1702375200,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5EcwYhllQOhEPP5VCRcoSsBXIGUCQVjLJ3sbCLcIvduHhNzo6BTiaP17LfdjvJye2FzPLOUiaaTabX7hoibOicFAkQ/0?wx_fmt=jpeg",
-    "digest": "Rhino 是字节自研全链路容量评估产品，历来在字节各业务容量保障活动中扮演着重要角色，本文结合电商业务双11 大促介绍了Rhino是如何对活动场景进行全流程容量保障支撑的。",
-    "author": "",
-    "feedId": "MzI1MzYzMjE0MQ=="
-  },
-  {
-    "id": "2247505107_2",
-    "title": "技术人的 2023 总结｜火山引擎开发者社区第四届有奖征文大赛来袭！",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247505107&idx=2&sn=9e08472b0884d1a8b65f39d3b948031a&chksm=e9d31f31dea496274cd7dfeeb66c253e958c6c4821004a707092c25efa1087cacbea98b4db0f#rd",
-    "publishTime": 1702375200,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5EcwYhllQOhEPP5VCRcoSsBXIGUCQVjLPPbbweP2CTsAkfch97WONyDgm0ibAZ9VpBCNQvStoEvE5Au19vdbVibQ/0?wx_fmt=jpeg",
-    "digest": "一年一度的社区征文大赛来袭，参与就有机会赢取丰富大奖！",
+    "id": "2247504566_1",
+    "title": "Go Metrics SDK Tag 校验性能优化实践",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247504566&idx=1&sn=64b198119d5782daba63490d8580b368&chksm=e9d31954dea49042ee7bee78df90d49181a986b93d06fbb5093ea3a17f545bd35d288e197dc5#rd",
+    "publishTime": 1698633000,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5EcwYhllQOgY5dmslPicBoDvgfFO0FUdvmicrOB0e6k0GbM0S9mHjXyg1WQPDpdQ4rv4cGSnjuPMOWrvE63EpPSA/0?wx_fmt=jpeg",
+    "digest": "Metrics SDK 是与字节时序数据库配套的用户指标打点 SDK，集成于字节内数十万服务中。其性能优化是个至关重要的议题，本文将以 Go Metrics SDK 为例，探讨对打点 API 的 hot-path 优化实践。",
     "author": "",
     "feedId": "MzI1MzYzMjE0MQ=="
   },
@@ -1330,12 +1340,12 @@
     "feedId": "MzI1MzYzMjE0MQ=="
   },
   {
-    "id": "2247504397_1",
-    "title": "火山引擎实时、低延时拥塞控制算法的优化实践",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247504397&idx=1&sn=1da33095ad447ac8d659410237f228be&chksm=e9d319efdea490f9f57f1b16d115c3ed806fabba3610a5e769fb18966ea4d73bdeffb91d7b30#rd",
-    "publishTime": 1697601500,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5EcwYhllQOh0D5ibSJVA9LJubdmhN3XYAj2aGAYMo0DwbfCuT9OP5JzbkRFr6JgITNUbtrT4fadY19l2oJCTqoQ/0?wx_fmt=jpeg",
-    "digest": "VICC是火山引擎自研的自适应拥塞控制算法，旨在解决全球复杂网络环境下，不同应用对清晰度、流畅度及交互性差异化的诉求，提升弱网下的音视频体验。",
+    "id": "2247503903_1",
+    "title": "VLDB 2023 ｜ CDSBen: 字节跳动 veDB 数据库存储系统性能测试模型",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247503903&idx=1&sn=55b3b44def52b6729346b9d6a45eec0d&chksm=e9d31bfddea492eb27a153b365cf2e276d855e90e72c3d2d547e9912a9b52e1d4772cc84a3d6#rd",
+    "publishTime": 1693620000,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5EcwYhllQOiapGsqwVZ1JeK0LCR0OyK88nMticcGjFEZ83pv9JMfFqs4BcU7QxBmmg8iczSdFQqpf555J9XE7KKpw/0?wx_fmt=jpeg",
+    "digest": "入选 VLDB 2023！该论文提出 CDSBen模型，利用机器学习预测存储层 IO 模式，实现真实、精准的基准测试。",
     "author": "",
     "feedId": "MzI1MzYzMjE0MQ=="
   },
@@ -1376,16 +1386,6 @@
     "publishTime": 1692687600,
     "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5EcwYhllQOhpXrT8z4pXc0YOgib2kt8J0h7NVfRgG5CTZic9XVSUMqcRoxQiadoO8PPbYvKQPDv5ebUTqMedOa5Nw/0?wx_fmt=jpeg",
     "digest": "线下参会即可抽奖，90% 中奖率！",
-    "author": "",
-    "feedId": "MzI1MzYzMjE0MQ=="
-  },
-  {
-    "id": "2247503606_1",
-    "title": "火山引擎ByteHouse：一套方案，让OLAP引擎在精准投放场景更高效",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247503606&idx=1&sn=2ec8b711a6c9a2b2fe6bc02a4575835f&chksm=e9d30514dea48c02c110c6152f4d43eb4e45bcdcffdaa66912dec4834b4706fd9304035837f6#rd",
-    "publishTime": 1692332040,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/5EcwYhllQOiaFCjcNc6LAHA9QpOUibgmic2OrRJKHmdH6aVT3JkQYZTbfA4Rh713KAQurswHPiblDlzSEAQT14KvRA/0?wx_fmt=jpeg",
-    "digest": "本篇内容将聚焦字节跳动OLAP引擎技术和落地经验，以字节跳动内部场景为例，具体拆解广告业务的实现逻辑和业务效果。",
     "author": "",
     "feedId": "MzI1MzYzMjE0MQ=="
   }

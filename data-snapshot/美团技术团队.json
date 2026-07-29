@@ -1,5 +1,15 @@
 [
   {
+    "id": "2651783056_1",
+    "title": "美团正式发布 CatPaw：全场景 AI Agent，从个人提效到企业智能化",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651783056&idx=1&sn=c5c7f73638bc777077e1b88b6f6acebd&chksm=bd1226dd8a65afcb27c66afc2c54e0d94685582cbcdf95813b01691af2efa1ee79ddb056d192#rd",
+    "publishTime": 1785205440,
+    "cover": "http://mmecoa.qpic.cn/mmecoa_jpg/V95GN2mm0DzzJNDicCp7VvzKrUMpzZqxW9RXon10sxia0HDjv1FeHhjHKoW1GBiaSA75sVUE3mibH6iaialnxjJhP4CEbqvXyLpfWJNoxnmOhwJqo/0?wx_fmt=jpeg",
+    "digest": "CatPaw 全场景 AI Agent 平台发布！公测福利限时领取，点击进来一键解锁！",
+    "author": "",
+    "feedId": "MjM5NjQ5MTI5OA=="
+  },
+  {
     "id": "2651783046_1",
     "title": "让AI离开温室，走向动态世界：MineExplorer揭示顶级多模态大模型被忽视的能力断层",
     "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651783046&idx=1&sn=a18ff849165bb78a263bdc32c4f55309&chksm=bd1226cb8a65afdd4095a876b413656a9a7db3925b89a2affed0c5ed74e8444728c1637b3608#rd",
@@ -80,22 +90,12 @@
     "feedId": "MjM5NjQ5MTI5OA=="
   },
   {
-    "id": "2651782896_1",
-    "title": "美团海报生成 AIGC 技术创新与实践",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651782896&idx=1&sn=d13b5709795af1b2e75c9396956d5fc2&chksm=bd1227bd8a65aeab4d051f2e7553f490bff6ec4ddd302484574328f6c29d2780ccac77b10f55#rd",
-    "publishTime": 1781749440,
-    "cover": "http://mmecoa.qpic.cn/mmecoa_jpg/V95GN2mm0DyTfKPd7jZjN3ZukjwSqkibWLZTHaysURzmAQlcR3D1fhOnTAqtWYBxub8qMAqiac8eeSvic2NhxKWRz5icYXLZLWQhmwn4UHb90XU/0?wx_fmt=jpeg",
-    "digest": "构建完整的技术体系，已开源。",
-    "author": "",
-    "feedId": "MjM5NjQ5MTI5OA=="
-  },
-  {
-    "id": "2651782896_2",
-    "title": "报名｜美团&顶会论文分享：搜索推荐ASX专场",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651782896&idx=2&sn=ce2cb30b2d2b0e9ea12d03561124dd05&chksm=bd1227bd8a65aeab461cddef3fa87bdd3590c243887dbfaa518d530756cff3f2906ea6a6b07a#rd",
-    "publishTime": 1781749440,
-    "cover": "http://mmecoa.qpic.cn/sz_mmecoa_jpg/V95GN2mm0DwOR6q7w5C5Kjl6DKqmZXtoeKicvHFSo2Hribhs2MfAnicwynEjhenGWwBnEkZh9GFmichnmnomvlPTXbUTUj0CwgAtNj37IA8EvDo/0?wx_fmt=jpeg",
-    "digest": "6月25日 周四下午，线上直播~",
+    "id": "2651782250_1",
+    "title": "LongCat 为 OpenClaw 装上效率引擎：你的自动化任务还能再快 30%",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651782250&idx=1&sn=82e74b41334aefc6d1b22a26695d52e6&chksm=bd1225278a65ac31d6d73476f4a1ff4099a70abb742c81f63cc1e65689e87979c3e79c166afe#rd",
+    "publishTime": 1772711880,
+    "cover": "http://mmecoa.qpic.cn/mmecoa_jpg/V95GN2mm0DyLrmBmB8aFkn6yFEp3zZkTjPM8MUbKH6YWrNK9FdCUNmBo9zyypqutL7xRAD21IxeBUuib7NYiaubM6z792cdicjvZnAuMlqcTvM/0?wx_fmt=jpeg",
+    "digest": "LongCat 团队提供稳定合规的官方免费 API，开发者可通过官方渠道直接接入，在确保账号安全的前提下构建自动化工作流。",
     "author": "",
     "feedId": "MjM5NjQ5MTI5OA=="
   },
@@ -160,12 +160,22 @@
     "feedId": "MjM5NjQ5MTI5OA=="
   },
   {
-    "id": "2651782084_1",
-    "title": "美团EvoCUA刷新开源SOTA，会用电脑还会持续进化的智能体",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651782084&idx=1&sn=98560b56a5902e9b4c19421be46084e6&chksm=bd1222898a65ab9fd5894f3a4e218902fffb70e62e86b431bf6d8cb050fac049dafc91852cd5#rd",
-    "publishTime": 1769135040,
-    "cover": "http://mmecoa.qpic.cn/sz_mmecoa_jpg/hEx03cFgUsVxfF6ltFNej8JR7DiclLW156WNmYAuNlOXOgbnRV8j57CynZzmf6Jrf3LOZrS9ibFJz4hiapk0u6ltQ/0?wx_fmt=jpeg",
-    "digest": "EvoCUA致力于构建一种进化范式，让模型在大规模沙盒环境中，像生物进化一样，通过不断的试错，反思和修正，积累海量成功和失败经验，进而不断提升自身能力。",
+    "id": "2651781450_1",
+    "title": "LongCat-Flash-Thinking 正式发布，更强、更专业，保持极速！",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651781450&idx=1&sn=ab3787213afdbdd8fc68257e87343332&chksm=bd1220078a65a9111b4a397a284aeaf06e5fe6496711f1407d8031d0adbb5514cc5f8ad326e1#rd",
+    "publishTime": 1758542280,
+    "cover": "http://mmecoa.qpic.cn/sz_mmecoa_jpg/hEx03cFgUsUv6lQbibOnN9sIc6BqTXtFcTb6dIBL2EMN73FOXJ7d35D9BfOOF5tmxe5WRU8x4LpjBcZRgzjicQ2w/0?wx_fmt=jpeg",
+    "digest": "为高复杂度任务而生！",
+    "author": "",
+    "feedId": "MjM5NjQ5MTI5OA=="
+  },
+  {
+    "id": "2651781450_2",
+    "title": "开源 | InfiniteTalk：无限长虚拟人视频生成的新范式",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651781450&idx=2&sn=84d6041c857d96313634a145bcae0ac3&chksm=bd1220078a65a9119ea358f4202b110bb571d40aea3956984721a65e6d8f2e58b63351eca78a#rd",
+    "publishTime": 1758542280,
+    "cover": "http://mmecoa.qpic.cn/sz_mmecoa_jpg/hEx03cFgUsXcicLgBSsqAMgmTNeEhibEhoYXD26zhjia3iaM4xnvCYZJNMlJLH8Qr7YCgBDBQZTcTWQsvMrLFfibatw/0?wx_fmt=jpeg",
+    "digest": "GitHub开源并获1.6K Stars, Hugging Face 月下载量64.8K。",
     "author": "",
     "feedId": "MjM5NjQ5MTI5OA=="
   },
@@ -210,32 +220,12 @@
     "feedId": "MjM5NjQ5MTI5OA=="
   },
   {
-    "id": "2651781337_1",
-    "title": "可信实验白皮书系列08：开放式分析引擎 | 附PDF合集下载",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651781337&idx=1&sn=a693896385a6049e840f09646d34e776&chksm=bd1221948a65a8826e420c27a862a04595c28d393ee8d6fe316ae2f107bff5a5b407e5946438#rd",
-    "publishTime": 1755777480,
-    "cover": "http://mmecoa.qpic.cn/sz_mmecoa_jpg/hEx03cFgUsWDaM3wvmc1xyYk00RVv5wEsphEKNIM50lrEWyyVNNnZeaGhBxfRmD2mVEZvbUOD1qv4vXgmHHAyw/0?wx_fmt=jpeg",
-    "digest": "本篇为《可信实验白皮书》系列的最后一篇内容，主要分享了AB实验分析方法库在美团的实践。同时，我们也为大家准备了一份本系列全部文章的PDF合集，希望能够帮助到更多从事AB实验工作的同学们。",
-    "author": "",
-    "feedId": "MjM5NjQ5MTI5OA=="
-  },
-  {
-    "id": "2651781337_2",
-    "title": "【报名】MARS TALK 香港理工大学站｜高动态环境下的智能机器人",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651781337&idx=2&sn=87cd6b63fbf0aebfbdbe64c481979c7c&chksm=bd1221948a65a882c04757ee0120591332ebb67c87feb391fa920a144b4c994f0acd9f2de01b#rd",
-    "publishTime": 1755777480,
-    "cover": "http://mmecoa.qpic.cn/sz_mmecoa_jpg/hEx03cFgUsWDaM3wvmc1xyYk00RVv5wEH9CKAOiaZxdVkMicR1nfVaeiauvjia2D54D9Z3h5exfxUum9LkGCeU8Y5w/0?wx_fmt=jpeg",
-    "digest": "线上线下报名同步开启，点击预约解锁前沿观点，一同碰撞思想火花。",
-    "author": "",
-    "feedId": "MjM5NjQ5MTI5OA=="
-  },
-  {
-    "id": "2651781337_3",
-    "title": "美团AI人才招聘进行时，大模型/感知算法…多个岗位热招中！",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651781337&idx=3&sn=d6e62d0e95e8cbe5cbc6da719090ad63&chksm=bd1221948a65a882f34b76f8ebc6b1f79e6f8bef939542b3a2886289b61d43a04dcd90ab8861#rd",
-    "publishTime": 1755777480,
-    "cover": "http://mmecoa.qpic.cn/sz_mmecoa_jpg/hEx03cFgUsWDaM3wvmc1xyYk00RVv5wEMyKpbHQbSxgATC3zxhjCj7F93PlbiaicCUJJxxckWw2nOPgqriakILtIQ/0?wx_fmt=jpeg",
-    "digest": "欢迎加入美团的AI事业，让我们一起定义下一个十年！",
+    "id": "2651780239_1",
+    "title": "美团AI招聘 | 开启AI Native Agent新纪元！",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651780239&idx=1&sn=5107ee1339a84ded15a918b618eb53ba&chksm=bd122dc28a65a4d408905c750b9aef358ca10eb71192d4891738e5a6abe2cbfa1bd74140d7b6#rd",
+    "publishTime": 1745495880,
+    "cover": "http://mmecoa.qpic.cn/sz_mmecoa_jpg/hEx03cFgUsVh2qriasnZK8YPIn1J4NLsh1gDogJTFHuGfS5RhxLWJ4U9WRkjNYicaEv4ibT5ThsRWD4WzranRWX7g/0?wx_fmt=jpeg",
+    "digest": "欢迎加入美团技术团队，跟我们一起驱动技术发展，为行业创造价值。",
     "author": "",
     "feedId": "MjM5NjQ5MTI5OA=="
   },
@@ -320,12 +310,22 @@
     "feedId": "MjM5NjQ5MTI5OA=="
   },
   {
-    "id": "2651779995_1",
-    "title": "空降复旦！上海首条高校无人机配送航线启航",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651779995&idx=1&sn=122a728faad109edfbcfd4358fee300d&chksm=bd122ad68a65a3c001805c9e532ee7a70e31e445f7ef12a4bac12a05d6d432872f795a9f20df#rd",
-    "publishTime": 1741867080,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hEx03cFgUsUtSHnjGtJISr1YRYGeUGzNia2wZARoMzibqfKiabdYgu3JZdIbKgJxriaYWXleGpP8ZFyZkrsXUbIUEw/0?wx_fmt=jpeg",
-    "digest": "近日，美团无人机在复旦大学正式开航，打造上海首条高校场景无人机配送航线。",
+    "id": "2651779489_1",
+    "title": "大前端：如何突破动态化容器的天花板？",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651779489&idx=1&sn=334f6d20517a09286d88dd36ac6cb638&chksm=bd1228ec8a65a1fa3f08b1abf3113d0603fa7521a12665581e7211f8732b7c4ab7622d6a7ed5#rd",
+    "publishTime": 1729166280,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hEx03cFgUsWtslGiberuBiaDZhJMYicgtwMednyiaUDSYrSxcPmudTMIuSytXx3v1KhZtOHibYMicZDGm9XRXTBYGG1A/0?wx_fmt=jpeg",
+    "digest": "有没有办法让动态化容器的性能尽可能接近原生？美团金服大前端团队给出了一种解决方案，尝试突破动态化容器的天花板。",
+    "author": "",
+    "feedId": "MjM5NjQ5MTI5OA=="
+  },
+  {
+    "id": "2651779489_2",
+    "title": "美团机器人研究院｜2024年科研课题申报指南",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651779489&idx=2&sn=d3c689e67f75de53e76ad2ca4af8d691&chksm=bd1228ec8a65a1faef12f9ab5a558788107ad7c3b2455ee5271c0c3bbfaa8a6eba5adcfa59b5#rd",
+    "publishTime": 1729166280,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hEx03cFgUsUBz8XB0UfzPlUliceBTwvTuo0MX98fQHqaptEn8apGce5gkQaDtS2KTccVWC3hO5O9XnmTpt85C4w/0?wx_fmt=jpeg",
+    "digest": "诚邀广大优秀学者关注并申报2024年科研课题。",
     "author": "",
     "feedId": "MjM5NjQ5MTI5OA=="
   },
@@ -420,22 +420,12 @@
     "feedId": "MjM5NjQ5MTI5OA=="
   },
   {
-    "id": "2651779018_1",
-    "title": "立即报名｜第二届低空经济智能飞行管理挑战赛",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651779018&idx=1&sn=34d22b7b4d5fa65c6d4ee6fbe56d38e1&chksm=bd1236878a65bf91286118eb5478b01eb67f0ad608560b9056b47e77355ebbc223ac6d963a81#rd",
-    "publishTime": 1722513480,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hEx03cFgUsXVCBFW5Whaz9uOd5mbCqjZJmqaTzOOHfr3b0OqibqHmLUsbYicBVYV2qplY7P5uScjXm6Wqp3L9qNg/0?wx_fmt=jpeg",
-    "digest": "戳我报名！更多详情等你来查看~~",
-    "author": "",
-    "feedId": "MjM5NjQ5MTI5OA=="
-  },
-  {
-    "id": "2651779018_2",
-    "title": "招6000人，美团2025届校园招聘7月29日全球启动",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651779018&idx=2&sn=608606816321ad74f2f96fb719799598&chksm=bd1236878a65bf91a1c6066f3c3e0ce99c7340ad209aed8003a8567206b820015d114e7b774c#rd",
-    "publishTime": 1722513480,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hEx03cFgUsXVCBFW5Whaz9uOd5mbCqjZCFmlXXy5vibribgffDqOFT7Mk8SxXMVgziaWp15VCe5ouKaF0T3ZicFUvA/0?wx_fmt=jpeg",
-    "digest": "面向人群：毕业时间在2024年11月-2025年10月的海内外院校应届毕业生",
+    "id": "2651776917_1",
+    "title": "基于接口数据变异的App健壮性测试实践",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651776917&idx=1&sn=9681f23e03f1a86b930b362e02065afb&chksm=bd123ed88a65b7ce56594ff7ee0aa9ff6d682afcf49e1caa8ed8d0467db56475fbf67edcb8a3#rd",
+    "publishTime": 1709207880,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hEx03cFgUsWrfp666iaCEib3qnSTBpvA3anStztdLT5SSp81LMh3nb1LHXeWrNBq1KBWljUVFs7G13iazLzaPQh4A/0?wx_fmt=jpeg",
+    "digest": "本文整理自美团技术沙龙第77期《美团亿级流量系统的质量风险防控和稳定性治理实践》，主要介绍了对网络返回数据进行变异的客户端健壮性测试实践经验。",
     "author": "",
     "feedId": "MjM5NjQ5MTI5OA=="
   },
@@ -480,22 +470,12 @@
     "feedId": "MjM5NjQ5MTI5OA=="
   },
   {
-    "id": "2651776541_1",
-    "title": "美团到店终端从标准化到数字化的演进之路",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651776541&idx=1&sn=5d900a02defff82d26895044fae28d7b&chksm=bd123f508a65b646eda7e9bcea743abf902599d26c96a64bd17c78a756ccc026a19ffe00a5a9#rd",
-    "publishTime": 1703764680,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hEx03cFgUsU4VJqB8ibGZocwibKOddBqnYAs3rXgdxaZOajMTLLIHwrwXlS9jZIjhugHAl7LMPGn0hI5xdGKUticA/0?wx_fmt=jpeg",
-    "digest": "本文分享了大前端团队研发流程在“标准化”、“线上化”、“自动化”以及“数字化”的演进经验，并探讨了大前端多端DevOps建设思路和未来规划",
-    "author": "",
-    "feedId": "MjM5NjQ5MTI5OA=="
-  },
-  {
-    "id": "2651776541_2",
-    "title": "“做了一辈子机器人，深知其困难” | 一场关于机器人的深度对话",
-    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651776541&idx=2&sn=92a510614525f7da6f00c263b5531071&chksm=bd123f508a65b646a678750dec20948eedc2dea0d3a547c6994bfd6563f2641226520abb95f3#rd",
-    "publishTime": 1703764680,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hEx03cFgUsU4VJqB8ibGZocwibKOddBqnYR8XOa7W7KgjOHMddVMIcNLq0gKqslMpkOmUQIX2rz9twCzmVdMbFRA/0?wx_fmt=jpeg",
-    "digest": "5位行业专家学者，围绕机器人的技术发展、应用场景、产业前景3个方向展开了深度的讨论。",
+    "id": "2651774746_1",
+    "title": "KDD 2023 | 美团技术团队精选论文解读",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651774746&idx=1&sn=5ecb8b051f90332d01685057f9661b82&chksm=bd1206578a658f41094aed3d4d4e72c6ddc5e5a9f2a30bfdc87274ca46bb5e07a867da2b1f65#rd",
+    "publishTime": 1691668680,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/hEx03cFgUsUyBDytlgcE4ibnfeE8csGPVic1iaMMV57ib7kHu139hZ3QPLW3pjpzPkJ1DEf4ib7PM7zKuN3yfMcwJTQ/0?wx_fmt=jpeg",
+    "digest": "本文精选了美团技术团队被KDD 2023收录的7篇论文进行解读，论文覆盖了Feed流推荐、多模态数据、实例分割、用户意图预测等多个方向。",
     "author": "",
     "feedId": "MjM5NjQ5MTI5OA=="
   },

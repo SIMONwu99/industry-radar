@@ -1,5 +1,15 @@
 [
   {
+    "id": "2247495833_1",
+    "title": "小红书 dots 团队提出 Vision-OPD，让多模态大模型“看清细节”！",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247495833&idx=1&sn=79798c7fd52ea4af8f8b4435591bcfc3&chksm=cfe4526ef893db78ce6ac60145477e4f3a258d4bcaf8b64522b27e426cf23db62b2b13bd9251#rd",
+    "publishTime": 1785236400,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/P9Hs04VFGRnYNMYOc66uia7XdTzBc7ClPr3zxPZibicME7fosKkcnljrrcOwrtbUXbfMtmB6EVo9WCyB3rqgkot2lbjnePPkfKxQNPLThzianicw/0?wx_fmt=jpeg",
+    "digest": "一次前向把细节看清的在线自蒸馏框架",
+    "author": "",
+    "feedId": "Mzg4OTc2MzczNg=="
+  },
+  {
     "id": "2247495811_1",
     "title": "多模态检索：UniNote 让内容表征与排序“合二为一”",
     "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247495811&idx=1&sn=be436d855b70d48773142f374187731f&chksm=cfe45274f893db62e2c4b01f83c75e17b0178f15daf2e8aee2dcd99e492ba16071f65d172237#rd",
@@ -40,12 +50,12 @@
     "feedId": "Mzg4OTc2MzczNg=="
   },
   {
-    "id": "2247495684_1",
-    "title": "小红书、北大开源 UltraEP：面向大规模 MoE 训推的「最优」负载均衡方案",
-    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247495684&idx=1&sn=deb67718827fbed405fd2dd6978aef7b&chksm=cfe452f3f893dbe568c107f4d26de76fe804991915146bda183c44196f18a66749fe201a49df#rd",
-    "publishTime": 1784534442,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/P9Hs04VFGRk4Dq4RGhWAqHnhyJG7aPeXZsoxVwo8kianPN1XeQTafpQIg4x7c25WSSTgBz5IuhiaxI5icHtPuuUhoWxU4YdHE22xtUtEe9hSia8/0?wx_fmt=jpeg",
-    "digest": "让理想专家负载均衡走进生产",
+    "id": "2247495127_1",
+    "title": "30B参数超越GPT-5！REDSearcher让「深度搜索Agent」做到低成本可扩展！",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247495127&idx=1&sn=d0d092689d0f9c6c1bd3d7da97cef969&chksm=cfe44f20f893c636a38d77fa63b03f8460964d69e5f5686eadfa302db0700dbc650e55e41059#rd",
+    "publishTime": 1773050400,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/P9Hs04VFGRm8IlThC7GBtFTU7movYQThnZ5v69ibaIFxeQReiayF2dZMA2czYgxLPt28ic6CajBtAnqicr3iaPGaTGenzfabRlOc6YCEyxtlSbLA/0?wx_fmt=jpeg",
+    "digest": "“2018 到 2023 年间在 EMNLP 会议上发表的那篇论文中，第一作者本科就读于达特茅斯学院、第四作者本科就读于宾夕法尼亚大学的那篇科学论文，题目是什么？”",
     "author": "",
     "feedId": "Mzg4OTc2MzczNg=="
   },
@@ -90,12 +100,12 @@
     "feedId": "Mzg4OTc2MzczNg=="
   },
   {
-    "id": "2247494944_1",
-    "title": "小红书发布FireRed-Image-Edit：图像编辑新SOTA",
-    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247494944&idx=1&sn=13ba550db3bc10dcc007f0e1b436af17&chksm=cfe44fd7f893c6c1df876d384d7641d1f3d9c311534edc8f53b74fe856e64e65749c52edd729#rd",
-    "publishTime": 1770891726,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/P9Hs04VFGRmDRK02JW8iaiarA0picD4zNyT1yKl6A8Q0ibFMwbaicekupWlO8FciaS2YJbz5j0sUKGHxxZARRK7rupI3zrmiblyDKOCrKeEB7WicXibA/0?wx_fmt=jpeg",
-    "digest": "小红书基础模型 FireRed-Image-Edit 正式亮相 GitHub。",
+    "id": "2247493996_1",
+    "title": "从“实现需求”到“共创价值”：AI Native时代需要什么样的工程师团队？",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247493996&idx=1&sn=5caf78756f94cc3300ebb509d1daab0a&chksm=cfe44b9bf893c28d36740a0b872b5ab575aaad5ca5c157ed4c4f6f96761f87c73b82d4629587#rd",
+    "publishTime": 1762747260,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/vxnkL2N86IuwjO8QGO6oXiaRq3ACLVDyyNIlBs2ekIfL0Ro4HOeTgL6sZ1N9dGPb6jC80GX7ibh25tedeUc6mLoQ/0?wx_fmt=jpeg",
+    "digest": "如何能够把AI新时代的工程师更好地组织起来？小红书技术副总裁风笛这样说",
     "author": "",
     "feedId": "Mzg4OTc2MzczNg=="
   },
@@ -140,12 +150,12 @@
     "feedId": "Mzg4OTc2MzczNg=="
   },
   {
-    "id": "2247493757_1",
-    "title": "小红书 Data+AI 数据平台实践",
-    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247493757&idx=1&sn=8fbba310aa147bbd4aa037ca24e51664&chksm=cfe44a8af893c39ca1b23acabe9fadd87b1f2b88c4991be18f0c94a5c6bee7c51a6454989b5e#rd",
-    "publishTime": 1758535200,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/vxnkL2N86IuT1cfYvMd3COjiaSkvSRTdLn6L0L166nEQbDFAwDC0leiaJ2V8UotZIj525D6DZ3g9J9jx743DOqYw/0?wx_fmt=jpeg",
-    "digest": "一文看懂小红书如何通过打造 Notebook + Data+AI全链路血缘 + Copilot 代码助手，加速算法和 DS 的迭代效率，构建新一代 Data+AI 数据平台",
+    "id": "2247492880_1",
+    "title": "ACL 2025 | Revisiting Self-Consistency: 动态分布对齐视角下的大模型投票策略",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247492880&idx=1&sn=94cd2cf0d097a08f1f1ce50ded9defd1&chksm=cfe447e7f893cef1b51290018b126dd04e89454f4bd4d45b0ba6dfafc0e8238c5f1e1647e658#rd",
+    "publishTime": 1749117600,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/vxnkL2N86IvyooR2icdnwL5WnMmcQFh2ocy0zfEiarQls3p9fLtWH2kvSxMwCzdyfgMbr0cXY7GRpCKo9Nhic5kNw/0?wx_fmt=jpeg",
+    "digest": "小红书搜索团队探究Self-Consistency在动态分布对齐视角下的机理，并提出由置信度驱动的机制来动态校准采样温度，实现效果新突破，被ACL 2025接受为Findings。",
     "author": "",
     "feedId": "Mzg4OTc2MzczNg=="
   },
@@ -190,12 +200,12 @@
     "feedId": "Mzg4OTc2MzczNg=="
   },
   {
-    "id": "2247492491_1",
-    "title": "增量计算+实时湖仓构建小红书实验数仓生产新范式",
-    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247492491&idx=1&sn=514d471c6ffc76c6ccf0c825877b45ae&chksm=cfe4417cf893c86ae58f700f331efb82d576df4068bf6e1f96274a94964196847498d8f50d72#rd",
-    "publishTime": 1747648800,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/vxnkL2N86ItJDqP7b1SPPy00SGMaGvjGYBiasaHqicx3rtdO75R9fEWNedNOWQm7tO53zlvyOsxjpbIey2icl3iabw/0?wx_fmt=jpeg",
-    "digest": "一文看懂小红书如何借助增量计算与数据湖新技术，突破传统实时数据架构的瓶颈，构建高效、低成本的近实时湖仓。",
+    "id": "2247491504_1",
+    "title": "点击查看小红书程序员的朋友圈",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247491504&idx=1&sn=c32432f5f0704c9139ea6e9cc670d712&chksm=cfe7bd47f89034519cea9057bf1b4f61e081000014c064c560688a24a63717cf2ff2fc10c4a4#rd",
+    "publishTime": 1729951243,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/KFxns84fHVW2oQPtAEunmoTowG9JjkwqmP5UmEu6MVPGm1TH0Plk0xSHkTHZWk099OKll4dgiax3G4Ef0zK13fA/0?wx_fmt=jpeg",
+    "digest": "REDpeak冠军诞生！黑神话悟空谁拿下TOP1？查看小红书1024精彩瞬间",
     "author": "",
     "feedId": "Mzg4OTc2MzczNg=="
   },
@@ -240,12 +250,12 @@
     "feedId": "Mzg4OTc2MzczNg=="
   },
   {
-    "id": "2247491247_1",
-    "title": "多模态对齐在小红书推荐的研究及应用",
-    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247491247&idx=1&sn=1adcef6e6eace2b47129a037d9a475c3&chksm=cfe7bc58f890354e9abacd80f220682c91c2d2924ec90e2efede19485277abea6f50363a9655#rd",
-    "publishTime": 1727085600,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/vxnkL2N86IvP6ziaPyDbNgBA9sCJHV1T96iaBicbG1cgt9M02SRdgmSVe6eyiaMIr6Yy8fNaC5P3VteINX7stSf6NA/0?wx_fmt=jpeg",
-    "digest": "小红书提出新型多模态推荐的对齐和训练框架AlignRec",
+    "id": "2247490567_1",
+    "title": "CVPR 2024｜多模态场景感知，小红书高保真人体运动预测方法来了！",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247490567&idx=1&sn=f0c75efc72b44fa8db8a1f6ad36d2229&chksm=cfe7bef0f89037e6f31608189a979242be8dbd517e2aa4b673ec7b322253bb0016f716a797f1#rd",
+    "publishTime": 1715335200,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/vxnkL2N86ItCOHnde0X71uZk2WIfMe2fTqRVgoUqiaHwoDmkjhNAISUjTPKXfwcM8iawNHkvhUEpj5yOf2uK9hNA/0?wx_fmt=jpeg",
+    "digest": "小红书创作发布团队提出 SIF3D 新框架，室内场景下的运动预测时长突破当前算法边界。",
     "author": "",
     "feedId": "Mzg4OTc2MzczNg=="
   },
@@ -290,12 +300,12 @@
     "feedId": "Mzg4OTc2MzczNg=="
   },
   {
-    "id": "2247490162_1",
-    "title": "释放数据湖潜力：小红书如何实现数仓效率与成本的双重优化",
-    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247490162&idx=1&sn=7ec3ebee9082fea123f5353745bc4a78&chksm=cfe7b885f8903193c3a425a669f2291fc547090689cf62be6967418f5b1560a4614a68be1557#rd",
-    "publishTime": 1709542800,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/vxnkL2N86IvpzsNDAkagpD0vYAVyMCSWst8bYhPrQ3AqcfLn0oMgHYhQjI7rYFFgHufyW2e7HNbsGoDyF0tn6A/0?wx_fmt=jpeg",
-    "digest": "实时技术与数据湖技术的结合，成为催动数仓架构迭代的新引擎，提升数仓产出时效&查询性能，助力数据协助业务决策走上新台阶。",
+    "id": "2247489261_1",
+    "title": "FFA 2023 明日开幕，Flink 智能诊断、小红书流批一体实践精彩来袭",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247489261&idx=1&sn=5b5455c6076122947dcc849164638dd2&chksm=cfe7b41af8903d0cda538974fb1c7d642e11a97af13c8d553c2d6866d6fba840d5fe792cbda9#rd",
+    "publishTime": 1701943200,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/vxnkL2N86It0eJOXkwLWlLDic4CVic8PqvNjp1W25ju8icB2rndSQHibWPujKHicHjM1RWZj3XFibJOovNDCwx7s6rOA/0?wx_fmt=jpeg",
+    "digest": "12 月 8-9 日 Flink Forward Asia 2023 ，小红书 Flink 实践分享！",
     "author": "",
     "feedId": "Mzg4OTc2MzczNg=="
   },
@@ -336,16 +346,6 @@
     "publishTime": 1699264800,
     "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/vxnkL2N86IsicVxYsvFWic4mBhv3fPPeTmbuEc5XWcPCcH50EialHuJBJbkAnSVHOwSxNE5LogxUqOMU5CIcHBaDw/0?wx_fmt=jpeg",
     "digest": "论坛精彩要点来啦，五位重磅大咖联袂分享，线下观众挤爆报告厅，线上超 3.6 万名技术人士观看直播！",
-    "author": "",
-    "feedId": "Mzg4OTc2MzczNg=="
-  },
-  {
-    "id": "2247489084_1",
-    "title": "1024只有一天，小红书的程序员节竟然有 3 天",
-    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg==&mid=2247489084&idx=1&sn=96ae69744f22563a155c49a4461a9771&chksm=cfe7b4cbf8903ddd23e23fb76116c86781b41fea7b0215bf1a2f915894bbf7505b2c15d5f310#rd",
-    "publishTime": 1698386617,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/vxnkL2N86IswpOicfVXl573LZK7u4sqtZtbQMvnUwNNVGkwg7YN2wX3lOpZ6wMlqyXnQTfwnpGibfIYqTnMzsXNQ/0?wx_fmt=jpeg",
-    "digest": "揭开小红书1024程序员节的秘密",
     "author": "",
     "feedId": "Mzg4OTc2MzczNg=="
   }

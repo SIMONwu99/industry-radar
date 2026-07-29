@@ -1,5 +1,15 @@
 [
   {
+    "id": "2247485835_1",
+    "title": "从 LongCat 2.0 到 CatPaw：万亿参数模型落地，美团全场景 AI Agent 正式上线",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzYyMTA0NTc5NQ==&mid=2247485835&idx=1&sn=b5ff8927f1e476cf8b8ac0d70784b165&chksm=ffea78c7c89df1d18a5f9830c9fb7b0ee56e267a55f0910e3321a53bf4577a28ad2681ad6ce8#rd",
+    "publishTime": 1785138182,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/JhVy5CXYiaohnrT9NyuUZGJQ0T8hLkRHXexhMMCUgxUXRlchVRIFCek9gU6AdOBIhWBiaymib46ibAiacjseSkfl7ZFxKlmnTzXSutFhZ1XwtRS4/0?wx_fmt=jpeg",
+    "digest": "可靠的 “工作伙伴”",
+    "author": "",
+    "feedId": "MzYyMTA0NTc5NQ=="
+  },
+  {
     "id": "2247485809_1",
     "title": "下一代搜索智能体评测基准！LoHoSearch发布，用知识图谱校准AI能力认知",
     "link": "http://mp.weixin.qq.com/s?__biz=MzYyMTA0NTc5NQ==&mid=2247485809&idx=1&sn=e6e8f54c815da1b8b0736f4a038962dc&chksm=ffea783dc89df12be3c880accf764d734a2682f3b83526afeb617d71c7c958ae5d04c8ba7ef6#rd",
@@ -40,12 +50,12 @@
     "feedId": "MzYyMTA0NTc5NQ=="
   },
   {
-    "id": "2247485613_1",
-    "title": "LongCat 顶会论文分享｜三大专场深度解读 AI 前沿成果",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzYyMTA0NTc5NQ==&mid=2247485613&idx=1&sn=281e0d880f766044e50a78e3fd4c2e9b&chksm=ffea79e1c89df0f70c0d3ac53b08882e7abea04c4699a24f1313c95cb57218689c54b4afb548#rd",
-    "publishTime": 1781149929,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/JhVy5CXYiaogtqCLTNMox4iaBB5Rp9icINB5Ibiaqa0EL7aVRMAo9Lk6puNrnWN7Ym11dhwTzlWSGC680icsve9UZfIHHibgHic7UV1BllzChUHeU4/0?wx_fmt=jpeg",
-    "digest": "3 大专场论文解读，快来预约直播吧！",
+    "id": "2247484775_1",
+    "title": "美团发布基于 N-gram 全新模型：嵌入扩展新范式，实现轻量化 MoE 高效进化",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzYyMTA0NTc5NQ==&mid=2247484775&idx=1&sn=68830635a8dcd8ec73013a013c652d17&chksm=ffea742bc89dfd3d664bd6380d1392bad817678e0d23b2b6f34e2d4e8308a78bea8a87179834#rd",
+    "publishTime": 1770363786,
+    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/JhVy5CXYiaoiaGvf3vVVg8qzCujWsu6rbqaZLBa3mOLBxkR5a8W5sbSFkKm9JnqDoyASlsxTsPpguoBIPA0ddFcibP0xCdvfduvtVWe2sF2O8c/0?wx_fmt=jpeg",
+    "digest": "LongCat-Flash-Lite 正式发布！",
     "author": "",
     "feedId": "MzYyMTA0NTc5NQ=="
   },
@@ -90,12 +100,12 @@
     "feedId": "MzYyMTA0NTc5NQ=="
   },
   {
-    "id": "2247484534_1",
-    "title": "美团 LongCat-Video-Avatar 发布，实现开源SOTA级拟真表现",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzYyMTA0NTc5NQ==&mid=2247484534&idx=1&sn=65f42137224aace7253d511b39aa9e7e&chksm=ffea753ac89dfc2c3492ae82f5d8cfe9ee5bca75701369636764cfa68f41af894832715c1993#rd",
-    "publishTime": 1766048744,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hWYwgGR0y597hkrkRqMOOnReZyupYTfTPINFCm3hqic0JKUgdlJTGALaq7rOf3qZtNPzzqK1NwoiaDG4Ur4DJdWw/0?wx_fmt=jpeg",
-    "digest": "拟真如人，长续生动",
+    "id": "2247483719_1",
+    "title": "告别服务中断焦虑！LongCat API 开放平台为开发者保驾护航",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzYyMTA0NTc5NQ==&mid=2247483719&idx=1&sn=bc7e82e7af8ec8ddaaae35e645660193&chksm=ffea700bc89df91d775f742397142cf60e2da5fc5b46c72a455546b881640e1d5e8a036fc349#rd",
+    "publishTime": 1757339965,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/hWYwgGR0y5ibuNEcfyBbSeONaWaHnyAOrEkHzbs6GsDsL6zia0LI7vJezL0j7IShf7HxbR2dYibEkwsDoDDhjGRFA/0?wx_fmt=jpeg",
+    "digest": "正式上线！",
     "author": "",
     "feedId": "MzYyMTA0NTc5NQ=="
   },
