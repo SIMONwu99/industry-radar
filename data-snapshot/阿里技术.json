@@ -50,12 +50,12 @@
     "feedId": "Mzg4NTczNzg2OA=="
   },
   {
-    "id": "2247510380_1",
-    "title": "真武 AI 芯片 T-Head SAIL® 软件栈正式开源开放",
-    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247510380&idx=1&sn=f7d2327132fef5bdb38d1639cb652337&chksm=cfa6b98ff8d1309957f6e163f2e7e81248556184c7a07b0faa40a8e6429c7af6f3b12014d0c8#rd",
-    "publishTime": 1784349603,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/kN3t5R6pdz6C9kfAfwmdVickANTg8rr0ibe082HmjlNQt4SJfibMEVGQdicsyic1Jtg2pMwqMglxuj26gB3ic8OJGoX9KiaAE38ajQtzgw6XibkYrac/0?wx_fmt=jpeg",
-    "digest": "平头哥开发者社区网站现已上线",
+    "id": "2247509834_1",
+    "title": "Loop Engineering 概念解析、思考与实践",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247509834&idx=1&sn=b514f1bc2616df514cb218a5bad28296&chksm=cfa6b7a9f8d13ebfe7a2958fa539f9dbec358f50d27a2d37b725c04fdcca3d2a122e37be512d#rd",
+    "publishTime": 1781778022,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/kN3t5R6pdz6S6teY5R5dMWu03E3xZObdUkdLWGb273g2NMJBibc9nrjLzHHcuuSuoXk8iadibA64E6UnlbmPXqwNVVqreOic2Pbemff46ZibnArE/0?wx_fmt=jpeg",
+    "digest": "技术探索过程中的一些心得与总结。",
     "author": "",
     "feedId": "Mzg4NTczNzg2OA=="
   },
@@ -100,12 +100,12 @@
     "feedId": "Mzg4NTczNzg2OA=="
   },
   {
-    "id": "2247509639_1",
-    "title": "重新思考研发基础设施：当 Agent 成为第一公民",
-    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247509639&idx=1&sn=bac09af0c76f4383f03c0d96cb48bd0a&chksm=cfa6b664f8d13f7221a5323d4aea4ab0a2186df3b2a265104424e38ceeb205c489efcb0bca5b#rd",
-    "publishTime": 1780481361,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/kN3t5R6pdz5qDxrV6UMRAOAib4Bu62qOQOp5SjxfNcw8ibW9zpRicrwXpLST3cFz81L3SVJ74WMeJrm6gbeAibib3LjzwmvUkOQqCUvichBpRRE4Y/0?wx_fmt=jpeg",
-    "digest": "2026 的下半年，关于 Agent 我们可能最需要关注 Infra 的演进。",
+    "id": "2247509228_1",
+    "title": "Ingress Nginx已退役，Higress如何平滑替代",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247509228&idx=1&sn=4476daa440189938b650711128ac5225&chksm=cfa6b40ff8d13d19017aa168a6e449205c6b3f5b72e7e65f6e12d116c8026d5a02554152ba07#rd",
+    "publishTime": 1775210460,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/kN3t5R6pdz58K79kkKqFZNG1MtMEWXgujsUCnzqX43bf3bdicibbDGwlltCjL9daeFHTFWiaxDnhG2Xcfv5gShUMo36Vibc9WrKRSzyTa87pjYM/0?wx_fmt=jpeg",
+    "digest": "Higress加入CNCF",
     "author": "",
     "feedId": "Mzg4NTczNzg2OA=="
   },
@@ -150,12 +150,12 @@
     "feedId": "Mzg4NTczNzg2OA=="
   },
   {
-    "id": "2247509171_1",
-    "title": "阿里ALake数据湖：多模态数据存储处理方案",
-    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247509171&idx=1&sn=e219f087e21348abe25e6fad82d48946&chksm=cfa6b450f8d13d46882d9e72ee0092584585cdd39ea7ddcc1de18c8ae8c8198d401c48cbf70e#rd",
-    "publishTime": 1770856200,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/kN3t5R6pdz6zuY38XGtaUOrriaz2udyuc50tKcTu8lG5hPEZenwfAOde2FKfOLQAZjzzlUNq4gouHx7ck8wzuSwH7aTDxX6CBLgTlzkZdbIU/0?wx_fmt=jpeg",
-    "digest": "阿里推出基于Paimon Blob的多模态数据存储方案，通过独立管理结构化与非结构化数据、创新blob文件机制，实现了海量多模态数据的高效统一存储和处理。",
+    "id": "2247508925_1",
+    "title": "如何让Agent更符合预期？基于上下文工程和多智能体构建云小二Aivis的十大实战经验",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247508925&idx=1&sn=0ec9795dcce281e17cbd5581856f51ab&chksm=cfa6b35ef8d13a4806048768ba006e04ca562679f474c0afb6d8608ba78332049ed513644d3a#rd",
+    "publishTime": 1762302600,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30ETeTr4X8d224VFwYriadfPiczpGhQicpHKmPJ9WWJZGhb9DdlA8O2DpbYXFB5JgBB0NRBK5H4FP2zibQ/0?wx_fmt=jpeg",
+    "digest": "",
     "author": "",
     "feedId": "Mzg4NTczNzg2OA=="
   },
@@ -200,11 +200,11 @@
     "feedId": "Mzg4NTczNzg2OA=="
   },
   {
-    "id": "2247508877_1",
-    "title": "从人工到AI驱动：天猫测试全流程自动化变革实践",
-    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247508877&idx=1&sn=beb30a660acbe106acee7f3182344fbf&chksm=cfa6b36ef8d13a78bb374b5cf45b1855b0dc152c39ad7eef3c20b0f9e8ecbf864aac9bf41bf3#rd",
-    "publishTime": 1761093000,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30GGVO4GOVfRYwPicAwwIKU0dCmW86dQlpFPsgxu9852acD2GRCYrCsaxp4hXkVNkichSIobBrolmNlg/0?wx_fmt=jpeg",
+    "id": "2247508721_1",
+    "title": "多智能体自主规划模式性能提升：五大精准策略详解",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247508721&idx=1&sn=cc8f1d24205e33daa64834b5aacfcd48&chksm=cfa6b212f8d13b042639839c8f6eb8038f736300f0549d868ed5a55e6bc85eeaf17483762b51#rd",
+    "publishTime": 1757637000,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30E1ickjnInYorY0fBaQbpvTNVibggAiaxLDLavocr3TIN70iaDVTZZAUZibicGKGsXQU2xfJGDSib8htoxfA/0?wx_fmt=jpeg",
     "digest": "",
     "author": "",
     "feedId": "Mzg4NTczNzg2OA=="
@@ -270,11 +270,11 @@
     "feedId": "Mzg4NTczNzg2OA=="
   },
   {
-    "id": "2247508536_1",
-    "title": "从“数据拼凑”到“精准断案”：深度剖析RAG系统中信息完整性的关键作用",
-    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247508536&idx=1&sn=c0ae7ec127bf7cb253b1495f34c63ca7&chksm=cfa6b2dbf8d13bcda3b25d5dd6b595be23c337242e175d70bec29608b05249e39fa9a3f1e055#rd",
-    "publishTime": 1756427400,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30Eew860pias8IretJ5DIbjzmTlYKNdKyLyhdibdJKKmiaRDYyUJtsr9f4UficUmD6ZhzpWb6iagqOJTdSA/0?wx_fmt=jpeg",
+    "id": "2247508332_1",
+    "title": "CVPR 2025 | UNIC-Adapter: 多任务统一图像指令适配器",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247508332&idx=1&sn=581a532f81f6ba05ffff003f57f838ca&chksm=cfa6b18ff8d1389964851422caee0553ee996724da69cecb9261ef274f4816cf3cf3b851ce70#rd",
+    "publishTime": 1752886860,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30G5CoaSF2PnXU0YInGJ0et1M8CTEI4zv7M3GF3bYND6iaRBoUkrEz4b6g7ObbhrjOZb8TmVRMuDNTA/0?wx_fmt=jpeg",
     "digest": "",
     "author": "",
     "feedId": "Mzg4NTczNzg2OA=="
@@ -320,11 +320,11 @@
     "feedId": "Mzg4NTczNzg2OA=="
   },
   {
-    "id": "2247507952_1",
-    "title": "workflow is all you need？探讨乐高式流程编排能否实现任意Multi-Agent模式",
-    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247507952&idx=1&sn=db0f8fb24b0612038723385350c0eeb8&chksm=cfa6cf13f8d14605af2c40464ab5fe38c8bb7a1c803c76abda813d41cfb271770c1dec8fa18c#rd",
-    "publishTime": 1751589000,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30F5vqn8icZtppd9UUqTSaC50EzksxbmiaP4qtrjibwxBI2hNEeTlMVLYzjicbHlVibPMZXysbprMNYaXnw/0?wx_fmt=jpeg",
+    "id": "2247507767_1",
+    "title": "如何让 Agent 规划调用工具",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247507767&idx=1&sn=75f1582398c5398c4bee80b7b77ac4f1&chksm=cfa6cfd4f8d146c21c3315550ee6b2f20a24a067367aa09c91db9541f2c0edad04cd4b4b7b8e#rd",
+    "publishTime": 1747960200,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30FnBecgaEzbAf6iaRghZACWAe7dJTL5rwoyzetpTHNibiaPzCrnUWibZu2VXVc4PMbgrFTcXCPsgdOk0w/0?wx_fmt=jpeg",
     "digest": "",
     "author": "",
     "feedId": "Mzg4NTczNzg2OA=="
@@ -370,12 +370,12 @@
     "feedId": "Mzg4NTczNzg2OA=="
   },
   {
-    "id": "2247507721_1",
-    "title": "大模型推理框架RTP-LLM对DeepSeek-V3的优化实践",
-    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247507721&idx=1&sn=790558475d44a79e657eb17a124bf0d4&chksm=cfa6cfeaf8d146fcaba9a93e7161da6aef01fc04d04362d21ed95a8e651c40bd9500a1f4b0c4#rd",
-    "publishTime": 1747193400,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30GibU4IT9C8vqMgczicsB4t91RWKlwOGLP8EBoAgX8jgD6DkLlF7oj7HCvbzvEJFLC8BzoPhcS1NVPQ/0?wx_fmt=jpeg",
-    "digest": "",
+    "id": "2247507420_1",
+    "title": "大模型推理框架RTP-LLM P-D分离之道：从思考到实战",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247507420&idx=1&sn=4b32726abd205c7f94144bcb9105330f&chksm=cfa6cd3ff8d144293a51bc6213a4f4dcb64f8c028e774c602f6ad790ba0bd2d6705e0f048797#rd",
+    "publishTime": 1744331400,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30GM8dNfdicK6U2HFqjWIDNzDMptdribZ1h8dKoPmOcI3ZXkdmmYO743sVfnrhm79PO4RVhFjJKLuoEA/0?wx_fmt=jpeg",
+    "digest": "RTP-LLM是阿里巴巴智能引擎团队自研的大模型推理加速引擎，作为一个高性能的大模型推理解决方案，已在阿里内部众多LLM场景中得到实际应用与检验。本文探讨与分析了大模型推理引擎中P-D分离技术的意义与优势，并提出了项目自己的方案。",
     "author": "",
     "feedId": "Mzg4NTczNzg2OA=="
   },
@@ -420,12 +420,12 @@
     "feedId": "Mzg4NTczNzg2OA=="
   },
   {
-    "id": "2247507362_1",
-    "title": "如何与AI结对编程：我与AI的8000行代码实践",
-    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247507362&idx=1&sn=72338073fb88fc2cc424aa6fa3fef860&chksm=cfa6cd41f8d1445794234ce5021f62cf2282da1c422d89d899803d7b563b08304b4d8279cd24#rd",
-    "publishTime": 1743121800,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30Ej6tzRp6P0Zndm2Cx5ZteuKtfIXlica97vJZMicTCCzkBxLAEG10sou3UxlOCazB1y6LOxIp9FcQtQ/0?wx_fmt=jpeg",
-    "digest": "作者分享了跟 AI 协作的一些经验，使用中如何对 AI 输入和反馈，经过磨合后，工作效率会大大提升。",
+    "id": "2247507206_1",
+    "title": "提示词工程的十大认知误区",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247507206&idx=1&sn=2f5ea7c49e9c7ebee84088ac56279835&chksm=cfa6cde5f8d144f3afc6aa586569b1954bceda174f3eccfe03dfc20e459b403716b3d47c016e#rd",
+    "publishTime": 1738888200,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30EhUITQUH1QDzF2ZAF3IgpmvQoM4CmXibIvqNzn7TqGJt93epLpqTaN8vqRXypW3NicRZ3iaJptkkMow/0?wx_fmt=jpeg",
+    "digest": "本文将列举一些提示工程认知和创作方面的认知误区，并分享了作者的一些见解，希望能够为读者提供启发。",
     "author": "",
     "feedId": "Mzg4NTczNzg2OA=="
   },
@@ -470,12 +470,12 @@
     "feedId": "Mzg4NTczNzg2OA=="
   },
   {
-    "id": "2247507165_1",
-    "title": "1 行命令引发的Go应用崩溃",
-    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247507165&idx=1&sn=cecbb877fa5fc7832c2e94eb4ad2d323&chksm=cfa6cc3ef8d1452810794bd5d8466734b8bae6ce83bbddc55f26beb30478414da5334127f4d8#rd",
-    "publishTime": 1737073800,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30H4tncc9rPM6ABNEtJb7VJ17ZXfhk7Fa9UXicEAu4j1Qu6wfic5bN8yO67YibtdJyCTFUP8JuBabXpicg/0?wx_fmt=jpeg",
-    "digest": "这篇文章分析了Go编译时插桩工具导致go build -race竞态检测产生崩溃的原因。",
+    "id": "2247506948_1",
+    "title": "写了BUG还想跑?---闲鱼异常日志问题自动追踪-定位-分发机制",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247506948&idx=1&sn=1aca4e6bc1d0cdb3470f11321eb14a5d&chksm=cfa6cce7f8d145f1c6229ab3732abaf38b0b473af57cb5fbbd9d2ef5f7dbfc084d73b808a1f3#rd",
+    "publishTime": 1733445000,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30HTor0iabBaXzXCv5aIOEPHoELPMQytc3sjm7kU9dNCPCyNe876kcYAKbwZLyMImDy33GyhNhbfia0A/0?wx_fmt=jpeg",
+    "digest": "为了高效地发现、定位和解决预发问题，闲鱼团队研发了一套异常日志问题自动追踪-定位-分发机制。这套机制通过自动化手段，实现了异常日志的定时扫描、精准定位和自动分发，显著降低了开发和测试的成本，提高了问题...",
     "author": "",
     "feedId": "Mzg4NTczNzg2OA=="
   },
@@ -520,12 +520,12 @@
     "feedId": "Mzg4NTczNzg2OA=="
   },
   {
-    "id": "2247506876_1",
-    "title": "淘宝天猫双11多环节布局AI算法技术，整体大模型推理离线准确性超95%",
-    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247506876&idx=1&sn=087ed378b132f1489e4f6a3549dfbd67&chksm=cfa6cb5ff8d14249e6abe94f08de89b03756790a9a293c518161796a68878114d54a7357b51b#rd",
-    "publishTime": 1732235400,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30GS8PncyKKZoJBvghJtBSQiaKgWq9y7mdttDVkdTU5tbO8nJ7kXVe0nGEiaJ3YyfCjVNeMKfG3O1PdA/0?wx_fmt=jpeg",
-    "digest": "今年双11，淘天集团算法技术团队（以下简称“淘天算法团队”）重点部署了大型语言模型、检索增强生成、多模态大模型以及AIGC等最新AI算法技术，全方位赋能电商业务。淘天算法团队将这些技术运用到平台搜索、商品推荐.....",
+    "id": "2247506065_1",
+    "title": "如何让Android的前端页面像iOS一样“优雅”？",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247506065&idx=1&sn=2aba2c14d66c5de930f62ce03c9f0dcd&chksm=cfa6c872f8d141640d34d003f3aa6eb6a7709efd5df336635ac8bbc55987f223e36c280bea58#rd",
+    "publishTime": 1727397000,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30HJqvqy2h0kQNaC1jkZIBuY7eSPb2nczyw2oAQsh3SpOP630hiblZ6SPNRoJzhYDaNPj7sgBWQ330Q/0?wx_fmt=jpeg",
+    "digest": "文章探讨了Android前端页面在适配异形屏时，相较于iOS，为何难以实现同样“优雅”的界面效果，分析了原因在于Android系统限制、浏览器内核更新问题及SafeArea实现的不稳定性，并提出了改善适配的两种方案。",
     "author": "",
     "feedId": "Mzg4NTczNzg2OA=="
   },
@@ -570,12 +570,12 @@
     "feedId": "Mzg4NTczNzg2OA=="
   },
   {
-    "id": "2247505779_1",
-    "title": "内核网络小白之故障寻踪记",
-    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247505779&idx=1&sn=5a0eff5796a142a383cdbc82eb3c888a&chksm=cfa6c790f8d14e868c2f8e82a57ea3d93aae4975066d39d9fdafcb4a9c1e8f8dc63b20e6d4b5#rd",
-    "publishTime": 1726014600,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30FEorsa7j0tVvIhDYaS1ozZo0pEv1VuaiciaBcphwJdsSRNosreyO4JfKPRmA3jhxPAmcjSDQS25frw/0?wx_fmt=jpeg",
-    "digest": "本文记述了一次由 skb（socket buffer）异常导致的内核故障排查过程。",
+    "id": "2247504991_1",
+    "title": "香港科技大学与阿里巴巴合作，计划成立大数据与人工智能联合实验室",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247504991&idx=1&sn=0bb97b5f9ac86d26b302a53591f5ae98&chksm=cfa6c4bcf8d14daa8f70c648a37d1a198951fe0093383b24904e69e1923d01993032f076799b#rd",
+    "publishTime": 1721694600,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30GZIJNH7kibiaYquENicsTzBnFyXHVDqxAf3EWvHZBUPD43f8mnbnulCicFj8hQFQzd8J80DSiaXKLGRMg/0?wx_fmt=jpeg",
+    "digest": "7 月 19 日香港科技大学（科大）与阿里巴巴集团（阿里巴巴）签署合作备忘录，计划成立“香港科技大学-阿里巴巴大数据与人工智能联合实验室”（联合实验室），就生成式人工智能和大数据等新兴技术，展开前瞻性的研究协作。",
     "author": "",
     "feedId": "Mzg4NTczNzg2OA=="
   },
@@ -620,12 +620,12 @@
     "feedId": "Mzg4NTczNzg2OA=="
   },
   {
-    "id": "2247504694_1",
-    "title": "阿里妈妈获 NeurIPS 2024 比赛主办权，全球参赛选手报名启动！",
-    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247504694&idx=1&sn=fbe3223d0fa34b1da354dc63930c2444&chksm=cfa6c3d5f8d14ac38b2d55adf58c5428d1230e62f18c9242927d6b2e209ba8ed822b27d029bc#rd",
-    "publishTime": 1720139400,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30FManPT5Pm9icls1tR7BT2sicFiadJbPyzLJ1bEnP4mE4s7vZ3o24N2uE6JHHAxCbUIF7tlO5Qibjxicow/0?wx_fmt=jpeg",
-    "digest": "本次比赛分为两个赛道，通用赛道：含不确定性的自动出价 和 AIGB赛道：利用生成式模型学习自动出价Agent，欢迎全球选手报名挑战~",
+    "id": "2247503920_1",
+    "title": "【229秒 -> 69秒】部署时间缩短69%，ICBU商家技术部应用部署治理实践",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247503920&idx=1&sn=3800c4c4b69a36a58e9e4dddc94d5fdc&chksm=cfa6c0d3f8d149c5ae99142b0aefdffdc790220ca088bc1e96691f5fb243fd14bf72dc8f5526#rd",
+    "publishTime": 1715905800,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30E7HxSCZuvH4tXiaxAibiafDgyzmhgKCHmXqeISBfECYzmmxjibfrsVEAibFI5blDrUOjAibViciclv4ZQJzA/0?wx_fmt=jpeg",
+    "digest": "部署时长不仅影响线上问题的解决恢复能力，也严重影响了我们日常的开发效率。本文记录了作者部署时的一些提效手段和最终的效果。",
     "author": "",
     "feedId": "Mzg4NTczNzg2OA=="
   },
@@ -670,12 +670,12 @@
     "feedId": "Mzg4NTczNzg2OA=="
   },
   {
-    "id": "2247503104_1",
-    "title": "使用策略模式消除冗长的if-else｜记一次smart-auto重构总结",
-    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247503104&idx=1&sn=9aedea513e9f2ae344daa3e8b3211090&chksm=cfa6dde3f8d154f556a6056149620fa45e0909bd4af9979d01ddd33992d43a5bcdd7c51fc2be#rd",
-    "publishTime": 1714091400,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30Fmv2ILbqicOHD5DIsk741Gol3yBfjb4tlGJjibbAHzoJ4ia0Gib3ock4hmeED6VT1bm0Uyn1eMRJ9aPQ/0?wx_fmt=jpeg",
-    "digest": "作者针对smart-auto接口测试相关的核心代码进行了一次重构，使代码变得更清晰和可维护。",
+    "id": "2247502458_1",
+    "title": "奇思妙想的SQL｜兼顾性能的数据倾斜处理新姿势",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247502458&idx=1&sn=10b98ba503dc6e01b450cd77dff13fba&chksm=cfa6da99f8d1538fe3f9c982bd5e4d6e18162c396923cad17f9a585bc57b8dd8cd90edeac45c#rd",
+    "publishTime": 1709253000,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30EUXARduSbIxsuX5fFEEiakr77KbhJlzJsWZy0tdx08ygdIYicwibiadiclmIxNPwZMBmI4cWkIqjw9oJQ/0?wx_fmt=jpeg",
+    "digest": "‍本篇分享下在支付宝支付数据链路改造升级过程中，针对数据倾斜的优化实践新方法，在解决数据倾斜问题的同时，还能兼顾更优的计算性能！​",
     "author": "",
     "feedId": "Mzg4NTczNzg2OA=="
   },
@@ -720,12 +720,12 @@
     "feedId": "Mzg4NTczNzg2OA=="
   },
   {
-    "id": "2247502322_1",
-    "title": "大模型推理框架RTP-LLM对LoRA的支持",
-    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247502322&idx=1&sn=dcca312299a6f75c5adb2a76d8128158&chksm=cfa6d911f8d150075b431798417f69bb774ce69e85fa3b0aa8fd32cd69e786a4a5bd18060214#rd",
-    "publishTime": 1706833800,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30EZlicbBej2Y4W9iaficQlvl1LuNONzUJxajWibFo7WkvhccibSXx2l4o5CC865sqVAafePAza4Qed9NGg/0?wx_fmt=jpeg",
-    "digest": "LoRA(Low-rank Adapter)在大模型（如GPT-3，LLama, Qwen等）中，是一种重要的微调技术。该技术通过在不改变预训练模型参数的同时，添加低阶矩阵，学习新的、特定于任务的参数。",
+    "id": "2247500357_1",
+    "title": "建立个人学习观｜地铁上的自习室",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247500357&idx=1&sn=b2a9e658ed910eb6d33976559d95fdbe&chksm=cfa6d2a6f8d15bb03f2959c647ccff68ab801d1a0a8ee8c6e6a26e7df1fd2d62db9599bb6dd8#rd",
+    "publishTime": 1701822600,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/Z6bicxIx5naIeUn9cYaT6RlRWlNYkfV9ibzx0KOzibLYQcia1GNqcBM1RibzLibH5VfVVoIsO1d6suEMrN7tSYGjjSSw/0?wx_fmt=jpeg",
+    "digest": "‍仅以此文，分享给那些初入职场仍在“学习与工作”之间徘徊不定的同学，或者是像作者一样已经工作一段时间却陷入迷茫的同学，希望有助于能让诸位重新迈开已经停下的脚步。",
     "author": "",
     "feedId": "Mzg4NTczNzg2OA=="
   },
@@ -770,12 +770,12 @@
     "feedId": "Mzg4NTczNzg2OA=="
   },
   {
-    "id": "2247500174_1",
-    "title": "策略模式在数据接收和发送场景的应用",
-    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247500174&idx=1&sn=6bb52116422442559800c28b0e8d3297&chksm=cfa6d16df8d1587b0ddd3a6cf19fef3a7ff4d45c542aad7f2a69f5d019f8b09067a4a7152836#rd",
-    "publishTime": 1700181000,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30ECL4BVt6sqOKNSNaPXQvnibqN4C6jGvicSo96r0FSiaJGA2hfTCAeljiadC2iajT8NUPghPicicmsspJNqQ/0?wx_fmt=jpeg",
-    "digest": "在本篇文章中，我们介绍了策略模式，并在数据接收和发送场景中使用了策略模式。",
+    "id": "2247498590_1",
+    "title": "为什么 Lettuce 会带来更长的故障时间？",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247498590&idx=1&sn=5f93b2ab11cfeab25822b4e79e029843&chksm=cfa6ebbdf8d162abc9abfe83dbce6042be996a811278f63447c6c63f7f9fa9d1d137054c74ee#rd",
+    "publishTime": 1695861000,
+    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30G2j8qK25sX6mccVPEWnnTfa7xUdHl8b32yGofia2JoGQgPOVicMdEVqZFov6qCefQBjZ7yKvzdjwZw/0?wx_fmt=jpeg",
+    "digest": "本文详述了阿里云数据库 Tair/Redis 将使用长连接客户端在非预期故障宕机切换场景下的恢复时间从最初的 900s 降到 120s 再到 30s的优化过程，涉及产品优化，开源产品问题修复等诸多方面。",
     "author": "",
     "feedId": "Mzg4NTczNzg2OA=="
   },
@@ -816,16 +816,6 @@
     "publishTime": 1694133000,
     "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/OmCbZ5JK30FxVtuR8AIz76Jpgf5rNbc7iadqStD5cVvhrvUcVEmDIWxicFib5oDyCnVkz9rSRHVOgxP7UqLySXK5g/0?wx_fmt=jpeg",
     "digest": "作为一名研发人员，除了业务开发之外，研发提效是一个永恒的话题，而女娲正是这一话题下进行的一次全面的剖析和实践。",
-    "author": "",
-    "feedId": "Mzg4NTczNzg2OA=="
-  },
-  {
-    "id": "2247497216_1",
-    "title": "阿里十年总结之软件测试的价值",
-    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247497216&idx=1&sn=88f86d33bcfceb06952957e20e10b06b&chksm=cfa6e6e3f8d16ff56a5f40c2c7a824a5acff68c930248069c7196124d0df33edb047bee42c4f#rd",
-    "publishTime": 1693960320,
-    "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/Z6bicxIx5naKhvA85ZGWpDwcCeSYfbXLoTKkW34nnVls06xlfzlmJibgtRlC4SB9iaQB0pdJ0lyp95Fz0zCcxsppA/0?wx_fmt=jpeg",
-    "digest": "本文是作者十几年工作经验的总结，也对“软件测试的价值”做个探讨，希望有机会跟团队一起走出当前的周期。",
     "author": "",
     "feedId": "Mzg4NTczNzg2OA=="
   }
