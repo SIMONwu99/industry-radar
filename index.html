@@ -969,27 +969,55 @@ function renderList() {
     return;
   }
 
-  list.innerHTML = filtered.slice(0, 200).map(a => {
-    const cfg = COMPANIES[a.company] || COMPANIES.industry;
-    const tags = detectTags(a.title || '');
-    return `
-      <div class="article-card" onclick="openArticle('${(a.link||'').replace(/'/g,"\\'")}')">
-        <div class="article-main">
-          <div class="article-meta">
-            <span class="source-tag" style="background:${cfg.color}">${escHtml(a.feedName || cfg.label)}</span>
-            <span class="company-tag">${cfg.label}</span>
-            <span class="article-time">${relativeTime(a.publishTime)}</span>
+  // 分页渲染：默认渲染 300 条，滚动到底部时追加加载，保证 3 年数据完整可见
+  const PAGE_SIZE = 300;
+  const totalMatched = filtered.length;
+  const container = list;
+  container.innerHTML = '';
+  let rendered = 0;
+
+  const renderChunk = () => {
+    const slice = filtered.slice(rendered, rendered + PAGE_SIZE);
+    const html = slice.map(a => {
+      const cfg = COMPANIES[a.company] || COMPANIES.industry;
+      const tags = detectTags(a.title || '');
+      return `
+        <div class="article-card" onclick="openArticle('${(a.link||'').replace(/'/g,"\\'")}')">
+          <div class="article-main">
+            <div class="article-meta">
+              <span class="source-tag" style="background:${cfg.color}">${escHtml(a.feedName || cfg.label)}</span>
+              <span class="company-tag">${cfg.label}</span>
+              <span class="article-time">${relativeTime(a.publishTime)}</span>
+            </div>
+            <div class="article-title">${escHtml(a.title || '无标题')}</div>
+            ${tags.length ? `<div class="article-tags">${tags.map(t => `<span class="article-tag">${t}</span>`).join('')}</div>` : ''}
           </div>
-          <div class="article-title">${escHtml(a.title || '无标题')}</div>
-          ${tags.length ? `<div class="article-tags">${tags.map(t => `<span class="article-tag">${t}</span>`).join('')}</div>` : ''}
+          <div class="article-thumb">
+            ${a.cover ? `<img src="${escHtml(a.cover)}" alt="" onerror="this.parentNode.textContent='📄'">` : '📄'}
+          </div>
         </div>
-        <div class="article-thumb">
-          ${a.cover ? `<img src="${escHtml(a.cover)}" alt="" onerror="this.parentNode.textContent='📄'">` : '📄'}
-        </div>
-      </div>
-    `;
-  }).join('');
-}
+      `;
+    }).join('');
+    container.insertAdjacentHTML('beforeend', html);
+    rendered += slice.length;
+
+    // 移除旧的"加载更多"占位
+    const oldMore = container.querySelector('.load-more-hint');
+    if (oldMore) oldMore.remove();
+
+    if (rendered < totalMatched) {
+      container.insertAdjacentHTML('beforeend',
+        `<div class="load-more-hint" style="text-align:center;padding:16px;color:var(--text-muted);font-size:13px;cursor:pointer;border-top:1px solid var(--border);margin-top:8px" onclick="window.__loadMoreArticles && window.__loadMoreArticles()">
+          点击加载更多（已显示 ${rendered} / ${totalMatched}）
+        </div>`);
+    } else if (totalMatched > PAGE_SIZE) {
+      container.insertAdjacentHTML('beforeend',
+        `<div style="text-align:center;padding:16px;color:var(--text-muted);font-size:13px">✅ 已加载全部 ${totalMatched} 条</div>`);
+    }
+  };
+
+  window.__loadMoreArticles = renderChunk;
+  renderChunk();
 
 function detectTags(title) {
   const tags = [];
