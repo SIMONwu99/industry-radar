@@ -117,10 +117,16 @@ async function searchFakeid(accountName) {
 // ============================================================
 // Step 2: appmsg → 获取文章列表
 // ============================================================
-async function fetchArticles(fakeid, cutoffTs) {
+async function fetchArticles(fakeid, cutoffTs, existingArticles = []) {
   const articles = [];
   let begin = 0;
-  const pageSize = 20; // 加大 page size 减少请求数
+  const pageSize = 20;
+
+  // 已有文章的 id 集合（增量抓取用）
+  const existingIds = new Set(existingArticles.map(a => a.id).filter(Boolean));
+
+  let rateLimitRetries = 0;
+  const MAX_RATE_LIMIT_RETRIES = 3;
 
   while (true) {
     const url = `https://mp.weixin.qq.com/cgi-bin/appmsg?action=list_ex&begin=${begin}&count=${pageSize}&fakeid=${encodeURIComponent(fakeid)}&type=9&query=&token=${TOKEN}&lang=zh_CN&f=json&ajax=1`;
@@ -129,11 +135,17 @@ async function fetchArticles(fakeid, cutoffTs) {
     const ret = data.base_resp?.ret;
     if (ret === 200003) throw new Error('SESSION_EXPIRED');
     if (ret === 200013) {
-      // freq control：等待更久后重试一次
-      console.log(' [限流,等待60s] ');
-      await sleep(60000);
+      if (rateLimitRetries >= MAX_RATE_LIMIT_RETRIES) {
+        console.log(` [限流,已重试${MAX_RATE_LIMIT_RETRIES}次仍失败,保留已抓${articles.length}篇] `);
+        break; // 保留已抓部分，跳出
+      }
+      rateLimitRetries++;
+      const waitSec = 90 * rateLimitRetries; // 90s, 180s, 270s
+      console.log(` [限流,等待${waitSec}s后第${rateLimitRetries}次重试] `);
+      await sleep(waitSec * 1000);
       continue;
     }
+    rateLimitRetries = 0; // 成功一页则重置
     if (ret !== 0) throw new Error(`appmsg ret=${ret}: ${data.base_resp?.err_msg}`);
 
     const list = data.app_msg_list || [];
@@ -155,25 +167,31 @@ async function fetchArticles(fakeid, cutoffTs) {
       });
     }
 
-    if (reachedCutoff) break;          // 已抓到时间边界
-    // 注：微信接口对每页 count=20 时常常稀疏返回（5-15 条），不能用 length<pageSize 判定结束
-    // 必须依赖 app_msg_cnt（总数）或 list.length===0 才能正确翻页
+    if (reachedCutoff) break;
     const total = data.app_msg_cnt || 0;
     begin += pageSize;
-    if (total > 0 && begin >= total) break; // 已越过总数
-    await sleep(1200);                 // 大量翻页时放慢，避免限流
+    if (total > 0 && begin >= total) break;
+    await sleep(2000); // 加大翻页间隔，减少限流风险
   }
 
-  // 按标题去重：同一篇文章被多次发布时只保留最新一条
-  const seen = new Set();
-  return articles.filter(a => {
-    if (!a.title) return false;
-    // 标准化标题（去除空格、全半角差异）后作为 key
-    const key = a.title.replace(/\s+/g, '').toLowerCase();
-    if (seen.has(key)) return false;
-    seen.add(key);
-    return true;
-  });
+  // 合并：新抓的 + 已有的（增量），按 id 或标题去重，publishTime 倒序
+  const merged = [...articles];
+  const seenIds = new Set(articles.map(a => a.id));
+  const seenTitles = new Set(articles.map(a => (a.title || '').replace(/\s+/g, '').toLowerCase()));
+  for (const old of existingArticles) {
+    const oldId = old.id;
+    const oldTitleKey = (old.title || '').replace(/\s+/g, '').toLowerCase();
+    if (oldId && seenIds.has(oldId)) continue;
+    if (seenTitles.has(oldTitleKey)) continue;
+    // 保留 3 年内的旧数据
+    if (old.publishTime && old.publishTime < cutoffTs) continue;
+    if (!old.title) continue;
+    merged.push(old);
+    if (oldId) seenIds.add(oldId);
+    seenTitles.add(oldTitleKey);
+  }
+  merged.sort((a, b) => (b.publishTime || 0) - (a.publishTime || 0));
+  return merged;
 }
 
 // ============================================================
@@ -222,10 +240,18 @@ async function main() {
 
       // -- 抓取文章 --
       await sleep(600);
-      const articles = await fetchArticles(fakeid, CUTOFF_TS);
-
-      // 以 name 的安全版本作为文件名
+      // 以 name 的安全版本作为文件名（提前算，用于加载已有数据）
       const safeId = name.replace(/[^a-zA-Z0-9\u4e00-\u9fa5]/g, '_');
+      const existingFile = path.join(SNAPSHOT_DIR, `${safeId}.json`);
+      let existingArticles = [];
+      if (fs.existsSync(existingFile)) {
+        try {
+          const raw = JSON.parse(fs.readFileSync(existingFile, 'utf8'));
+          existingArticles = Array.isArray(raw) ? raw : (raw.articles || []);
+        } catch(_) {}
+      }
+      const articles = await fetchArticles(fakeid, CUTOFF_TS, existingArticles);
+
       const syncTime = Math.floor(Date.now() / 1000);
 
       feedsMeta.push({
@@ -248,7 +274,7 @@ async function main() {
       totalArticles += articles.length;
       successes++;
       console.log(`✅ ${articles.length} 篇`);
-      await sleep(1000);
+      await sleep(3000); // 账号间隔加大，减少限流
 
     } catch(e) {
       console.log(`❌ ${e.message.substring(0, 80)}`);
