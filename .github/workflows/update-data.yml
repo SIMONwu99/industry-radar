@@ -2,17 +2,22 @@ name: 行业资讯雷达 - 自动数据更新
 
 on:
   # 每天北京时间 04:00 触发（凌晨低峰期，减少限流风险）
-  # UTC: 20:00
+  # UTC: 20:00 (前一日)
   schedule:
     - cron: '0 20 * * *'   # 北京时间次日 04:00
 
-  # 允许手动触发（网页按钮走 workflow_dispatch via API）
+  # 允许手动触发
   workflow_dispatch:
     inputs:
       force:
-        description: '强制更新（忽略开关状态）'
+        description: '强制更新（忽略开关状态和冷却期）'
         required: false
         default: 'false'
+
+# 冷却期：在此日期之前所有 schedule 触发都会自动跳过（UTC 时间戳）
+# 2026-08-03 04:00 CST = 2026-08-02 20:00 UTC = 1785038400
+env:
+  RESUME_AFTER_UTC_TS: '1785038400'
 
 jobs:
   update-data:
@@ -27,14 +32,24 @@ jobs:
           token: ${{ secrets.GH_TOKEN }}
           fetch-depth: 1
 
-      # 2. 检查自动更新开关
+      # 2. 检查自动更新开关 + 冷却期
       - name: Check auto-update switch
         id: check-switch
         run: |
           FORCE="${{ github.event.inputs.force }}"
           if [ "$FORCE" = "true" ]; then
             echo "enabled=true" >> $GITHUB_OUTPUT
-            echo "✅ 强制更新模式"
+            echo "✅ 强制更新模式（跳过冷却期检查）"
+            exit 0
+          fi
+
+          # 冷却期检查：仅对 schedule 生效；workflow_dispatch 未开 force 也要遵守
+          NOW=$(date -u +%s)
+          RESUME_TS=${RESUME_AFTER_UTC_TS:-0}
+          if [ "$NOW" -lt "$RESUME_TS" ]; then
+            REMAIN=$(( (RESUME_TS - NOW) / 3600 ))
+            echo "enabled=false" >> $GITHUB_OUTPUT
+            echo "🧊 冷却期未过（剩余约 ${REMAIN} 小时），跳过本次执行。恢复时间：2026-08-03 04:00 CST"
             exit 0
           fi
 

@@ -221,6 +221,28 @@ async function main() {
   const feedsMeta = [];
   const processedNames = new Set();
   let totalArticles = 0, successes = 0, failures = 0;
+  let sessionExpired = false;
+
+  // 探针：先请求一次，若 cookie 失效则立刻退出，不做任何后续请求
+  console.log('🔎 探针：验证会话有效性...');
+  try {
+    const probeUrl = `https://mp.weixin.qq.com/cgi-bin/searchbiz?action=search_biz&begin=0&count=1&query=%E6%B5%8B%E8%AF%95&token=${TOKEN}&lang=zh_CN&f=json&ajax=1`;
+    const probe = await apiGet(probeUrl);
+    const pret = probe.base_resp?.ret;
+    if (pret === 200003) {
+      console.error('\n💀 Cookie/Token 已失效！请更新 WECHAT_COOKIE 和 WECHAT_TOKEN 后再运行。');
+      console.error('本次已终止（未做任何后续请求）。');
+      process.exit(2); // 特殊退出码：会话失效
+    }
+    if (pret === 200013) {
+      console.error('\n🧊 探针命中限流（200013），本次终止以免加剧限流。');
+      process.exit(3);
+    }
+    console.log('✅ 会话有效，开始正式抓取');
+  } catch(e) {
+    console.error('探针异常:', e.message);
+    process.exit(1);
+  }
 
   for (const account of accountsShuffled) {
     const { name, company } = account;
@@ -288,8 +310,10 @@ async function main() {
       console.log(`❌ ${e.message.substring(0, 80)}`);
       failures++;
       if (e.message === 'SESSION_EXPIRED') {
-        console.error('\n💀 Cookie/Token 已失效！请重新登录微信公众号后台并更新 WECHAT_COOKIE 和 WECHAT_TOKEN。');
-        break;
+        console.error('\n💀 Cookie/Token 已失效！请更新 WECHAT_COOKIE 和 WECHAT_TOKEN。');
+        console.error('本次已停止对其他账号的请求（避免无效重试）。');
+        sessionExpired = true;
+        break; // 一遇失效立即停止
       }
     }
   }
