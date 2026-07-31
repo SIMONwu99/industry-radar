@@ -11228,55 +11228,5 @@
     "digest": "RLHF 并没有解决开发人性化人工智能的基本挑战。",
     "author": "",
     "feedId": "MzA3MzI4MjgzMw=="
-  },
-  {
-    "id": "2650885797_1",
-    "title": "大神回归学界：何恺明宣布加入 MIT",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650885797&idx=1&sn=5741c4d58cc514d1fee4ea482f1c0748&chksm=84e48adbb39303cd98fb481907aa6bcc1dbf2e8902fb023d2165fc1c8fc7c8377f45a5144654#rd",
-    "publishTime": 1690772653,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/KmXPKA19gWibdkibaPia1adYLkMZ6qmm6tQGHIelo2OiaQRmjvQmiaUaKDicwpHB5Sictziajnh5wJBmFalVcthw29Vv6A/0?wx_fmt=jpeg",
-    "digest": "何恺明回归学界。",
-    "author": "",
-    "feedId": "MzA3MzI4MjgzMw=="
-  },
-  {
-    "id": "2650885797_2",
-    "title": "Python社区变天：可去除全局解释器锁GIL，真正多线程要来了",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650885797&idx=2&sn=024193e5c70b480cbad8e7ebddc49f70&chksm=84e48adbb39303cd076cc633563eed415b605997cfb241984a08b2d1cb6e5c0a24c648aba9aa#rd",
-    "publishTime": 1690772653,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/KmXPKA19gWibdkibaPia1adYLkMZ6qmm6tQsFcvSCTosic9kiaN9Oy4uGrbHdiaMkxILwjrDqC9Uw1sSlWNTRMNBGQfA/0?wx_fmt=jpeg",
-    "digest": "预计Python 3.13或3.14版本可以看到no-GIL选项了。",
-    "author": "",
-    "feedId": "MzA3MzI4MjgzMw=="
-  },
-  {
-    "id": "2650885797_3",
-    "title": "30%Token就能实现SOTA性能，华为诺亚轻量目标检测器Focus-DETR效率倍增",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650885797&idx=3&sn=0d6b0d816405874ec6fe75315cc3c490&chksm=84e48adbb39303cdf3ad7ff6b69a075683d2f9c16919c2744e5623756d577745268c2e24b18f#rd",
-    "publishTime": 1690772653,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/KmXPKA19gWicX7ADh8AdycicKvzD0p79mS5y96Q3AwADu3s3aSPQoxN0PCrNu1gIoiaashe0Z4Tnxqv6yYBpRBCAQ/0?wx_fmt=jpeg",
-    "digest": "ICCV2023|华为诺亚提出全新目标检测器Focus-DETR。",
-    "author": "",
-    "feedId": "MzA3MzI4MjgzMw=="
-  },
-  {
-    "id": "2650885797_4",
-    "title": "分析过688篇大模型论文，这篇论文综述了LLM的当前挑战和应用",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650885797&idx=4&sn=b7d473fdf31c2e44f0e7f8381ca3627a&chksm=84e48adbb39303cdb46c5fc12fb08cc25d7a0d5560aae08039fdae60bdcfbc411ab85ae6ab9b#rd",
-    "publishTime": 1690772653,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/KmXPKA19gW9ibXMbx57RFC5Z6CyzcVl4xlUtlSibCCmcXQ6icNBaPSbA13sAhtjp3C2VGt60as8OeiaDNBEtdibJib3w/0?wx_fmt=jpeg",
-    "digest": "LLM研究者必备参考资料。",
-    "author": "",
-    "feedId": "MzA3MzI4MjgzMw=="
-  },
-  {
-    "id": "2650885797_5",
-    "title": "国内最权威NLP大会CCL 2023全日程公开，大模型成核心议题",
-    "link": "http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650885797&idx=5&sn=587476fbe6fc8678db4fa25f11de4a86&chksm=84e48adbb39303cde529d5843d127cadf502037389b1832e51b9fd03c76f9eee20be844c50a6#rd",
-    "publishTime": 1690772653,
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/KmXPKA19gWibdkibaPia1adYLkMZ6qmm6tQsG66Nib37vX0ZM1FBJZepnd5wXvgfPxgxuHhUvU1BAX0Aeg99RlREbA/0?wx_fmt=jpeg",
-    "digest": "CCL2023日程公布了！",
-    "author": "",
-    "feedId": "MzA3MzI4MjgzMw=="
   }
 ]
