@@ -134,18 +134,11 @@ async function fetchArticles(fakeid, cutoffTs, existingArticles = []) {
 
     const ret = data.base_resp?.ret;
     if (ret === 200003) throw new Error('SESSION_EXPIRED');
-    if (ret === 200013) {
-      if (rateLimitRetries >= MAX_RATE_LIMIT_RETRIES) {
-        console.log(` [限流,已重试${MAX_RATE_LIMIT_RETRIES}次仍失败,保留已抓${articles.length}篇] `);
-        break; // 保留已抓部分，跳出
+      if (ret === 200013) {
+        // 限流：立即跳过本账号（保留已抓部分），避免整体超时
+        console.log(` [限流200013,保留已抓${articles.length}篇跳过] `);
+        break;
       }
-      rateLimitRetries++;
-      const waitSec = 90 * rateLimitRetries; // 90s, 180s, 270s
-      console.log(` [限流,等待${waitSec}s后第${rateLimitRetries}次重试] `);
-      await sleep(waitSec * 1000);
-      continue;
-    }
-    rateLimitRetries = 0; // 成功一页则重置
     if (ret !== 0) throw new Error(`appmsg ret=${ret}: ${data.base_resp?.err_msg}`);
 
     const list = data.app_msg_list || [];
@@ -171,7 +164,7 @@ async function fetchArticles(fakeid, cutoffTs, existingArticles = []) {
     const total = data.app_msg_cnt || 0;
     begin += pageSize;
     if (total > 0 && begin >= total) break;
-    await sleep(2000); // 加大翻页间隔，减少限流风险
+    await sleep(800);                  // 翻页间隔恢复较低
   }
 
   // 合并：新抓的 + 已有的（增量），按 id 或标题去重，publishTime 倒序
@@ -212,10 +205,24 @@ async function main() {
     ? JSON.parse(fs.readFileSync(cacheFile, 'utf8'))
     : {};
 
+  // 洗牌账号顺序：每次跑给不同账号"优先抓取"的机会（限流是全局的，靠前的账号更容易抓全）
+  const accountsShuffled = [...TARGET_ACCOUNTS].sort(() => Math.random() - 0.5);
+
+  // 加载现有 feeds.json，用于合并本次跳过账号的 meta
+  const feedsFile = path.join(SNAPSHOT_DIR, 'feeds.json');
+  const oldFeedsMap = new Map();
+  if (fs.existsSync(feedsFile)) {
+    try {
+      const oldFeeds = JSON.parse(fs.readFileSync(feedsFile, 'utf8'));
+      for (const f of oldFeeds) oldFeedsMap.set(f.name || f.id, f);
+    } catch(_) {}
+  }
+
   const feedsMeta = [];
+  const processedNames = new Set();
   let totalArticles = 0, successes = 0, failures = 0;
 
-  for (const account of TARGET_ACCOUNTS) {
+  for (const account of accountsShuffled) {
     const { name, company } = account;
     process.stdout.write(`  [${company}] ${name}... `);
 
@@ -273,8 +280,9 @@ async function main() {
 
       totalArticles += articles.length;
       successes++;
+      processedNames.add(name);
       console.log(`✅ ${articles.length} 篇`);
-      await sleep(3000); // 账号间隔加大，减少限流
+      await sleep(1500);
 
     } catch(e) {
       console.log(`❌ ${e.message.substring(0, 80)}`);
@@ -286,6 +294,13 @@ async function main() {
     }
   }
 
+  // 合并被跳过的账号 meta：本次没处理的账号保留旧 feeds.json 的 meta 项
+  for (const [name, oldMeta] of oldFeedsMap.entries()) {
+    if (!processedNames.has(name) && !feedsMeta.some(f => f.name === oldMeta.name)) {
+      feedsMeta.push(oldMeta);
+    }
+  }
+
   // 写总索引
   fs.writeFileSync(
     path.join(SNAPSHOT_DIR, 'feeds.json'),
@@ -293,7 +308,8 @@ async function main() {
   );
 
   console.log(`\n📊 抓取完成: ✅ ${successes} 成功 (${totalArticles} 篇) | ❌ ${failures} 失败`);
-  if (failures > 0) process.exit(1);
+  // 只有 SESSION_EXPIRED 才 fail run；普通失败（如限流）视为部分成功，允许 commit 已抓部分
+  // if (failures > 0) process.exit(1);  // 不再因单账号失败而 fail run
 }
 
 main().catch(e => { console.error('💥', e.message); process.exit(1); });
