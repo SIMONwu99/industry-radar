@@ -1,23 +1,23 @@
 name: 行业资讯雷达 - 自动数据更新
 
 on:
-  # 每天北京时间 04:00 触发（凌晨低峰期，减少限流风险）
-  # UTC: 20:00 (前一日)
-  schedule:
-    - cron: '0 20 * * *'   # 北京时间次日 04:00
+  # 已全面冷却 — schedule 完全禁用（等待新微信号 cookie）
+  # 恢复时：把下面一行 cron 取消注释
+  # schedule:
+  #   - cron: '0 20 * * *'   # 北京时间次日 04:00
 
-  # 允许手动触发
+  # 允许手动触发（cookie 更新后强制运行用）
   workflow_dispatch:
     inputs:
       force:
-        description: '强制更新（忽略开关状态和冷却期）'
+        description: '强制更新（跳过冷却期检查）'
         required: false
         default: 'false'
 
-# 冷却期：在此日期之前所有 schedule 触发都会自动跳过（UTC 时间戳）
-# 2026-08-03 04:00 CST = 2026-08-02 20:00 UTC = 1785038400
+# 冷却期：设为很远的未来，保证任何 schedule 触发（若被恢复）都会跳过
+# 2099-01-01 00:00 UTC
 env:
-  RESUME_AFTER_UTC_TS: '1785038400'
+  RESUME_AFTER_UTC_TS: '4070908800'
 
 jobs:
   update-data:
